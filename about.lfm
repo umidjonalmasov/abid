@@ -1,0 +1,1087 @@
+object FormAbout: TFormAbout
+  Left = 460
+  Height = 420
+  Top = 169
+  Width = 500
+  BorderIcons = []
+  Caption = 'Dastur haqida'
+  ClientHeight = 420
+  ClientWidth = 500
+  Constraints.MinHeight = 420
+  Constraints.MinWidth = 500
+  LCLVersion = '2.0.6.0'
+  object PageControl1: TPageControl
+    Left = 0
+    Height = 420
+    Top = 0
+    Width = 500
+    ActivePage = TabSheetAbid
+    Align = alClient
+    TabIndex = 0
+    TabOrder = 0
+    object TabSheetAbid: TTabSheet
+      Caption = 'Abid'
+      ClientHeight = 390
+      ClientWidth = 490
+      object LabelBasmala: TLabel
+        Left = 10
+        Height = 16
+        Top = 10
+        Width = 470
+        Align = alTop
+        Alignment = taCenter
+        BorderSpacing.Around = 10
+        Caption = 'Bismillahir rohmanir rohiym'
+        Font.Style = [fsItalic]
+        ParentColor = False
+        ParentFont = False
+      end
+      object ImageLogo: TImage
+        Left = 16
+        Height = 128
+        Top = 176
+        Width = 128
+        AutoSize = True
+        Picture.Data = {
+          1754506F727461626C654E6574776F726B477261706869638A18000089504E47
+          0D0A1A0A0000000D4948445200000080000000800806000000C33E61CB000000
+          0473424954080808087C0864880000000970485973000007620000076201387A
+          99DB0000001974455874536F667477617265007777772E696E6B73636170652E
+          6F72679BEE3C1A0000180749444154789CED9D797854D5D9C07F73EFEC93844C
+          08240112565984B0460135152A2AB8552D9FAD68A9DDB0161FAC3E5AB57EB668
+          BFD6563F1FD45AAD5AC4B5E8A715ABF0206221619104902561095BD842F68524
+          3393CCCC5DBE3F92606026C9CC64963B9ADFF3E48FDC7BE69C73CF79EF7BDEF7
+          9CF79E037DF4D1471F7DF4D1C7B7115D5873FB2FC46183C95414FA2B02898A0E
+          7D58F3FF1622A8488242B3205077E20CA7F900399CF9F75A00062DE132B3D172
+          A75134DED8E27166245A92649B3111ABD1AA8A3A211C75FC5623AB0A2E8F4BE7
+          7037E1686D16AD265BB9DBEBF9C42DB7BC7BE639B6F536FF900460FC528CCDCD
+          E25D66C1FCC7047362BF79136FD54F1B76996E74C6C51844636FEBD447177824
+          3787AB0EB0A374ABBAAE6895E4F438CEBA3DADBF4D4896DFDABF144F2879062D
+          0083EE678E4DB4AE1C95362EF9AEDCC5FAF143A684526E1F61A0F8F457ACD8FC
+          A274BCFAF059B7D7B5E0D4F3AC0F368F800560DA220C8D49D6BF99F4A6BBEE9F
+          FB3B43CEF0CB832DAB8F08B1F3F856967DF6A4D72DB9DFC1EDBAE7E85F7107FA
+          DB800420ED416C4958375E947EF1D487AEFB1F31C19C187A6DFB88084EB78367
+          3FFBBD7CA8A2F880C7E3FCCE89E7381BC8EF7A1480617761D60FB46EBF64D8E5
+          172FBEEA115110FA0C3BADA2A80A6F6CFAAB9257B2AE4C925A260522043D0980
+          EEA287ACEB260C99FADDFBAE795C1474E1F51AFB880C6F6C7E51D954F2C54153
+          A26B6A4FC661B77EFA885FEBEFB7DB5267DDF3DD87445991C2EB80F6113116CC
+          5C245436968F395CB57F39B4FCA8BBB45DBED2198B196A359B0E3D71CBF3A601
+          49E9E1AF650C11041193DE8C5E10714B6EBCB2075555635DADB0D2EA6DE1B71F
+          FECAD3D8D27073D973ACED2A5D970230EA41EB67D764DF78F57593E6C7FDA0AF
+          170CE8DD46BEDAB297A25DC59C387E92CA8A4A5455A55FBF7E64660E61FCC4F1
+          4CBA349B41A307D2D41A90FDA4794A2AF6F1F2177F3EEB56DC83CA96D1E22F8D
+          DF2160F0038C0665F69563E70A92EC8D6C2D23884130507FDCC11B2FBDC3C60D
+          1B5114C56FBADDBB77F3C9279F023074E8507EF28BBBC8BD7106CD524334AB1B
+          76460D1CC3C8F471B62315071E00CF1FFDA5F1AB01463C687A29F7A23977DF30
+          E5B6B87DFB4D928D579E5AC19A4FD784F4FB8C8C0C9EF8F3EF18342995168F2B
+          CCB58B1E554DE53CBBF6F74ED1E3E9EF6F7EC09F06D0A1A83F9A36FC32C12B87
+          34BB18535445A5F50C3CB2F8416A6A6A42CEA7A2A282453FBE875FFE6A11D7DE
+          358B16D919C65A468F145B2A8393B30C27EA8ECE07DEBDF0BE8F000CB98F6CB3
+          D1A24FB6DA8937F5AF2A2ACD47BD3CB4F8515A5AFC0E7941F3F7975EA5AAB286
+          1F3F7C1B4DDEF81C12668EBAD258D554BE045C3D0B804EC7E5C3078C16BD71D6
+          F9006647128FDEB7246C9DDFC1AA8F56614F49E6EA9F5D8ECB137F9A60C4C031
+          7825CF94D4DF9058FB34CD9DEFF9088051344D4D4B1A6488B7B73F499FCC23BF
+          5A4A737373CF8943E0F57FAC60EAF4C91846C657BB00083A81D47E69925C7766
+          26F079E77B3E0220E8C4B109E644E24D03E4AFDACEC99327235AC6938FFD9157
+          3F7981B2E6E3112D27120C4D1961AA3E5B311394EE050048120531AEC6FFFE62
+          06AFBFF2FB8897535D5DCDC60FBF64F89CD48897156E526CA9824934E570C174
+          808F00A83A0CAAAAE255E24700F6171C66C8902161CFD762B160369BCF2F6BCF
+          0166FDE0271CAD29097B7991C4624A40D5E9865D78DD8F0650544996F04AF1E1
+          029A0D167EF7E8529EFAFDD3512B73D789020E561445ADBC7020CB1280CFBC8E
+          AF00A8202952DCD8001333A761315AA35A6646F290B8699F0E6445027C67427D
+          8780F6C4529C0C01765BF4C7E30149E9588D569A5A1BA35E76A8C8AA8CAAE2B3
+          E2E5772D4056A4B831026D265BD4CBD40B7A5213D3A877D646BDEC50691F027C
+          F03304A8488A1C372A4E1FA32864BD68889B3682B6611D5F05D0C51020C78F06
+          5054FF2B7C914656E4B8692368B701FC843CF81B0254398E8C4097DB1193721B
+          9CB571D346009222A3EA02B2015424C54BBCAC04D63AAAA35E668BC74969F5A1
+          B86923A05D5B053004282A7165031C2ADFC7F593E647B5CC330DA770C448F384
+          4A9B1BE88B7F2F208E6C80A2D33BA969AA6240525AD4CA2C2EDB1537EDD381AC
+          04E806EA74AA1A4F6E20C0BEB25DCCBE785E54CAF2CA5E0A8EE6C555FB408706
+          08600840054995E26A2DE0933DEF337DD477B01A233F27B0EBE4364A6B8E44BC
+          9C7023053A0428802CC7978B73A2E6085F1ED9C89CF13744B41CA7BB9995DB96
+          C755DB7410841BA8C6D55A40072B36BDC0C88163183EE0A28895B1B6E8638E56
+          1D8C58FE91445264FC98007E6C0050E53872033BA87554B36CDD933C79EB0B24
+          5BED61CF7FCBE1FFB03C7F59CC269E7A4BBBD6EAD9088C3737B033FBCA76F1C2
+          E77F60C9358F916CED1FB67C779F2CE44F9F3E8C5B0AF8AB6BCD11841BA8C495
+          1B78215FEC5F4D6D73350FDFF02706DBB37A9597A2CA7C56B48A659F3D895B6A
+          0D530D63439B1B18C07230C4573C803F761CDFCABD6F2DE06757DEC7D5E36FC4
+          6430F7FCA30B28AB3FC9CA827FF0D1CE772250C3E813B017A0AAC4DD3C803FCA
+          EA4FF0C4AAFB59B3E7436ECDB9839C6197614FE83E764051154ED61EE3B3A255
+          BC57B03C2E43C0BB42962508742D20DE56BABAA3E0681E0547F3483027316FE2
+          AD8CCEB89841C959249A931004118FE4A1A6B992635525EC28DDC29E53DBBF71
+          5F0A439B0DA004B81A88247BFDBA0C5A4714F48C481C8B5C2FE26996905C2AAA
+          57416FD6A3B70814BA0AF932319F13CD87BF919DDC1DC1C50328525C0940966D
+          14FACA7E341E6965EDE6ED783C5DBBB00909094CC9CD2661A40167FF2A2A5D65
+          51AC69EC9055FFDB7BF81B02544991D1C581BF9B661942725526BBDE3E4075E5
+          DE807EE37038D8BCB66D7FC5AC114398706D0E15C94738EB8E9FF0AE50505505
+          155FB5D7654C609837910D3BE34D3328FD773505FBF243CEE3546919A75E2E63
+          D2651318392B9D43AEDD61ACA10609D4065051FD26D602A2203285D97CFEE297
+          B89CE1F96E7FEF97FB18702C95E90B73D9E3D914963CE385B8DA0042D0094C51
+          AEE2D3173686ADF33BA8A9AA65C34B3B99629815D67CB54E5C09C064C395ACFE
+          DB06643932FB95B99C2EF2FFB18BF1A64B2392BF16891B011865CB66DB5BC548
+          92FF19AD70D174B689239F5633D83A3CA2E56885B8100093C18C778F859AAAE8
+          58EAA5074F90746A08BA6FC1C6987121006374D3F872ED8E80D30F1F3E9C79F3
+          E671F3CD37337EFCF890CADCFCAF1D8CB34E0BE9B7F184E64FF4100591C67DDE
+          8067EEE6CD9B475555156BD7B6ED8D3862C408E6CF9FCFA14387282E2E0EB8DC
+          D6D656A46326F866ED91E983E635C068DB64B67F11987F9E9B9BCBFEFDFBD9B5
+          6BD7B96BA5A5A57CF8E187C8B2CCF5D75F1F54D9451B4A189A14B908232DA079
+          01902BF578BD812D4CA5A4A470EAD429BFF70E1C38C0575F7DC5FCF9817F4350
+          5B5387AD297C81255AC447001417555ADA15DA531D98EACFCECEEE51C5575656
+          929F9FCF0D37041E3CEAAE0E6D4A3CC19CC4DC89B770DBF4BBB864C41521E511
+          4E941690CFE2F319958F0D203BC850F4A0338260049D213A15F487D960C15119
+          58244E5656166BD6F4BC2B684D4D0D478F1E65C68C19141414F498DE5BAFC2C0
+          80AA406AE24016CC5C44EEE8AB183B7812C996B6D8445991D970600DBF78FD56
+          64257A6F972A83EA01C50348A02ABE168D7F23506DFBA1EC018476413041B40F
+          011B604BE7D889CAB0E75B5252C2DCB973494949A1BEBEBEDBB4AD8D5E0CA2B1
+          DB20D941C9992C9EF328F326DDC280445FAB511444AE9E7013374F5BC0BF76BC
+          DDEBFA778BDAD6E1AA07D400A64C7AEE52059456901B417680E2C6DF4E231121
+          516FEFB1833A08767D7FDDBA755C73CD353DA66B6E70603325F8BD673325F0C4
+          ADCFB3FA81ED2CBCE21EBF9DDF994473BFA0EA1830ED9D2E3B406A04C51558E7
+          43906EA0EA6DFB53009DBE6D78D01923A71944551FB1993F5555D9B66D1BD3A7
+          4FA7B0B0B0CB74B22C230AA2CFF55B72EEE057573DCCD88CEC80CBAC6DAE0AA9
+          AE7E5141F1767AD3435CBC0BB9EB54A9DDB06804B9B94D4B7411731032C1E417
+          4A84CFC99327C9CCCCEC368DC9623A2F1C3CD99AC2DF16AEE4D9DB5704D5F9A7
+          EA4A5957FCEFA0EBD819556ED3C0E7DE7467DB0BD99B95DBB0BCBBE784A1A9AD
+          62B2334C4345100210EAB46D5E5E1E575CD1B5956EB19A717BDB0CD12BC75ECB
+          FFDDBB919BA6FE1083189C75BCED687EF01FDBA85FB7ADD4D4D6BE8AABF79DDE
+          99F0CF042AED6AC9D369A8E8F4174CA049304149A10A406D6D2D03060CE8F2BE
+          C16CC02B7B7860EE527E7EE5AF49B4043F8E37B8EA792DEFD99E13AAED96BBD4
+          3EDCCA443C2E23E253C1AA74814122741208B15D28BA224A1ED3DEBD7B993871
+          224545BE9B3F1ACD469EBFF31D6E9E763B4288C6CEBAA2551CAAD8EF7B43F9BA
+          7D3A3A3EDA447F26B05D4328AE36DB413ADB6E43B8DA868DF30C1A25F0B75AA7
+          D385AC054A4B4B19316284CFF5CCCC4C9EFBCB73DC9A7347C89D5F5A7384BFAC
+          7EECDCF8ADB47C3D86771E2E63D1F9A085A9E08E71CE7DBE50488D20B902D77F
+          A5A5A50C1B362CE46AB85C2E2C16CBB9FFC78E1DCBC71F7FCCD4493921E7E995
+          3C3CBB6A2995A7ABCE8DDF4A6BFB18AE9198DBD80B4057B46B8A4029292961CC
+          98312117B765CB1666CE9C09404E4E0E1F7DF41153A74E0D393F800FB6BEC547
+          5BFFD9AB3C228D7605008232801445C160087DDEDAE57261B3D9C8CDCDE5FDF7
+          DF67DCB87121E705B0E5E0061E796B71AFF28806FE4D301D9A080B0FF7BC424F
+          8C1831827BEFBDD7AF3D100C472A4AB87FF94FDBDC3E0DB423D0653D34AD0182
+          FD3665CF9E3D4C9A3429A4B2468D1AC5E2C58B19356A5448BFEFA0BCFE34BF79
+          E36ECA6A237B7A49B8E85A0074B1FF0B56004E9F3E1D9221989292C2CA952BB9
+          E8A2DE057FD43456F2E01BBFA0E0F0A698B79DDF3F3F687A0808C55296240983
+          C1107010892008AC58B1829C9CD0AD7D807A471D8FFD73091BF7ADD346DB5D48
+          3C0E01A108C0C68D1BC9CDCD0D38FDD34F3FCD8D37DE187C419DA83E5BC1436F
+          2EE2D31D1FF42A9F58E05703E8E25803B85C2E929393034A7BCB2DB770CF3DF7
+          F42AFCFB4CFD291E7A731179FBD6A1F528727F4E95A63540A85E404141C1399F
+          BE2BFAF5EBC7134F3C81D51AFA7133472A4AB8F7B53BC9DBB72EE43C628D3F01
+          D0CC67A1A17EA15E5E5ECEE0C183BB4DF3CC33CF909D1DF872EE85141CDEC49D
+          CFCDA3F0F0E690F3883A7EB688F1AF01626DAD767801BD9807D8B46913B366CD
+          F27B2F3B3B3BA8E8E0CE28AAC2AAC295DCBEEC5A4ED79D88791BF5D60BD0F410
+          D09BF9F2EAEA6ACC66B35F7BE0E1871FC66E0F7E33C9DAA62AFEF4AF4758FCDA
+          82733102F18EA6E7017ABB1CBC6EDD3AE6CE9D7BDE35BBDDCE9C397382CE6B57
+          69013F7EF1265E5AF74CECDBE5DBA2017ABB4B8DAAAAE4E7E773EDB5D79EBBB6
+          70E142D2D2023F5BA0C9D9C86B5F2CE3FBFF3B9BDDC7B7F7AE421A44D31341E1
+          D8A6A8A2A282D4D454727272D8B97367C047CCCAB2CCFAF5EBF9A478251F1F79
+          ABEDA206DA2464E2510384CB1F292E2E46144566CC988128FA46F876465114F2
+          F3F359B87021F3E6CDE348797C9D111C2CFE2782A25D8BAE08A3781616163261
+          C2046A6A6AA8AFAF272525E5BCFBF5F5F5141515F1EAABAFF2DE7BEF9D8B3216
+          440DB5472FE8EA5DD2F4102098C29BDFBE7DFB3871E204269389C99327D3D2D2
+          425D5D1D8AA2B079F3663EF8E0FCA95C9D4E87CE0C3487B71E5A42D302A04F08
+          7F251C0E074B972E45AFD7336DDA34CC66335F7DF5150E87EF296043876751D5
+          7A4A136DD16BBA78064D6F10A14FE9394DA84892D4ED1741004346A753EAE83E
+          4DBCD3B5006840EA5B131BB1F7B7D350D71093F20DE968A21DC2423C7A01A50D
+          25645F313626659B4C26C4F46FC68EE9DDA1690100B08E8CCD2B38FDDAA99434
+          EE8949D9D144D38B41E8E0B0B49B1957F72E5A27580C060396B10A0A4ACC9F3F
+          6653C1B1AE6BC79FDBDB42E224B02544FE50C80EBE7BDB651C70EC88F9B347A1
+          FFB5AF01D0C101D74E66DF31BD8B47082FE3A68CA62EE3F8B7E2ED078DBB819D
+          39642EE4AADB72719EF29295F5F569609DF705E808EDEAB8565F5FCF810307A8
+          A8A808A88C415919A4CFB170D879388C35D7369A9E08EA6072C674D23D2371B7
+          286CDD5118D0E64ED016EE3D7EFC78727373CF09872449ECDEBD9BD2D2D2F3D2
+          0ECACA60C20F86B0DFB54353CF1E36BA78265F01F01336144B6E1C76275BDEDD
+          CD9A3DC17F63575F5FCFE6CDE7876CE9F57AA64E9DCA25975C02B4ADFA553755
+          A09BD4D4D6F9DF6C023B3104D0C45B7045E635AC7E612365A7CF842D4F4992D8
+          BE7D3BDBB7B7ADED1B0C0666CDC965B06E02170D1BCFFEA6ED9C6A28ED219738
+          24600DA0212CCEE4B076BE3FBC5E2FEBD76E80B56D36C48CCB2F656EEE4CBCFD
+          1D6C3DF339ADDE9688961F6B346D0388E6E8CE53A9AACAB62D856CDB52484242
+          02D7DD368F94D136763AF2A8683C1DD5BA849D2EFAD3273A226122BF144DA4EB
+          C4D87B2EA245476A6B26E5658159F1E1C4E3F1B07FF741767E51C4C549395C36
+          FE3BB4EA1D34B536C4BC5D42F20215503C543A8B79A5F3736A7A1EE0706D31D3
+          BE3F0E7B4AF88F830F862F566FE0E547DFC4B06D10DFCBBA8B446BBF98B74DF0
+          12E01FCDAF05AC39FD2E3FF9EF1F9CB77D4BACC85FBF99BF3FF23693EBAFE6CA
+          CCE0B69ED72A9AD600E8DA8EB05B55F63A773F7527C3460E0DEBC387822CCBAC
+          7CED43363EBF9BF943EEC662B2C6BC8D7AA3057C2EA7DDC11E7D3F26C57297F0
+          AE9835F806AA36BB58FFE9862ED3188D46060E1C88D168243333134110484F4F
+          47AFD7535E5E8EA2B4851AD7D6D6525D5D4D434343B747CD7687C160E0670FFD
+          88DDE27F38D37432A43CA285EA01A9893D55EF32A5F3751F0148BF83ED421297
+          08C6E8552E18B292477279D275341DF190624F212B2B8BCCCC4C525353B1DBED
+          D8ED7692939303DA2FA8A5A50587C381C3E1A0A9A989EAEA6AAAABABA9A9A9A1
+          BCBC9CA2A222B66EDDEA375CAC3377FFE6A714EA5753EBF4D98E5F33A86E909B
+          29A87C97F3BE9AF57503559AB53517D84666FFE12C98F17326665DC2B88C6C06
+          24F5FE301F8BC582C562E976A7D0BABA3A8E1F3FCEC18307D9BB772FAB57AFE6
+          D0A143E7A579F599152CF9C3DDAC72BD8AA2D13397550554059F13357C35C002
+          5E166CFC5208FDABE9B092D66F308F7FEF19668F9B479225B0EFFE23496B6B2B
+          3B76EC202F2F8FE5CB9773F2649BEAB7A7D8B9E1B12BD878EAD318D7D03F7213
+          0EC5CDAFABFEC9F2CED77D8F8C51D8AB4A84F75CD610196CCFE2FDC55FF0BDA9
+          B76BA2F301CC6633B9B9B93CFEF8E3141616F2FCF3CF63B7DB69A86F40ACD7C8
+          5BE307C583A008E45F78DD470074225B55AF364E0D9A3BF116460E8C4D4C6020
+          A4A5A5B164C912D6AF5F4F7A7A3AAAA2C1B193F68DA755EA6BDEE1E885F77C66
+          029DC5D4D826F01BD18C39D6B304958D67B87AC24D245B23181F1E06060D1A84
+          CD66E598B897D3CDC7625D1D1F5417AD48FCD5514CDE85F7FCEF10A2E32DA595
+          9887C4569C2D63D1EBDF27AFE4332439E6D5E9124996300E57D97AE6F35857C5
+          1715E4565445E5657FB7FD7E2969CDE6185EEE16AD18BA9B468C06B5CD55ACDA
+          F92EC7AA0FA117F4D86DA9588DD18B0FEC8986E63A5ECB5BC6539F3D14EBAAF8
+          4571E2466265D54AFC065474D9BD6977F0B168E13AC186A6A684526CA9CCBFF4
+          C75C3C7812E3322632326D0C26BD39AA7568F5B670B0BC98BC836B79E7CB57A8
+          6E8AFE625520A812480D38101959F5B6EF9981D08D000CFA2199B240893E05AB
+          AEFB2FAA63CAD0D491CC1C359BACFEC3C9EA3F9CF47E83E99F3080FE090349B6
+          A6F4FA04F0B3CE7ACA1B4F5371B68C330DA7385CB19FCFF7FD9B8AB365617A82
+          08A182B70127320F54FD9357BB4AD66DEBA42FE05E55E429839D84580F05C162
+          3658189A3A92E1032EC26EEB8FCD9888CD9C80413460148D18F49D3E3D56559C
+          1E07AAAAE2723B696E6DA4A6B98AE3B547385D779C168F26BCE2A0909B712B6E
+          F2ABDE652EDDECB4D063B7A6DDCEBF053373C424B4EBE4F6711E8A0BAFECE4B4
+          6C6672EDEBDD7FDCDEA3A3977896DB140FFBE5465AB53845DCC7F9284EBCB28B
+          6AC5CBE53D753E04200047D7E24660B622512835E2EC13028DA282DC488BECE2
+          B0AA30ADE603023A733720F3CE5984D799C23BB604FA2B2D4CD48918BA3DEDAB
+          8FA8A278406EC489C487062FDFAB789FB381FE3668D32E7D01B3557853276217
+          1349D062DCC0B705C5038A13872AD1A493F979E5FBAC0D368FD06CFB4518D29A
+          F811024BD16117CC5874264421C88321FB0892AFCF0B9615372E55A64927B234
+          D5CD5BFB3F20A4A8965E7757DA0F99AEEAB84D10B84E5119A9D3E1418757A743
+          D569EC2BA3784455D1A92A3A540CAA8A5180638ACA1A9DCA0755EFD1EBFD6BC2
+          FBBE2E451854C2605560A0AA90A80ADAFEF0241ED029483A81669D4275F958CE
+          B0542B270EF6D1471F7DF4D1471FF1CCFF03FDFEB441E96C77F4000000004945
+          4E44AE426082
+        }
+      end
+      object LabelName: TLabel
+        Left = 256
+        Height = 37
+        Top = 168
+        Width = 118
+        Caption = 'Abid 4.0'
+        Font.Height = -32
+        ParentColor = False
+        ParentFont = False
+      end
+      object LabelCopyright: TLabel
+        Left = 10
+        Height = 16
+        Top = 338
+        Width = 470
+        Align = alBottom
+        Alignment = taCenter
+        BorderSpacing.Around = 10
+        Caption = 'Mualliflik huquqi © 2015-2020 Umidjon Almasov'
+        ParentColor = False
+      end
+      object LabelWeb: TLabel
+        Cursor = crHandPoint
+        Left = 10
+        Height = 16
+        Top = 364
+        Width = 470
+        Align = alBottom
+        Alignment = taCenter
+        BorderSpacing.Around = 10
+        Caption = 'gitlab.com/almasov/abid'
+        Color = clDefault
+        Font.Color = clHighlight
+        ParentColor = False
+        ParentFont = False
+        Transparent = False
+      end
+      object LabelDescription: TLabel
+        Left = 160
+        Height = 17
+        Top = 224
+        Width = 321
+        Caption = 'Namoz o''qishni o''rgatuvchi multimedia dasturi'
+        Font.Height = -15
+        ParentColor = False
+        ParentFont = False
+      end
+      object LabelQuron: TLabel
+        Left = 10
+        Height = 48
+        Top = 36
+        Width = 470
+        Align = alTop
+        BorderSpacing.Around = 10
+        Caption = 'Alloh taolo shunday marhamat etadi:'#10'«Namozni to''kis ado qiling, zakotni bering va ruku'' qiluvchilar bilan ruku'' qiling»'#10'(Baqara surasi, 43-oyat).'
+        Font.Style = [fsItalic]
+        ParentColor = False
+        ParentFont = False
+        WordWrap = True
+      end
+      object LabelHadis: TLabel
+        Left = 10
+        Height = 48
+        Top = 94
+        Width = 470
+        Align = alTop
+        BorderSpacing.Around = 10
+        Caption = 'Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb so''rashganida: «Vaqtida o''qilgan namoz», deb javob berganlar'#10'(Imom Buxoriy va Muslim rivoyat qilishgan).'
+        Font.Style = [fsItalic]
+        ParentColor = False
+        ParentFont = False
+        WordWrap = True
+      end
+      object LabelDedication: TLabel
+        Left = 224
+        Height = 48
+        Top = 256
+        Width = 201
+        Caption = 'Ushbu dasturni va undan savobni'#10'marhum otam Almasov Ja''farga'#10'bag''ishladim'
+        ParentColor = False
+        ParentFont = False
+      end
+    end
+    object TabSheetContributors: TTabSheet
+      Caption = 'Minnatdorlik'
+    end
+    object TabSheetLicense: TTabSheet
+      Caption = 'Litsenziyalar'
+      ClientHeight = 390
+      ClientWidth = 490
+      object MemoLicense: TMemo
+        Left = 0
+        Height = 325
+        Top = 0
+        Width = 502
+        Align = alClient
+        Lines.Strings = (
+          '                    GNU GENERAL PUBLIC LICENSE'
+          '                       Version 3, 29 June 2007'
+          ''
+          ' Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
+          ' Everyone is permitted to copy and distribute verbatim copies'
+          ' of this license document, but changing it is not allowed.'
+          ''
+          '                            Preamble'
+          ''
+          '  The GNU General Public License is a free, copyleft license for'
+          'software and other kinds of works.'
+          ''
+          '  The licenses for most software and other practical works are designed'
+          'to take away your freedom to share and change the works.  By contrast,'
+          'the GNU General Public License is intended to guarantee your freedom to'
+          'share and change all versions of a program--to make sure it remains free'
+          'software for all its users.  We, the Free Software Foundation, use the'
+          'GNU General Public License for most of our software; it applies also to'
+          'any other work released this way by its authors.  You can apply it to'
+          'your programs, too.'
+          ''
+          '  When we speak of free software, we are referring to freedom, not'
+          'price.  Our General Public Licenses are designed to make sure that you'
+          'have the freedom to distribute copies of free software (and charge for'
+          'them if you wish), that you receive source code or can get it if you'
+          'want it, that you can change the software or use pieces of it in new'
+          'free programs, and that you know you can do these things.'
+          ''
+          '  To protect your rights, we need to prevent others from denying you'
+          'these rights or asking you to surrender the rights.  Therefore, you have'
+          'certain responsibilities if you distribute copies of the software, or if'
+          'you modify it: responsibilities to respect the freedom of others.'
+          ''
+          '  For example, if you distribute copies of such a program, whether'
+          'gratis or for a fee, you must pass on to the recipients the same'
+          'freedoms that you received.  You must make sure that they, too, receive'
+          'or can get the source code.  And you must show them these terms so they'
+          'know their rights.'
+          ''
+          '  Developers that use the GNU GPL protect your rights with two steps:'
+          '(1) assert copyright on the software, and (2) offer you this License'
+          'giving you legal permission to copy, distribute and/or modify it.'
+          ''
+          '  For the developers'' and authors'' protection, the GPL clearly explains'
+          'that there is no warranty for this free software.  For both users'' and'
+          'authors'' sake, the GPL requires that modified versions be marked as'
+          'changed, so that their problems will not be attributed erroneously to'
+          'authors of previous versions.'
+          ''
+          '  Some devices are designed to deny users access to install or run'
+          'modified versions of the software inside them, although the manufacturer'
+          'can do so.  This is fundamentally incompatible with the aim of'
+          'protecting users'' freedom to change the software.  The systematic'
+          'pattern of such abuse occurs in the area of products for individuals to'
+          'use, which is precisely where it is most unacceptable.  Therefore, we'
+          'have designed this version of the GPL to prohibit the practice for those'
+          'products.  If such problems arise substantially in other domains, we'
+          'stand ready to extend this provision to those domains in future versions'
+          'of the GPL, as needed to protect the freedom of users.'
+          ''
+          '  Finally, every program is threatened constantly by software patents.'
+          'States should not allow patents to restrict development and use of'
+          'software on general-purpose computers, but in those that do, we wish to'
+          'avoid the special danger that patents applied to a free program could'
+          'make it effectively proprietary.  To prevent this, the GPL assures that'
+          'patents cannot be used to render the program non-free.'
+          ''
+          '  The precise terms and conditions for copying, distribution and'
+          'modification follow.'
+          ''
+          '                       TERMS AND CONDITIONS'
+          ''
+          '  0. Definitions.'
+          ''
+          '  "This License" refers to version 3 of the GNU General Public License.'
+          ''
+          '  "Copyright" also means copyright-like laws that apply to other kinds of'
+          'works, such as semiconductor masks.'
+          ''
+          '  "The Program" refers to any copyrightable work licensed under this'
+          'License.  Each licensee is addressed as "you".  "Licensees" and'
+          '"recipients" may be individuals or organizations.'
+          ''
+          '  To "modify" a work means to copy from or adapt all or part of the work'
+          'in a fashion requiring copyright permission, other than the making of an'
+          'exact copy.  The resulting work is called a "modified version" of the'
+          'earlier work or a work "based on" the earlier work.'
+          ''
+          '  A "covered work" means either the unmodified Program or a work based'
+          'on the Program.'
+          ''
+          '  To "propagate" a work means to do anything with it that, without'
+          'permission, would make you directly or secondarily liable for'
+          'infringement under applicable copyright law, except executing it on a'
+          'computer or modifying a private copy.  Propagation includes copying,'
+          'distribution (with or without modification), making available to the'
+          'public, and in some countries other activities as well.'
+          ''
+          '  To "convey" a work means any kind of propagation that enables other'
+          'parties to make or receive copies.  Mere interaction with a user through'
+          'a computer network, with no transfer of a copy, is not conveying.'
+          ''
+          '  An interactive user interface displays "Appropriate Legal Notices"'
+          'to the extent that it includes a convenient and prominently visible'
+          'feature that (1) displays an appropriate copyright notice, and (2)'
+          'tells the user that there is no warranty for the work (except to the'
+          'extent that warranties are provided), that licensees may convey the'
+          'work under this License, and how to view a copy of this License.  If'
+          'the interface presents a list of user commands or options, such as a'
+          'menu, a prominent item in the list meets this criterion.'
+          ''
+          '  1. Source Code.'
+          ''
+          '  The "source code" for a work means the preferred form of the work'
+          'for making modifications to it.  "Object code" means any non-source'
+          'form of a work.'
+          ''
+          '  A "Standard Interface" means an interface that either is an official'
+          'standard defined by a recognized standards body, or, in the case of'
+          'interfaces specified for a particular programming language, one that'
+          'is widely used among developers working in that language.'
+          ''
+          '  The "System Libraries" of an executable work include anything, other'
+          'than the work as a whole, that (a) is included in the normal form of'
+          'packaging a Major Component, but which is not part of that Major'
+          'Component, and (b) serves only to enable use of the work with that'
+          'Major Component, or to implement a Standard Interface for which an'
+          'implementation is available to the public in source code form.  A'
+          '"Major Component", in this context, means a major essential component'
+          '(kernel, window system, and so on) of the specific operating system'
+          '(if any) on which the executable work runs, or a compiler used to'
+          'produce the work, or an object code interpreter used to run it.'
+          ''
+          '  The "Corresponding Source" for a work in object code form means all'
+          'the source code needed to generate, install, and (for an executable'
+          'work) run the object code and to modify the work, including scripts to'
+          'control those activities.  However, it does not include the work''s'
+          'System Libraries, or general-purpose tools or generally available free'
+          'programs which are used unmodified in performing those activities but'
+          'which are not part of the work.  For example, Corresponding Source'
+          'includes interface definition files associated with source files for'
+          'the work, and the source code for shared libraries and dynamically'
+          'linked subprograms that the work is specifically designed to require,'
+          'such as by intimate data communication or control flow between those'
+          'subprograms and other parts of the work.'
+          ''
+          '  The Corresponding Source need not include anything that users'
+          'can regenerate automatically from other parts of the Corresponding'
+          'Source.'
+          ''
+          '  The Corresponding Source for a work in source code form is that'
+          'same work.'
+          ''
+          '  2. Basic Permissions.'
+          ''
+          '  All rights granted under this License are granted for the term of'
+          'copyright on the Program, and are irrevocable provided the stated'
+          'conditions are met.  This License explicitly affirms your unlimited'
+          'permission to run the unmodified Program.  The output from running a'
+          'covered work is covered by this License only if the output, given its'
+          'content, constitutes a covered work.  This License acknowledges your'
+          'rights of fair use or other equivalent, as provided by copyright law.'
+          ''
+          '  You may make, run and propagate covered works that you do not'
+          'convey, without conditions so long as your license otherwise remains'
+          'in force.  You may convey covered works to others for the sole purpose'
+          'of having them make modifications exclusively for you, or provide you'
+          'with facilities for running those works, provided that you comply with'
+          'the terms of this License in conveying all material for which you do'
+          'not control copyright.  Those thus making or running the covered works'
+          'for you must do so exclusively on your behalf, under your direction'
+          'and control, on terms that prohibit them from making any copies of'
+          'your copyrighted material outside their relationship with you.'
+          ''
+          '  Conveying under any other circumstances is permitted solely under'
+          'the conditions stated below.  Sublicensing is not allowed; section 10'
+          'makes it unnecessary.'
+          ''
+          '  3. Protecting Users'' Legal Rights From Anti-Circumvention Law.'
+          ''
+          '  No covered work shall be deemed part of an effective technological'
+          'measure under any applicable law fulfilling obligations under article'
+          '11 of the WIPO copyright treaty adopted on 20 December 1996, or'
+          'similar laws prohibiting or restricting circumvention of such'
+          'measures.'
+          ''
+          '  When you convey a covered work, you waive any legal power to forbid'
+          'circumvention of technological measures to the extent such circumvention'
+          'is effected by exercising rights under this License with respect to'
+          'the covered work, and you disclaim any intention to limit operation or'
+          'modification of the work as a means of enforcing, against the work''s'
+          'users, your or third parties'' legal rights to forbid circumvention of'
+          'technological measures.'
+          ''
+          '  4. Conveying Verbatim Copies.'
+          ''
+          '  You may convey verbatim copies of the Program''s source code as you'
+          'receive it, in any medium, provided that you conspicuously and'
+          'appropriately publish on each copy an appropriate copyright notice;'
+          'keep intact all notices stating that this License and any'
+          'non-permissive terms added in accord with section 7 apply to the code;'
+          'keep intact all notices of the absence of any warranty; and give all'
+          'recipients a copy of this License along with the Program.'
+          ''
+          '  You may charge any price or no price for each copy that you convey,'
+          'and you may offer support or warranty protection for a fee.'
+          ''
+          '  5. Conveying Modified Source Versions.'
+          ''
+          '  You may convey a work based on the Program, or the modifications to'
+          'produce it from the Program, in the form of source code under the'
+          'terms of section 4, provided that you also meet all of these conditions:'
+          ''
+          '    a) The work must carry prominent notices stating that you modified'
+          '    it, and giving a relevant date.'
+          ''
+          '    b) The work must carry prominent notices stating that it is'
+          '    released under this License and any conditions added under section'
+          '    7.  This requirement modifies the requirement in section 4 to'
+          '    "keep intact all notices".'
+          ''
+          '    c) You must license the entire work, as a whole, under this'
+          '    License to anyone who comes into possession of a copy.  This'
+          '    License will therefore apply, along with any applicable section 7'
+          '    additional terms, to the whole of the work, and all its parts,'
+          '    regardless of how they are packaged.  This License gives no'
+          '    permission to license the work in any other way, but it does not'
+          '    invalidate such permission if you have separately received it.'
+          ''
+          '    d) If the work has interactive user interfaces, each must display'
+          '    Appropriate Legal Notices; however, if the Program has interactive'
+          '    interfaces that do not display Appropriate Legal Notices, your'
+          '    work need not make them do so.'
+          ''
+          '  A compilation of a covered work with other separate and independent'
+          'works, which are not by their nature extensions of the covered work,'
+          'and which are not combined with it such as to form a larger program,'
+          'in or on a volume of a storage or distribution medium, is called an'
+          '"aggregate" if the compilation and its resulting copyright are not'
+          'used to limit the access or legal rights of the compilation''s users'
+          'beyond what the individual works permit.  Inclusion of a covered work'
+          'in an aggregate does not cause this License to apply to the other'
+          'parts of the aggregate.'
+          ''
+          '  6. Conveying Non-Source Forms.'
+          ''
+          '  You may convey a covered work in object code form under the terms'
+          'of sections 4 and 5, provided that you also convey the'
+          'machine-readable Corresponding Source under the terms of this License,'
+          'in one of these ways:'
+          ''
+          '    a) Convey the object code in, or embodied in, a physical product'
+          '    (including a physical distribution medium), accompanied by the'
+          '    Corresponding Source fixed on a durable physical medium'
+          '    customarily used for software interchange.'
+          ''
+          '    b) Convey the object code in, or embodied in, a physical product'
+          '    (including a physical distribution medium), accompanied by a'
+          '    written offer, valid for at least three years and valid for as'
+          '    long as you offer spare parts or customer support for that product'
+          '    model, to give anyone who possesses the object code either (1) a'
+          '    copy of the Corresponding Source for all the software in the'
+          '    product that is covered by this License, on a durable physical'
+          '    medium customarily used for software interchange, for a price no'
+          '    more than your reasonable cost of physically performing this'
+          '    conveying of source, or (2) access to copy the'
+          '    Corresponding Source from a network server at no charge.'
+          ''
+          '    c) Convey individual copies of the object code with a copy of the'
+          '    written offer to provide the Corresponding Source.  This'
+          '    alternative is allowed only occasionally and noncommercially, and'
+          '    only if you received the object code with such an offer, in accord'
+          '    with subsection 6b.'
+          ''
+          '    d) Convey the object code by offering access from a designated'
+          '    place (gratis or for a charge), and offer equivalent access to the'
+          '    Corresponding Source in the same way through the same place at no'
+          '    further charge.  You need not require recipients to copy the'
+          '    Corresponding Source along with the object code.  If the place to'
+          '    copy the object code is a network server, the Corresponding Source'
+          '    may be on a different server (operated by you or a third party)'
+          '    that supports equivalent copying facilities, provided you maintain'
+          '    clear directions next to the object code saying where to find the'
+          '    Corresponding Source.  Regardless of what server hosts the'
+          '    Corresponding Source, you remain obligated to ensure that it is'
+          '    available for as long as needed to satisfy these requirements.'
+          ''
+          '    e) Convey the object code using peer-to-peer transmission, provided'
+          '    you inform other peers where the object code and Corresponding'
+          '    Source of the work are being offered to the general public at no'
+          '    charge under subsection 6d.'
+          ''
+          '  A separable portion of the object code, whose source code is excluded'
+          'from the Corresponding Source as a System Library, need not be'
+          'included in conveying the object code work.'
+          ''
+          '  A "User Product" is either (1) a "consumer product", which means any'
+          'tangible personal property which is normally used for personal, family,'
+          'or household purposes, or (2) anything designed or sold for incorporation'
+          'into a dwelling.  In determining whether a product is a consumer product,'
+          'doubtful cases shall be resolved in favor of coverage.  For a particular'
+          'product received by a particular user, "normally used" refers to a'
+          'typical or common use of that class of product, regardless of the status'
+          'of the particular user or of the way in which the particular user'
+          'actually uses, or expects or is expected to use, the product.  A product'
+          'is a consumer product regardless of whether the product has substantial'
+          'commercial, industrial or non-consumer uses, unless such uses represent'
+          'the only significant mode of use of the product.'
+          ''
+          '  "Installation Information" for a User Product means any methods,'
+          'procedures, authorization keys, or other information required to install'
+          'and execute modified versions of a covered work in that User Product from'
+          'a modified version of its Corresponding Source.  The information must'
+          'suffice to ensure that the continued functioning of the modified object'
+          'code is in no case prevented or interfered with solely because'
+          'modification has been made.'
+          ''
+          '  If you convey an object code work under this section in, or with, or'
+          'specifically for use in, a User Product, and the conveying occurs as'
+          'part of a transaction in which the right of possession and use of the'
+          'User Product is transferred to the recipient in perpetuity or for a'
+          'fixed term (regardless of how the transaction is characterized), the'
+          'Corresponding Source conveyed under this section must be accompanied'
+          'by the Installation Information.  But this requirement does not apply'
+          'if neither you nor any third party retains the ability to install'
+          'modified object code on the User Product (for example, the work has'
+          'been installed in ROM).'
+          ''
+          '  The requirement to provide Installation Information does not include a'
+          'requirement to continue to provide support service, warranty, or updates'
+          'for a work that has been modified or installed by the recipient, or for'
+          'the User Product in which it has been modified or installed.  Access to a'
+          'network may be denied when the modification itself materially and'
+          'adversely affects the operation of the network or violates the rules and'
+          'protocols for communication across the network.'
+          ''
+          '  Corresponding Source conveyed, and Installation Information provided,'
+          'in accord with this section must be in a format that is publicly'
+          'documented (and with an implementation available to the public in'
+          'source code form), and must require no special password or key for'
+          'unpacking, reading or copying.'
+          ''
+          '  7. Additional Terms.'
+          ''
+          '  "Additional permissions" are terms that supplement the terms of this'
+          'License by making exceptions from one or more of its conditions.'
+          'Additional permissions that are applicable to the entire Program shall'
+          'be treated as though they were included in this License, to the extent'
+          'that they are valid under applicable law.  If additional permissions'
+          'apply only to part of the Program, that part may be used separately'
+          'under those permissions, but the entire Program remains governed by'
+          'this License without regard to the additional permissions.'
+          ''
+          '  When you convey a copy of a covered work, you may at your option'
+          'remove any additional permissions from that copy, or from any part of'
+          'it.  (Additional permissions may be written to require their own'
+          'removal in certain cases when you modify the work.)  You may place'
+          'additional permissions on material, added by you to a covered work,'
+          'for which you have or can give appropriate copyright permission.'
+          ''
+          '  Notwithstanding any other provision of this License, for material you'
+          'add to a covered work, you may (if authorized by the copyright holders of'
+          'that material) supplement the terms of this License with terms:'
+          ''
+          '    a) Disclaiming warranty or limiting liability differently from the'
+          '    terms of sections 15 and 16 of this License; or'
+          ''
+          '    b) Requiring preservation of specified reasonable legal notices or'
+          '    author attributions in that material or in the Appropriate Legal'
+          '    Notices displayed by works containing it; or'
+          ''
+          '    c) Prohibiting misrepresentation of the origin of that material, or'
+          '    requiring that modified versions of such material be marked in'
+          '    reasonable ways as different from the original version; or'
+          ''
+          '    d) Limiting the use for publicity purposes of names of licensors or'
+          '    authors of the material; or'
+          ''
+          '    e) Declining to grant rights under trademark law for use of some'
+          '    trade names, trademarks, or service marks; or'
+          ''
+          '    f) Requiring indemnification of licensors and authors of that'
+          '    material by anyone who conveys the material (or modified versions of'
+          '    it) with contractual assumptions of liability to the recipient, for'
+          '    any liability that these contractual assumptions directly impose on'
+          '    those licensors and authors.'
+          ''
+          '  All other non-permissive additional terms are considered "further'
+          'restrictions" within the meaning of section 10.  If the Program as you'
+          'received it, or any part of it, contains a notice stating that it is'
+          'governed by this License along with a term that is a further'
+          'restriction, you may remove that term.  If a license document contains'
+          'a further restriction but permits relicensing or conveying under this'
+          'License, you may add to a covered work material governed by the terms'
+          'of that license document, provided that the further restriction does'
+          'not survive such relicensing or conveying.'
+          ''
+          '  If you add terms to a covered work in accord with this section, you'
+          'must place, in the relevant source files, a statement of the'
+          'additional terms that apply to those files, or a notice indicating'
+          'where to find the applicable terms.'
+          ''
+          '  Additional terms, permissive or non-permissive, may be stated in the'
+          'form of a separately written license, or stated as exceptions;'
+          'the above requirements apply either way.'
+          ''
+          '  8. Termination.'
+          ''
+          '  You may not propagate or modify a covered work except as expressly'
+          'provided under this License.  Any attempt otherwise to propagate or'
+          'modify it is void, and will automatically terminate your rights under'
+          'this License (including any patent licenses granted under the third'
+          'paragraph of section 11).'
+          ''
+          '  However, if you cease all violation of this License, then your'
+          'license from a particular copyright holder is reinstated (a)'
+          'provisionally, unless and until the copyright holder explicitly and'
+          'finally terminates your license, and (b) permanently, if the copyright'
+          'holder fails to notify you of the violation by some reasonable means'
+          'prior to 60 days after the cessation.'
+          ''
+          '  Moreover, your license from a particular copyright holder is'
+          'reinstated permanently if the copyright holder notifies you of the'
+          'violation by some reasonable means, this is the first time you have'
+          'received notice of violation of this License (for any work) from that'
+          'copyright holder, and you cure the violation prior to 30 days after'
+          'your receipt of the notice.'
+          ''
+          '  Termination of your rights under this section does not terminate the'
+          'licenses of parties who have received copies or rights from you under'
+          'this License.  If your rights have been terminated and not permanently'
+          'reinstated, you do not qualify to receive new licenses for the same'
+          'material under section 10.'
+          ''
+          '  9. Acceptance Not Required for Having Copies.'
+          ''
+          '  You are not required to accept this License in order to receive or'
+          'run a copy of the Program.  Ancillary propagation of a covered work'
+          'occurring solely as a consequence of using peer-to-peer transmission'
+          'to receive a copy likewise does not require acceptance.  However,'
+          'nothing other than this License grants you permission to propagate or'
+          'modify any covered work.  These actions infringe copyright if you do'
+          'not accept this License.  Therefore, by modifying or propagating a'
+          'covered work, you indicate your acceptance of this License to do so.'
+          ''
+          '  10. Automatic Licensing of Downstream Recipients.'
+          ''
+          '  Each time you convey a covered work, the recipient automatically'
+          'receives a license from the original licensors, to run, modify and'
+          'propagate that work, subject to this License.  You are not responsible'
+          'for enforcing compliance by third parties with this License.'
+          ''
+          '  An "entity transaction" is a transaction transferring control of an'
+          'organization, or substantially all assets of one, or subdividing an'
+          'organization, or merging organizations.  If propagation of a covered'
+          'work results from an entity transaction, each party to that'
+          'transaction who receives a copy of the work also receives whatever'
+          'licenses to the work the party''s predecessor in interest had or could'
+          'give under the previous paragraph, plus a right to possession of the'
+          'Corresponding Source of the work from the predecessor in interest, if'
+          'the predecessor has it or can get it with reasonable efforts.'
+          ''
+          '  You may not impose any further restrictions on the exercise of the'
+          'rights granted or affirmed under this License.  For example, you may'
+          'not impose a license fee, royalty, or other charge for exercise of'
+          'rights granted under this License, and you may not initiate litigation'
+          '(including a cross-claim or counterclaim in a lawsuit) alleging that'
+          'any patent claim is infringed by making, using, selling, offering for'
+          'sale, or importing the Program or any portion of it.'
+          ''
+          '  11. Patents.'
+          ''
+          '  A "contributor" is a copyright holder who authorizes use under this'
+          'License of the Program or a work on which the Program is based.  The'
+          'work thus licensed is called the contributor''s "contributor version".'
+          ''
+          '  A contributor''s "essential patent claims" are all patent claims'
+          'owned or controlled by the contributor, whether already acquired or'
+          'hereafter acquired, that would be infringed by some manner, permitted'
+          'by this License, of making, using, or selling its contributor version,'
+          'but do not include claims that would be infringed only as a'
+          'consequence of further modification of the contributor version.  For'
+          'purposes of this definition, "control" includes the right to grant'
+          'patent sublicenses in a manner consistent with the requirements of'
+          'this License.'
+          ''
+          '  Each contributor grants you a non-exclusive, worldwide, royalty-free'
+          'patent license under the contributor''s essential patent claims, to'
+          'make, use, sell, offer for sale, import and otherwise run, modify and'
+          'propagate the contents of its contributor version.'
+          ''
+          '  In the following three paragraphs, a "patent license" is any express'
+          'agreement or commitment, however denominated, not to enforce a patent'
+          '(such as an express permission to practice a patent or covenant not to'
+          'sue for patent infringement).  To "grant" such a patent license to a'
+          'party means to make such an agreement or commitment not to enforce a'
+          'patent against the party.'
+          ''
+          '  If you convey a covered work, knowingly relying on a patent license,'
+          'and the Corresponding Source of the work is not available for anyone'
+          'to copy, free of charge and under the terms of this License, through a'
+          'publicly available network server or other readily accessible means,'
+          'then you must either (1) cause the Corresponding Source to be so'
+          'available, or (2) arrange to deprive yourself of the benefit of the'
+          'patent license for this particular work, or (3) arrange, in a manner'
+          'consistent with the requirements of this License, to extend the patent'
+          'license to downstream recipients.  "Knowingly relying" means you have'
+          'actual knowledge that, but for the patent license, your conveying the'
+          'covered work in a country, or your recipient''s use of the covered work'
+          'in a country, would infringe one or more identifiable patents in that'
+          'country that you have reason to believe are valid.'
+          ''
+          '  If, pursuant to or in connection with a single transaction or'
+          'arrangement, you convey, or propagate by procuring conveyance of, a'
+          'covered work, and grant a patent license to some of the parties'
+          'receiving the covered work authorizing them to use, propagate, modify'
+          'or convey a specific copy of the covered work, then the patent license'
+          'you grant is automatically extended to all recipients of the covered'
+          'work and works based on it.'
+          ''
+          '  A patent license is "discriminatory" if it does not include within'
+          'the scope of its coverage, prohibits the exercise of, or is'
+          'conditioned on the non-exercise of one or more of the rights that are'
+          'specifically granted under this License.  You may not convey a covered'
+          'work if you are a party to an arrangement with a third party that is'
+          'in the business of distributing software, under which you make payment'
+          'to the third party based on the extent of your activity of conveying'
+          'the work, and under which the third party grants, to any of the'
+          'parties who would receive the covered work from you, a discriminatory'
+          'patent license (a) in connection with copies of the covered work'
+          'conveyed by you (or copies made from those copies), or (b) primarily'
+          'for and in connection with specific products or compilations that'
+          'contain the covered work, unless you entered into that arrangement,'
+          'or that patent license was granted, prior to 28 March 2007.'
+          ''
+          '  Nothing in this License shall be construed as excluding or limiting'
+          'any implied license or other defenses to infringement that may'
+          'otherwise be available to you under applicable patent law.'
+          ''
+          '  12. No Surrender of Others'' Freedom.'
+          ''
+          '  If conditions are imposed on you (whether by court order, agreement or'
+          'otherwise) that contradict the conditions of this License, they do not'
+          'excuse you from the conditions of this License.  If you cannot convey a'
+          'covered work so as to satisfy simultaneously your obligations under this'
+          'License and any other pertinent obligations, then as a consequence you may'
+          'not convey it at all.  For example, if you agree to terms that obligate you'
+          'to collect a royalty for further conveying from those to whom you convey'
+          'the Program, the only way you could satisfy both those terms and this'
+          'License would be to refrain entirely from conveying the Program.'
+          ''
+          '  13. Use with the GNU Affero General Public License.'
+          ''
+          '  Notwithstanding any other provision of this License, you have'
+          'permission to link or combine any covered work with a work licensed'
+          'under version 3 of the GNU Affero General Public License into a single'
+          'combined work, and to convey the resulting work.  The terms of this'
+          'License will continue to apply to the part which is the covered work,'
+          'but the special requirements of the GNU Affero General Public License,'
+          'section 13, concerning interaction through a network will apply to the'
+          'combination as such.'
+          ''
+          '  14. Revised Versions of this License.'
+          ''
+          '  The Free Software Foundation may publish revised and/or new versions of'
+          'the GNU General Public License from time to time.  Such new versions will'
+          'be similar in spirit to the present version, but may differ in detail to'
+          'address new problems or concerns.'
+          ''
+          '  Each version is given a distinguishing version number.  If the'
+          'Program specifies that a certain numbered version of the GNU General'
+          'Public License "or any later version" applies to it, you have the'
+          'option of following the terms and conditions either of that numbered'
+          'version or of any later version published by the Free Software'
+          'Foundation.  If the Program does not specify a version number of the'
+          'GNU General Public License, you may choose any version ever published'
+          'by the Free Software Foundation.'
+          ''
+          '  If the Program specifies that a proxy can decide which future'
+          'versions of the GNU General Public License can be used, that proxy''s'
+          'public statement of acceptance of a version permanently authorizes you'
+          'to choose that version for the Program.'
+          ''
+          '  Later license versions may give you additional or different'
+          'permissions.  However, no additional obligations are imposed on any'
+          'author or copyright holder as a result of your choosing to follow a'
+          'later version.'
+          ''
+          '  15. Disclaimer of Warranty.'
+          ''
+          '  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY'
+          'APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT'
+          'HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY'
+          'OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,'
+          'THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR'
+          'PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM'
+          'IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF'
+          'ALL NECESSARY SERVICING, REPAIR OR CORRECTION.'
+          ''
+          '  16. Limitation of Liability.'
+          ''
+          '  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING'
+          'WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS'
+          'THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY'
+          'GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE'
+          'USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF'
+          'DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD'
+          'PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),'
+          'EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF'
+          'SUCH DAMAGES.'
+          ''
+          '  17. Interpretation of Sections 15 and 16.'
+          ''
+          '  If the disclaimer of warranty and limitation of liability provided'
+          'above cannot be given local legal effect according to their terms,'
+          'reviewing courts shall apply local law that most closely approximates'
+          'an absolute waiver of all civil liability in connection with the'
+          'Program, unless a warranty or assumption of liability accompanies a'
+          'copy of the Program in return for a fee.'
+          ''
+          '                     END OF TERMS AND CONDITIONS'
+          ''
+          '            How to Apply These Terms to Your New Programs'
+          ''
+          '  If you develop a new program, and you want it to be of the greatest'
+          'possible use to the public, the best way to achieve this is to make it'
+          'free software which everyone can redistribute and change under these terms.'
+          ''
+          '  To do so, attach the following notices to the program.  It is safest'
+          'to attach them to the start of each source file to most effectively'
+          'state the exclusion of warranty; and each file should have at least'
+          'the "copyright" line and a pointer to where the full notice is found.'
+          ''
+          '    Abid'
+          '    Copyright (C) 2015-2020  Umidjon Almasov'
+          ''
+          '    This program is free software: you can redistribute it and/or modify'
+          '    it under the terms of the GNU General Public License as published by'
+          '    the Free Software Foundation, either version 3 of the License, or'
+          '    (at your option) any later version.'
+          ''
+          '    This program is distributed in the hope that it will be useful,'
+          '    but WITHOUT ANY WARRANTY; without even the implied warranty of'
+          '    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the'
+          '    GNU General Public License for more details.'
+          ''
+          '    You should have received a copy of the GNU General Public License'
+          '    along with this program.  If not, see <http://www.gnu.org/licenses/>.'
+          ''
+          'Also add information on how to contact you by electronic and paper mail.'
+          ''
+          '  If the program does terminal interaction, make it output a short'
+          'notice like this when it starts in an interactive mode:'
+          ''
+          '    Abid  Copyright (C) 2015-2020  Umidjon Almasov'
+          '    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w''.'
+          '    This is free software, and you are welcome to redistribute it'
+          '    under certain conditions; type `show c'' for details.'
+          ''
+          'The hypothetical commands `show w'' and `show c'' should show the appropriate'
+          'parts of the General Public License.  Of course, your program''s commands'
+          'might be different; for a GUI interface, you would use an "about box".'
+          ''
+          '  You should also get your employer (if you work as a programmer) or school,'
+          'if any, to sign a "copyright disclaimer" for the program, if necessary.'
+          'For more information on this, and how to apply and follow the GNU GPL, see'
+          '<http://www.gnu.org/licenses/>.'
+          ''
+          '  The GNU General Public License does not permit incorporating your program'
+          'into proprietary programs.  If your program is a subroutine library, you'
+          'may consider it more useful to permit linking proprietary applications with'
+          'the library.  If this is what you want to do, use the GNU Lesser General'
+          'Public License instead of this License.  But first, please read'
+          '<http://www.gnu.org/philosophy/why-not-lgpl.html>.'
+          ''
+          '---------------------------------------------------------------------------------'
+          ''
+          'BASS is free for non-commercial use. If you are a non-commercial entity'
+          '(eg. an individual) and you are not making any money from your product'
+          '(through sales/advertising/etc), then you can use BASS in it for free.'
+          'If you wish to use BASS in commercial products, then please also see the'
+          'next section.'
+          ''
+          'TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, BASS IS PROVIDED'
+          '"AS IS", WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,'
+          'INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY'
+          'AND/OR FITNESS FOR A PARTICULAR PURPOSE. THE AUTHORS SHALL NOT BE HELD'
+          'LIABLE FOR ANY DAMAGE THAT MAY RESULT FROM THE USE OF BASS. YOU USE'
+          'BASS ENTIRELY AT YOUR OWN RISK.'
+          ''
+          'Usage of BASS indicates that you agree to the above conditions.'
+          ''
+          'All trademarks and other registered names contained in the BASS'
+          'package are the property of their respective owners.'
+          ''
+          'Commercial licensing'
+          '--------------------'
+          'BASS is available for use in your commercial products. The licence'
+          'types available are as follows:'
+          ''
+          'SHAREWARE: Allows the usage of BASS in an unlimited number of your'
+          'shareware ("try before you buy") products, which must sell for no more'
+          'than 40 Euros each. Non-shareware products are also permitted, but the'
+          'product price limit is 10 Euros in that case. The price limit can be'
+          'raised by purchasing duplicate licences, eg. 2 licences doubles it. If'
+          'you are an individual (not a corporation) making and selling your own'
+          'software, this is the licence for you. '
+          ''
+          'SINGLE COMMERCIAL: Allows the usage of BASS in one commercial product.'
+          ''
+          'UNLIMITED COMMERCIAL: Allows the usage of BASS in an unlimited number'
+          'of your commercial products. This licence is on a per-site basis, eg.'
+          'if you are creating products with BASS at 2 sites/locations, then 2'
+          'licences are required.'
+          ''
+          'Please note the products must be end-user products, eg. not components'
+          'used by other products. '
+          ''
+          'These licences only cover your own software, not the publishing of'
+          'other''s software. If you publish other''s software, its developers (or'
+          'the software itself) will need to be licensed to use BASS.'
+          ''
+          'These licences are on a per-platform basis, with reductions available'
+          'when licensing for multiple platforms. In all cases there are no royalties'
+          'to pay, and you can use future BASS updates without further cost.'
+          ''
+          'These licences do not allow reselling/sublicensing of BASS. For example,'
+          'if a product is a development system, the users of said product are not'
+          'licensed to use BASS in their productions; they will need their own'
+          'licences.'
+          ''
+          'If the standard licences do not meet your requirements, or if you have'
+          'any questions, please get in touch (email: bass@un4seen.com).'
+          ''
+          'Visit the BASS website for the latest pricing:'
+          ''
+          #9'www.un4seen.com'
+        )
+        ReadOnly = True
+        ScrollBars = ssAutoBoth
+        TabOrder = 0
+      end
+    end
+  end
+end
