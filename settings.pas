@@ -24,7 +24,7 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, ButtonPanel,
-  Buttons, ExtCtrls, EditBtn, Spin;
+  Buttons, ExtCtrls, IniPropStorage, Details;
 
 type
 
@@ -32,34 +32,21 @@ type
 
   TFormSettings = class(TForm)
     ButtonPanel: TButtonPanel;
-    CheckBoxBomdod: TCheckBox;
-    CheckBoxXufton: TCheckBox;
-    CheckBoxShom: TCheckBox;
-    CheckBoxAsr: TCheckBox;
-    CheckBoxPeshin: TCheckBox;
     ComboBoxLanguage: TComboBox;
     FontDialog: TFontDialog;
-    GroupBoxRemind: TGroupBox;
     GroupBoxLanguage: TGroupBox;
     GroupBoxRun: TGroupBox;
     GroupBoxInterface: TGroupBox;
-    LabelRemind: TLabel;
-    PanelBomdod: TPanel;
-    PanelXufton: TPanel;
-    PanelShom: TPanel;
-    PanelAsr: TPanel;
-    PanelPeshin: TPanel;
-    PanelRemind: TPanel;
+    IniPropStorage: TIniPropStorage;
     RadioButtonStart: TRadioButton;
     RadioButtonContinue: TRadioButton;
     ButtonFont: TSpeedButton;
-    SpinEdit: TSpinEdit;
-    TimeEditBomdod: TTimeEdit;
-    TimeEditXufton: TTimeEdit;
-    TimeEditShom: TTimeEdit;
-    TimeEditAsr: TTimeEdit;
-    TimeEditPeshin: TTimeEdit;
     procedure ButtonFontClick(Sender: TObject);
+    procedure CancelButtonClick(Sender: TObject);
+    procedure FormActivate(Sender: TObject);
+    procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
+    procedure FormCreate(Sender: TObject);
+    procedure OKButtonClick(Sender: TObject);
   private
 
   public
@@ -82,8 +69,39 @@ procedure TFormSettings.ButtonFontClick(Sender: TObject);
 begin
   if FontDialog.Execute then
      begin
-       FormMain.Font.Assign(FontDialog.Font);
+       FormMain.PageControlMain.Font.Assign(FontDialog.Font);
+       FormDetails.PageControlMain.Font.Assign(FontDialog.Font);
      end;
+end;
+
+procedure TFormSettings.CancelButtonClick(Sender: TObject);
+begin
+  FormMain.PageControlMain.Font.SetDefault;
+  FormDetails.PageControlMain.Font.SetDefault;
+  IniPropStorage.Restore;
+end;
+
+procedure TFormSettings.FormActivate(Sender: TObject);
+begin
+  FormMain.IniPropStorage.Save;
+  IniPropStorage.Save;
+end;
+
+procedure TFormSettings.FormClose(Sender: TObject; var CloseAction: TCloseAction
+  );
+begin
+  IniPropStorage.Restore;
+end;
+
+procedure TFormSettings.FormCreate(Sender: TObject);
+begin
+  IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
+end;
+
+procedure TFormSettings.OKButtonClick(Sender: TObject);
+begin
+  FormMain.IniPropStorage.Save;
+  IniPropStorage.Save;
 end;
 
 end.

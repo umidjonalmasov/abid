@@ -23,8 +23,9 @@ unit Main;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, ComCtrls,
-  Menus, StdCtrls, Buttons, ActnList, Details, Settings, About;
+  Classes, SysUtils, Forms, LCLIntf, LCLType, Controls, Graphics, Dialogs,
+  ExtCtrls, ComCtrls, Menus, StdCtrls, Buttons, ActnList, IniPropStorage,
+  Details, Settings, About;
 
 type
 
@@ -570,6 +571,7 @@ type
     ButtonTashahhudSh2S: TSpeedButton;
     ImageMan: TImage;
     ImageWoman: TImage;
+    IniPropStorage: TIniPropStorage;
     LabelAla1_1X4F: TLabel;
     LabelAla1_1V3V: TLabel;
     LabelAla1_1X2S: TLabel;
@@ -1682,7 +1684,7 @@ type
     PanelTashahhudX2S: TPanel;
     PanelTashahhudP2S: TPanel;
     PanelTashahhudSh2S: TPanel;
-    PanelTop: TPanel;
+    PanelBottom: TPanel;
     PanelMain: TPanel;
     PanelImage: TPanel;
     PanelBasmala1B2S: TPanel;
@@ -2204,6 +2206,8 @@ type
     ToggleBoxImage: TToggleBox;
     procedure ActionNextExecute(Sender: TObject);
     procedure ActionPreviousExecute(Sender: TObject);
+    procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
+    procedure FormCreate(Sender: TObject);
     procedure MenuItemExitClick(Sender: TObject);
     procedure ProcDuo(Sender: TObject);
     procedure MenuItemAboutClick(Sender: TObject);
@@ -2254,6 +2258,7 @@ type
 
 var
   FormMain: TFormMain;
+  t: TDateTime;
 
 implementation
 
@@ -2601,6 +2606,35 @@ begin
      end;
   end;
   FormMain.ProcImagesLoad(self);
+end;
+
+procedure TFormMain.FormClose(Sender: TObject; var CloseAction: TCloseAction);
+begin
+  if FormSettings.RadioButtonStart.Checked = true then
+    begin
+      FormMain.PageControlA4F.TabIndex:=0;
+      FormMain.PageControlAsr.TabIndex:=0;
+      FormMain.PageControlB2F.TabIndex:=0;
+      FormMain.PageControlB2S.TabIndex:=0;
+      FormMain.PageControlBomdod.TabIndex:=0;
+      FormMain.PageControlMain.TabIndex:=0;
+      FormMain.PageControlP2S.TabIndex:=0;
+      FormMain.PageControlP4F.TabIndex:=0;
+      FormMain.PageControlP4S.TabIndex:=0;
+      FormMain.PageControlPeshin.TabIndex:=0;
+      FormMain.PageControlSh2S.TabIndex:=0;
+      FormMain.PageControlSh3F.TabIndex:=0;
+      FormMain.PageControlShom.TabIndex:=0;
+      FormMain.PageControlV3V.TabIndex:=0;
+      FormMain.PageControlX2S.TabIndex:=0;
+      FormMain.PageControlX4F.TabIndex:=0;
+      FormMain.PageControlXufton.TabIndex:=0;
+    end;
+end;
+
+procedure TFormMain.FormCreate(Sender: TObject);
+begin
+  IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
 end;
 
 procedure TFormMain.MenuItemExitClick(Sender: TObject);

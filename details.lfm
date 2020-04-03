@@ -1,7 +1,7 @@
 object FormDetails: TFormDetails
-  Left = 364
+  Left = 338
   Height = 537
-  Top = 143
+  Top = 109
   Width = 966
   AutoSize = True
   ClientHeight = 537
@@ -9,6 +9,7 @@ object FormDetails: TFormDetails
   OnActivate = FormActivate
   OnClose = FormClose
   Position = poMainFormCenter
+  SessionProperties = 'PageControlMain.Font'
   LCLVersion = '2.0.6.0'
   object PanelBottom: TPanel
     Left = 0
@@ -1955,14 +1956,14 @@ object FormDetails: TFormDetails
       ClientWidth = 956
       object ScrollBoxDuo: TScrollBox
         Left = 0
-        Height = 471
+        Height = 497
         Top = 0
         Width = 956
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 467
+        ClientHeight = 493
         ClientWidth = 952
         TabOrder = 0
         object LabelDuoAr: TLabel

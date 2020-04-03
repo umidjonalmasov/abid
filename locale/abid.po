@@ -4931,31 +4931,6 @@ msgctxt "tformsettings.caption"
 msgid "Sozlamalar"
 msgstr ""
 
-#: tformsettings.checkboxasr.caption
-msgctxt "tformsettings.checkboxasr.caption"
-msgid "Asr"
-msgstr ""
-
-#: tformsettings.checkboxbomdod.caption
-msgctxt "tformsettings.checkboxbomdod.caption"
-msgid "Bomdod"
-msgstr ""
-
-#: tformsettings.checkboxpeshin.caption
-msgctxt "tformsettings.checkboxpeshin.caption"
-msgid "Peshin"
-msgstr ""
-
-#: tformsettings.checkboxshom.caption
-msgctxt "tformsettings.checkboxshom.caption"
-msgid "Shom"
-msgstr ""
-
-#: tformsettings.checkboxxufton.caption
-msgctxt "tformsettings.checkboxxufton.caption"
-msgid "Xufton"
-msgstr ""
-
 #: tformsettings.comboboxlanguage.text
 msgid "O'zbek (lotin)"
 msgstr ""
@@ -4972,16 +4947,8 @@ msgstr ""
 msgid "Til"
 msgstr ""
 
-#: tformsettings.groupboxremind.caption
-msgid "Eslatish"
-msgstr ""
-
 #: tformsettings.groupboxrun.caption
 msgid "Dastur ishga tushirilganda"
-msgstr ""
-
-#: tformsettings.labelremind.caption
-msgid "daqiqa oldin eslatilsin"
 msgstr ""
 
 #: tformsettings.radiobuttoncontinue.caption
@@ -4990,30 +4957,5 @@ msgstr ""
 
 #: tformsettings.radiobuttonstart.caption
 msgid "boshdan ishga tushirilsin"
-msgstr ""
-
-#: tformsettings.timeeditasr.text
-msgctxt "tformsettings.timeeditasr.text"
-msgid "00:00"
-msgstr ""
-
-#: tformsettings.timeeditbomdod.text
-msgctxt "tformsettings.timeeditbomdod.text"
-msgid "00:00"
-msgstr ""
-
-#: tformsettings.timeeditpeshin.text
-msgctxt "tformsettings.timeeditpeshin.text"
-msgid "00:00"
-msgstr ""
-
-#: tformsettings.timeeditshom.text
-msgctxt "tformsettings.timeeditshom.text"
-msgid "00:00"
-msgstr ""
-
-#: tformsettings.timeeditxufton.text
-msgctxt "tformsettings.timeeditxufton.text"
-msgid "00:00"
 msgstr ""
 
