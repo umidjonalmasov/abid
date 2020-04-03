@@ -23,10 +23,43 @@ unit Settings;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs;
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, ButtonPanel,
+  Buttons, ExtCtrls, EditBtn, Spin;
 
 type
+
+  { TFormSettings }
+
   TFormSettings = class(TForm)
+    ButtonPanel: TButtonPanel;
+    CheckBoxBomdod: TCheckBox;
+    CheckBoxXufton: TCheckBox;
+    CheckBoxShom: TCheckBox;
+    CheckBoxAsr: TCheckBox;
+    CheckBoxPeshin: TCheckBox;
+    ComboBoxLanguage: TComboBox;
+    FontDialog: TFontDialog;
+    GroupBoxRemind: TGroupBox;
+    GroupBoxLanguage: TGroupBox;
+    GroupBoxRun: TGroupBox;
+    GroupBoxInterface: TGroupBox;
+    LabelRemind: TLabel;
+    PanelBomdod: TPanel;
+    PanelXufton: TPanel;
+    PanelShom: TPanel;
+    PanelAsr: TPanel;
+    PanelPeshin: TPanel;
+    PanelRemind: TPanel;
+    RadioButtonStart: TRadioButton;
+    RadioButtonContinue: TRadioButton;
+    ButtonFont: TSpeedButton;
+    SpinEdit: TSpinEdit;
+    TimeEditBomdod: TTimeEdit;
+    TimeEditXufton: TTimeEdit;
+    TimeEditShom: TTimeEdit;
+    TimeEditAsr: TTimeEdit;
+    TimeEditPeshin: TTimeEdit;
+    procedure ButtonFontClick(Sender: TObject);
   private
 
   public
@@ -38,7 +71,20 @@ var
 
 implementation
 
+uses
+  Main;
+
 {$R *.lfm}
+
+{ TFormSettings }
+
+procedure TFormSettings.ButtonFontClick(Sender: TObject);
+begin
+  if FontDialog.Execute then
+     begin
+       FormMain.Font.Assign(FontDialog.Font);
+     end;
+end;
 
 end.
 

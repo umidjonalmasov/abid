@@ -33,7 +33,7 @@ type
   TFormMain = class(TForm)
     ActionPrevious: TAction;
     ActionNext: TAction;
-    ActionList1: TActionList;
+    ActionList: TActionList;
     ButtonAla1_1X4F: TSpeedButton;
     ButtonAla1_1V3V: TSpeedButton;
     ButtonAla1_1X2S: TSpeedButton;
@@ -2204,6 +2204,7 @@ type
     ToggleBoxImage: TToggleBox;
     procedure ActionNextExecute(Sender: TObject);
     procedure ActionPreviousExecute(Sender: TObject);
+    procedure MenuItemExitClick(Sender: TObject);
     procedure ProcDuo(Sender: TObject);
     procedure MenuItemAboutClick(Sender: TObject);
     procedure MenuItemSettingsClick(Sender: TObject);
@@ -2600,6 +2601,11 @@ begin
      end;
   end;
   FormMain.ProcImagesLoad(self);
+end;
+
+procedure TFormMain.MenuItemExitClick(Sender: TObject);
+begin
+  Close;
 end;
 
 procedure TFormMain.ProcDuo(Sender: TObject);

@@ -3628,6 +3628,7 @@ msgid "Yordam"
 msgstr ""
 
 #: tformmain.menuitemsettings.caption
+msgctxt "tformmain.menuitemsettings.caption"
 msgid "Sozlamalar"
 msgstr ""
 
@@ -3641,6 +3642,7 @@ msgid "4 rak'at farz"
 msgstr ""
 
 #: tformmain.tabsheetasr.caption
+msgctxt "tformmain.tabsheetasr.caption"
 msgid "Asr"
 msgstr ""
 
@@ -3654,6 +3656,7 @@ msgid "2 rak'at sunnat"
 msgstr ""
 
 #: tformmain.tabsheetbomdod.caption
+msgctxt "tformmain.tabsheetbomdod.caption"
 msgid "Bomdod"
 msgstr ""
 
@@ -3927,6 +3930,7 @@ msgid "4 rak'at sunnat"
 msgstr ""
 
 #: tformmain.tabsheetpeshin.caption
+msgctxt "tformmain.tabsheetpeshin.caption"
 msgid "Peshin"
 msgstr ""
 
@@ -4880,6 +4884,7 @@ msgid "3 rak'at farz"
 msgstr ""
 
 #: tformmain.tabsheetshom.caption
+msgctxt "tformmain.tabsheetshom.caption"
 msgid "Shom"
 msgstr ""
 
@@ -4899,6 +4904,7 @@ msgid "4 rak'at farz"
 msgstr ""
 
 #: tformmain.tabsheetxufton.caption
+msgctxt "tformmain.tabsheetxufton.caption"
 msgid "Xufton"
 msgstr ""
 
@@ -4906,7 +4912,108 @@ msgstr ""
 msgid "Tasvirlarni yashirish"
 msgstr ""
 
+#: tformsettings.buttonfont.caption
+msgid "Shrift o'zgartirish"
+msgstr ""
+
+#: tformsettings.buttonpanel.cancelbutton.caption
+msgctxt "tformsettings.buttonpanel.cancelbutton.caption"
+msgid "Bekor qilish"
+msgstr ""
+
+#: tformsettings.buttonpanel.okbutton.caption
+msgctxt "tformsettings.buttonpanel.okbutton.caption"
+msgid "&OK"
+msgstr ""
+
 #: tformsettings.caption
-msgid "FormSettings"
+msgctxt "tformsettings.caption"
+msgid "Sozlamalar"
+msgstr ""
+
+#: tformsettings.checkboxasr.caption
+msgctxt "tformsettings.checkboxasr.caption"
+msgid "Asr"
+msgstr ""
+
+#: tformsettings.checkboxbomdod.caption
+msgctxt "tformsettings.checkboxbomdod.caption"
+msgid "Bomdod"
+msgstr ""
+
+#: tformsettings.checkboxpeshin.caption
+msgctxt "tformsettings.checkboxpeshin.caption"
+msgid "Peshin"
+msgstr ""
+
+#: tformsettings.checkboxshom.caption
+msgctxt "tformsettings.checkboxshom.caption"
+msgid "Shom"
+msgstr ""
+
+#: tformsettings.checkboxxufton.caption
+msgctxt "tformsettings.checkboxxufton.caption"
+msgid "Xufton"
+msgstr ""
+
+#: tformsettings.comboboxlanguage.text
+msgid "O'zbek (lotin)"
+msgstr ""
+
+#: tformsettings.fontdialog.title
+msgid "Shrift tanlash"
+msgstr ""
+
+#: tformsettings.groupboxinterface.caption
+msgid "Interfeys"
+msgstr ""
+
+#: tformsettings.groupboxlanguage.caption
+msgid "Til"
+msgstr ""
+
+#: tformsettings.groupboxremind.caption
+msgid "Eslatish"
+msgstr ""
+
+#: tformsettings.groupboxrun.caption
+msgid "Dastur ishga tushirilganda"
+msgstr ""
+
+#: tformsettings.labelremind.caption
+msgid "daqiqa oldin eslatilsin"
+msgstr ""
+
+#: tformsettings.radiobuttoncontinue.caption
+msgid "qolgan goydan davom etilsin"
+msgstr ""
+
+#: tformsettings.radiobuttonstart.caption
+msgid "boshdan ishga tushirilsin"
+msgstr ""
+
+#: tformsettings.timeeditasr.text
+msgctxt "tformsettings.timeeditasr.text"
+msgid "00:00"
+msgstr ""
+
+#: tformsettings.timeeditbomdod.text
+msgctxt "tformsettings.timeeditbomdod.text"
+msgid "00:00"
+msgstr ""
+
+#: tformsettings.timeeditpeshin.text
+msgctxt "tformsettings.timeeditpeshin.text"
+msgid "00:00"
+msgstr ""
+
+#: tformsettings.timeeditshom.text
+msgctxt "tformsettings.timeeditshom.text"
+msgid "00:00"
+msgstr ""
+
+#: tformsettings.timeeditxufton.text
+msgctxt "tformsettings.timeeditxufton.text"
+msgid "00:00"
 msgstr ""
 

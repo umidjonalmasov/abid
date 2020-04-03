@@ -41,7 +41,7 @@ type
     LabelName: TLabel;
     LabelBasmala: TLabel;
     MemoLicense: TMemo;
-    PageControl1: TPageControl;
+    PageControl: TPageControl;
     TabSheetAbid: TTabSheet;
     TabSheetContributors: TTabSheet;
     TabSheetLicense: TTabSheet;

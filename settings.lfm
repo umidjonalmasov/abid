@@ -1,9 +1,353 @@
 object FormSettings: TFormSettings
-  Left = 453
-  Height = 333
-  Top = 208
-  Width = 529
+  Left = 540
+  Height = 381
+  Top = 215
+  Width = 539
+  AutoSize = True
   BorderIcons = []
   Caption = 'Sozlamalar'
+  ClientHeight = 381
+  ClientWidth = 539
+  Position = poMainFormCenter
+  SessionProperties = 'CheckBoxAsr.Checked;CheckBoxBomdod.Checked;CheckBoxPeshin.Checked;CheckBoxShom.Checked;CheckBoxXufton.Checked;ComboBoxLanguage.Text;RadioButtonContinue.Checked;RadioButtonStart.Checked;SpinEdit.Value;TimeEditAsr.Text;TimeEditBomdod.Text;TimeEditPeshin.Text;TimeEditShom.Text;TimeEditXufton.Text'
   LCLVersion = '2.0.6.0'
+  object GroupBoxInterface: TGroupBox
+    Left = 10
+    Height = 325
+    Top = 10
+    Width = 256
+    Align = alLeft
+    BorderSpacing.Around = 10
+    Caption = 'Interfeys'
+    ClientHeight = 308
+    ClientWidth = 254
+    TabOrder = 0
+    object GroupBoxRun: TGroupBox
+      Left = 10
+      Height = 83
+      Top = 10
+      Width = 234
+      Align = alTop
+      AutoSize = True
+      BorderSpacing.Around = 10
+      Caption = 'Dastur ishga tushirilganda'
+      ClientHeight = 66
+      ClientWidth = 232
+      TabOrder = 0
+      object RadioButtonStart: TRadioButton
+        Left = 10
+        Height = 23
+        Top = 10
+        Width = 212
+        Align = alTop
+        BorderSpacing.Left = 10
+        BorderSpacing.Top = 10
+        BorderSpacing.Right = 10
+        Caption = 'boshdan ishga tushirilsin'
+        Checked = True
+        TabOrder = 0
+        TabStop = True
+      end
+      object RadioButtonContinue: TRadioButton
+        Left = 10
+        Height = 23
+        Top = 33
+        Width = 212
+        Align = alTop
+        BorderSpacing.Left = 10
+        BorderSpacing.Right = 10
+        BorderSpacing.Bottom = 10
+        Caption = 'qolgan goydan davom etilsin'
+        TabOrder = 1
+      end
+    end
+    object GroupBoxLanguage: TGroupBox
+      Left = 10
+      Height = 65
+      Top = 103
+      Width = 234
+      Align = alTop
+      AutoSize = True
+      BorderSpacing.Around = 10
+      Caption = 'Til'
+      ClientHeight = 48
+      ClientWidth = 232
+      TabOrder = 1
+      object ComboBoxLanguage: TComboBox
+        Left = 10
+        Height = 28
+        Top = 10
+        Width = 212
+        Align = alTop
+        BorderSpacing.Around = 10
+        ItemHeight = 0
+        ItemIndex = 0
+        Items.Strings = (
+          'O''zbek (lotin)'
+          'O''zbek (kirill)'
+          'Rus'
+        )
+        TabOrder = 0
+        Text = 'O''zbek (lotin)'
+      end
+    end
+    object ButtonFont: TSpeedButton
+      Left = 10
+      Height = 22
+      Top = 178
+      Width = 234
+      Align = alTop
+      BorderSpacing.Around = 10
+      Caption = 'Shrift o''zgartirish'
+      OnClick = ButtonFontClick
+    end
+  end
+  object ButtonPanel: TButtonPanel
+    Left = 6
+    Height = 30
+    Top = 345
+    Width = 527
+    OKButton.Name = 'OKButton'
+    OKButton.Caption = '&OK'
+    OKButton.DefaultCaption = False
+    HelpButton.Name = 'HelpButton'
+    HelpButton.DefaultCaption = True
+    CloseButton.Name = 'CloseButton'
+    CloseButton.DefaultCaption = True
+    CancelButton.Name = 'CancelButton'
+    CancelButton.Caption = 'Bekor qilish'
+    CancelButton.DefaultCaption = False
+    TabOrder = 1
+    ShowButtons = [pbOK, pbCancel]
+    ShowBevel = False
+  end
+  object GroupBoxRemind: TGroupBox
+    Left = 276
+    Height = 325
+    Top = 10
+    Width = 244
+    Align = alLeft
+    BorderSpacing.Around = 10
+    Caption = 'Eslatish'
+    ClientHeight = 308
+    ClientWidth = 242
+    TabOrder = 2
+    object PanelBomdod: TPanel
+      Left = 0
+      Height = 28
+      Top = 0
+      Width = 242
+      Align = alTop
+      AutoSize = True
+      BevelOuter = bvNone
+      ClientHeight = 28
+      ClientWidth = 242
+      TabOrder = 0
+      object TimeEditBomdod: TTimeEdit
+        Left = 151
+        Height = 28
+        Top = 0
+        Width = 81
+        ButtonWidth = 23
+        Align = alRight
+        BorderSpacing.Right = 10
+        NumGlyphs = 1
+        MaxLength = 0
+        TabOrder = 0
+        Text = '00:00'
+      end
+      object CheckBoxBomdod: TCheckBox
+        Left = 10
+        Height = 28
+        Top = 0
+        Width = 141
+        Align = alClient
+        BorderSpacing.Left = 10
+        Caption = 'Bomdod'
+        TabOrder = 1
+      end
+    end
+    object PanelXufton: TPanel
+      Left = 0
+      Height = 28
+      Top = 112
+      Width = 242
+      Align = alTop
+      AutoSize = True
+      BevelOuter = bvNone
+      ClientHeight = 28
+      ClientWidth = 242
+      TabOrder = 1
+      object TimeEditXufton: TTimeEdit
+        Left = 151
+        Height = 28
+        Top = 0
+        Width = 81
+        ButtonWidth = 23
+        Align = alRight
+        BorderSpacing.Right = 10
+        NumGlyphs = 1
+        MaxLength = 0
+        TabOrder = 0
+        Text = '00:00'
+      end
+      object CheckBoxXufton: TCheckBox
+        Left = 10
+        Height = 28
+        Top = 0
+        Width = 141
+        Align = alClient
+        BorderSpacing.Left = 10
+        Caption = 'Xufton'
+        TabOrder = 1
+      end
+    end
+    object PanelShom: TPanel
+      Left = 0
+      Height = 28
+      Top = 84
+      Width = 242
+      Align = alTop
+      AutoSize = True
+      BevelOuter = bvNone
+      ClientHeight = 28
+      ClientWidth = 242
+      TabOrder = 2
+      object TimeEditShom: TTimeEdit
+        Left = 151
+        Height = 28
+        Top = 0
+        Width = 81
+        ButtonWidth = 23
+        Align = alRight
+        BorderSpacing.Right = 10
+        NumGlyphs = 1
+        MaxLength = 0
+        TabOrder = 0
+        Text = '00:00'
+      end
+      object CheckBoxShom: TCheckBox
+        Left = 10
+        Height = 28
+        Top = 0
+        Width = 141
+        Align = alClient
+        BorderSpacing.Left = 10
+        Caption = 'Shom'
+        TabOrder = 1
+      end
+    end
+    object PanelAsr: TPanel
+      Left = 0
+      Height = 28
+      Top = 56
+      Width = 242
+      Align = alTop
+      AutoSize = True
+      BevelOuter = bvNone
+      ClientHeight = 28
+      ClientWidth = 242
+      TabOrder = 3
+      object TimeEditAsr: TTimeEdit
+        Left = 151
+        Height = 28
+        Top = 0
+        Width = 81
+        ButtonWidth = 23
+        Align = alRight
+        BorderSpacing.Right = 10
+        NumGlyphs = 1
+        MaxLength = 0
+        TabOrder = 0
+        Text = '00:00'
+      end
+      object CheckBoxAsr: TCheckBox
+        Left = 10
+        Height = 28
+        Top = 0
+        Width = 141
+        Align = alClient
+        BorderSpacing.Left = 10
+        Caption = 'Asr'
+        TabOrder = 1
+      end
+    end
+    object PanelPeshin: TPanel
+      Left = 0
+      Height = 28
+      Top = 28
+      Width = 242
+      Align = alTop
+      AutoSize = True
+      BevelOuter = bvNone
+      ClientHeight = 28
+      ClientWidth = 242
+      TabOrder = 4
+      object TimeEditPeshin: TTimeEdit
+        Left = 151
+        Height = 28
+        Top = 0
+        Width = 81
+        ButtonWidth = 23
+        Align = alRight
+        BorderSpacing.Right = 10
+        NumGlyphs = 1
+        MaxLength = 0
+        TabOrder = 0
+        Text = '00:00'
+      end
+      object CheckBoxPeshin: TCheckBox
+        Left = 10
+        Height = 28
+        Top = 0
+        Width = 141
+        Align = alClient
+        BorderSpacing.Left = 10
+        Caption = 'Peshin'
+        TabOrder = 1
+      end
+    end
+    object PanelRemind: TPanel
+      Left = 10
+      Height = 28
+      Top = 150
+      Width = 222
+      Align = alTop
+      AutoSize = True
+      BorderSpacing.Around = 10
+      BevelOuter = bvNone
+      ClientHeight = 28
+      ClientWidth = 222
+      TabOrder = 5
+      object SpinEdit: TSpinEdit
+        Left = 0
+        Height = 28
+        Top = 0
+        Width = 58
+        Align = alLeft
+        Increment = 5
+        MaxValue = 60
+        TabOrder = 0
+      end
+      object LabelRemind: TLabel
+        Left = 68
+        Height = 23
+        Top = 5
+        Width = 131
+        Align = alLeft
+        BorderSpacing.Left = 10
+        BorderSpacing.Top = 5
+        BorderSpacing.Right = 10
+        Caption = 'daqiqa oldin eslatilsin'
+        ParentColor = False
+      end
+    end
+  end
+  object FontDialog: TFontDialog
+    Title = 'Shrift tanlash'
+    MinFontSize = 0
+    MaxFontSize = 0
+    left = 392
+    top = 264
+  end
 end

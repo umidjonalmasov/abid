@@ -181,14 +181,14 @@ type
     TabSheetAzonDuo: TTabSheet;
     TabSheetAzon: TTabSheet;
     TabSheetAzonBomdod: TTabSheet;
-    Timer1: TTimer;
+    Timer: TTimer;
     procedure ButtonPauseClick(Sender: TObject);
     procedure ButtonPlayClick(Sender: TObject);
     procedure ButtonStopClick(Sender: TObject);
     procedure FormActivate(Sender: TObject);
     procedure ChannelPos;
     procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
-    procedure Timer1Timer(Sender: TObject);
+    procedure TimerTimer(Sender: TObject);
   private
     str: HSTREAM;
     procedure Error(msg: string);
@@ -228,7 +228,7 @@ begin
   if BASS_ChannelIsActive(str) = BASS_ACTIVE_PLAYING then
     begin
      BASS_ChannelPause(str);
-     Timer1.Enabled:=false;
+     Timer.Enabled:=false;
     end
   else
     begin
@@ -454,9 +454,9 @@ end;
 
 procedure TFormDetails.ChannelPos;
 begin
-  Timer1.Interval:=Trunc(BASS_ChannelBytes2Seconds(str,(BASS_ChannelGetLength(
+  Timer.Interval:=Trunc(BASS_ChannelBytes2Seconds(str,(BASS_ChannelGetLength(
                              str, 0)) - BASS_ChannelGetPosition(str, 0)))*1000;
-  Timer1.Enabled:=true;
+  Timer.Enabled:=true;
 end;
 
 procedure TFormDetails.FormClose(Sender: TObject; var CloseAction: TCloseAction
@@ -466,10 +466,10 @@ begin
   ButtonPlay.Enabled:=true;
   ButtonPause.Enabled:=false;
   ButtonStop.Enabled:=false;
-  Timer1.Enabled:=false;
+  Timer.Enabled:=false;
 end;
 
-procedure TFormDetails.Timer1Timer(Sender: TObject);
+procedure TFormDetails.TimerTimer(Sender: TObject);
 begin
   ButtonPlay.Enabled:=true;
   ButtonPause.Enabled:=false;
