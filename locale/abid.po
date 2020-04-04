@@ -1,6 +1,15 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
+#: main.imagehide
+msgctxt "main.imagehide"
+msgid "Tasvirlarni yashirish"
+msgstr ""
+
+#: main.imageshow
+msgid "Tasvirlarni ko'rsatish"
+msgstr ""
+
 #: tformabout.caption
 msgctxt "tformabout.caption"
 msgid "Dastur haqida"
@@ -4930,6 +4939,7 @@ msgid "Xufton"
 msgstr ""
 
 #: tformmain.toggleboximage.caption
+msgctxt "tformmain.toggleboximage.caption"
 msgid "Tasvirlarni yashirish"
 msgstr ""
 

@@ -11,6 +11,15 @@ msgstr ""
 "Language: uz@cyr\n"
 "X-Generator: Poedit 2.0.6\n"
 
+#: main.imagehide
+msgctxt "main.imagehide"
+msgid "Tasvirlarni yashirish"
+msgstr ""
+
+#: main.imageshow
+msgid "Tasvirlarni ko'rsatish"
+msgstr ""
+
 #: tformabout.caption
 msgctxt "tformabout.caption"
 msgid "Dastur haqida"
@@ -4940,6 +4949,7 @@ msgid "Xufton"
 msgstr "Хуфтон"
 
 #: tformmain.toggleboximage.caption
+msgctxt "tformmain.toggleboximage.caption"
 msgid "Tasvirlarni yashirish"
 msgstr ""
 

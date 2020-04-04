@@ -11,10 +11,19 @@ msgstr ""
 "Language: ru\n"
 "X-Generator: Poedit 2.0.6\n"
 
+#: main.imagehide
+msgctxt "main.imagehide"
+msgid "Tasvirlarni yashirish"
+msgstr "Скрыть изображения"
+
+#: main.imageshow
+msgid "Tasvirlarni ko'rsatish"
+msgstr "Показать изображения"
+
 #: tformabout.caption
 msgctxt "tformabout.caption"
 msgid "Dastur haqida"
-msgstr ""
+msgstr "О программе"
 
 #: tformabout.labelbasmala.caption
 msgid "Bismillahir rohmanir rohiym"
@@ -22,7 +31,7 @@ msgstr ""
 
 #: tformabout.labelcopyright.caption
 msgid "Mualliflik huquqi © 2015-2020 Umidjon Almasov"
-msgstr ""
+msgstr "Авторское право © 2015-2020 Умиджон Алмасов"
 
 #: tformabout.labeldedication.caption
 msgid ""
@@ -33,7 +42,7 @@ msgstr ""
 
 #: tformabout.labeldescription.caption
 msgid "Namoz o'qishni o'rgatuvchi multimedia dasturi"
-msgstr ""
+msgstr "Мультимедийная программа обучающая чтению намаза"
 
 #: tformabout.labelhadis.caption
 msgid ""
@@ -43,7 +52,7 @@ msgstr ""
 
 #: tformabout.labelname.caption
 msgid "Abid 4.0"
-msgstr ""
+msgstr "Абид 4.0"
 
 #: tformabout.labelquron.caption
 msgid ""
@@ -69,15 +78,15 @@ msgstr ""
 #: tformabout.tabsheetabid.caption
 msgctxt "tformabout.tabsheetabid.caption"
 msgid "Abid"
-msgstr ""
+msgstr "Абид"
 
 #: tformabout.tabsheetcontributors.caption
 msgid "Minnatdorlik"
-msgstr ""
+msgstr "Благодарности"
 
 #: tformabout.tabsheetlicense.caption
 msgid "Litsenziyalar"
-msgstr ""
+msgstr "Лицензии"
 
 #: tformdetails.labelalaar.caption
 msgid "سُبْحَانَ رَبِّيَ الْأَعْلَى"
@@ -891,16 +900,16 @@ msgstr ""
 
 #: tformmain.buttonnext.hint
 msgid "Keyingi"
-msgstr ""
+msgstr "Следующий"
 
 #: tformmain.buttonprevious.hint
 msgid "Oldingi"
-msgstr ""
+msgstr "Предыдущий"
 
 #: tformmain.caption
 msgctxt "tformmain.caption"
 msgid "Abid"
-msgstr ""
+msgstr "Абид"
 
 #: tformmain.labelala1_1a4f.caption
 msgctxt "tformmain.labelala1_1a4f.caption"
@@ -3644,33 +3653,33 @@ msgstr ""
 #: tformmain.menuitemabout.caption
 msgctxt "tformmain.menuitemabout.caption"
 msgid "Dastur haqida"
-msgstr ""
+msgstr "О программе"
 
 #: tformmain.menuitemexit.caption
 msgid "Chiqish"
-msgstr ""
+msgstr "Выход"
 
 #: tformmain.menuitemfile.caption
 msgid "Fayl"
-msgstr ""
+msgstr "Файл"
 
 #: tformmain.menuitemhelp.caption
 msgid "Yordam"
-msgstr ""
+msgstr "Справка"
 
 #: tformmain.menuitemsettings.caption
 msgctxt "tformmain.menuitemsettings.caption"
 msgid "Sozlamalar"
-msgstr ""
+msgstr "Настройки"
 
 #: tformmain.menuitemtools.caption
 msgid "Asboblar"
-msgstr ""
+msgstr "Инструменты"
 
 #: tformmain.tabsheeta4f.caption
 msgctxt "tformmain.tabsheeta4f.caption"
 msgid "4 rak'at farz"
-msgstr ""
+msgstr "4 ракаата фарда"
 
 #: tformmain.tabsheetasr.caption
 msgctxt "tformmain.tabsheetasr.caption"
@@ -3679,12 +3688,12 @@ msgstr "Аср"
 
 #: tformmain.tabsheetb2f.caption
 msgid "2 rak'at farz"
-msgstr ""
+msgstr "2 ракаата фарда"
 
 #: tformmain.tabsheetb2s.caption
 msgctxt "tformmain.tabsheetb2s.caption"
 msgid "2 rak'at sunnat"
-msgstr ""
+msgstr "2 ракаата сунны"
 
 #: tformmain.tabsheetbomdod.caption
 msgctxt "tformmain.tabsheetbomdod.caption"
@@ -3949,16 +3958,16 @@ msgstr ""
 #: tformmain.tabsheetp2s.caption
 msgctxt "tformmain.tabsheetp2s.caption"
 msgid "2 rak'at sunnat"
-msgstr ""
+msgstr "2 ракаата сунны"
 
 #: tformmain.tabsheetp4f.caption
 msgctxt "tformmain.tabsheetp4f.caption"
 msgid "4 rak'at farz"
-msgstr ""
+msgstr "4 ракаата фарда"
 
 #: tformmain.tabsheetp4s.caption
 msgid "4 rak'at sunnat"
-msgstr ""
+msgstr "4 ракаата сунны"
 
 #: tformmain.tabsheetpeshin.caption
 msgctxt "tformmain.tabsheetpeshin.caption"
@@ -4908,11 +4917,11 @@ msgstr ""
 #: tformmain.tabsheetsh2s.caption
 msgctxt "tformmain.tabsheetsh2s.caption"
 msgid "2 rak'at sunnat"
-msgstr ""
+msgstr "2 ракаата сунны"
 
 #: tformmain.tabsheetsh3f.caption
 msgid "3 rak'at farz"
-msgstr ""
+msgstr "3 ракаата фарда"
 
 #: tformmain.tabsheetshom.caption
 msgctxt "tformmain.tabsheetshom.caption"
@@ -4922,17 +4931,17 @@ msgstr "Магриб"
 #: tformmain.tabsheetv3v.caption
 msgctxt "tformmain.tabsheetv3v.caption"
 msgid "3 rak'at vitr vojib"
-msgstr ""
+msgstr "3 ракаата витр ваджиба"
 
 #: tformmain.tabsheetx2s.caption
 msgctxt "tformmain.tabsheetx2s.caption"
 msgid "2 rak'at sunnat"
-msgstr ""
+msgstr "2 ракаата сунны"
 
 #: tformmain.tabsheetx4f.caption
 msgctxt "tformmain.tabsheetx4f.caption"
 msgid "4 rak'at farz"
-msgstr ""
+msgstr "4 ракаата фарда"
 
 #: tformmain.tabsheetxufton.caption
 msgctxt "tformmain.tabsheetxufton.caption"
@@ -4940,49 +4949,49 @@ msgid "Xufton"
 msgstr "Иша"
 
 #: tformmain.toggleboximage.caption
+msgctxt "tformmain.toggleboximage.caption"
 msgid "Tasvirlarni yashirish"
-msgstr ""
+msgstr "Скрыть изображения"
 
 #: tformsettings.buttonfont.caption
 msgid "Shrift o'zgartirish"
-msgstr ""
+msgstr "Изменить шрифт"
 
 #: tformsettings.buttonpanel.cancelbutton.caption
 msgctxt "tformsettings.buttonpanel.cancelbutton.caption"
 msgid "Bekor qilish"
-msgstr ""
+msgstr "Отмена"
 
 #: tformsettings.buttonpanel.okbutton.caption
 msgctxt "tformsettings.buttonpanel.okbutton.caption"
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 #: tformsettings.caption
 msgctxt "tformsettings.caption"
 msgid "Sozlamalar"
-msgstr ""
+msgstr "Настройки"
 
 #: tformsettings.fontdialog.title
 msgid "Shrift tanlash"
-msgstr ""
+msgstr "Выбор шрифта"
 
 #: tformsettings.groupboxinterface.caption
 msgid "Interfeys"
-msgstr ""
+msgstr "Интерфейс"
 
 #: tformsettings.groupboxlanguage.caption
 msgid "Til"
-msgstr ""
+msgstr "Язык"
 
 #: tformsettings.groupboxrun.caption
 msgid "Dastur ishga tushirilganda"
-msgstr ""
+msgstr "При запуске программы"
 
 #: tformsettings.radiobuttoncontinue.caption
 msgid "qolgan goydan davom etilsin"
-msgstr ""
+msgstr "продолжить с прошлого места"
 
 #: tformsettings.radiobuttonstart.caption
 msgid "boshdan ishga tushirilsin"
-msgstr ""
-
+msgstr "запустить с начала"
