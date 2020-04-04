@@ -1,7 +1,7 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -631,8 +631,8 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    <one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <year>  <name of author>
+    Abid
+    Copyright (C) 2015-2020  Umidjon Almasov
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -645,14 +645,14 @@ the "copyright" line and a pointer to where the full notice is found.
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Also add information on how to contact you by electronic and paper mail.
 
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    <program>  Copyright (C) <year>  <name of author>
+    Abid  Copyright (C) 2015-2020  Umidjon Almasov
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type `show c' for details.
@@ -664,11 +664,74 @@ might be different; for a GUI interface, you would use an "about box".
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
-<https://www.gnu.org/licenses/>.
+<http://www.gnu.org/licenses/>.
 
   The GNU General Public License does not permit incorporating your program
 into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.
+<http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
+---------------------------------------------------------------------------------
+
+BASS is free for non-commercial use. If you are a non-commercial entity
+(eg. an individual) and you are not making any money from your product
+(through sales/advertising/etc), then you can use BASS in it for free.
+If you wish to use BASS in commercial products, then please also see the
+next section.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, BASS IS PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY
+AND/OR FITNESS FOR A PARTICULAR PURPOSE. THE AUTHORS SHALL NOT BE HELD
+LIABLE FOR ANY DAMAGE THAT MAY RESULT FROM THE USE OF BASS. YOU USE
+BASS ENTIRELY AT YOUR OWN RISK.
+
+Usage of BASS indicates that you agree to the above conditions.
+
+All trademarks and other registered names contained in the BASS
+package are the property of their respective owners.
+
+Commercial licensing
+--------------------
+BASS is available for use in your commercial products. The licence
+types available are as follows:
+
+SHAREWARE: Allows the usage of BASS in an unlimited number of your
+shareware ("try before you buy") products, which must sell for no more
+than 40 Euros each. Non-shareware products are also permitted, but the
+product price limit is 10 Euros in that case. The price limit can be
+raised by purchasing duplicate licences, eg. 2 licences doubles it. If
+you are an individual (not a corporation) making and selling your own
+software, this is the licence for you. 
+
+SINGLE COMMERCIAL: Allows the usage of BASS in one commercial product.
+
+UNLIMITED COMMERCIAL: Allows the usage of BASS in an unlimited number
+of your commercial products. This licence is on a per-site basis, eg.
+if you are creating products with BASS at 2 sites/locations, then 2
+licences are required.
+
+Please note the products must be end-user products, eg. not components
+used by other products. 
+
+These licences only cover your own software, not the publishing of
+other's software. If you publish other's software, its developers (or
+the software itself) will need to be licensed to use BASS.
+
+These licences are on a per-platform basis, with reductions available
+when licensing for multiple platforms. In all cases there are no royalties
+to pay, and you can use future BASS updates without further cost.
+
+These licences do not allow reselling/sublicensing of BASS. For example,
+if a product is a development system, the users of said product are not
+licensed to use BASS in their productions; they will need their own
+licences.
+
+If the standard licences do not meet your requirements, or if you have
+any questions, please get in touch (email: bass@un4seen.com).
+
+Visit the BASS website for the latest pricing:
+
+	www.un4seen.com
