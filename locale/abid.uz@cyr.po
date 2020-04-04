@@ -97,7 +97,7 @@ msgstr ""
 
 #: tformdetails.labelalapr.caption
 msgid "Subhana Robbiyal 'ala."
-msgstr "Субҳана роббиял ъала."
+msgstr "Субҳана Роббиял ъала."
 
 #: tformdetails.labelalatr.caption
 msgid ""
