@@ -280,6 +280,7 @@ object FormAbout: TFormAbout
         ParentColor = False
         ParentFont = False
         Transparent = False
+        OnClick = LabelWebClick
       end
       object LabelDescription: TLabel
         Left = 160

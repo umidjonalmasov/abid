@@ -24,7 +24,7 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ComCtrls, StdCtrls,
-  ExtCtrls;
+  ExtCtrls, lclintf;
 
 type
 
@@ -45,6 +45,7 @@ type
     TabSheetAbid: TTabSheet;
     TabSheetContributors: TTabSheet;
     TabSheetLicense: TTabSheet;
+    procedure LabelWebClick(Sender: TObject);
   private
 
   public
@@ -57,6 +58,13 @@ var
 implementation
 
 {$R *.lfm}
+
+{ TFormAbout }
+
+procedure TFormAbout.LabelWebClick(Sender: TObject);
+begin
+  OpenURL('https://github.com/umidjonalmasov/abid')
+end;
 
 end.
 
