@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Umidjon Almasov <umidjonalmasov@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -52,6 +52,8 @@ msgid ""
 "Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb so'rashganida: «Vaqtida o'qilgan namoz», deb javob berganlar\n"
 "(Imom Buxoriy va Muslim rivoyat qilishgan).\n"
 msgstr ""
+"Расули Акрамдан: «Қайси амал афзал (Аллоҳга севимлироқ)?», деб сўрашганида: «Вақтида ўқилган намоз», деб жавоб берганлар\n"
+"(Имом Бухорий ва Муслим ривоят қилишган).\n"
 
 #: tformabout.labelname.caption
 msgid "Abid 4.0"
@@ -63,6 +65,9 @@ msgid ""
 "«Namozni to'kis ado qiling, zakotni bering va ruku' qiluvchilar bilan ruku' qiling»\n"
 "(Baqara surasi, 43-oyat).\n"
 msgstr ""
+"Аллоҳ таоло шундай марҳамат этади:\n"
+"«Намозни тўкис адо қилинг, закотни беринг ва рукуъ қилувчилар билан рукуъ қилинг»\n"
+"(Бақара сураси, 43-оят).\n"
 
 #: tformabout.labelweb.caption
 msgid "github.com/umidjonalmasov/abid"
@@ -104,6 +109,8 @@ msgid ""
 "Ma'nosi:\n"
 "Oliy Robbim pokdir.\n"
 msgstr ""
+"Маъноси:\n"
+"Олий Роббим покдир.\n"
 
 #: tformdetails.labelalhamdulillahar.caption
 msgid ""
@@ -205,7 +212,7 @@ msgstr ""
 #: tformdetails.labelazonbomdoddesc.caption
 msgctxt "tformdetails.labelazonbomdoddesc.caption"
 msgid "Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta'kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo'lning ko'rsatkich barmoqlarini quloq ichiga qo'yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya 'las-solah» kalimasida boshini o'ng tarafga, «Hayya 'alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so'zlashdan to'xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya 'alas-solah», deganida «Laa havla va laa quvvata illaa billahil 'aliyyil-a'ziym», deydi, «Hayya 'alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha' lam yakun», deydi. Safarda va jome' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi."
-msgstr ""
+msgstr "Азон намоз вақти кирганидан огоҳлантирувчи, намозга чорловчи чақириқдир. Кундалик беш вақт намоз ва жума намозлари учун азон айтиш таъкидланган суннатдир. Азон намоз вақти киргач, таҳорат билан қиблага юзланиб, тик турган ҳолда икки қўлнинг кўрсаткич бармоқларини қулоқ ичига қўйиб, баланд овозда, дона-дона қилиб айтилади. Муаззин «Ҳаййа ълас-солаҳ» калимасида бошини ўнг тарафга, «Ҳаййа ъалал-фалаҳ» калимасида чап тарафга буради. Азонни эшитган киши ишдан, масжиддан бошқа томонга юришдан, сўзлашдан тўхтайди. Муаззиннинг ортидан азон калималарини айтиб туради. Муаззин «Ҳаййа ъалас-солаҳ», деганида «Лаа ҳавла ва лаа қуввата иллаа биллаҳил ъалиййил-аъзийм», дейди, «Ҳаййа ъалал фалаҳ», деганида эса «Маа ша Аллоҳу каана вама алам йашаъ лам якун», дейди. Сафарда ва жомеъ масжидларида азонни тарк қилиш макруҳ, бироқ шаҳар ичидаги хонадонларда уни тарк этиш макруҳ эмас. Жунуб, ақлдан озган, фосиқ, маст, таҳоратсиз кишилар, ақлсиз болалар ва аёлларнинг азон айтишлари макруҳдир. Қазо намозлари учун азон айтилади. Ҳайит намозлари ҳамда жаноза намозига азон айтилмайди."
 
 #: tformdetails.labelazonbomdodpr.caption
 msgid ""
@@ -225,6 +232,21 @@ msgid ""
 "Allohu akbar Allohu akbar\n"
 "Laa ilaaha illalloh\n"
 msgstr ""
+"\n"
+"Аллоҳу акбар Аллоҳу акбар\n"
+"Аллоҳу акбар Аллоҳу акбар\n"
+"Ашҳаду аллаа илааҳа иллаллоҳ\n"
+"Ашҳаду аллаа илааҳа иллаллоҳ\n"
+"Ашҳаду анна Муҳаммадар расуулуллоҳ\n"
+"Ашҳаду анна Муҳаммадар расуулуллоҳ\n"
+"Ҳаййа ъалас-солаҳ\n"
+"Ҳаййа ъалас-солаҳ\n"
+"Ҳаййа ъалал-фалаҳ\n"
+"Ҳаййа ъалал-фалаҳ\n"
+"Ас-солату хойрум минан-навм\n"
+"Ас-солату хойрум минан-навм\n"
+"Аллоҳу акбар Аллоҳу акбар\n"
+"Лаа илааҳа иллаллоҳ\n"
 
 #: tformdetails.labelazonbomdodtr.caption
 msgid ""
@@ -244,11 +266,26 @@ msgid ""
 "Alloh ulug'dir Alloh ulug'dir\n"
 "Allohdan o'zga iloh yo'q'\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳ улуғдир Аллоҳ улуғдир\n"
+"Аллоҳ улуғдир Аллоҳ улуғдир\n"
+"Гувоҳлик бераманки, Аллоҳдан бошқа илоҳ йўқ\n"
+"Гувоҳлик бераманки, Аллоҳдан бошқа илоҳ йўқ\n"
+"Гувоҳлик бераманки, Муҳаммад Аллоҳнинг пайғамбаридир\n"
+"Гувоҳлик бераманки, Муҳаммад Аллоҳнинг пайғамбаридир\n"
+"Намозга келингиз\n"
+"Намозга келингиз\n"
+"Нажотга келингиз\n"
+"Нажотга келингиз\n"
+"Намоз уйқудан афзал\n"
+"Намоз уйқудан афзал\n"
+"Аллоҳ улуғдир Аллоҳ улуғдир\n"
+"Аллоҳдан ўзга илоҳ йўқ\n"
 
 #: tformdetails.labelazondesc.caption
 msgctxt "tformdetails.labelazondesc.caption"
 msgid "Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta'kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo'lning ko'rsatkich barmoqlarini quloq ichiga qo'yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya 'las-solah» kalimasida boshini o'ng tarafga, «Hayya 'alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so'zlashdan to'xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya 'alas-solah», deganida «Laa havla va laa quvvata illaa billahil 'aliyyil-a'ziym», deydi, «Hayya 'alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha' lam yakun», deydi. Safarda va jome' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi."
-msgstr ""
+msgstr "Азон намоз вақти кирганидан огоҳлантирувчи, намозга чорловчи чақириқдир. Кундалик беш вақт намоз ва жума намозлари учун азон айтиш таъкидланган суннатдир. Азон намоз вақти киргач, таҳорат билан қиблага юзланиб, тик турган ҳолда икки қўлнинг кўрсаткич бармоқларини қулоқ ичига қўйиб, баланд овозда, дона-дона қилиб айтилади. Муаззин «Ҳаййа ълас-солаҳ» калимасида бошини ўнг тарафга, «Ҳаййа ъалал-фалаҳ» калимасида чап тарафга буради. Азонни эшитган киши ишдан, масжиддан бошқа томонга юришдан, сўзлашдан тўхтайди. Муаззиннинг ортидан азон калималарини айтиб туради. Муаззин «Ҳаййа ъалас-солаҳ», деганида «Лаа ҳавла ва лаа қуввата иллаа биллаҳил ъалиййил-аъзийм», дейди, «Ҳаййа ъалал фалаҳ», деганида эса «Маа ша Аллоҳу каана вама алам йашаъ лам якун», дейди. Сафарда ва жомеъ масжидларида азонни тарк қилиш макруҳ, бироқ шаҳар ичидаги хонадонларда уни тарк этиш макруҳ эмас. Жунуб, ақлдан озган, фосиқ, маст, таҳоратсиз кишилар, ақлсиз болалар ва аёлларнинг азон айтишлари макруҳдир. Қазо намозлари учун азон айтилади. Ҳайит намозлари ҳамда жаноза намозига азон айтилмайди."
 
 #: tformdetails.labelazonduoar.caption
 msgid "اَللّهُمَّ رَبَّ هذِهِ الدَّعْوَةِ التّامَّةِ وَالصَّلاةِ الْقائِمَةِ آتِ سَيِّدَنا مَحَمَّدً الْوَسيلَةَ وَالْفَضيلَةَ وَابْعَثْهُ مَقامًا مَحْمُودًا الَّذي وَعَدْتَهُ وَارْزُقْنا شَفاعَتَهُ يَوْمَ الْقِيامَةِ إِنَّكَ لا تُخْلِفُ الْميعادْ"
@@ -256,13 +293,15 @@ msgstr ""
 
 #: tformdetails.labelazonduopr.caption
 msgid "Allohumma! Robba hazihid-da'vatit tammah. Vassolatil qoimah, ati Muhammadanil vasiylata val faziylah. Vab'ashu maqomam mahmudanillaziy va'adtah. Varzuqna shafa'atahu yavmal qiyomah. Innaka laa tuxliful miy'ad."
-msgstr ""
+msgstr "Аллоҳумма! Робба ҳазиҳид-даъватит таммаҳ. Вассолатил қоимаҳ, ати Муҳаммаданил васийлата вал фазийлаҳ. Вабъасҳу мақомам маҳмуданиллазий ваъадтаҳ. Варзуқна шафаъатаҳу явмал қиёмаҳ. Иннака лаа тухлифул мийъад."
 
 #: tformdetails.labelazonduotr.caption
 msgid ""
 "Ma'nosi:\n"
 "Ey ushbu mukammal duo va hamda abadiy salavot Parvardigori. Muhammad alayhissalomning martabalarini ulug' qilib, ne'matlaringni unga bisyor qilgaysan, ul zotga O'zing va'da qilgan makomi mahmudni (jannatdagi o'rinni) ato etgaysan. Qiyomatda bizga uning shafoatini nasib etgaysan. Sen zinhor va'daga xilof qilmaysan.\n"
 msgstr ""
+"Маъноси:\n"
+"Эй ушбу мукаммал дуо ва ҳамда абадий салавот Парвардигори. Муҳаммад алайҳиссаломнинг мартабаларини улуғ қилиб, неъматларингни унга бисёр қилгайсан, ул зотга Ўзинг ваъда қилган макоми маҳмудни (жаннатдаги ўринни) ато этгайсан. Қиёматда бизга унинг шафоатини насиб этгайсан. Сен зинҳор ваъдага хилоф қилмайсан.\n"
 
 #: tformdetails.labelazonpr.caption
 msgid ""
@@ -449,7 +488,7 @@ msgstr ""
 #: tformdetails.labeliqomatdesc.caption
 msgctxt "tformdetails.labeliqomatdesc.caption"
 msgid "Kundalik besh vaqt namoz va juma namozlari uchun iqomat aytish ta'kidlangan sunnatdir. Safarda va jome' masjidlarida iqomatni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub kishining iqomat aytishi makruhdir. Iqomat farz namozlari oldidan aytiladi. Qazo namozlari uchun iqomat aytiladi. Hayit namozlari hamda janoza namoziga iqomat aytilmaydi."
-msgstr ""
+msgstr "Кундалик беш вақт намоз ва жума намозлари учун иқомат айтиш таъкидланган суннатдир. Сафарда ва жомеъ масжидларида иқоматни тарк қилиш макруҳ, бироқ шаҳар ичидаги хонадонларда уни тарк этиш макруҳ эмас. Жунуб кишининг иқомат айтиши макруҳдир. Иқомат фарз намозлари олдидан айтилади. Қазо намозлари учун иқомат айтилади. Ҳайит намозлари ҳамда жаноза намозига иқомат айтилмайди."
 
 #: tformdetails.labeliqomatpr.caption
 msgctxt "tformdetails.labeliqomatpr.caption"
@@ -719,6 +758,8 @@ msgid ""
 "\n"
 "Subhanalloh (33 marta).\n"
 msgstr ""
+"\n"
+"Субҳаналлоҳ (33 марта).\n"
 
 #: tformdetails.labelsubhanallohtr.caption
 msgid ""
@@ -746,10 +787,9 @@ msgstr ""
 
 #: tformdetails.labeltakbirpr.caption
 msgid "Allohu akbar."
-msgstr ""
+msgstr "Аллоҳу акбар."
 
 #: tformdetails.labeltakbirtr.caption
-#, fuzzy
 msgctxt "tformdetails.labeltakbirtr.caption"
 msgid ""
 "Ma'nosi:\n"
@@ -780,7 +820,7 @@ msgstr ""
 #: tformdetails.labeltasmepr.caption
 msgctxt "tformdetails.labeltasmepr.caption"
 msgid "Sami'allohu liman hamidah."
-msgstr ""
+msgstr "Самиъаллоҳу лиман ҳамидаҳ."
 
 #: tformdetails.labeltasmetr.caption
 msgctxt "tformdetails.labeltasmetr.caption"
