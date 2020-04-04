@@ -12,36 +12,36 @@ object FormSettings: TFormSettings
   OnClose = FormClose
   OnCreate = FormCreate
   Position = poMainFormCenter
-  SessionProperties = 'ComboBoxLanguage.Text;RadioButtonContinue.Checked;RadioButtonStart.Checked'
+  SessionProperties = 'RadioButtonContinue.Checked;RadioButtonStart.Checked;ComboBoxLanguage.ItemIndex'
   LCLVersion = '2.0.6.0'
   object GroupBoxInterface: TGroupBox
     Left = 10
-    Height = 285
+    Height = 289
     Top = 10
     Width = 256
     Align = alLeft
     BorderSpacing.Around = 10
     Caption = 'Interfeys'
-    ClientHeight = 268
-    ClientWidth = 254
+    ClientHeight = 271
+    ClientWidth = 252
     TabOrder = 0
     object GroupBoxRun: TGroupBox
       Left = 10
-      Height = 83
+      Height = 80
       Top = 10
-      Width = 234
+      Width = 232
       Align = alTop
       AutoSize = True
       BorderSpacing.Around = 10
       Caption = 'Dastur ishga tushirilganda'
-      ClientHeight = 66
-      ClientWidth = 232
+      ClientHeight = 62
+      ClientWidth = 228
       TabOrder = 0
       object RadioButtonStart: TRadioButton
         Left = 10
-        Height = 23
+        Height = 21
         Top = 10
-        Width = 212
+        Width = 208
         Align = alTop
         BorderSpacing.Left = 10
         BorderSpacing.Top = 10
@@ -53,9 +53,9 @@ object FormSettings: TFormSettings
       end
       object RadioButtonContinue: TRadioButton
         Left = 10
-        Height = 23
-        Top = 33
-        Width = 212
+        Height = 21
+        Top = 31
+        Width = 208
         Align = alTop
         BorderSpacing.Left = 10
         BorderSpacing.Right = 10
@@ -66,39 +66,38 @@ object FormSettings: TFormSettings
     end
     object GroupBoxLanguage: TGroupBox
       Left = 10
-      Height = 65
-      Top = 103
-      Width = 234
+      Height = 64
+      Top = 100
+      Width = 232
       Align = alTop
       AutoSize = True
       BorderSpacing.Around = 10
       Caption = 'Til'
-      ClientHeight = 48
-      ClientWidth = 232
+      ClientHeight = 46
+      ClientWidth = 228
       TabOrder = 1
       object ComboBoxLanguage: TComboBox
         Left = 10
-        Height = 28
+        Height = 26
         Top = 10
-        Width = 212
+        Width = 208
         Align = alTop
         BorderSpacing.Around = 10
         ItemHeight = 0
-        ItemIndex = 0
         Items.Strings = (
           'O''zbek (lotin)'
           'O''zbek (kirill)'
           'Rus'
         )
+        OnChange = ComboBoxLanguageChange
         TabOrder = 0
-        Text = 'O''zbek (lotin)'
       end
     end
     object ButtonFont: TSpeedButton
       Left = 10
       Height = 22
-      Top = 178
-      Width = 234
+      Top = 174
+      Width = 232
       Align = alTop
       BorderSpacing.Around = 10
       Caption = 'Shrift o''zgartirish'
@@ -107,8 +106,8 @@ object FormSettings: TFormSettings
   end
   object ButtonPanel: TButtonPanel
     Left = 6
-    Height = 30
-    Top = 305
+    Height = 26
+    Top = 309
     Width = 272
     OKButton.Name = 'OKButton'
     OKButton.Caption = '&OK'

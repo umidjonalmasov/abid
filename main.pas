@@ -25,7 +25,7 @@ interface
 uses
   Classes, SysUtils, Forms, LCLIntf, LCLType, Controls, Graphics, Dialogs,
   ExtCtrls, ComCtrls, Menus, StdCtrls, Buttons, ActnList, IniPropStorage,
-  Details, Settings, About;
+  LCLTranslator, Details, Settings, About;
 
 type
 
@@ -2336,6 +2336,11 @@ end;
 procedure TFormMain.FormActivate(Sender: TObject);
 begin
   FormMain.ProcImagesLoad(self);
+  case FormSettings.ComboBoxLanguage.ItemIndex of
+   0: SetDefaultLang('uz@lat');
+   1: SetDefaultLang('uz@cyr');
+   2: SetDefaultLang('ru');
+ end;
 end;
 
 procedure TFormMain.ButtonNextClick(Sender: TObject);

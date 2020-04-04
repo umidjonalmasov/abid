@@ -24,7 +24,7 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, ButtonPanel,
-  Buttons, ExtCtrls, IniPropStorage, Details;
+  Buttons, ExtCtrls, IniPropStorage, LCLTranslator, Details;
 
 type
 
@@ -43,6 +43,7 @@ type
     ButtonFont: TSpeedButton;
     procedure ButtonFontClick(Sender: TObject);
     procedure CancelButtonClick(Sender: TObject);
+    procedure ComboBoxLanguageChange(Sender: TObject);
     procedure FormActivate(Sender: TObject);
     procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
     procedure FormCreate(Sender: TObject);
@@ -78,7 +79,17 @@ procedure TFormSettings.CancelButtonClick(Sender: TObject);
 begin
   FormMain.PageControlMain.Font.SetDefault;
   FormDetails.PageControlMain.Font.SetDefault;
+  SetDefaultLang('uz@lat');
   IniPropStorage.Restore;
+end;
+
+procedure TFormSettings.ComboBoxLanguageChange(Sender: TObject);
+begin
+  case ComboBoxLanguage.ItemIndex of
+   0: SetDefaultLang('uz@lat');
+   1: SetDefaultLang('uz@cyr');
+   2: SetDefaultLang('ru');
+ end;
 end;
 
 procedure TFormSettings.FormActivate(Sender: TObject);
