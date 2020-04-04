@@ -749,11 +749,14 @@ msgid "Allohu akbar."
 msgstr ""
 
 #: tformdetails.labeltakbirtr.caption
+#, fuzzy
 msgctxt "tformdetails.labeltakbirtr.caption"
 msgid ""
 "Ma'nosi:\n"
 "Alloh ulug'dir.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳ улуғдир.\n"
 
 #: tformdetails.labeltashahhudar.caption
 msgid "التَّحِيّـاتُ للهِ وَالصَّلَـواتُ والطَّيِّـبات ، السَّلامُ عَلَيـكَ أَيُّهـا النَّبِـيُّ وَرَحْمَـةُ اللهِ وَبَرَكـاتُه ، السَّلامُ عَلَيْـنا وَعَلـى عِبـادِ للهِ الصَّـالِحـين . أَشْـهَدُ أَنْ لا إِلـهَ إِلاّ الله ، وَأَشْـهَدُ أَنَّ مُحَمّـداً عَبْـدُهُ وَرَسـولُه"
@@ -931,536 +934,536 @@ msgstr "Абид"
 #: tformmain.labelala1_1a4f.caption
 msgctxt "tformmain.labelala1_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1b2f.caption
 msgctxt "tformmain.labelala1_1b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1b2s.caption
 msgctxt "tformmain.labelala1_1b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1p2s.caption
 msgctxt "tformmain.labelala1_1p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1p4f.caption
 msgctxt "tformmain.labelala1_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1p4s.caption
 msgctxt "tformmain.labelala1_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1sh2s.caption
 msgctxt "tformmain.labelala1_1sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1sh3f.caption
 msgctxt "tformmain.labelala1_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1v3v.caption
 msgctxt "tformmain.labelala1_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1x2s.caption
 msgctxt "tformmain.labelala1_1x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_1x4f.caption
 msgctxt "tformmain.labelala1_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2a4f.caption
 msgctxt "tformmain.labelala1_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2b2f.caption
 msgctxt "tformmain.labelala1_2b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2b2s.caption
 msgctxt "tformmain.labelala1_2b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2p2s.caption
 msgctxt "tformmain.labelala1_2p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2p4f.caption
 msgctxt "tformmain.labelala1_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2p4s.caption
 msgctxt "tformmain.labelala1_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2sh2s.caption
 msgctxt "tformmain.labelala1_2sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2sh3f.caption
 msgctxt "tformmain.labelala1_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2v3v.caption
 msgctxt "tformmain.labelala1_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2x2s.caption
 msgctxt "tformmain.labelala1_2x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala1_2x4f.caption
 msgctxt "tformmain.labelala1_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1a4f.caption
 msgctxt "tformmain.labelala2_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1b2f.caption
 msgctxt "tformmain.labelala2_1b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1b2s.caption
 msgctxt "tformmain.labelala2_1b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1p2s.caption
 msgctxt "tformmain.labelala2_1p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1p4f.caption
 msgctxt "tformmain.labelala2_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1p4s.caption
 msgctxt "tformmain.labelala2_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1sh2s.caption
 msgctxt "tformmain.labelala2_1sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1sh3f.caption
 msgctxt "tformmain.labelala2_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1v3v.caption
 msgctxt "tformmain.labelala2_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1x2s.caption
 msgctxt "tformmain.labelala2_1x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_1x4f.caption
 msgctxt "tformmain.labelala2_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2a4f.caption
 msgctxt "tformmain.labelala2_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2b2f.caption
 msgctxt "tformmain.labelala2_2b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2b2s.caption
 msgctxt "tformmain.labelala2_2b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2p2s.caption
 msgctxt "tformmain.labelala2_2p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2p4f.caption
 msgctxt "tformmain.labelala2_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2p4s.caption
 msgctxt "tformmain.labelala2_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2sh2s.caption
 msgctxt "tformmain.labelala2_2sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2sh3f.caption
 msgctxt "tformmain.labelala2_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2v3v.caption
 msgctxt "tformmain.labelala2_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2x2s.caption
 msgctxt "tformmain.labelala2_2x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala2_2x4f.caption
 msgctxt "tformmain.labelala2_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_1a4f.caption
 msgctxt "tformmain.labelala3_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_1p4f.caption
 msgctxt "tformmain.labelala3_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_1p4s.caption
 msgctxt "tformmain.labelala3_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_1sh3f.caption
 msgctxt "tformmain.labelala3_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_1v3v.caption
 msgctxt "tformmain.labelala3_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_1x4f.caption
 msgctxt "tformmain.labelala3_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_2a4f.caption
 msgctxt "tformmain.labelala3_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_2p4f.caption
 msgctxt "tformmain.labelala3_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_2p4s.caption
 msgctxt "tformmain.labelala3_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_2sh3f.caption
 msgctxt "tformmain.labelala3_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_2v3v.caption
 msgctxt "tformmain.labelala3_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala3_2x4f.caption
 msgctxt "tformmain.labelala3_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala4_1a4f.caption
 msgctxt "tformmain.labelala4_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala4_1p4f.caption
 msgctxt "tformmain.labelala4_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala4_1p4s.caption
 msgctxt "tformmain.labelala4_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala4_1x4f.caption
 msgctxt "tformmain.labelala4_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala4_2a4f.caption
 msgctxt "tformmain.labelala4_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala4_2p4f.caption
 msgctxt "tformmain.labelala4_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala4_2p4s.caption
 msgctxt "tformmain.labelala4_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelala4_2x4f.caption
 msgctxt "tformmain.labelala4_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "Саждада уч марта «Субҳана Роббийал ъала» дейилади."
 
 #: tformmain.labelasr.caption
 msgid "Asr namozining vaqti – har bir narsaning soyasi o'ziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Asr namozini quyosh tig'ini o'zgartirmay, nursiz holatga kirishidan oldinroq o'qish mustahabdir."
-msgstr ""
+msgstr "Аср намозининг вақти – ҳар бир нарсанинг сояси ўзига нисбатан икки баравар ортганидан бошлаб қуёш ботгунчадир. Аср намозини қуёш тиғини ўзгартирмай, нурсиз ҳолатга киришидан олдинроқ ўқиш мустаҳабдир."
 
 #: tformmain.labelaziym1a4f.caption
 msgctxt "tformmain.labelaziym1a4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1b2f.caption
 msgctxt "tformmain.labelaziym1b2f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1b2s.caption
 msgctxt "tformmain.labelaziym1b2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1p2s.caption
 msgctxt "tformmain.labelaziym1p2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1p4f.caption
 msgctxt "tformmain.labelaziym1p4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1p4s.caption
 msgctxt "tformmain.labelaziym1p4s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1sh2s.caption
 msgctxt "tformmain.labelaziym1sh2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1sh3f.caption
 msgctxt "tformmain.labelaziym1sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1v3v.caption
 msgctxt "tformmain.labelaziym1v3v.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1x2s.caption
 msgctxt "tformmain.labelaziym1x2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym1x4f.caption
 msgctxt "tformmain.labelaziym1x4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2a4f.caption
 msgctxt "tformmain.labelaziym2a4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2b2f.caption
 msgctxt "tformmain.labelaziym2b2f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2b2s.caption
 msgctxt "tformmain.labelaziym2b2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2p2s.caption
 msgctxt "tformmain.labelaziym2p2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2p4f.caption
 msgctxt "tformmain.labelaziym2p4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2p4s.caption
 msgctxt "tformmain.labelaziym2p4s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2sh2s.caption
 msgctxt "tformmain.labelaziym2sh2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2sh3f.caption
 msgctxt "tformmain.labelaziym2sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2v3v.caption
 msgctxt "tformmain.labelaziym2v3v.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2x2s.caption
 msgctxt "tformmain.labelaziym2x2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym2x4f.caption
 msgctxt "tformmain.labelaziym2x4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym3a4f.caption
 msgctxt "tformmain.labelaziym3a4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym3p4f.caption
 msgctxt "tformmain.labelaziym3p4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym3p4s.caption
 msgctxt "tformmain.labelaziym3p4s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym3sh3f.caption
 msgctxt "tformmain.labelaziym3sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym3v3v.caption
 msgctxt "tformmain.labelaziym3v3v.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym3x4f.caption
 msgctxt "tformmain.labelaziym3x4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym4a4f.caption
 msgctxt "tformmain.labelaziym4a4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym4p4f.caption
 msgctxt "tformmain.labelaziym4p4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym4p4s.caption
 msgctxt "tformmain.labelaziym4p4s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelaziym4x4f.caption
 msgctxt "tformmain.labelaziym4x4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Уч марта «Субҳана Роббийал ъазийм» дейилади."
 
 #: tformmain.labelazona4f.caption
 msgctxt "tformmain.labelazona4f.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Аввал Азон ўқилади."
 
 #: tformmain.labelazonb2s.caption
 msgctxt "tformmain.labelazonb2s.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Аввал Азон ўқилади."
 
 #: tformmain.labelazonduoa4f.caption
 msgctxt "tformmain.labelazonduoa4f.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Сўнг Азон дуоси ўқилади."
 
 #: tformmain.labelazonduob2s.caption
 msgctxt "tformmain.labelazonduob2s.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Сўнг Азон дуоси ўқилади."
 
 #: tformmain.labelazonduop4s.caption
 msgctxt "tformmain.labelazonduop4s.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Сўнг Азон дуоси ўқилади."
 
 #: tformmain.labelazonduosh3f.caption
 msgctxt "tformmain.labelazonduosh3f.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Сўнг Азон дуоси ўқилади."
 
 #: tformmain.labelazonduox4f.caption
 msgctxt "tformmain.labelazonduox4f.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Сўнг Азон дуоси ўқилади."
 
 #: tformmain.labelazonp4s.caption
 msgctxt "tformmain.labelazonp4s.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Аввал Азон ўқилади."
 
 #: tformmain.labelazonsh3f.caption
 msgctxt "tformmain.labelazonsh3f.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Аввал Азон ўқилади."
 
 #: tformmain.labelazonx4f.caption
 msgctxt "tformmain.labelazonx4f.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Аввал Азон ўқилади."
 
 #: tformmain.labelbasmala1a4f.caption
 msgctxt "tformmain.labelbasmala1a4f.caption"
@@ -1624,57 +1627,57 @@ msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbomdod.caption
 msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda o'qish mustahab, a'loroqdir. Soat bo'yicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari o'qish mustahab vaqtiga muvofiq bo'ladi."
-msgstr ""
+msgstr "Бомдод намозининг вақти – субҳи содиқдан (чин тонг отгандан) кун чиққунчадир. Бомдод намозини тонг ёришганда ўқиш мустаҳаб, аълороқдир. Соат бўйича ҳисобланса, бомдодни кун чиқишидан 40 дақиқача илгари ўқиш мустаҳаб вақтига мувофиқ бўлади."
 
 #: tformmain.labelduoa4f.caption
 msgctxt "tformmain.labelduoa4f.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "Намоз тугагач, ушбу дуо ўқилади."
 
 #: tformmain.labelduob2f.caption
 msgctxt "tformmain.labelduob2f.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "Намоз тугагач, ушбу дуо ўқилади."
 
 #: tformmain.labelduofa4f.caption
 msgctxt "tformmain.labelduofa4f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "Фарз намозларидан кейин дуони ўқиш суннатдир."
 
 #: tformmain.labelduofb2f.caption
 msgctxt "tformmain.labelduofb2f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "Фарз намозларидан кейин дуони ўқиш суннатдир."
 
 #: tformmain.labelduofp4f.caption
 msgctxt "tformmain.labelduofp4f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "Фарз намозларидан кейин дуони ўқиш суннатдир."
 
 #: tformmain.labelduofsh3f.caption
 msgctxt "tformmain.labelduofsh3f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "Фарз намозларидан кейин дуони ўқиш суннатдир."
 
 #: tformmain.labelduofx4f.caption
 msgctxt "tformmain.labelduofx4f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "Фарз намозларидан кейин дуони ўқиш суннатдир."
 
 #: tformmain.labelduop2s.caption
 msgctxt "tformmain.labelduop2s.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "Намоз тугагач, ушбу дуо ўқилади."
 
 #: tformmain.labelduosh2s.caption
 msgctxt "tformmain.labelduosh2s.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "Намоз тугагач, ушбу дуо ўқилади."
 
 #: tformmain.labelduov3v.caption
 msgctxt "tformmain.labelduov3v.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "Намоз тугагач, ушбу дуо ўқилади."
 
 #: tformmain.labelfalaqb2f.caption
 msgctxt "tformmain.labelfalaqb2f.caption"
@@ -1709,322 +1712,322 @@ msgstr "Зам сура ўқилади."
 #: tformmain.labelfotiha1a4f.caption
 msgctxt "tformmain.labelfotiha1a4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1b2f.caption
 msgctxt "tformmain.labelfotiha1b2f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1b2s.caption
 msgctxt "tformmain.labelfotiha1b2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1p2s.caption
 msgctxt "tformmain.labelfotiha1p2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1p4f.caption
 msgctxt "tformmain.labelfotiha1p4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1p4s.caption
 msgctxt "tformmain.labelfotiha1p4s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1sh2s.caption
 msgctxt "tformmain.labelfotiha1sh2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1sh3f.caption
 msgctxt "tformmain.labelfotiha1sh3f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1v3v.caption
 msgctxt "tformmain.labelfotiha1v3v.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1x2s.caption
 msgctxt "tformmain.labelfotiha1x2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha1x4f.caption
 msgctxt "tformmain.labelfotiha1x4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2a4f.caption
 msgctxt "tformmain.labelfotiha2a4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2b2f.caption
 msgctxt "tformmain.labelfotiha2b2f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2b2s.caption
 msgctxt "tformmain.labelfotiha2b2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2p2s.caption
 msgctxt "tformmain.labelfotiha2p2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2p4f.caption
 msgctxt "tformmain.labelfotiha2p4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2p4s.caption
 msgctxt "tformmain.labelfotiha2p4s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2sh2s.caption
 msgctxt "tformmain.labelfotiha2sh2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2sh3f.caption
 msgctxt "tformmain.labelfotiha2sh3f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2v3v.caption
 msgctxt "tformmain.labelfotiha2v3v.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2x2s.caption
 msgctxt "tformmain.labelfotiha2x2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha2x4f.caption
 msgctxt "tformmain.labelfotiha2x4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha3a4f.caption
 msgctxt "tformmain.labelfotiha3a4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha3p4f.caption
 msgctxt "tformmain.labelfotiha3p4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha3p4s.caption
 msgctxt "tformmain.labelfotiha3p4s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha3sh3f.caption
 msgctxt "tformmain.labelfotiha3sh3f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha3v3v.caption
 msgctxt "tformmain.labelfotiha3v3v.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha3x4f.caption
 msgctxt "tformmain.labelfotiha3x4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha4a4f.caption
 msgctxt "tformmain.labelfotiha4a4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha4p4f.caption
 msgctxt "tformmain.labelfotiha4p4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha4p4s.caption
 msgctxt "tformmain.labelfotiha4p4s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelfotiha4x4f.caption
 msgctxt "tformmain.labelfotiha4x4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Фотиҳа сураси ўқилади. Фотиҳа сураси тугагач, махфий тарзда «Омин» дейилади."
 
 #: tformmain.labelhamd1a4f.caption
 msgctxt "tformmain.labelhamd1a4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1b2f.caption
 msgctxt "tformmain.labelhamd1b2f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1b2s.caption
 msgctxt "tformmain.labelhamd1b2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1p2s.caption
 msgctxt "tformmain.labelhamd1p2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1p4f.caption
 msgctxt "tformmain.labelhamd1p4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1p4s.caption
 msgctxt "tformmain.labelhamd1p4s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1sh2s.caption
 msgctxt "tformmain.labelhamd1sh2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1sh3f.caption
 msgctxt "tformmain.labelhamd1sh3f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1v3v.caption
 msgctxt "tformmain.labelhamd1v3v.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1x2s.caption
 msgctxt "tformmain.labelhamd1x2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd1x4f.caption
 msgctxt "tformmain.labelhamd1x4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2a4f.caption
 msgctxt "tformmain.labelhamd2a4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2b2f.caption
 msgctxt "tformmain.labelhamd2b2f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2b2s.caption
 msgctxt "tformmain.labelhamd2b2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2p2s.caption
 msgctxt "tformmain.labelhamd2p2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2p4f.caption
 msgctxt "tformmain.labelhamd2p4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2p4s.caption
 msgctxt "tformmain.labelhamd2p4s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2sh2s.caption
 msgctxt "tformmain.labelhamd2sh2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2sh3f.caption
 msgctxt "tformmain.labelhamd2sh3f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2v3v.caption
 msgctxt "tformmain.labelhamd2v3v.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2x2s.caption
 msgctxt "tformmain.labelhamd2x2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd2x4f.caption
 msgctxt "tformmain.labelhamd2x4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd3a4f.caption
 msgctxt "tformmain.labelhamd3a4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd3p4f.caption
 msgctxt "tformmain.labelhamd3p4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd3p4s.caption
 msgctxt "tformmain.labelhamd3p4s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd3sh3f.caption
 msgctxt "tformmain.labelhamd3sh3f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd3v3v.caption
 msgctxt "tformmain.labelhamd3v3v.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd3x4f.caption
 msgctxt "tformmain.labelhamd3x4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd4a4f.caption
 msgctxt "tformmain.labelhamd4a4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd4p4f.caption
 msgctxt "tformmain.labelhamd4p4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd4p4s.caption
 msgctxt "tformmain.labelhamd4p4s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labelhamd4x4f.caption
 msgctxt "tformmain.labelhamd4x4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Тўла тикланиб бўлгач «Роббана лакал ҳамд» дейилади."
 
 #: tformmain.labeliqomata4f.caption
 msgctxt "tformmain.labeliqomata4f.caption"
@@ -2119,27 +2122,27 @@ msgstr "Зам сура ўқилади."
 #: tformmain.labelkursia4f.caption
 msgctxt "tformmain.labelkursia4f.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
-msgstr ""
+msgstr "Намоздан кейин Курсий оятини (Оятал Курсий) ўқиш ҳам савобли."
 
 #: tformmain.labelkursib2f.caption
 msgctxt "tformmain.labelkursib2f.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
-msgstr ""
+msgstr "Намоздан кейин Курсий оятини (Оятал Курсий) ўқиш ҳам савобли."
 
 #: tformmain.labelkursip2s.caption
 msgctxt "tformmain.labelkursip2s.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
-msgstr ""
+msgstr "Намоздан кейин Курсий оятини (Оятал Курсий) ўқиш ҳам савобли."
 
 #: tformmain.labelkursish2s.caption
 msgctxt "tformmain.labelkursish2s.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
-msgstr ""
+msgstr "Намоздан кейин Курсий оятини (Оятал Курсий) ўқиш ҳам савобли."
 
 #: tformmain.labelkursiv3v.caption
 msgctxt "tformmain.labelkursiv3v.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
-msgstr ""
+msgstr "Намоздан кейин Курсий оятини (Оятал Курсий) ўқиш ҳам савобли."
 
 #: tformmain.labelnasb2f.caption
 msgctxt "tformmain.labelnasb2f.caption"
@@ -2174,52 +2177,52 @@ msgstr "Зам сура ўқилади."
 #: tformmain.labelniyata4f.caption
 msgctxt "tformmain.labelniyata4f.caption"
 msgid "Ka'ba tomonga yuzlanib «Asr namozining to'rt rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Аср намозининг тўрт ракъат фарзини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatb2f.caption
 msgid "Ka'ba tomonga yuzlanib «Bomdod namozining ikki rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Бомдод намозининг икки ракъат фарзини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatb2s.caption
 msgctxt "tformmain.labelniyatb2s.caption"
 msgid "Ka'ba tomonga yuzlanib «Bomdod namozining ikki rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Бомдод намозининг икки ракъат суннатини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatp2s.caption
 msgid "Ka'ba tomonga yuzlanib «Peshin namozining ikki rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Пешин намозининг икки ракъат суннатини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatp4f.caption
 msgid "Ka'ba tomonga yuzlanib «Peshin namozining to'rt rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Пешин намозининг тўрт ракъат фарзини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatp4s.caption
 msgid "Ka'ba tomonga yuzlanib «Peshin namozining to'rt rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Пешин намозининг тўрт ракъат суннатини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatsh2s.caption
 msgid "Ka'ba tomonga yuzlanib «Shom namozining ikki rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Шом намозининг икки ракъат суннатини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatsh3f.caption
 msgid "Ka'ba tomonga yuzlanib «Shom namozining uch rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Шом намозининг уч ракъат фарзини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatv3v.caption
 msgid "Ka'ba tomonga yuzlanib «Vitr vojib namozini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Витр вожиб намозини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatx2s.caption
 msgid "Ka'ba tomonga yuzlanib «Xufton namozining ikki rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Хуфтон намозининг икки ракъат суннатини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelniyatx4f.caption
 msgid "Ka'ba tomonga yuzlanib «Xufton namozining to'rt rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
-msgstr ""
+msgstr "Каъба томонга юзланиб «Пешин намозининг тўрт ракъат фарзини холис Аллоҳ учун ўқишга ният қилдим» мазмунида ният қилинади."
 
 #: tformmain.labelpeshin.caption
 msgid "Peshin namozining vaqti – quyosh zavolga (og'ishga) ketganidan so'ng to narsalarning soyasi o'z uzunligiga nisbatan ikki baravar ortguniga qadar. Peshin namozini yoz faslida bir oz kechiktirib, qish faslida esa vaqti kirishi bilan o'qish mustahabdir."
-msgstr ""
+msgstr "Пешин намозининг вақти – қуёш заволга (оғишга) кетганидан сўнг то нарсаларнинг сояси ўз узунлигига нисбатан икки баравар ортгунига қадар. Пешин намозини ёз фаслида бир оз кечиктириб, қиш фаслида эса вақти кириши билан ўқиш мустаҳабдир."
 
 #: tformmain.labelqunut.caption
 msgid "Qunut duosi o'qiladi."
@@ -2228,1444 +2231,1444 @@ msgstr "Қунут дуоси ўқилади."
 #: tformmain.labelrobbanaa4f.caption
 msgctxt "tformmain.labelrobbanaa4f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanab2f.caption
 msgctxt "tformmain.labelrobbanab2f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanab2s.caption
 msgctxt "tformmain.labelrobbanab2s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanap2s.caption
 msgctxt "tformmain.labelrobbanap2s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanap4f.caption
 msgctxt "tformmain.labelrobbanap4f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanap4s.caption
 msgctxt "tformmain.labelrobbanap4s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanash2s.caption
 msgctxt "tformmain.labelrobbanash2s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanash3f.caption
 msgctxt "tformmain.labelrobbanash3f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanav3v.caption
 msgctxt "tformmain.labelrobbanav3v.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanax2s.caption
 msgctxt "tformmain.labelrobbanax2s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelrobbanax4f.caption
 msgctxt "tformmain.labelrobbanax4f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Дуо («Роббана...») ўқилади."
 
 #: tformmain.labelsalavota4f.caption
 msgctxt "tformmain.labelsalavota4f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotb2f.caption
 msgctxt "tformmain.labelsalavotb2f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotb2s.caption
 msgctxt "tformmain.labelsalavotb2s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotp2s.caption
 msgctxt "tformmain.labelsalavotp2s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotp4f.caption
 msgctxt "tformmain.labelsalavotp4f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotp4s.caption
 msgctxt "tformmain.labelsalavotp4s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotsh2s.caption
 msgctxt "tformmain.labelsalavotsh2s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotsh3f.caption
 msgctxt "tformmain.labelsalavotsh3f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotv3v.caption
 msgctxt "tformmain.labelsalavotv3v.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotx2s.caption
 msgctxt "tformmain.labelsalavotx2s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsalavotx4f.caption
 msgctxt "tformmain.labelsalavotx4f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Икки салавот («Аллоҳумма! Солли ъала...» ва «Аллоҳумма! Барик ъала...») ўқилади."
 
 #: tformmain.labelsaloma4f.caption
 msgctxt "tformmain.labelsaloma4f.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomb2f.caption
 msgctxt "tformmain.labelsalomb2f.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomb2s.caption
 msgctxt "tformmain.labelsalomb2s.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomp2s.caption
 msgctxt "tformmain.labelsalomp2s.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomp4f.caption
 msgctxt "tformmain.labelsalomp4f.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomp4s.caption
 msgctxt "tformmain.labelsalomp4s.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomsh2s.caption
 msgctxt "tformmain.labelsalomsh2s.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomsh3f.caption
 msgctxt "tformmain.labelsalomsh3f.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomv3v.caption
 msgctxt "tformmain.labelsalomv3v.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomx2s.caption
 msgctxt "tformmain.labelsalomx2s.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsalomx4f.caption
 msgctxt "tformmain.labelsalomx4f.caption"
 msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
-msgstr ""
+msgstr "Аввал ўнг елкага, кейин чап елкага «Ассалому алайкум ва раҳматуллоҳ», деб салом беради. Шу билан намоз якунланади."
 
 #: tformmain.labelsanoa4f.caption
 msgctxt "tformmain.labelsanoa4f.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanob2f.caption
 msgctxt "tformmain.labelsanob2f.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanob2s.caption
 msgctxt "tformmain.labelsanob2s.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanop2s.caption
 msgctxt "tformmain.labelsanop2s.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanop4f.caption
 msgctxt "tformmain.labelsanop4f.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanop4s.caption
 msgctxt "tformmain.labelsanop4s.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanosh2s.caption
 msgctxt "tformmain.labelsanosh2s.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanosh3f.caption
 msgctxt "tformmain.labelsanosh3f.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanov3v.caption
 msgctxt "tformmain.labelsanov3v.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanox2s.caption
 msgctxt "tformmain.labelsanox2s.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelsanox4f.caption
 msgctxt "tformmain.labelsanox4f.caption"
 msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
-msgstr ""
+msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
 
 #: tformmain.labelshom.caption
 msgid "Shom namozining vaqti – kun botgan paytdan boshlab kun botar tomonda shafaq (qizg'ish nurlar) g'oyib bo'lgunchadir. Shom namozini doimo quyosh botishi bilan o'qish mustahabdir."
-msgstr ""
+msgstr "Шом намозининг вақти – кун ботган пайтдан бошлаб кун ботар томонда шафақ (қизғиш нурлар) ғойиб бўлгунчадир. Шом намозини доимо қуёш ботиши билан ўқиш мустаҳабдир."
 
 #: tformmain.labeltaavvuza4f.caption
 msgctxt "tformmain.labeltaavvuza4f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzb2f.caption
 msgctxt "tformmain.labeltaavvuzb2f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzb2s.caption
 msgctxt "tformmain.labeltaavvuzb2s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzp2s.caption
 msgctxt "tformmain.labeltaavvuzp2s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzp4f.caption
 msgctxt "tformmain.labeltaavvuzp4f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzp4s.caption
 msgctxt "tformmain.labeltaavvuzp4s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzsh2s.caption
 msgctxt "tformmain.labeltaavvuzsh2s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzsh3f.caption
 msgctxt "tformmain.labeltaavvuzsh3f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzv3v.caption
 msgctxt "tformmain.labeltaavvuzv3v.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzx2s.caption
 msgctxt "tformmain.labeltaavvuzx2s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltaavvuzx4f.caption
 msgctxt "tformmain.labeltaavvuzx4f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Таъаввуз («Аъузу биллаҳи...») ўқилади."
 
 #: tformmain.labeltakbirjalsa1a4f.caption
 msgctxt "tformmain.labeltakbirjalsa1a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1b2f.caption
 msgctxt "tformmain.labeltakbirjalsa1b2f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1b2s.caption
 msgctxt "tformmain.labeltakbirjalsa1b2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1p2s.caption
 msgctxt "tformmain.labeltakbirjalsa1p2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1p4f.caption
 msgctxt "tformmain.labeltakbirjalsa1p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1p4s.caption
 msgctxt "tformmain.labeltakbirjalsa1p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1sh2s.caption
 msgctxt "tformmain.labeltakbirjalsa1sh2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1sh3f.caption
 msgctxt "tformmain.labeltakbirjalsa1sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1v3v.caption
 msgctxt "tformmain.labeltakbirjalsa1v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1x2s.caption
 msgctxt "tformmain.labeltakbirjalsa1x2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa1x4f.caption
 msgctxt "tformmain.labeltakbirjalsa1x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2a4f.caption
 msgctxt "tformmain.labeltakbirjalsa2a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2b2f.caption
 msgctxt "tformmain.labeltakbirjalsa2b2f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2b2s.caption
 msgctxt "tformmain.labeltakbirjalsa2b2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2p2s.caption
 msgctxt "tformmain.labeltakbirjalsa2p2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2p4f.caption
 msgctxt "tformmain.labeltakbirjalsa2p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2p4s.caption
 msgctxt "tformmain.labeltakbirjalsa2p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2sh2s.caption
 msgctxt "tformmain.labeltakbirjalsa2sh2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2sh3f.caption
 msgctxt "tformmain.labeltakbirjalsa2sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2v3v.caption
 msgctxt "tformmain.labeltakbirjalsa2v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2x2s.caption
 msgctxt "tformmain.labeltakbirjalsa2x2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa2x4f.caption
 msgctxt "tformmain.labeltakbirjalsa2x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa3a4f.caption
 msgctxt "tformmain.labeltakbirjalsa3a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa3p4f.caption
 msgctxt "tformmain.labeltakbirjalsa3p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa3p4s.caption
 msgctxt "tformmain.labeltakbirjalsa3p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa3sh3f.caption
 msgctxt "tformmain.labeltakbirjalsa3sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa3v3v.caption
 msgctxt "tformmain.labeltakbirjalsa3v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa3x4f.caption
 msgctxt "tformmain.labeltakbirjalsa3x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa4a4f.caption
 msgctxt "tformmain.labeltakbirjalsa4a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa4p4f.caption
 msgctxt "tformmain.labeltakbirjalsa4p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa4p4s.caption
 msgctxt "tformmain.labeltakbirjalsa4p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirjalsa4x4f.caption
 msgctxt "tformmain.labeltakbirjalsa4x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар», деб саждадан бош кўтарилади ва чап оёқни тўшаб, ўнг оёқ кифтини тик қилиб, бармоқлар қиблага юзлантирилган, икки қўлнинг кафти учи тизза баробарига қўйилган ҳолда ўтирилади."
 
 #: tformmain.labeltakbirkirisha4f.caption
 msgctxt "tformmain.labeltakbirkirisha4f.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishb2f.caption
 msgctxt "tformmain.labeltakbirkirishb2f.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishb2s.caption
 msgctxt "tformmain.labeltakbirkirishb2s.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishp2s.caption
 msgctxt "tformmain.labeltakbirkirishp2s.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishp4f.caption
 msgctxt "tformmain.labeltakbirkirishp4f.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishp4s.caption
 msgctxt "tformmain.labeltakbirkirishp4s.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishsh2s.caption
 msgctxt "tformmain.labeltakbirkirishsh2s.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishsh3f.caption
 msgctxt "tformmain.labeltakbirkirishsh3f.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishv3v.caption
 msgctxt "tformmain.labeltakbirkirishv3v.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishx2s.caption
 msgctxt "tformmain.labeltakbirkirishx2s.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirkirishx4f.caption
 msgctxt "tformmain.labeltakbirkirishx4f.caption"
 msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
-msgstr ""
+msgstr "Икки қўл кафтини қиблага қарата кўтариб, бош бармоқ қулоқ юмшоғига теккизилади ва «Аллоҳу акбар» дея такбир айтиш билан намоз бошланади. Аёллар қўлларини елкалари бараваригача кўтарадилар."
 
 #: tformmain.labeltakbirqada1a4f.caption
 msgctxt "tformmain.labeltakbirqada1a4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada1p4f.caption
 msgctxt "tformmain.labeltakbirqada1p4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada1p4s.caption
 msgctxt "tformmain.labeltakbirqada1p4s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada1sh3f.caption
 msgctxt "tformmain.labeltakbirqada1sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada1v3v.caption
 msgctxt "tformmain.labeltakbirqada1v3v.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada1x4f.caption
 msgctxt "tformmain.labeltakbirqada1x4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada2a4f.caption
 msgctxt "tformmain.labeltakbirqada2a4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada2p4f.caption
 msgctxt "tformmain.labeltakbirqada2p4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada2p4s.caption
 msgctxt "tformmain.labeltakbirqada2p4s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada2sh3f.caption
 msgctxt "tformmain.labeltakbirqada2sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada2v3v.caption
 msgctxt "tformmain.labeltakbirqada2v3v.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqada2x4f.caption
 msgctxt "tformmain.labeltakbirqada2x4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqadab2f.caption
 msgctxt "tformmain.labeltakbirqadab2f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqadab2s.caption
 msgctxt "tformmain.labeltakbirqadab2s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqadap2s.caption
 msgctxt "tformmain.labeltakbirqadap2s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqadash2s.caption
 msgctxt "tformmain.labeltakbirqadash2s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqadax2s.caption
 msgctxt "tformmain.labeltakbirqadax2s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб саждадан сўнг ўнг оёғини тиклаб, чап оёғи устига ўтирилади. Аёллар икки оёқларини ўнг тарафга қаратиб, чап думбалари устига ўтирадилар."
 
 #: tformmain.labeltakbirqiyom2a4f.caption
 msgctxt "tformmain.labeltakbirqiyom2a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2b2f.caption
 msgctxt "tformmain.labeltakbirqiyom2b2f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2b2s.caption
 msgctxt "tformmain.labeltakbirqiyom2b2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2p2s.caption
 msgctxt "tformmain.labeltakbirqiyom2p2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2p4f.caption
 msgctxt "tformmain.labeltakbirqiyom2p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2p4s.caption
 msgctxt "tformmain.labeltakbirqiyom2p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2sh2s.caption
 msgctxt "tformmain.labeltakbirqiyom2sh2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2sh3f.caption
 msgctxt "tformmain.labeltakbirqiyom2sh3f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2v3v.caption
 msgctxt "tformmain.labeltakbirqiyom2v3v.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2x2s.caption
 msgctxt "tformmain.labeltakbirqiyom2x2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom2x4f.caption
 msgctxt "tformmain.labeltakbirqiyom2x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай иккинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom3a4f.caption
 msgctxt "tformmain.labeltakbirqiyom3a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай учинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom3p4f.caption
 msgctxt "tformmain.labeltakbirqiyom3p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай учинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom3p4s.caption
 msgctxt "tformmain.labeltakbirqiyom3p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай учинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom3sh3f.caption
 msgctxt "tformmain.labeltakbirqiyom3sh3f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай учинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom3v3v.caption
 msgctxt "tformmain.labeltakbirqiyom3v3v.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай учинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom3x4f.caption
 msgctxt "tformmain.labeltakbirqiyom3x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай учинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom4a4f.caption
 msgctxt "tformmain.labeltakbirqiyom4a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай тўртинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom4p4f.caption
 msgctxt "tformmain.labeltakbirqiyom4p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай тўртинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom4p4s.caption
 msgctxt "tformmain.labeltakbirqiyom4p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай тўртинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqiyom4x4f.caption
 msgctxt "tformmain.labeltakbirqiyom4x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ҳеч нарсага суянмай тўртинчи ракъатни ўқиш учун ўриндан турилади."
 
 #: tformmain.labeltakbirqunut.caption
 msgid "«Allohu akbar» deb, qo'llar quloqlar to'g'risigacha ko'tarilib, yana kindik ostiga qo'yiladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб, қўллар қулоқлар тўғрисигача кўтарилиб, яна киндик остига қўйилади."
 
 #: tformmain.labeltakbirruku1a4f.caption
 msgctxt "tformmain.labeltakbirruku1a4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1b2f.caption
 msgctxt "tformmain.labeltakbirruku1b2f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1b2s.caption
 msgctxt "tformmain.labeltakbirruku1b2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1p2s.caption
 msgctxt "tformmain.labeltakbirruku1p2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1p4f.caption
 msgctxt "tformmain.labeltakbirruku1p4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1p4s.caption
 msgctxt "tformmain.labeltakbirruku1p4s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1sh2s.caption
 msgctxt "tformmain.labeltakbirruku1sh2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1sh3f.caption
 msgctxt "tformmain.labeltakbirruku1sh3f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1v3v.caption
 msgctxt "tformmain.labeltakbirruku1v3v.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1x2s.caption
 msgctxt "tformmain.labeltakbirruku1x2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku1x4f.caption
 msgctxt "tformmain.labeltakbirruku1x4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади. Рукуъда эркаклар тиззаларини букмасдан тик ҳолатда турсалар, аёллар эса тиззаларини озроқ букиб турадилар. Эркаклар тиззаларига таянганда бармоқлари ораси бироз очиқ ҳолатда бўладилар, аёллар эса бармоқлари орасини очмасдан тизза тўпиғини ушлаб турадилар."
 
 #: tformmain.labeltakbirruku2a4f.caption
 msgctxt "tformmain.labeltakbirruku2a4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2b2f.caption
 msgctxt "tformmain.labeltakbirruku2b2f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2b2s.caption
 msgctxt "tformmain.labeltakbirruku2b2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2p2s.caption
 msgctxt "tformmain.labeltakbirruku2p2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2p4f.caption
 msgctxt "tformmain.labeltakbirruku2p4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2p4s.caption
 msgctxt "tformmain.labeltakbirruku2p4s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2sh2s.caption
 msgctxt "tformmain.labeltakbirruku2sh2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2sh3f.caption
 msgctxt "tformmain.labeltakbirruku2sh3f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2v3v.caption
 msgctxt "tformmain.labeltakbirruku2v3v.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2x2s.caption
 msgctxt "tformmain.labeltakbirruku2x2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku2x4f.caption
 msgctxt "tformmain.labeltakbirruku2x4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku3a4f.caption
 msgctxt "tformmain.labeltakbirruku3a4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku3p4f.caption
 msgctxt "tformmain.labeltakbirruku3p4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku3p4s.caption
 msgctxt "tformmain.labeltakbirruku3p4s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku3sh3f.caption
 msgctxt "tformmain.labeltakbirruku3sh3f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku3v3v.caption
 msgctxt "tformmain.labeltakbirruku3v3v.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku3x4f.caption
 msgctxt "tformmain.labeltakbirruku3x4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku4a4f.caption
 msgctxt "tformmain.labeltakbirruku4a4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku4p4f.caption
 msgctxt "tformmain.labeltakbirruku4p4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku4p4s.caption
 msgctxt "tformmain.labeltakbirruku4p4s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirruku4x4f.caption
 msgctxt "tformmain.labeltakbirruku4x4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб эгилиб рукуъга борилади."
 
 #: tformmain.labeltakbirsajda1_1a4f.caption
 msgctxt "tformmain.labeltakbirsajda1_1a4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1b2f.caption
 msgctxt "tformmain.labeltakbirsajda1_1b2f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1b2s.caption
 msgctxt "tformmain.labeltakbirsajda1_1b2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1p2s.caption
 msgctxt "tformmain.labeltakbirsajda1_1p2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1p4f.caption
 msgctxt "tformmain.labeltakbirsajda1_1p4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1p4s.caption
 msgctxt "tformmain.labeltakbirsajda1_1p4s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1sh2s.caption
 msgctxt "tformmain.labeltakbirsajda1_1sh2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1sh3f.caption
 msgctxt "tformmain.labeltakbirsajda1_1sh3f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1v3v.caption
 msgctxt "tformmain.labeltakbirsajda1_1v3v.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1x2s.caption
 msgctxt "tformmain.labeltakbirsajda1_1x2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_1x4f.caption
 msgctxt "tformmain.labeltakbirsajda1_1x4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб ерга аввал тиззалар, кейин кафтлар, сўнг бурун ва пешона қўйилиб, сажда қилинади. Бунда тирсаклар ерга ва биқинларга теккизилмайди, барча аъзолар, хусусан, оёқ бармоқлари иложи борича қиблага юзлантирилади. Аёллар аксинча тирсакларини ерга ва биқинларига теккизиб, қоринларини сонларига ёпиштириб, йиғинлинқираб сажда қиладилар."
 
 #: tformmain.labeltakbirsajda1_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda1_2a4f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2b2f.caption
 msgctxt "tformmain.labeltakbirsajda1_2b2f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2b2s.caption
 msgctxt "tformmain.labeltakbirsajda1_2b2s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2p2s.caption
 msgctxt "tformmain.labeltakbirsajda1_2p2s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2p4f.caption
 msgctxt "tformmain.labeltakbirsajda1_2p4f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2p4s.caption
 msgctxt "tformmain.labeltakbirsajda1_2p4s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2sh2s.caption
 msgctxt "tformmain.labeltakbirsajda1_2sh2s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2sh3f.caption
 msgctxt "tformmain.labeltakbirsajda1_2sh3f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2v3v.caption
 msgctxt "tformmain.labeltakbirsajda1_2v3v.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2x2s.caption
 msgctxt "tformmain.labeltakbirsajda1_2x2s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda1_2x4f.caption
 msgctxt "tformmain.labeltakbirsajda1_2x4f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб иккинчи марта сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1a4f.caption
 msgctxt "tformmain.labeltakbirsajda2_1a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1b2f.caption
 msgctxt "tformmain.labeltakbirsajda2_1b2f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1b2s.caption
 msgctxt "tformmain.labeltakbirsajda2_1b2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1p2s.caption
 msgctxt "tformmain.labeltakbirsajda2_1p2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1p4f.caption
 msgctxt "tformmain.labeltakbirsajda2_1p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1p4s.caption
 msgctxt "tformmain.labeltakbirsajda2_1p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1sh2s.caption
 msgctxt "tformmain.labeltakbirsajda2_1sh2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1sh3f.caption
 msgctxt "tformmain.labeltakbirsajda2_1sh3f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1v3v.caption
 msgctxt "tformmain.labeltakbirsajda2_1v3v.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1x2s.caption
 msgctxt "tformmain.labeltakbirsajda2_1x2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_1x4f.caption
 msgctxt "tformmain.labeltakbirsajda2_1x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda2_2a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2b2f.caption
 msgctxt "tformmain.labeltakbirsajda2_2b2f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2b2s.caption
 msgctxt "tformmain.labeltakbirsajda2_2b2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2p2s.caption
 msgctxt "tformmain.labeltakbirsajda2_2p2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2p4s.caption
 msgctxt "tformmain.labeltakbirsajda2_2p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2p4s1.caption
 msgctxt "tformmain.labeltakbirsajda2_2p4s1.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2sh2s.caption
 msgctxt "tformmain.labeltakbirsajda2_2sh2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2sh3f.caption
 msgctxt "tformmain.labeltakbirsajda2_2sh3f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2v3v.caption
 msgctxt "tformmain.labeltakbirsajda2_2v3v.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2x2s.caption
 msgctxt "tformmain.labeltakbirsajda2_2x2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda2_2x4f.caption
 msgctxt "tformmain.labeltakbirsajda2_2x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_1a4f.caption
 msgctxt "tformmain.labeltakbirsajda3_1a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_1p4f.caption
 msgctxt "tformmain.labeltakbirsajda3_1p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_1p4s.caption
 msgctxt "tformmain.labeltakbirsajda3_1p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_1sh3f.caption
 msgctxt "tformmain.labeltakbirsajda3_1sh3f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_1v3v.caption
 msgctxt "tformmain.labeltakbirsajda3_1v3v.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_1x4f.caption
 msgctxt "tformmain.labeltakbirsajda3_1x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda3_2a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_2p4f.caption
 msgctxt "tformmain.labeltakbirsajda3_2p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_2p4s.caption
 msgctxt "tformmain.labeltakbirsajda3_2p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_2sh3f.caption
 msgctxt "tformmain.labeltakbirsajda3_2sh3f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_2v3v.caption
 msgctxt "tformmain.labeltakbirsajda3_2v3v.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda3_2x4f.caption
 msgctxt "tformmain.labeltakbirsajda3_2x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda4_1a4f.caption
 msgctxt "tformmain.labeltakbirsajda4_1a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda4_1p4f.caption
 msgctxt "tformmain.labeltakbirsajda4_1p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda4_1p4s.caption
 msgctxt "tformmain.labeltakbirsajda4_1p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda4_1x4f.caption
 msgctxt "tformmain.labeltakbirsajda4_1x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda4_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda4_2a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda4_2p4f.caption
 msgctxt "tformmain.labeltakbirsajda4_2p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda4_2p4s.caption
 msgctxt "tformmain.labeltakbirsajda4_2p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltakbirsajda4_2x4f.caption
 msgctxt "tformmain.labeltakbirsajda4_2x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "«Аллоҳу акбар» деб сажда қилинади."
 
 #: tformmain.labeltasbeha4f.caption
 msgctxt "tformmain.labeltasbeha4f.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "Ҳар вақт намозни тугатгандан сўнг тасбеҳот қилинса савоби улуғ бўлади."
 
 #: tformmain.labeltasbehb2f.caption
 msgctxt "tformmain.labeltasbehb2f.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "Ҳар вақт намозни тугатгандан сўнг тасбеҳот қилинса савоби улуғ бўлади."
 
 #: tformmain.labeltasbehp2s.caption
 msgctxt "tformmain.labeltasbehp2s.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "Ҳар вақт намозни тугатгандан сўнг тасбеҳот қилинса савоби улуғ бўлади."
 
 #: tformmain.labeltasbehsh2s.caption
 msgctxt "tformmain.labeltasbehsh2s.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "Ҳар вақт намозни тугатгандан сўнг тасбеҳот қилинса савоби улуғ бўлади."
 
 #: tformmain.labeltasbehv3v.caption
 msgctxt "tformmain.labeltasbehv3v.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "Ҳар вақт намозни тугатгандан сўнг тасбеҳот қилинса савоби улуғ бўлади."
 
 #: tformmain.labeltashahhud1a4f.caption
 msgctxt "tformmain.labeltashahhud1a4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud1p4f.caption
 msgctxt "tformmain.labeltashahhud1p4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud1p4s.caption
 msgctxt "tformmain.labeltashahhud1p4s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud1sh3f.caption
 msgctxt "tformmain.labeltashahhud1sh3f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud1v3v.caption
 msgctxt "tformmain.labeltashahhud1v3v.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud1x4f.caption
 msgctxt "tformmain.labeltashahhud1x4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud2a4f.caption
 msgctxt "tformmain.labeltashahhud2a4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud2p4f.caption
 msgctxt "tformmain.labeltashahhud2p4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud2p4s.caption
 msgctxt "tformmain.labeltashahhud2p4s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud2sh3f.caption
 msgctxt "tformmain.labeltashahhud2sh3f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud2v3v.caption
 msgctxt "tformmain.labeltashahhud2v3v.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhud2x4f.caption
 msgctxt "tformmain.labeltashahhud2x4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhudb2f.caption
 msgctxt "tformmain.labeltashahhudb2f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhudb2s.caption
 msgctxt "tformmain.labeltashahhudb2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhudp2s.caption
 msgctxt "tformmain.labeltashahhudp2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhudsh2s.caption
 msgctxt "tformmain.labeltashahhudsh2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltashahhudx2s.caption
 msgctxt "tformmain.labeltashahhudx2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Ташаҳҳуд» («Аттаҳиййат...») ўқилади."
 
 #: tformmain.labeltasme1a4f.caption
 msgctxt "tformmain.labeltasme1a4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1b2f.caption
 msgctxt "tformmain.labeltasme1b2f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1b2s.caption
 msgctxt "tformmain.labeltasme1b2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1p2s.caption
 msgctxt "tformmain.labeltasme1p2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1p4f.caption
 msgctxt "tformmain.labeltasme1p4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1p4s.caption
 msgctxt "tformmain.labeltasme1p4s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1sh2s.caption
 msgctxt "tformmain.labeltasme1sh2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1sh3f.caption
 msgctxt "tformmain.labeltasme1sh3f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1v3v.caption
 msgctxt "tformmain.labeltasme1v3v.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1x2s.caption
 msgctxt "tformmain.labeltasme1x2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme1x4f.caption
 msgctxt "tformmain.labeltasme1x4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2a4f.caption
 msgctxt "tformmain.labeltasme2a4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2b2f.caption
 msgctxt "tformmain.labeltasme2b2f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2b2s.caption
 msgctxt "tformmain.labeltasme2b2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2p2s.caption
 msgctxt "tformmain.labeltasme2p2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2p4f.caption
 msgctxt "tformmain.labeltasme2p4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2p4s.caption
 msgctxt "tformmain.labeltasme2p4s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2sh2s.caption
 msgctxt "tformmain.labeltasme2sh2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2sh3f.caption
 msgctxt "tformmain.labeltasme2sh3f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2v3v.caption
 msgctxt "tformmain.labeltasme2v3v.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2x2s.caption
 msgctxt "tformmain.labeltasme2x2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme2x4f.caption
 msgctxt "tformmain.labeltasme2x4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme3a4f.caption
 msgctxt "tformmain.labeltasme3a4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme3p4f.caption
 msgctxt "tformmain.labeltasme3p4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme3p4s.caption
 msgctxt "tformmain.labeltasme3p4s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme3sh3f.caption
 msgctxt "tformmain.labeltasme3sh3f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme3v3v.caption
 msgctxt "tformmain.labeltasme3v3v.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme3x4f.caption
 msgctxt "tformmain.labeltasme3x4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme4a4f.caption
 msgctxt "tformmain.labeltasme4a4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme4p4f.caption
 msgctxt "tformmain.labeltasme4p4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme4p4s.caption
 msgctxt "tformmain.labeltasme4p4s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labeltasme4x4f.caption
 msgctxt "tformmain.labeltasme4x4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
 #: tformmain.labelxufton.caption
 msgid "Xufton namozining vaqti – shafaq batamom yo'qolgandan keyin kiradi. Vitr namozi vaqti esa xufton o'qilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha o'qisa bo'ladi. Xufton namozini kechaning uchdan biriga olib borib o'qish afzal va nihoyatda a'lo bo'ladi. Vitr namozini esa tun oxirida uyg'onishga qodir bo'lgan kishilar subh oldidan o'qisalar, mustahab amal qilgan bo'lishadi."
-msgstr ""
+msgstr "Хуфтон намозининг вақти – шафақ батамом йўқолгандан кейин киради. Витр намози вақти эса хуфтон ўқилгандан кейингина киради. Хуфтон ва витр намозларини субҳи содиққача ўқиса бўлади. Хуфтон намозини кечанинг учдан бирига олиб бориб ўқиш афзал ва ниҳоятда аъло бўлади. Витр намозини эса тун охирида уйғонишга қодир бўлган кишилар субҳ олдидан ўқисалар, мустаҳаб амал қилган бўлишади."
 
 #: tformmain.menuitemabout.caption
 msgctxt "tformmain.menuitemabout.caption"
