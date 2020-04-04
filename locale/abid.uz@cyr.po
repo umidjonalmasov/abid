@@ -35,10 +35,13 @@ msgstr "Муаллифлик ҳуқуқи © 2015-2020 Умиджон Алмас
 
 #: tformabout.labeldedication.caption
 msgid ""
-"Ushbu dasturni va undan savobni\n"
+"Ushbu dasturni va u uchun savobni\n"
 "marhum otam Almasov Ja'farga\n"
-"bag'ishladim\n"
+"bag'ishlayman\n"
 msgstr ""
+"Ушбу дастурни ва у учун савобни\n"
+"марҳум отам Алмасов Жаъфарга\n"
+"бағишлайман\n"
 
 #: tformabout.labeldescription.caption
 msgid "Namoz o'qishni o'rgatuvchi multimedia dasturi"
@@ -94,7 +97,7 @@ msgstr ""
 
 #: tformdetails.labelalapr.caption
 msgid "Subhana Robbiyal 'ala."
-msgstr ""
+msgstr "Субҳана роббиял ъала."
 
 #: tformdetails.labelalatr.caption
 msgid ""
@@ -113,12 +116,16 @@ msgid ""
 "\n"
 "Alhamdulillah (33 marta).\n"
 msgstr ""
+"\n"
+"Алҳамдулиллаҳ (33 марта).\n"
 
 #: tformdetails.labelalhamdulillahtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Maqtovlar Allohga xosdir.\n"
 msgstr ""
+"Маъноси:\n"
+"Мақтовлар Аллоҳга хосдир.\n"
 
 #: tformdetails.labelallohuakbarar.caption
 msgid ""
@@ -131,6 +138,8 @@ msgid ""
 "\n"
 "Allohu akbar (33 marta).\n"
 msgstr ""
+"\n"
+"Аллоҳу акбар (33 марта).\n"
 
 #: tformdetails.labelallohuakbartr.caption
 msgctxt "tformdetails.labelallohuakbartr.caption"
@@ -138,6 +147,8 @@ msgid ""
 "Ma'nosi:\n"
 "Alloh ulug'dir.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳ улуғдир.\n"
 
 #: tformdetails.labelaziymar.caption
 msgid "سُبْحَانَ رَبِّيَ الْعَظِيمِ"
@@ -145,13 +156,15 @@ msgstr ""
 
 #: tformdetails.labelaziympr.caption
 msgid "Subhana Robbiyal 'aziym."
-msgstr ""
+msgstr "Субҳана Роббиял ъазийм."
 
 #: tformdetails.labelaziymtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Ulug' Robbim pokdir.\n"
 msgstr ""
+"Маъноси:\n"
+"Улуғ Роббим покдир.\n"
 
 #: tformdetails.labelazonar.caption
 msgid ""
@@ -291,13 +304,15 @@ msgstr ""
 
 #: tformdetails.labelbasmalapr.caption
 msgid "Bismillahir rohmanir rohiym."
-msgstr ""
+msgstr "Бисмиллаҳир роҳманир роҳийм."
 
 #: tformdetails.labelbasmalatr.caption
 msgid ""
 "Ma'nosi:\n"
 "Mehribon va rahmli Alloh nomi bilan (boshlayman).\n"
 msgstr ""
+"Маъноси:\n"
+"Меҳрибон ва раҳмли Аллоҳ номи билан (бошлайман).\n"
 
 #: tformdetails.labelduoar.caption
 msgid "سُبْحَانَ اللهِ، وَالحْمُدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ"
@@ -402,13 +417,15 @@ msgstr ""
 
 #: tformdetails.labelhamdpr.caption
 msgid "Robbana lakal hamd."
-msgstr ""
+msgstr "Роббана лакал ҳамд."
 
 #: tformdetails.labelhamdtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Robbimiz! Maqtov Sengadir.\n"
 msgstr ""
+"Маъноси:\n"
+"Роббимиз! Мақтов Сенгадир.\n"
 
 #: tformdetails.labeliqomatar.caption
 msgctxt "tformdetails.labeliqomatar.caption"
