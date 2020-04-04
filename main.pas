@@ -27,6 +27,10 @@ uses
   ExtCtrls, ComCtrls, Menus, StdCtrls, Buttons, ActnList, IniPropStorage,
   LCLTranslator, Details, Settings, About;
 
+resourcestring
+  ImageShow = 'Tasvirlarni ko''rsatish';
+  ImageHide = 'Tasvirlarni yashirish';
+
 type
 
   { TFormMain }
@@ -2271,12 +2275,12 @@ begin
   if PanelImage.Visible=true then
     begin
       PanelImage.Hide;
-      ToggleBoxImage.Caption:='Tasvirlarni ko''rsatish';
+      ToggleBoxImage.Caption:=ImageShow;
     end
   else
     begin
       PanelImage.Show;
-      ToggleBoxImage.Caption:='Tasvirlarni yashirish';
+      ToggleBoxImage.Caption:=ImageHide;
     end
 end;
 
