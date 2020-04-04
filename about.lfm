@@ -3,6 +3,7 @@ object FormAbout: TFormAbout
   Height = 420
   Top = 169
   Width = 500
+  AutoSize = True
   BorderIcons = []
   Caption = 'Dastur haqida'
   ClientHeight = 420
@@ -322,8 +323,8 @@ object FormAbout: TFormAbout
         Left = 224
         Height = 48
         Top = 256
-        Width = 201
-        Caption = 'Ushbu dasturni va undan savobni'#10'marhum otam Almasov Ja''farga'#10'bag''ishladim'
+        Width = 211
+        Caption = 'Ushbu dasturni va u uchun savobni'#10'marhum otam Almasov Ja''farga'#10'bag''ishlayman'
         ParentColor = False
         ParentFont = False
       end
@@ -656,15 +657,15 @@ object FormAbout: TFormAbout
       ClientWidth = 494
       object MemoLicense: TMemo
         Left = 0
-        Height = 325
+        Height = 386
         Top = 0
-        Width = 502
+        Width = 494
         Align = alClient
         Lines.Strings = (
           '                    GNU GENERAL PUBLIC LICENSE'
           '                       Version 3, 29 June 2007'
           ''
-          ' Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>'
+          ' Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>'
           ' Everyone is permitted to copy and distribute verbatim copies'
           ' of this license document, but changing it is not allowed.'
           ''
@@ -1308,7 +1309,7 @@ object FormAbout: TFormAbout
           '    GNU General Public License for more details.'
           ''
           '    You should have received a copy of the GNU General Public License'
-          '    along with this program.  If not, see <http://www.gnu.org/licenses/>.'
+          '    along with this program.  If not, see <https://www.gnu.org/licenses/>.'
           ''
           'Also add information on how to contact you by electronic and paper mail.'
           ''
@@ -1327,14 +1328,14 @@ object FormAbout: TFormAbout
           '  You should also get your employer (if you work as a programmer) or school,'
           'if any, to sign a "copyright disclaimer" for the program, if necessary.'
           'For more information on this, and how to apply and follow the GNU GPL, see'
-          '<http://www.gnu.org/licenses/>.'
+          '<https://www.gnu.org/licenses/>.'
           ''
           '  The GNU General Public License does not permit incorporating your program'
           'into proprietary programs.  If your program is a subroutine library, you'
           'may consider it more useful to permit linking proprietary applications with'
           'the library.  If this is what you want to do, use the GNU Lesser General'
           'Public License instead of this License.  But first, please read'
-          '<http://www.gnu.org/philosophy/why-not-lgpl.html>.'
+          '<https://www.gnu.org/philosophy/why-not-lgpl.html>.'
           ''
           '---------------------------------------------------------------------------------'
           ''
