@@ -74,7 +74,7 @@ end;
 
 procedure TFormAbout.PanelAzanKzClick(Sender: TObject);
 begin
-  OpenURL('https://azan.kz/')
+  OpenURL('https://azan.kz/');
 end;
 
 procedure TFormAbout.PanelIslomUzClick(Sender: TObject);
