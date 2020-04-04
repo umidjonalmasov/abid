@@ -14,24 +14,24 @@ msgstr ""
 #: main.imagehide
 msgctxt "main.imagehide"
 msgid "Tasvirlarni yashirish"
-msgstr ""
+msgstr "Тасвирларни яшириш"
 
 #: main.imageshow
 msgid "Tasvirlarni ko'rsatish"
-msgstr ""
+msgstr "Тасвирларни кўрсатиш"
 
 #: tformabout.caption
 msgctxt "tformabout.caption"
 msgid "Dastur haqida"
-msgstr ""
+msgstr "Дастур ҳақида"
 
 #: tformabout.labelbasmala.caption
 msgid "Bismillahir rohmanir rohiym"
-msgstr ""
+msgstr "Бисмиллаҳир роҳманир роҳийм"
 
 #: tformabout.labelcopyright.caption
 msgid "Mualliflik huquqi © 2015-2020 Umidjon Almasov"
-msgstr ""
+msgstr "Муаллифлик ҳуқуқи © 2015-2020 Умиджон Алмасов"
 
 #: tformabout.labeldedication.caption
 msgid ""
@@ -42,7 +42,7 @@ msgstr ""
 
 #: tformabout.labeldescription.caption
 msgid "Namoz o'qishni o'rgatuvchi multimedia dasturi"
-msgstr ""
+msgstr "Намоз ўқишни ўргатувчи мультимедия дастури"
 
 #: tformabout.labelhadis.caption
 msgid ""
@@ -52,7 +52,7 @@ msgstr ""
 
 #: tformabout.labelname.caption
 msgid "Abid 4.0"
-msgstr ""
+msgstr "Абид 4.0"
 
 #: tformabout.labelquron.caption
 msgid ""
@@ -78,15 +78,15 @@ msgstr ""
 #: tformabout.tabsheetabid.caption
 msgctxt "tformabout.tabsheetabid.caption"
 msgid "Abid"
-msgstr ""
+msgstr "Абид"
 
 #: tformabout.tabsheetcontributors.caption
 msgid "Minnatdorlik"
-msgstr ""
+msgstr "Миннатдорлик"
 
 #: tformabout.tabsheetlicense.caption
 msgid "Litsenziyalar"
-msgstr ""
+msgstr "Лицензиялар"
 
 #: tformdetails.labelalaar.caption
 msgid "سُبْحَانَ رَبِّيَ الْأَعْلَى"
@@ -900,16 +900,16 @@ msgstr ""
 
 #: tformmain.buttonnext.hint
 msgid "Keyingi"
-msgstr ""
+msgstr "Кейинги"
 
 #: tformmain.buttonprevious.hint
 msgid "Oldingi"
-msgstr ""
+msgstr "Олдинги"
 
 #: tformmain.caption
 msgctxt "tformmain.caption"
 msgid "Abid"
-msgstr ""
+msgstr "Абид"
 
 #: tformmain.labelala1_1a4f.caption
 msgctxt "tformmain.labelala1_1a4f.caption"
@@ -1448,162 +1448,162 @@ msgstr ""
 #: tformmain.labelbasmala1a4f.caption
 msgctxt "tformmain.labelbasmala1a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1b2f.caption
 msgctxt "tformmain.labelbasmala1b2f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1b2s.caption
 msgctxt "tformmain.labelbasmala1b2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1p2s.caption
 msgctxt "tformmain.labelbasmala1p2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1p4f.caption
 msgctxt "tformmain.labelbasmala1p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1p4s.caption
 msgctxt "tformmain.labelbasmala1p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1sh2s.caption
 msgctxt "tformmain.labelbasmala1sh2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1sh3f.caption
 msgctxt "tformmain.labelbasmala1sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1v3v.caption
 msgctxt "tformmain.labelbasmala1v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1x2s.caption
 msgctxt "tformmain.labelbasmala1x2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala1x4f.caption
 msgctxt "tformmain.labelbasmala1x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2a4f.caption
 msgctxt "tformmain.labelbasmala2a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2b2f.caption
 msgctxt "tformmain.labelbasmala2b2f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2b2s.caption
 msgctxt "tformmain.labelbasmala2b2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2p2s.caption
 msgctxt "tformmain.labelbasmala2p2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2p4f.caption
 msgctxt "tformmain.labelbasmala2p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2p4s.caption
 msgctxt "tformmain.labelbasmala2p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2sh2s.caption
 msgctxt "tformmain.labelbasmala2sh2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2sh3f.caption
 msgctxt "tformmain.labelbasmala2sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2v3v.caption
 msgctxt "tformmain.labelbasmala2v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2x2s.caption
 msgctxt "tformmain.labelbasmala2x2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala2x4f.caption
 msgctxt "tformmain.labelbasmala2x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala3a4f.caption
 msgctxt "tformmain.labelbasmala3a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala3p4f.caption
 msgctxt "tformmain.labelbasmala3p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala3p4s.caption
 msgctxt "tformmain.labelbasmala3p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala3sh3f.caption
 msgctxt "tformmain.labelbasmala3sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala3v3v.caption
 msgctxt "tformmain.labelbasmala3v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala3x4f.caption
 msgctxt "tformmain.labelbasmala3x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala4a4f.caption
 msgctxt "tformmain.labelbasmala4a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala4p4f.caption
 msgctxt "tformmain.labelbasmala4p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala4p4s.caption
 msgctxt "tformmain.labelbasmala4p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbasmala4x4f.caption
 msgctxt "tformmain.labelbasmala4x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
 #: tformmain.labelbomdod.caption
 msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda o'qish mustahab, a'loroqdir. Soat bo'yicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari o'qish mustahab vaqtiga muvofiq bo'ladi."
@@ -1662,32 +1662,32 @@ msgstr ""
 #: tformmain.labelfalaqb2f.caption
 msgctxt "tformmain.labelfalaqb2f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqp2s.caption
 msgctxt "tformmain.labelfalaqp2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqp4s.caption
 msgctxt "tformmain.labelfalaqp4s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqsh2s.caption
 msgctxt "tformmain.labelfalaqsh2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqv3v.caption
 msgctxt "tformmain.labelfalaqv3v.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqx2s.caption
 msgctxt "tformmain.labelfalaqx2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfotiha1a4f.caption
 msgctxt "tformmain.labelfotiha1a4f.caption"
@@ -2012,92 +2012,92 @@ msgstr ""
 #: tformmain.labeliqomata4f.caption
 msgctxt "tformmain.labeliqomata4f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Иқомат ўқилади."
 
 #: tformmain.labeliqomatb2f.caption
 msgctxt "tformmain.labeliqomatb2f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Иқомат ўқилади."
 
 #: tformmain.labeliqomatp4f.caption
 msgctxt "tformmain.labeliqomatp4f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Иқомат ўқилади."
 
 #: tformmain.labeliqomatsh3f.caption
 msgctxt "tformmain.labeliqomatsh3f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Иқомат ўқилади."
 
 #: tformmain.labeliqomatx4f.caption
 msgctxt "tformmain.labeliqomatx4f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Иқомат ўқилади."
 
 #: tformmain.labelixlosa4f.caption
 msgctxt "tformmain.labelixlosa4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosb2s.caption
 msgctxt "tformmain.labelixlosb2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosp4f.caption
 msgctxt "tformmain.labelixlosp4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosp4s.caption
 msgctxt "tformmain.labelixlosp4s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlossh3f.caption
 msgctxt "tformmain.labelixlossh3f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosv3v.caption
 msgctxt "tformmain.labelixlosv3v.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosx4f.caption
 msgctxt "tformmain.labelixlosx4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsara4f.caption
 msgctxt "tformmain.labelkavsara4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarb2s.caption
 msgctxt "tformmain.labelkavsarb2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarp4f.caption
 msgctxt "tformmain.labelkavsarp4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarp4s.caption
 msgctxt "tformmain.labelkavsarp4s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarsh3f.caption
 msgctxt "tformmain.labelkavsarsh3f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarx4f.caption
 msgctxt "tformmain.labelkavsarx4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkursia4f.caption
 msgctxt "tformmain.labelkursia4f.caption"
@@ -2127,32 +2127,32 @@ msgstr ""
 #: tformmain.labelnasb2f.caption
 msgctxt "tformmain.labelnasb2f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnasp2s.caption
 msgctxt "tformmain.labelnasp2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnasp4s.caption
 msgctxt "tformmain.labelnasp4s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnassh2s.caption
 msgctxt "tformmain.labelnassh2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnasv3v.caption
 msgctxt "tformmain.labelnasv3v.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnasx2s.caption
 msgctxt "tformmain.labelnasx2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Зам сура ўқилади."
 
 #: tformmain.labelniyata4f.caption
 msgctxt "tformmain.labelniyata4f.caption"
@@ -2206,7 +2206,7 @@ msgstr ""
 
 #: tformmain.labelqunut.caption
 msgid "Qunut duosi o'qiladi."
-msgstr ""
+msgstr "Қунут дуоси ўқилади."
 
 #: tformmain.labelrobbanaa4f.caption
 msgctxt "tformmain.labelrobbanaa4f.caption"
@@ -3653,33 +3653,33 @@ msgstr ""
 #: tformmain.menuitemabout.caption
 msgctxt "tformmain.menuitemabout.caption"
 msgid "Dastur haqida"
-msgstr ""
+msgstr "Дастур ҳақида"
 
 #: tformmain.menuitemexit.caption
 msgid "Chiqish"
-msgstr ""
+msgstr "Чиқиш"
 
 #: tformmain.menuitemfile.caption
 msgid "Fayl"
-msgstr ""
+msgstr "Файл"
 
 #: tformmain.menuitemhelp.caption
 msgid "Yordam"
-msgstr ""
+msgstr "Ёрдам"
 
 #: tformmain.menuitemsettings.caption
 msgctxt "tformmain.menuitemsettings.caption"
 msgid "Sozlamalar"
-msgstr ""
+msgstr "Созламалар"
 
 #: tformmain.menuitemtools.caption
 msgid "Asboblar"
-msgstr ""
+msgstr "Асбоблар"
 
 #: tformmain.tabsheeta4f.caption
 msgctxt "tformmain.tabsheeta4f.caption"
 msgid "4 rak'at farz"
-msgstr ""
+msgstr "4 ракъат фарз"
 
 #: tformmain.tabsheetasr.caption
 msgctxt "tformmain.tabsheetasr.caption"
@@ -3688,12 +3688,12 @@ msgstr "Аср"
 
 #: tformmain.tabsheetb2f.caption
 msgid "2 rak'at farz"
-msgstr ""
+msgstr "2 ракъат фарз"
 
 #: tformmain.tabsheetb2s.caption
 msgctxt "tformmain.tabsheetb2s.caption"
 msgid "2 rak'at sunnat"
-msgstr ""
+msgstr "2 ракъат суннат"
 
 #: tformmain.tabsheetbomdod.caption
 msgctxt "tformmain.tabsheetbomdod.caption"
@@ -3958,16 +3958,16 @@ msgstr ""
 #: tformmain.tabsheetp2s.caption
 msgctxt "tformmain.tabsheetp2s.caption"
 msgid "2 rak'at sunnat"
-msgstr ""
+msgstr "2 ракъат суннат"
 
 #: tformmain.tabsheetp4f.caption
 msgctxt "tformmain.tabsheetp4f.caption"
 msgid "4 rak'at farz"
-msgstr ""
+msgstr "4 ракъат фарз"
 
 #: tformmain.tabsheetp4s.caption
 msgid "4 rak'at sunnat"
-msgstr ""
+msgstr "4 ракъат суннат"
 
 #: tformmain.tabsheetpeshin.caption
 msgctxt "tformmain.tabsheetpeshin.caption"
@@ -4917,11 +4917,11 @@ msgstr ""
 #: tformmain.tabsheetsh2s.caption
 msgctxt "tformmain.tabsheetsh2s.caption"
 msgid "2 rak'at sunnat"
-msgstr ""
+msgstr "2 ракъат суннат"
 
 #: tformmain.tabsheetsh3f.caption
 msgid "3 rak'at farz"
-msgstr ""
+msgstr "3 ракъат фарз"
 
 #: tformmain.tabsheetshom.caption
 msgctxt "tformmain.tabsheetshom.caption"
@@ -4931,17 +4931,17 @@ msgstr "Шом"
 #: tformmain.tabsheetv3v.caption
 msgctxt "tformmain.tabsheetv3v.caption"
 msgid "3 rak'at vitr vojib"
-msgstr ""
+msgstr "3 ракъат витр вожиб"
 
 #: tformmain.tabsheetx2s.caption
 msgctxt "tformmain.tabsheetx2s.caption"
 msgid "2 rak'at sunnat"
-msgstr ""
+msgstr "2 ракъат суннат"
 
 #: tformmain.tabsheetx4f.caption
 msgctxt "tformmain.tabsheetx4f.caption"
 msgid "4 rak'at farz"
-msgstr ""
+msgstr "4 ракъат фарз"
 
 #: tformmain.tabsheetxufton.caption
 msgctxt "tformmain.tabsheetxufton.caption"
@@ -4951,48 +4951,47 @@ msgstr "Хуфтон"
 #: tformmain.toggleboximage.caption
 msgctxt "tformmain.toggleboximage.caption"
 msgid "Tasvirlarni yashirish"
-msgstr ""
+msgstr "Тасвирларни яшириш"
 
 #: tformsettings.buttonfont.caption
 msgid "Shrift o'zgartirish"
-msgstr ""
+msgstr "Шрифт ўзгартириш"
 
 #: tformsettings.buttonpanel.cancelbutton.caption
 msgctxt "tformsettings.buttonpanel.cancelbutton.caption"
 msgid "Bekor qilish"
-msgstr ""
+msgstr "Бекор қилиш"
 
 #: tformsettings.buttonpanel.okbutton.caption
 msgctxt "tformsettings.buttonpanel.okbutton.caption"
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 #: tformsettings.caption
 msgctxt "tformsettings.caption"
 msgid "Sozlamalar"
-msgstr ""
+msgstr "Созламалар"
 
 #: tformsettings.fontdialog.title
 msgid "Shrift tanlash"
-msgstr ""
+msgstr "Шрифт танлаш"
 
 #: tformsettings.groupboxinterface.caption
 msgid "Interfeys"
-msgstr ""
+msgstr "Интерфейс"
 
 #: tformsettings.groupboxlanguage.caption
 msgid "Til"
-msgstr ""
+msgstr "Тил"
 
 #: tformsettings.groupboxrun.caption
 msgid "Dastur ishga tushirilganda"
-msgstr ""
+msgstr "Дастур ишга туширилганда"
 
 #: tformsettings.radiobuttoncontinue.caption
 msgid "qolgan goydan davom etilsin"
-msgstr ""
+msgstr "қолган жойдан давом этилсин"
 
 #: tformsettings.radiobuttonstart.caption
 msgid "boshdan ishga tushirilsin"
-msgstr ""
-
+msgstr "бошдан ишга туширилсин"
