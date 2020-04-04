@@ -6,7 +6,7 @@
 {"hash":33650750,"name":"tformsettings.radiobuttoncontinue.caption","sourcebytes":[113,111,108,103,97,110,32,103,111,121,100,97,110,32,100,97,118,111,109,32,101,116,105,108,115,105,110],"value":"qolgan goydan davom etilsin"},
 {"hash":23292,"name":"tformsettings.groupboxlanguage.caption","sourcebytes":[84,105,108],"value":"Til"},
 {"hash":156729432,"name":"tformsettings.buttonfont.caption","sourcebytes":[83,104,114,105,102,116,32,111,39,122,103,97,114,116,105,114,105,115,104],"value":"Shrift o'zgartirish"},
-{"hash":11067,"name":"tformsettings.buttonpanel.okbutton.caption","sourcebytes":[38,79,75],"value":"&OK"},
+{"hash":1339,"name":"tformsettings.buttonpanel.okbutton.caption","sourcebytes":[79,75],"value":"OK"},
 {"hash":66328280,"name":"tformsettings.buttonpanel.cancelbutton.caption","sourcebytes":[66,101,107,111,114,32,113,105,108,105,115,104],"value":"Bekor qilish"},
 {"hash":101514104,"name":"tformsettings.fontdialog.title","sourcebytes":[83,104,114,105,102,116,32,116,97,110,108,97,115,104],"value":"Shrift tanlash"}
 ]}

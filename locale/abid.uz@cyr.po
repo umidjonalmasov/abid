@@ -56,6 +56,14 @@ msgstr ""
 msgid "github.com/umidjonalmasov/abid"
 msgstr ""
 
+#: tformabout.panelazankz.caption
+msgid "AZAN.KZ"
+msgstr ""
+
+#: tformabout.panelislomuz.caption
+msgid "ISLOM.UZ"
+msgstr ""
+
 #: tformabout.tabsheetabid.caption
 msgctxt "tformabout.tabsheetabid.caption"
 msgid "Abid"
@@ -877,6 +885,14 @@ msgstr ""
 
 #: tformmain.actionprevious.caption
 msgid "ActionPrevious"
+msgstr ""
+
+#: tformmain.buttonnext.hint
+msgid "Keyingi"
+msgstr ""
+
+#: tformmain.buttonprevious.hint
+msgid "Oldingi"
 msgstr ""
 
 #: tformmain.caption
@@ -4936,7 +4952,7 @@ msgstr ""
 
 #: tformsettings.buttonpanel.okbutton.caption
 msgctxt "tformsettings.buttonpanel.okbutton.caption"
-msgid "&OK"
+msgid "OK"
 msgstr ""
 
 #: tformsettings.caption

@@ -31,6 +31,8 @@ type
   { TFormAbout }
 
   TFormAbout = class(TForm)
+    ImageIslomUz: TImage;
+    ImageAzanKz: TImage;
     ImageLogo: TImage;
     LabelDedication: TLabel;
     LabelHadis: TLabel;
@@ -42,10 +44,14 @@ type
     LabelBasmala: TLabel;
     MemoLicense: TMemo;
     PageControl: TPageControl;
+    PanelIslomUz: TPanel;
+    PanelAzanKz: TPanel;
     TabSheetAbid: TTabSheet;
     TabSheetContributors: TTabSheet;
     TabSheetLicense: TTabSheet;
     procedure LabelWebClick(Sender: TObject);
+    procedure PanelAzanKzClick(Sender: TObject);
+    procedure PanelIslomUzClick(Sender: TObject);
   private
 
   public
@@ -63,7 +69,17 @@ implementation
 
 procedure TFormAbout.LabelWebClick(Sender: TObject);
 begin
-  OpenURL('https://github.com/umidjonalmasov/abid')
+  OpenURL('https://github.com/umidjonalmasov/abid');
+end;
+
+procedure TFormAbout.PanelAzanKzClick(Sender: TObject);
+begin
+  OpenURL('https://azan.kz/')
+end;
+
+procedure TFormAbout.PanelIslomUzClick(Sender: TObject);
+begin
+  OpenURL('https://islom.uz/');
 end;
 
 end.
