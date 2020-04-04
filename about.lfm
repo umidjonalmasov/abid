@@ -22,13 +22,13 @@ object FormAbout: TFormAbout
     TabOrder = 0
     object TabSheetAbid: TTabSheet
       Caption = 'Abid'
-      ClientHeight = 390
-      ClientWidth = 490
+      ClientHeight = 386
+      ClientWidth = 494
       object LabelBasmala: TLabel
         Left = 10
         Height = 16
         Top = 10
-        Width = 470
+        Width = 474
         Align = alTop
         Alignment = taCenter
         BorderSpacing.Around = 10
@@ -257,8 +257,8 @@ object FormAbout: TFormAbout
       object LabelCopyright: TLabel
         Left = 10
         Height = 16
-        Top = 338
-        Width = 470
+        Top = 334
+        Width = 474
         Align = alBottom
         Alignment = taCenter
         BorderSpacing.Around = 10
@@ -269,14 +269,14 @@ object FormAbout: TFormAbout
         Cursor = crHandPoint
         Left = 10
         Height = 16
-        Top = 364
-        Width = 470
+        Top = 360
+        Width = 474
         Align = alBottom
         Alignment = taCenter
         BorderSpacing.Around = 10
-        Caption = 'gitlab.com/almasov/abid'
+        Caption = 'github.com/umidjonalmasov/abid'
         Color = clDefault
-        Font.Color = clHighlight
+        Font.Color = clHighlightText
         ParentColor = False
         ParentFont = False
         Transparent = False
@@ -295,7 +295,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 48
         Top = 36
-        Width = 470
+        Width = 474
         Align = alTop
         BorderSpacing.Around = 10
         Caption = 'Alloh taolo shunday marhamat etadi:'#10'«Namozni to''kis ado qiling, zakotni bering va ruku'' qiluvchilar bilan ruku'' qiling»'#10'(Baqara surasi, 43-oyat).'
@@ -308,7 +308,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 48
         Top = 94
-        Width = 470
+        Width = 474
         Align = alTop
         BorderSpacing.Around = 10
         Caption = 'Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb so''rashganida: «Vaqtida o''qilgan namoz», deb javob berganlar'#10'(Imom Buxoriy va Muslim rivoyat qilishgan).'
@@ -332,8 +332,8 @@ object FormAbout: TFormAbout
     end
     object TabSheetLicense: TTabSheet
       Caption = 'Litsenziyalar'
-      ClientHeight = 390
-      ClientWidth = 490
+      ClientHeight = 386
+      ClientWidth = 494
       object MemoLicense: TMemo
         Left = 0
         Height = 325

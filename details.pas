@@ -67,13 +67,13 @@ type
     LabelSalavotPr: TLabel;
     LabelQunutPr: TLabel;
     LabelTashahhudTr: TLabel;
-    LabelSamiallohAr: TLabel;
+    LabelTasmeAr: TLabel;
     LabelAziymPr: TLabel;
     LabelHamdAr: TLabel;
-    LabelSamiallohPr: TLabel;
+    LabelTasmePr: TLabel;
     LabelAziymTr: TLabel;
     LabelHamdPr: TLabel;
-    LabelSamiallohTr: TLabel;
+    LabelTasmeTr: TLabel;
     LabelFalaqAr: TLabel;
     LabelNasAr: TLabel;
     LabelFalaqPr: TLabel;
@@ -138,7 +138,7 @@ type
     ScrollBoxDuoF: TScrollBox;
     ScrollBoxSalom: TScrollBox;
     ScrollBoxTashahhud: TScrollBox;
-    ScrollBoxSamialloh: TScrollBox;
+    ScrollBoxTasme: TScrollBox;
     ScrollBoxNas: TScrollBox;
     ScrollBoxFotiha: TScrollBox;
     ScrollBoxFalaq: TScrollBox;
@@ -166,7 +166,7 @@ type
     TabSheetTashahhud: TTabSheet;
     TabSheetAla: TTabSheet;
     TabSheetHamd: TTabSheet;
-    TabSheetSamialloh: TTabSheet;
+    TabSheetTasme: TTabSheet;
     TabSheetAziym: TTabSheet;
     TabSheetNas: TTabSheet;
     TabSheetFalaq: TTabSheet;
@@ -356,9 +356,9 @@ begin
        end
       else
         ButtonPlay.Enabled:=false;
-  14: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/samialloh.ogg') then
+  14: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasme.ogg') then
         begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/samialloh.ogg');
+         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasme.ogg');
          ButtonPlay.Enabled:=true;
        end
       else
@@ -463,7 +463,6 @@ procedure TFormDetails.FormClose(Sender: TObject; var CloseAction: TCloseAction
   );
 begin
   BASS_Free();
-  ButtonPlay.Enabled:=true;
   ButtonPause.Enabled:=false;
   ButtonStop.Enabled:=false;
   Timer.Enabled:=false;
