@@ -47,10 +47,12 @@ msgid "github.com/umidjonalmasov/abid"
 msgstr ""
 
 #: tformabout.panelazankz.caption
+msgctxt "tformabout.panelazankz.caption"
 msgid "AZAN.KZ"
 msgstr ""
 
 #: tformabout.panelislomuz.caption
+msgctxt "tformabout.panelislomuz.caption"
 msgid "ISLOM.UZ"
 msgstr ""
 
