@@ -25,9 +25,9 @@ msgstr ""
 
 #: tformabout.labeldedication.caption
 msgid ""
-"Ushbu dasturni va undan savobni\n"
+"Ushbu dasturni va u uchun savobni\n"
 "marhum otam Almasov Ja'farga\n"
-"bag'ishladim\n"
+"bag'ishlayman\n"
 msgstr ""
 
 #: tformabout.labeldescription.caption
@@ -878,14 +878,6 @@ msgstr ""
 
 #: tformdetails.tabsheettasme.caption
 msgid "Tasme"
-msgstr ""
-
-#: tformmain.actionnext.caption
-msgid "ActionNext"
-msgstr ""
-
-#: tformmain.actionprevious.caption
-msgid "ActionPrevious"
 msgstr ""
 
 #: tformmain.buttonnext.hint
