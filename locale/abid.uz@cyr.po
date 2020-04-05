@@ -616,7 +616,7 @@ msgid ""
 "Alloh ulug'dir Alloh ulug'dir\n"
 "Allohdan o'zga iloh yo'q\n"
 msgstr ""
-"Маъноси\n"
+"Маъноси:\n"
 "Аллоҳ улуғдир Аллоҳ улуғдир\n"
 "Аллоҳ улуғдир Аллоҳ улуғдир\n"
 "Гувоҳлик бераманки, Аллоҳдан бошқа илоҳ йўқ\n"
@@ -833,6 +833,13 @@ msgid ""
 "va ilayka nas'a va nahfidu, narju rohmataka va naxsha 'azabaka,\n"
 "inna 'azabaka bil kuffari mulhiq.\n"
 msgstr ""
+"Аллоҳумма! Иннаа настаъийнука ва настағфирук.\n"
+"Ва нуъмину бика ва натаваккалу ъалайка ва нусний ъалайкал хойр.\n"
+"Нашкурука ва ла накфурук.\n"
+"Ва нахлаъу ва натруку ман йафжурук.\n"
+"Аллоҳумма! Иййака наъбуду ва лака нусоллий ва насжуду,\n"
+"ва илайка насъа ва наҳфиду, наржу роҳматака ва нахша ъазабака,\n"
+"инна ъазабака бил куффари мулҳиқ.\n"
 
 #: tformdetails.labelqunuttr.caption
 msgid ""
@@ -847,6 +854,16 @@ msgid ""
 "Va Sening rahmatingni umid qilamiz va azobingdan qo'rqamiz.\n"
 "Albatta, azobing kofirlarga etguvchidir.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳим! Албатта, Сендан ёрдам сўраймиз, Сендан ҳидоят сўраймиз,\n"
+"Сенга истиғфор айтамиз ва Сенга тавба қиламиз.\n"
+"Сенга иймон келтирамиз ва Сенга таваккал қиламиз.\n"
+"Сенга шукр қиламиз, куфр келтирмаймиз.\n"
+"Ва ким Сенга фожирлик қилса, уни ажратамиз ва тарк қиламиз.\n"
+"Аллоҳим! Сенгагина ибодат қиламиз, Сенгагина намоз ўқиймиз ва сажда қиламиз,\n"
+"Сенгагина интиламиз ва шошиламиз.\n"
+"Ва Сенинг раҳматингни умид қиламиз ва азобингдан қўрқамиз.\n"
+"Албатта, азобинг кофирларга етгувчидир.\n"
 
 # Do not translate
 #: tformdetails.labelrobbanaar.caption
@@ -855,13 +872,15 @@ msgstr ""
 
 #: tformdetails.labelrobbanapr.caption
 msgid "Robbana! Atina fid dunya hasanatav va fil axiroti hasanatav-va qina 'azaban nar."
-msgstr ""
+msgstr "Роббана! Атина фид дунйа ҳасанатав ва фил ахироти ҳасанатав-ва қина ъазабан нар."
 
 #: tformdetails.labelrobbanatr.caption
 msgid ""
 "Ma'nosi:\n"
 "Robbimiz! Bizlarga dunyoda ham, oxiratda ham yaxshilik ber va do'zax azobidan asra.\n"
 msgstr ""
+"Маъноси:\n"
+"Роббимиз! Бизларга дунёда ҳам, охиратда ҳам яхшилик бер ва дўзах азобидан асра.\n"
 
 # Do not translate
 #: tformdetails.labelsalavotar.caption
@@ -870,13 +889,15 @@ msgstr ""
 
 #: tformdetails.labelsalavotpr.caption
 msgid "Allohumma! Solli 'ala Muhammadiv va 'ala ali Muhammad. Kama sollayta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd. Allohumma! Barik 'ala Muhammadiv va 'ala ali Muhammad. Kama barokta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd."
-msgstr ""
+msgstr "Аллоҳумма! Солли ъала Муҳаммадив ва ъала али Муҳаммад. Кама соллайта ъала Иброҳима ва ъала али Иброҳим. Иннака ҳамидум мажийд. Аллоҳумма! Барик ъала Муҳаммадив ва ъала али Муҳаммад. Кама барокта ъала Иброҳима ва ъала али Иброҳим. Иннака ҳамидум мажийд."
 
 #: tformdetails.labelsalavottr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'zingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z barakangni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'z barakangni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan!\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳим! Иброҳимга ва Иброҳимнинг аҳли байтларига Ўз раҳматингни нозил қилганингдек, Муҳаммадга ва Муҳаммаднинг оила аъзоларига Ўзингнинг зиёда раҳматларингни нозил қилгин! Албатта, Сен мақталган, улуғланган Зотсан! Аллоҳим! Иброҳимга ва Иброҳимнинг аҳли байтларига Ўз баракангни нозил қилганингдек, Муҳаммадга ва Муҳаммаднинг оила аъзоларига Ўз баракангни нозил қилгин! Албатта, Сен мақталган, улуғланган Зотсан!\n"
 
 # Do not translate
 #: tformdetails.labelsalomar.caption
@@ -887,7 +908,7 @@ msgstr ""
 #: tformdetails.labelsalompr.caption
 msgctxt "tformdetails.labelsalompr.caption"
 msgid "Assalomu alaykum va rahmatulloh."
-msgstr ""
+msgstr "Ассалому алайкум ва раҳматуллоҳ."
 
 #: tformdetails.labelsalomtr.caption
 msgctxt "tformdetails.labelsalomtr.caption"
@@ -895,6 +916,8 @@ msgid ""
 "Ma'nosi:\n"
 "Sizlarga Allohning salomi va rahmati bo'lsin.\n"
 msgstr ""
+"Маъноси:\n"
+"Сизларга Аллоҳнинг саломи ва раҳмати бўлсин.\n"
 
 # Do not translate
 #: tformdetails.labelsanoar.caption
@@ -903,13 +926,15 @@ msgstr ""
 
 #: tformdetails.labelsanopr.caption
 msgid "Subhanakallohumma va bihamdika va tabarokasmuka va ta'ala jadduka va la ilaha g'oyruk."
-msgstr ""
+msgstr "Субҳанакаллоҳумма ва биҳамдика ва табарокасмука ва таъала жаддука ва ла илаҳа ғойрук."
 
 #: tformdetails.labelsanotr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohim! Seni pok Zot deb yod qilurman. Sening isming muborakdir. Martabang ulug'dir. Sendan o'zga iloh yo'qdir.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳим! Сени пок Зот деб ёд қилурман. Сенинг исминг муборакдир. Мартабанг улуғдир. Сендан ўзга илоҳ йўқдир.\n"
 
 # Do not translate
 #: tformdetails.labelsubhanallohar.caption
@@ -931,6 +956,8 @@ msgid ""
 "Ma'nosi:\n"
 "Allohni poklab zikr etaman.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳни поклаб зикр этаман.\n"
 
 # Do not translate
 #: tformdetails.labeltaavvuzar.caption
@@ -939,13 +966,15 @@ msgstr ""
 
 #: tformdetails.labeltaavvuzpr.caption
 msgid "A'uzu billahi minash shaytonir rojiym."
-msgstr ""
+msgstr "Аъузу биллаҳи минаш шайтонир рожийм."
 
 #: tformdetails.labeltaavvuztr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohning dargohidan quvilgan shayton yomonligidan Allohning panohiga qochaman.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳнинг даргоҳидан қувилган шайтон ёмонлигидан Аллоҳнинг паноҳига қочаман.\n"
 
 # Do not translate
 #: tformdetails.labeltakbirar.caption
@@ -972,13 +1001,15 @@ msgstr ""
 
 #: tformdetails.labeltashahhudpr.caption
 msgid "At-tahiyyatu lillahi vas-solavatu vat-toyyibat. Assalamu 'alayka ayyuhan-nabiyyu va rohmatullohi va barokatuh. Assalamu 'alayna va a'la 'ibadillahis solihiyn. Ashhadu alla ilaha illallohu va ashhadu anna Muhammadan 'abduhu va rosuluhu."
-msgstr ""
+msgstr "Ат-таҳиййату лиллаҳи вас-солавату ват-тоййибат. Ассаламу ъалайка аййуҳан-набиййу ва роҳматуллоҳи ва барокатуҳ. Ассаламу ъалайна ва аъла ъибадиллаҳис солиҳийн. Ашҳаду алла илаҳа иллаллоҳу ва ашҳаду анна Муҳаммадан ъабдуҳу ва росулуҳу."
 
 #: tformdetails.labeltashahhudtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi bo'lsin. Bizlarga va Allohning solih bandalariga salom bo'lsin. Allohdan o'zga iloh yo'q deb guvohlik beraman va albatta, Muhammad Allohning Rasuli deb guvohlik beraman.\n"
 msgstr ""
+"Маъноси:\n"
+"Барокатли табриклар ва покиза салавотлар Аллоҳ учундир. Эй Набий! Сенга салом, Аллоҳнинг раҳмати ва баракаси бўлсин. Бизларга ва Аллоҳнинг солиҳ бандаларига салом бўлсин. Аллоҳдан ўзга илоҳ йўқ деб гувоҳлик бераман ва албатта, Муҳаммад  Аллоҳнинг Расули деб гувоҳлик бераман.\n"
 
 # Do not translate
 #: tformdetails.labeltasmear.caption
@@ -997,6 +1028,8 @@ msgid ""
 "Ma'nosi:\n"
 "Alloh O'ziga hamd aytgan kishini eshitadi.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳ Ўзига ҳамд айтган кишини эшитади.\n"
 
 # Do not translate
 #: tformdetails.labeltavhidar.caption
@@ -1005,13 +1038,15 @@ msgstr ""
 
 #: tformdetails.labeltavhidpr.caption
 msgid "La ilaha illallohu vahdahu la sharika lahu, lahul mulku va lahul hamdu va huva 'ala kulli shay'in qodir."
-msgstr ""
+msgstr "Ла илаҳа иллаллоҳу ваҳдаҳу ла шарика лаҳу, лаҳул мулку ва лаҳул ҳамду ва ҳува ъала кулли шайъин қодир."
 
 #: tformdetails.labeltavhidtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohdan o'zga iloh yo'q. U yagonadir, sherigi yo'q, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳдан ўзга илоҳ йўқ. У ягонадир, шериги йўқ, бутун мулк Уникидир. Ҳамд-мақтов Унга хосдир. Ва У ҳар нарсага қодир зотдир.\n"
 
 # Do not translate
 #: tformdetails.tabsheetala.caption
@@ -1147,7 +1182,6 @@ msgid "Tasme"
 msgstr ""
 
 #: tformmain.buttonimage.caption
-#, fuzzy
 msgctxt "tformmain.buttonimage.caption"
 msgid "Tasvirlarni yashirish"
 msgstr "Тасвирларни яшириш"
@@ -5483,4 +5517,3 @@ msgstr "қолган жойдан давом этилсин"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshdan ishga tushirilsin"
 msgstr "бошдан ишга туширилсин"
-
