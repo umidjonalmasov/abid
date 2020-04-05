@@ -1947,6 +1947,7 @@ type
     ButtonAzonB2S: TSpeedButton;
     ButtonPrevious: TSpeedButton;
     ButtonNext: TSpeedButton;
+    ButtonImage: TSpeedButton;
     SplitterBomdod: TSplitter;
     SplitterPeshin: TSplitter;
     SplitterAsr: TSplitter;
@@ -2207,9 +2208,9 @@ type
     TabSheetAsr: TTabSheet;
     TabSheetShom: TTabSheet;
     TabSheetXufton: TTabSheet;
-    ToggleBoxImage: TToggleBox;
     procedure ActionNextExecute(Sender: TObject);
     procedure ActionPreviousExecute(Sender: TObject);
+    procedure ButtonImageClick(Sender: TObject);
     procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
     procedure FormCreate(Sender: TObject);
     procedure MenuItemExitClick(Sender: TObject);
@@ -2244,7 +2245,6 @@ type
     procedure ProcTakbir(Sender: TObject);
     procedure ProcTashahhud(Sender: TObject);
     procedure FormActivate(Sender: TObject);
-    procedure ToggleBoxImageClick(Sender: TObject);
     procedure ProcImagesLoad(Sender: TObject);
     procedure ProcImageKirish;
     procedure ProcImageQiyom;
@@ -2269,20 +2269,6 @@ implementation
 {$R *.lfm}
 
 { TFormMain }
-
-procedure TFormMain.ToggleBoxImageClick(Sender: TObject);
-begin
-  if PanelImage.Visible=true then
-    begin
-      PanelImage.Hide;
-      ToggleBoxImage.Caption:=ImageShow;
-    end
-  else
-    begin
-      PanelImage.Show;
-      ToggleBoxImage.Caption:=ImageHide;
-    end
-end;
 
 procedure TFormMain.ButtonPreviousClick(Sender: TObject);
 begin
@@ -2615,6 +2601,20 @@ begin
      end;
   end;
   FormMain.ProcImagesLoad(self);
+end;
+
+procedure TFormMain.ButtonImageClick(Sender: TObject);
+begin
+  if PanelImage.Visible=true then
+    begin
+      PanelImage.Hide;
+      ButtonImage.Caption:=ImageShow;
+    end
+  else
+    begin
+      PanelImage.Show;
+      ButtonImage.Caption:=ImageHide;
+    end
 end;
 
 procedure TFormMain.FormClose(Sender: TObject; var CloseAction: TCloseAction);
