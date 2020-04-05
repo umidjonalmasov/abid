@@ -1034,14 +1034,6 @@ msgstr ""
 msgid "Tasme"
 msgstr ""
 
-#: tformmain.actionnext.caption
-msgid "ActionNext"
-msgstr ""
-
-#: tformmain.actionprevious.caption
-msgid "ActionPrevious"
-msgstr ""
-
 #: tformmain.buttonimage.caption
 #, fuzzy
 msgctxt "tformmain.buttonimage.caption"

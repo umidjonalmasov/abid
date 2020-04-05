@@ -25,9 +25,9 @@ msgstr ""
 
 #: tformabout.labeldedication.caption
 msgid ""
-"Ushbu dasturni va undan savobni\n"
+"Ushbu dasturni va u uchun savobni\n"
 "marhum otam Almasov Ja'farga\n"
-"bag'ishladim\n"
+"bag'ishlayman\n"
 msgstr ""
 
 #: tformabout.labeldescription.caption
@@ -880,12 +880,9 @@ msgstr ""
 msgid "Tasme"
 msgstr ""
 
-#: tformmain.actionnext.caption
-msgid "ActionNext"
-msgstr ""
-
-#: tformmain.actionprevious.caption
-msgid "ActionPrevious"
+#: tformmain.buttonimage.caption
+msgctxt "tformmain.buttonimage.caption"
+msgid "Tasvirlarni yashirish"
 msgstr ""
 
 #: tformmain.buttonnext.hint
@@ -4936,11 +4933,6 @@ msgstr ""
 #: tformmain.tabsheetxufton.caption
 msgctxt "tformmain.tabsheetxufton.caption"
 msgid "Xufton"
-msgstr ""
-
-#: tformmain.toggleboximage.caption
-msgctxt "tformmain.toggleboximage.caption"
-msgid "Tasvirlarni yashirish"
 msgstr ""
 
 #: tformsettings.buttonfont.caption
