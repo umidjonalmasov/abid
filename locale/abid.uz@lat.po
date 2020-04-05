@@ -880,6 +880,19 @@ msgstr ""
 msgid "Tasme"
 msgstr ""
 
+#: tformmain.actionnext.caption
+msgid "ActionNext"
+msgstr ""
+
+#: tformmain.actionprevious.caption
+msgid "ActionPrevious"
+msgstr ""
+
+#: tformmain.buttonimage.caption
+msgctxt "tformmain.buttonimage.caption"
+msgid "Tasvirlarni yashirish"
+msgstr ""
+
 #: tformmain.buttonnext.hint
 msgid "Keyingi"
 msgstr ""
@@ -4928,11 +4941,6 @@ msgstr ""
 #: tformmain.tabsheetxufton.caption
 msgctxt "tformmain.tabsheetxufton.caption"
 msgid "Xufton"
-msgstr ""
-
-#: tformmain.toggleboximage.caption
-msgctxt "tformmain.toggleboximage.caption"
-msgid "Tasvirlarni yashirish"
 msgstr ""
 
 #: tformsettings.buttonfont.caption

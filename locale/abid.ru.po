@@ -1034,6 +1034,20 @@ msgstr ""
 msgid "Tasme"
 msgstr ""
 
+#: tformmain.actionnext.caption
+msgid "ActionNext"
+msgstr ""
+
+#: tformmain.actionprevious.caption
+msgid "ActionPrevious"
+msgstr ""
+
+#: tformmain.buttonimage.caption
+#, fuzzy
+msgctxt "tformmain.buttonimage.caption"
+msgid "Tasvirlarni yashirish"
+msgstr "Скрыть изображения"
+
 #: tformmain.buttonnext.hint
 msgid "Keyingi"
 msgstr "Следующий"
@@ -5323,11 +5337,6 @@ msgctxt "tformmain.tabsheetxufton.caption"
 msgid "Xufton"
 msgstr "Иша"
 
-#: tformmain.toggleboximage.caption
-msgctxt "tformmain.toggleboximage.caption"
-msgid "Tasvirlarni yashirish"
-msgstr "Скрыть изображения"
-
 #: tformsettings.buttonfont.caption
 msgid "Shrift o'zgartirish"
 msgstr "Изменить шрифт"
@@ -5370,3 +5379,4 @@ msgstr "продолжить с прошлого места"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshdan ishga tushirilsin"
 msgstr "запустить с начала"
+

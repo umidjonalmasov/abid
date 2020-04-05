@@ -447,6 +447,12 @@ msgid ""
 "Va min sharrin naffasati fil 'uqod\n"
 "Va min sharri hasidin iza hasad\n"
 msgstr ""
+"\n"
+"Қул аъузу бироббил фалақ\n"
+"Мин шарри ма холақ\n"
+"Ва мин шарри ғосиқин иза вақоб\n"
+"Ва мин шаррин наффасати фил ъуқод\n"
+"Ва мин шарри ҳасидин иза ҳасад\n"
 
 #: tformdetails.labelfalaqtr.caption
 msgid ""
@@ -457,6 +463,12 @@ msgid ""
 "Va tugunlarga dam soluvchilar yomonligidan\n"
 "Va hasad qilgan hasadchining yomonligidan, deb ayt\n"
 msgstr ""
+"Маъноси:\n"
+"Тонг Роббисидан паноҳ сўрайман\n"
+"У яратган нарсалар ёмонлигидан\n"
+"Ва кириб келган қоронғулик ёмонлигидан\n"
+"Ва тугунларга дам солувчилар ёмонлигидан\n"
+"Ва ҳасад қилган ҳасадчининг ёмонлигидан, деб айт\n"
 
 # Do not translate
 #: tformdetails.labelfotihaar.caption
@@ -482,6 +494,14 @@ msgid ""
 "Sirotol-laziyna an'amta 'alayhim\n"
 "G'oyril mag'zubi 'alayhim valazzolliyn\n"
 msgstr ""
+"\n"
+"Алҳамду лиллаҳи роббил ъаламийн\n"
+"Ар-роҳманир-роҳийм\n"
+"Малики явмиддийн\n"
+"Иййака наъбуду ва иййака настаъин\n"
+"Иҳдинас сиротол мустақийм\n"
+"Cиротол-лазийна анъамта ъалайҳим\n"
+"Ғойрил мағзуби ъалайҳим валаззоллийн\n"
 
 #: tformdetails.labelfotihatr.caption
 msgid ""
@@ -494,6 +514,14 @@ msgid ""
 "O'zing ne'mat berganlarning yo'liga (boshlagin),\n"
 "G'azabga duchor bo'lganlarning yo'liga emas, adashganlarnikiga ham emas\n"
 msgstr ""
+"Маъноси:\n"
+"Барча мақтов, шукрлар оламларнинг Робби Аллоҳга бўлсин\n"
+"У Роҳман ва Раҳиймдир\n"
+"У қиёмат кунининг эгаси\n"
+"Фақат сенгагина ибодат қиламиз ва фақат сендангина ёрдам сўраймиз\n"
+"Бизни тўғри йўлга бошлагин\n"
+"Ўзинг неъмат берганларнинг йўлига (бошлагин),\n"
+"Ғазабга дучор бўлганларнинг йўлига эмас, адашганларникига ҳам эмас\n"
 
 # Do not translate
 #: tformdetails.labelhamdar.caption
@@ -555,6 +583,20 @@ msgid ""
 "Allohu akbar Allohu akbar\n"
 "Laa ilaaha illalloh\n"
 msgstr ""
+"\n"
+"Аллоҳу акбар Аллоҳу акбар\n"
+"Аллоҳу акбар Аллоҳу акбар\n"
+"Ашҳаду аллаа илааҳа иллаллоҳ\n"
+"Ашҳаду аллаа илааҳа иллаллоҳ\n"
+"Ашҳаду анна Муҳаммадар Расулуллоҳ\n"
+"Ашҳаду анна Муҳаммадар Расулуллоҳ\n"
+"Ҳаййа ъалас-солаҳ\n"
+"Ҳаййа ъалас-солаҳ\n"
+"Ҳаййа ъалал-фалаҳ\n"
+"Ҳаййа ъалал-фалаҳ\n"
+"Қод қоматис-солаҳ Қод қоматис-солаҳ\n"
+"Аллоҳу акбар Аллоҳу акбар\n"
+"Лаа илааҳа иллаллоҳ\n"
 
 #: tformdetails.labeliqomattr.caption
 msgctxt "tformdetails.labeliqomattr.caption"
@@ -574,6 +616,20 @@ msgid ""
 "Alloh ulug'dir Alloh ulug'dir\n"
 "Allohdan o'zga iloh yo'q\n"
 msgstr ""
+"Маъноси\n"
+"Аллоҳ улуғдир Аллоҳ улуғдир\n"
+"Аллоҳ улуғдир Аллоҳ улуғдир\n"
+"Гувоҳлик бераманки, Аллоҳдан бошқа илоҳ йўқ\n"
+"Гувоҳлик бераманки, Аллоҳдан бошқа илоҳ йўқ\n"
+"Гувоҳлик бераманки, Муҳаммад Аллоҳнинг пайғамбаридир\n"
+"Гувоҳлик бераманки, Муҳаммад Аллоҳнинг пайғамбаридир\n"
+"Намозга келингиз\n"
+"Намозга келингиз\n"
+"Нажотга келингиз\n"
+"Нажотга келингиз\n"
+"Намоз бошланиб қолди Намоз бошланиб қолди\n"
+"Аллоҳ улуғдир Аллоҳ улуғдир\n"
+"Аллоҳдан ўзга илоҳ йўқ\n"
 
 # Do not translate
 #: tformdetails.labelixlosar.caption
@@ -593,6 +649,11 @@ msgid ""
 "Lam yalid va lam yulad\n"
 "Va lam yakullahu kufuvan ahad\n"
 msgstr ""
+"\n"
+"Қул ҳуваллоҳу аҳад\n"
+"Аллоҳус-сомад\n"
+"Лам йалид ва лам йулад\n"
+"Ва лам якуллаҳу куфуван аҳад\n"
 
 #: tformdetails.labelixlostr.caption
 msgid ""
@@ -602,6 +663,11 @@ msgid ""
 "U tug'magan va tug'ilmagan\n"
 "Va Unga hech kim teng bo'lmagan\n"
 msgstr ""
+"Маъноси:\n"
+"Айт: «У Аллоҳ ягонадир\n"
+"Аллоҳ сомаддир\n"
+"У туғмаган ва туғилмаган\n"
+"Ва Унга ҳеч ким тенг бўлмаган»\n"
 
 # Do not translate
 #: tformdetails.labelkavsarar.caption
@@ -619,6 +685,10 @@ msgid ""
 "Fasolli lirobbika vanhar\n"
 "Inna shaniaka huval abtar\n"
 msgstr ""
+"\n"
+"Иннаа аътойнакал кавсар\n"
+"Фасолли лироббика ванҳар\n"
+"Инна шаниака ҳувал абтар\n"
 
 #: tformdetails.labelkavsartr.caption
 msgid ""
@@ -627,6 +697,10 @@ msgid ""
 "Bas, Robbingga namoz o'qi va jonlik so'y\n"
 "Albatta, seni yomon ko'rib, ayblovchining orqasi kesikdir\n"
 msgstr ""
+"Маъноси:\n"
+"Албатта, Биз сенга Кавсарни бердик\n"
+"Бас, Роббингга намоз ўқи ва жонлик сўй\n"
+"Албатта, сени ёмон кўриб, айбловчининг орқаси кесикдир\n"
 
 # Do not translate
 #: tformdetails.labelkursiar.caption
@@ -656,6 +730,16 @@ msgid ""
 "Va la yauduhu hifzuhuma\n"
 "Va huval 'aliyyul 'aziym.\n"
 msgstr ""
+"\n"
+"Аллоҳу ла илаҳа илла ҳувал ҳаййул қоййум.\n"
+"Ла таъхузуҳу синатув ва ла навм.\n"
+"Лаҳу ма фис-самавати ва ма фил ард.\n"
+"Ман-заллазии йашфаъу ъиндаҳу илла би изниҳ.\n"
+"Йаъламу ма байна айдийҳим ва ма холфаҳум.\n"
+"Ва ла йуҳитуна бишайъим-мин ъилмиҳии илла бима ша.\n"
+"Васиъа курсийюуҳус-самаавати вал-ард.\n"
+"Ва ла йаудуҳу ҳифзуҳума\n"
+"Ва ҳувал ъалиййул ъазийм\n"
 
 #: tformdetails.labelkursitr.caption
 msgid ""
@@ -670,6 +754,16 @@ msgid ""
 "Ularni muhofaza qilish unga og'ir kelmas.\n"
 "Va U Aliy va Aziymdir.\n"
 msgstr ""
+"Маъноси:\n"
+"Аллоҳ – Ундан ўзга илоҳ йўқ. У Ҳайй ва Қаййумдир.\n"
+"Уни мудроқ ҳам, уйқу ҳам олмас.\n"
+"Осмонлару ердаги нарсалар Уникидир.\n"
+"Унинг ҳузурида Ўзининг изнисиз ҳеч ким шафоат қила олмас.\n"
+"Уларнинг олдиларидаги нарсани ҳам, ортларидаги нарсани ҳам билур.\n"
+"Унинг илмидан Ўзи хоҳлаганидан бошқа ҳеч нарсани иҳота қила олмаслар.\n"
+"Унинг Курсиси осмонлару ерни қамраган.\n"
+"Уларни муҳофаза қилиш унга оғир келмас.\n"
+"Ва У Алий ва Азиймдир.\n"
 
 # Do not translate
 #: tformdetails.labelnasar.caption
@@ -693,6 +787,13 @@ msgid ""
 "Allazi yuvasvisufi sudurin-nas\n"
 "Minal jinnati van-nas\n"
 msgstr ""
+"\n"
+"Қул аъуузу бирробин-наас\n"
+"Маликин-наас\n"
+"Илааҳин-наас\n"
+"Мин шаррил‑васваасил хоннаас\n"
+"Аллазии йувасвису фии судуурин-наас\n"
+"Минал жиннати ван-наас\n"
 
 #: tformdetails.labelnastr.caption
 msgid ""
@@ -704,6 +805,13 @@ msgid ""
 "Odamlar qalbiga vasvasa soladiganning\n"
 "Jinlardan va odamlardan bo'lganning yomonligidan, deb ayt\n"
 msgstr ""
+"Маъноси:\n"
+"Одамлар Роббисидан\n"
+"Одамлар Подшоҳидан\n"
+"Одамлар Илоҳидан паноҳ сўрайман\n"
+"Беркиниб, кўриниб турувчи васвоснинг\n"
+"Одамлар қалбига васваса соладиганнинг\n"
+"Жинлардан ва одамлардан бўлганнинг ёмонлигидан, деб айт\n"
 
 # Do not translate
 #: tformdetails.labelqunutar.caption
@@ -1037,6 +1145,20 @@ msgstr ""
 #: tformdetails.tabsheettasme.caption
 msgid "Tasme"
 msgstr ""
+
+#: tformmain.actionnext.caption
+msgid "ActionNext"
+msgstr ""
+
+#: tformmain.actionprevious.caption
+msgid "ActionPrevious"
+msgstr ""
+
+#: tformmain.buttonimage.caption
+#, fuzzy
+msgctxt "tformmain.buttonimage.caption"
+msgid "Tasvirlarni yashirish"
+msgstr "Тасвирларни яшириш"
 
 #: tformmain.buttonnext.hint
 msgid "Keyingi"
@@ -5327,11 +5449,6 @@ msgctxt "tformmain.tabsheetxufton.caption"
 msgid "Xufton"
 msgstr "Хуфтон"
 
-#: tformmain.toggleboximage.caption
-msgctxt "tformmain.toggleboximage.caption"
-msgid "Tasvirlarni yashirish"
-msgstr "Тасвирларни яшириш"
-
 #: tformsettings.buttonfont.caption
 msgid "Shrift o'zgartirish"
 msgstr "Шрифт ўзгартириш"
@@ -5374,3 +5491,4 @@ msgstr "қолган жойдан давом этилсин"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshdan ishga tushirilsin"
 msgstr "бошдан ишга туширилсин"
+
