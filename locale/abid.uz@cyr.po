@@ -20,6 +20,10 @@ msgstr "Тасвирларни яшириш"
 msgid "Tasvirlarni ko'rsatish"
 msgstr "Тасвирларни кўрсатиш"
 
+#: tformabout.buttonpanel.closebutton.caption
+msgid "Yopish"
+msgstr ""
+
 #: tformabout.caption
 msgctxt "tformabout.caption"
 msgid "Dastur haqida"
@@ -5517,3 +5521,4 @@ msgstr "қолган жойдан давом этилсин"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshdan ishga tushirilsin"
 msgstr "бошдан ишга туширилсин"
+

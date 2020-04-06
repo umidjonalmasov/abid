@@ -20,6 +20,10 @@ msgstr "Скрыть изображения"
 msgid "Tasvirlarni ko'rsatish"
 msgstr "Показать изображения"
 
+#: tformabout.buttonpanel.closebutton.caption
+msgid "Yopish"
+msgstr ""
+
 #: tformabout.caption
 msgctxt "tformabout.caption"
 msgid "Dastur haqida"
