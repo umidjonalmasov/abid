@@ -24,13 +24,14 @@ interface
 
 uses
   Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ComCtrls, StdCtrls,
-  ExtCtrls, lclintf;
+  ExtCtrls, lclintf, ButtonPanel;
 
 type
 
   { TFormAbout }
 
   TFormAbout = class(TForm)
+    ButtonPanel: TButtonPanel;
     ImageIslomUz: TImage;
     ImageAzanKz: TImage;
     ImageLogo: TImage;

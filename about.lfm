@@ -1,35 +1,35 @@
 object FormAbout: TFormAbout
-  Left = 460
-  Height = 420
-  Top = 169
-  Width = 500
+  Left = 458
+  Height = 430
+  Top = 123
+  Width = 525
   AutoSize = True
   BorderIcons = []
   Caption = 'Dastur haqida'
-  ClientHeight = 420
-  ClientWidth = 500
-  Constraints.MinHeight = 420
-  Constraints.MinWidth = 500
+  ClientHeight = 430
+  ClientWidth = 525
+  Constraints.MinHeight = 430
+  Constraints.MinWidth = 525
   Position = poMainFormCenter
   LCLVersion = '2.0.6.0'
   object PageControl: TPageControl
     Left = 0
-    Height = 420
+    Height = 392
     Top = 0
-    Width = 500
+    Width = 525
     ActivePage = TabSheetAbid
     Align = alClient
     TabIndex = 0
     TabOrder = 0
     object TabSheetAbid: TTabSheet
       Caption = 'Abid'
-      ClientHeight = 386
-      ClientWidth = 494
+      ClientHeight = 358
+      ClientWidth = 519
       object LabelBasmala: TLabel
         Left = 10
         Height = 16
         Top = 10
-        Width = 474
+        Width = 499
         Align = alTop
         Alignment = taCenter
         BorderSpacing.Around = 10
@@ -258,30 +258,13 @@ object FormAbout: TFormAbout
       object LabelCopyright: TLabel
         Left = 10
         Height = 16
-        Top = 334
-        Width = 474
+        Top = 332
+        Width = 499
         Align = alBottom
         Alignment = taCenter
         BorderSpacing.Around = 10
         Caption = 'Mualliflik huquqi © 2015-2020 Umidjon Almasov'
         ParentColor = False
-      end
-      object LabelWeb: TLabel
-        Cursor = crHandPoint
-        Left = 10
-        Height = 16
-        Top = 360
-        Width = 474
-        Align = alBottom
-        Alignment = taCenter
-        BorderSpacing.Around = 10
-        Caption = 'github.com/umidjonalmasov/abid'
-        Color = clDefault
-        Font.Color = clHighlightText
-        ParentColor = False
-        ParentFont = False
-        Transparent = False
-        OnClick = LabelWebClick
       end
       object LabelDescription: TLabel
         Left = 160
@@ -297,7 +280,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 48
         Top = 36
-        Width = 474
+        Width = 499
         Align = alTop
         BorderSpacing.Around = 10
         Caption = 'Alloh taolo shunday marhamat etadi:'#10'«Namozni to''kis ado qiling, zakotni bering va ruku'' qiluvchilar bilan ruku'' qiling»'#10'(Baqara surasi, 43-oyat).'
@@ -310,7 +293,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 48
         Top = 94
-        Width = 474
+        Width = 499
         Align = alTop
         BorderSpacing.Around = 10
         Caption = 'Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb so''rashganida: «Vaqtida o''qilgan namoz», deb javob berganlar'#10'(Imom Buxoriy va Muslim rivoyat qilishgan).'
@@ -320,7 +303,7 @@ object FormAbout: TFormAbout
         WordWrap = True
       end
       object LabelDedication: TLabel
-        Left = 224
+        Left = 270
         Height = 48
         Top = 256
         Width = 211
@@ -331,8 +314,8 @@ object FormAbout: TFormAbout
     end
     object TabSheetContributors: TTabSheet
       Caption = 'Minnatdorlik'
-      ClientHeight = 386
-      ClientWidth = 494
+      ClientHeight = 358
+      ClientWidth = 519
       object PanelIslomUz: TPanel
         Cursor = crHandPoint
         Left = 0
@@ -653,8 +636,8 @@ object FormAbout: TFormAbout
     end
     object TabSheetLicense: TTabSheet
       Caption = 'Litsenziyalar'
-      ClientHeight = 386
-      ClientWidth = 494
+      ClientHeight = 358
+      ClientWidth = 519
       object MemoLicense: TMemo
         Left = 0
         Height = 386
@@ -1404,6 +1387,41 @@ object FormAbout: TFormAbout
         ScrollBars = ssAutoBoth
         TabOrder = 0
       end
+    end
+  end
+  object ButtonPanel: TButtonPanel
+    Left = 6
+    Height = 26
+    Top = 398
+    Width = 513
+    OKButton.Name = 'OKButton'
+    OKButton.DefaultCaption = True
+    HelpButton.Name = 'HelpButton'
+    HelpButton.DefaultCaption = True
+    CloseButton.Name = 'CloseButton'
+    CloseButton.Caption = 'Yopish'
+    CloseButton.DefaultCaption = False
+    CancelButton.Name = 'CancelButton'
+    CancelButton.DefaultCaption = True
+    TabOrder = 1
+    DefaultButton = pbClose
+    ShowButtons = [pbClose]
+    ShowBevel = False
+    object LabelWeb: TLabel
+      Cursor = crHandPoint
+      Left = 0
+      Height = 26
+      Top = 0
+      Width = 513
+      Align = alClient
+      Alignment = taCenter
+      Caption = 'github.com/umidjonalmasov/abid'
+      Color = clDefault
+      Font.Color = 16740608
+      ParentColor = False
+      ParentFont = False
+      Transparent = False
+      OnClick = LabelWebClick
     end
   end
 end
