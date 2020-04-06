@@ -31,7 +31,7 @@ msgstr "О программе"
 
 #: tformabout.labelbasmala.caption
 msgid "Bismillahir rohmanir rohiym"
-msgstr ""
+msgstr "Бисмилляхир рахманир рахим"
 
 #: tformabout.labelcopyright.caption
 msgid "Mualliflik huquqi © 2015-2020 Umidjon Almasov"
@@ -102,13 +102,15 @@ msgstr ""
 
 #: tformdetails.labelalapr.caption
 msgid "Subhana Robbiyal 'ala."
-msgstr ""
+msgstr "Субхана Роббияль аʼля."
 
 #: tformdetails.labelalatr.caption
 msgid ""
 "Ma'nosi:\n"
 "Oliy Robbim pokdir.\n"
 msgstr ""
+"Значение:\n"
+"Мой Всевышний Господь не имеет недостатков.\n"
 
 # Do not translate
 #: tformdetails.labelalhamdulillahar.caption
@@ -141,6 +143,8 @@ msgid ""
 "\n"
 "Allohu akbar (33 marta).\n"
 msgstr ""
+"\n"
+"Аллаху акбар (33 раза).\n"
 
 #: tformdetails.labelallohuakbartr.caption
 msgctxt "tformdetails.labelallohuakbartr.caption"
@@ -148,6 +152,8 @@ msgid ""
 "Ma'nosi:\n"
 "Alloh ulug'dir.\n"
 msgstr ""
+"Значение:\n"
+"Аллах велик.\n"
 
 # Do not translate
 #: tformdetails.labelaziymar.caption
@@ -156,13 +162,15 @@ msgstr ""
 
 #: tformdetails.labelaziympr.caption
 msgid "Subhana Robbiyal 'aziym."
-msgstr ""
+msgstr "Субхана Роббияль 'азым."
 
 #: tformdetails.labelaziymtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Ulug' Robbim pokdir.\n"
 msgstr ""
+"Значение:\n"
+"Великий мой Господь не имеет недостатков.\n"
 
 # Do not translate
 #: tformdetails.labelazonar.caption
@@ -287,7 +295,7 @@ msgstr ""
 
 #: tformdetails.labelazonduopr.caption
 msgid "Allohumma! Robba hazihid-da'vatit tammah. Vassolatil qoimah, ati Muhammadanil vasiylata val faziylah. Vab'ashu maqomam mahmudanillaziy va'adtah. Varzuqna shafa'atahu yavmal qiyomah. Innaka laa tuxliful miy'ad."
-msgstr "Аллахумма робба хазихи-д-да‘вати-т-таммати вас-солятиль-каима, ати Мухаммаданиль-василята валь-фадыля, ваб‘асху макаман махмуданиллязи ва‘аттах, варзукна шафа‘атаху яумаль-кыяма. Иннака ля тухлифуль-ми‘ад"
+msgstr "Аллахумма робба хазихи-д-да‘вати-т-таммати вас-солятиль-каима, ати Мухаммаданиль-василята валь-фадыля, ваб‘асху макаман махмуданиллязи ва‘аттах, варзукна шафа‘атаху яумаль-кыяма. Иннака ля тухлифуль-ми‘ад."
 
 #: tformdetails.labelazonduotr.caption
 msgid ""
@@ -364,13 +372,15 @@ msgstr ""
 
 #: tformdetails.labelbasmalapr.caption
 msgid "Bismillahir rohmanir rohiym."
-msgstr ""
+msgstr "Бисмилляхир рахманир рахим."
 
 #: tformdetails.labelbasmalatr.caption
 msgid ""
 "Ma'nosi:\n"
 "Mehribon va rahmli Alloh nomi bilan (boshlayman).\n"
 msgstr ""
+"Значение:\n"
+"Во имя Аллаха Милостивого, Милующего.\n"
 
 # Do not translate
 #: tformdetails.labelduoar.caption
@@ -386,7 +396,7 @@ msgstr ""
 #: tformdetails.labelduofpr.caption
 msgctxt "tformdetails.labelduofpr.caption"
 msgid "Allohumma, antas-salam va minkas-salam, tabarokta ya zaljalali val-ikrom."
-msgstr ""
+msgstr "Аллахумма антас-салям уа минкас-салям, табаракта я зальджаляли уаль-икрам."
 
 #: tformdetails.labelduoftr.caption
 msgctxt "tformdetails.labelduoftr.caption"
@@ -394,6 +404,8 @@ msgid ""
 "Ma'nosi:\n"
 "Allohim! Sen Salomsan, salomatlik Sendandir. Sen Tabarruksan, ey jalol va ikrom egasi.\n"
 msgstr ""
+"Значение:\n"
+"О Аллах, Ты – мир, и от Тебя – мир. Ты – Благословенный, Обладающий величием и почетом.\n"
 
 #: tformdetails.labelduopr.caption
 msgid "Subhanallohi val hamdulillahi va laa ilaaha illallohu vallohu akbar, valaa havla valaa quvvata illaa billahil 'aliyyil 'aziym."
@@ -425,6 +437,13 @@ msgid ""
 "Va min sharrin naffasati fil 'uqod\n"
 "Va min sharri hasidin iza hasad\n"
 msgstr ""
+"\n"
+"Куль аʼузу би роббиль-фаляк\n"
+"Мин шарри ма холяк\n"
+"Уа мин шарри госикын иза уакоб\n"
+"Уа мин шарри-н-наффасати филь-ʼукод\n"
+"Уа мин шарри хасидин иза хасад\n"
+"\n"
 
 #: tformdetails.labelfalaqtr.caption
 msgid ""
@@ -435,6 +454,13 @@ msgid ""
 "Va tugunlarga dam soluvchilar yomonligidan\n"
 "Va hasad qilgan hasadchining yomonligidan, deb ayt\n"
 msgstr ""
+"Значение:\n"
+"Скажи: «Прибегаю к (защите) Господа рассвета\n"
+"От зла всех Его творений,\n"
+"От зла ночи, когда она наступает,\n"
+"От зла дующих на узлы\n"
+"И от зла завистника, когда тот завидует»\n"
+"\n"
 
 # Do not translate
 #: tformdetails.labelfotihaar.caption
@@ -460,6 +486,14 @@ msgid ""
 "Sirotol-laziyna an'amta 'alayhim\n"
 "G'oyril mag'zubi 'alayhim valazzolliyn\n"
 msgstr ""
+"\n"
+"Аль-хамду лилляхи роббиль ʼалямин\n"
+"Aр-рахманир-рахим\n"
+"Mалики яумиддин\n"
+"Ийяка на'буду уа ийяка наста'ин\n"
+"Ихдинас-сыратоль-мустакым\n"
+"Сыратоль-лязина анʼамта ʼалейхим\n"
+"Гойриль магдуби ʼалейхим уа ляд-дооооллин\n"
 
 #: tformdetails.labelfotihatr.caption
 msgid ""
@@ -472,6 +506,15 @@ msgid ""
 "O'zing ne'mat berganlarning yo'liga (boshlagin),\n"
 "G'azabga duchor bo'lganlarning yo'liga emas, adashganlarnikiga ham emas\n"
 msgstr ""
+"Значение:\n"
+"Хвала Аллаху, Господу миров,\n"
+"Милостивому, Милующему,\n"
+"Властителю Судного дня.\n"
+"Тебе одному мы поклоняемся и к Тебе одному взываем о помощи.\n"
+"Наставь нас на путь праведный\n"
+"Путь тех, кого Ты одарил Своими благами,\n"
+"А не тех, кто навлек на себя Твой гнев,\n"
+"и не тех, кто впал в заблуждение\n"
 
 # Do not translate
 #: tformdetails.labelhamdar.caption
@@ -480,13 +523,15 @@ msgstr ""
 
 #: tformdetails.labelhamdpr.caption
 msgid "Robbana lakal hamd."
-msgstr ""
+msgstr "Роббана лякаль хамд."
 
 #: tformdetails.labelhamdtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Robbimiz! Maqtov Sengadir.\n"
 msgstr ""
+"Значение:\n"
+"О наш Господь! Тебе слава.\n"
 
 # Do not translate
 #: tformdetails.labeliqomatar.caption
@@ -597,6 +642,12 @@ msgid ""
 "Lam yalid va lam yulad\n"
 "Va lam yakullahu kufuvan ahad\n"
 msgstr ""
+"\n"
+"Куль хуаллаху ахад\n"
+"Аллаху-с-сомад\n"
+"Лям ялид ва лям юляд\n"
+"Ва лям якуль-ляху куфуан ахад\n"
+"\n"
 
 #: tformdetails.labelixlostr.caption
 msgid ""
@@ -606,6 +657,12 @@ msgid ""
 "U tug'magan va tug'ilmagan\n"
 "Va Unga hech kim teng bo'lmagan\n"
 msgstr ""
+"Значение:\n"
+"Скажи: Аллах – Един!\n"
+"Аллах – Самодостаточен!\n"
+"Не рождал и не был рожден,\n"
+"И нет никого, равного (или подобного) Ему\n"
+"\n"
 
 # Do not translate
 #: tformdetails.labelkavsarar.caption
@@ -623,6 +680,11 @@ msgid ""
 "Fasolli lirobbika vanhar\n"
 "Inna shaniaka huval abtar\n"
 msgstr ""
+"\n"
+"Инна а'тойнакаль-каусар\n"
+"Фасолли ли роббика уанхар\n"
+"Инна шаниака хуаль абтар\n"
+"\n"
 
 #: tformdetails.labelkavsartr.caption
 msgid ""
@@ -631,6 +693,11 @@ msgid ""
 "Bas, Robbingga namoz o'qi va jonlik so'y\n"
 "Albatta, seni yomon ko'rib, ayblovchining orqasi kesikdir\n"
 msgstr ""
+"Значение:\n"
+"Мы даровали тебе аль-Каусар (бесчисленные блага, в том числе одноименную реку в Раю)\n"
+"Посему совершай намаз ради своего Господа и закалывай жертву\n"
+"Воистину, твой ненавистник сам окажется безвестным\n"
+"\n"
 
 # Do not translate
 #: tformdetails.labelkursiar.caption
@@ -729,6 +796,13 @@ msgid ""
 "va ilayka nas'a va nahfidu, narju rohmataka va naxsha 'azabaka,\n"
 "inna 'azabaka bil kuffari mulhiq.\n"
 msgstr ""
+"Аллахумма, инна наста‘иинука ва настагфирука. \n"
+"Ва ну’мину бика ва натаваккалю 'аляйк ва нусни 'аляйкаль-хайра.\n"
+"Нашкурук ва ля накфурук.\n"
+"Ва нахля'у ва натруку май-яфджурук.\n"
+"Аллахумма, ийяка на'буду ва ляка нусолли ва насджуд,\n"
+"ва иляйка нас'а ва нахфид, нарджу рахматака ва нахша 'азабака,\n"
+"инна 'азабакаль биль-куффари мульхик.\n"
 
 #: tformdetails.labelqunuttr.caption
 msgid ""
@@ -743,6 +817,16 @@ msgid ""
 "Va Sening rahmatingni umid qilamiz va azobingdan qo'rqamiz.\n"
 "Albatta, azobing kofirlarga etguvchidir.\n"
 msgstr ""
+"Значение:\n"
+"О Аллах! Мы взываем к Твоей помощи, просим вести нас по верному пути,\n"
+"просим у Тебя прощения и каемся.\n"
+"Веруем и полагаемся на Тебя.\n"
+"Восхваляем Тебя за все блага, благодарим Тебя, и не являемся не верующими в Тебя,\n"
+"и отстраняемся, и отдаляемся от тех, кто ослушивается Тебя.\n"
+"О Аллах, Тебе мы поклоняемся, Тебе посвящаем молитвы, и пред Тобой падаем ниц,\n"
+"к Тебе мы устремляемся и спешим,\n"
+"уповая на Твою милость, и страшимся Твоего наказания,\n"
+"поистине, Твое наказание неизбежно постигнет неверующих.\n"
 
 # Do not translate
 #: tformdetails.labelrobbanaar.caption
@@ -751,13 +835,15 @@ msgstr ""
 
 #: tformdetails.labelrobbanapr.caption
 msgid "Robbana! Atina fid dunya hasanatav va fil axiroti hasanatav-va qina 'azaban nar."
-msgstr ""
+msgstr "Роббана атина фид-дунья хасанатан уа филь-ахирати хасанатан уа кына ʼазабан-нар."
 
 #: tformdetails.labelrobbanatr.caption
 msgid ""
 "Ma'nosi:\n"
 "Robbimiz! Bizlarga dunyoda ham, oxiratda ham yaxshilik ber va do'zax azobidan asra.\n"
 msgstr ""
+"Значение:\n"
+"О наш Господь! Даруй нам благо в земной жизни и благо в вечной жизни и защити нас от наказания в Аду.\n"
 
 # Do not translate
 #: tformdetails.labelsalavotar.caption
@@ -766,13 +852,15 @@ msgstr ""
 
 #: tformdetails.labelsalavotpr.caption
 msgid "Allohumma! Solli 'ala Muhammadiv va 'ala ali Muhammad. Kama sollayta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd. Allohumma! Barik 'ala Muhammadiv va 'ala ali Muhammad. Kama barokta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd."
-msgstr ""
+msgstr "Аллахумма! Солли ʼаля Мухаммад, уа ʼаля али Мухаммад.  Кама солляйта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид. Аллахумма! Барик ʼаля Мухаммад уа ʼаля али Мухаммад. Кама баракта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид."
 
 #: tformdetails.labelsalavottr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'zingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z barakangni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'z barakangni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan!\n"
 msgstr ""
+"Значение:\n"
+"О Аллах, благослови Мухаммада и семейство Мухаммада, как Ты благословил Ибрахима и семейство Ибрахима. Поистине, Ты – Достойный похвалы. Славный! Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как Ты послал их Ибрахиму и семейству Ибрахима. Поистине, Ты – Достойный похвалы, Славный!\n"
 
 # Do not translate
 #: tformdetails.labelsalomar.caption
@@ -783,7 +871,7 @@ msgstr ""
 #: tformdetails.labelsalompr.caption
 msgctxt "tformdetails.labelsalompr.caption"
 msgid "Assalomu alaykum va rahmatulloh."
-msgstr ""
+msgstr "Ассаляму алейкум уа рахматуллах."
 
 #: tformdetails.labelsalomtr.caption
 msgctxt "tformdetails.labelsalomtr.caption"
@@ -791,6 +879,8 @@ msgid ""
 "Ma'nosi:\n"
 "Sizlarga Allohning salomi va rahmati bo'lsin.\n"
 msgstr ""
+"Значение:\n"
+"Мир вам и милость Аллаха.\n"
 
 # Do not translate
 #: tformdetails.labelsanoar.caption
@@ -799,13 +889,15 @@ msgstr ""
 
 #: tformdetails.labelsanopr.caption
 msgid "Subhanakallohumma va bihamdika va tabarokasmuka va ta'ala jadduka va la ilaha g'oyruk."
-msgstr ""
+msgstr "Cубханакаллахумма уа бихамдик, уа табарака смук, уа та'аля джаддук, уа ля иляха гойрук."
 
 #: tformdetails.labelsanotr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohim! Seni pok Zot deb yod qilurman. Sening isming muborakdir. Martabang ulug'dir. Sendan o'zga iloh yo'qdir.\n"
 msgstr ""
+"Значение:\n"
+"Слава Тебе, о Аллах, и хвала Тебе, благословенно имя Твое, превыше всего величие Твое, и нет никого достойного поклонения, кроме Тебя.\n"
 
 # Do not translate
 #: tformdetails.labelsubhanallohar.caption
@@ -833,13 +925,15 @@ msgstr ""
 
 #: tformdetails.labeltaavvuzpr.caption
 msgid "A'uzu billahi minash shaytonir rojiym."
-msgstr ""
+msgstr "А'узу билляхи минаш-шайтанир-раджим."
 
 #: tformdetails.labeltaavvuztr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohning dargohidan quvilgan shayton yomonligidan Allohning panohiga qochaman.\n"
 msgstr ""
+"Значение:\n"
+"Прибегаю к защите Аллаха от побиваемого камнями шайтана.\n"
 
 # Do not translate
 #: tformdetails.labeltakbirar.caption
@@ -848,7 +942,7 @@ msgstr ""
 
 #: tformdetails.labeltakbirpr.caption
 msgid "Allohu akbar."
-msgstr ""
+msgstr "Аллаху акбар."
 
 #: tformdetails.labeltakbirtr.caption
 msgctxt "tformdetails.labeltakbirtr.caption"
@@ -856,6 +950,8 @@ msgid ""
 "Ma'nosi:\n"
 "Alloh ulug'dir.\n"
 msgstr ""
+"Значение:\n"
+"Аллах велик.\n"
 
 # Do not translate
 #: tformdetails.labeltashahhudar.caption
@@ -864,13 +960,16 @@ msgstr ""
 
 #: tformdetails.labeltashahhudpr.caption
 msgid "At-tahiyyatu lillahi vas-solavatu vat-toyyibat. Assalamu 'alayka ayyuhan-nabiyyu va rohmatullohi va barokatuh. Assalamu 'alayna va a'la 'ibadillahis solihiyn. Ashhadu alla ilaha illallohu va ashhadu anna Muhammadan 'abduhu va rosuluhu."
-msgstr ""
+msgstr "Ат-тахийяту лилляхи уас-соляуату уат-тоййибат. Ассаляму ʼаляйка айюхан-набийю уа рахматуллахи уа баракатух. Ас-саляму ʼаляйна уа ʼаля ʼибадилляхис солихин. Ашхаду алля иляха илляллаху уа ашхаду анна Мухаммадан абдуху уа расулюх."
 
 #: tformdetails.labeltashahhudtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi bo'lsin. Bizlarga va Allohning solih bandalariga salom bo'lsin. Allohdan o'zga iloh yo'q deb guvohlik beraman va albatta, Muhammad Allohning Rasuli deb guvohlik beraman.\n"
 msgstr ""
+"Значение:\n"
+"Приветствия Аллаху, молитвы и добрые дела. Мир тебе, о Пророк, милость Аллаха и Его благословение. Мир нам и истинным слугам Аллаха. Свидетельствую, что нет никого, достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад – Его раб и Его Посланник.\n"
+"\n"
 
 # Do not translate
 #: tformdetails.labeltasmear.caption
@@ -881,7 +980,7 @@ msgstr ""
 #: tformdetails.labeltasmepr.caption
 msgctxt "tformdetails.labeltasmepr.caption"
 msgid "Sami'allohu liman hamidah."
-msgstr ""
+msgstr "Сами'аллаху лиман хамидах."
 
 #: tformdetails.labeltasmetr.caption
 msgctxt "tformdetails.labeltasmetr.caption"
@@ -889,6 +988,8 @@ msgid ""
 "Ma'nosi:\n"
 "Alloh O'ziga hamd aytgan kishini eshitadi.\n"
 msgstr ""
+"Значение:\n"
+"Аллах слышит того, кто Его восхваляет.\n"
 
 # Do not translate
 #: tformdetails.labeltavhidar.caption
@@ -5375,4 +5476,3 @@ msgstr "продолжить с прошлого места"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshdan ishga tushirilsin"
 msgstr "запустить с начала"
-
