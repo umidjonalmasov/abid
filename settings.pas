@@ -73,6 +73,7 @@ begin
        FormMain.PageControlMain.Font.Assign(FontDialog.Font);
        FormDetails.PageControlMain.Font.Assign(FontDialog.Font);
      end;
+  OKButtonClick(self);
 end;
 
 procedure TFormSettings.CancelButtonClick(Sender: TObject);
@@ -111,12 +112,13 @@ begin
        ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[2];
      end;
  end;
+  OKButtonClick(self);
 end;
 
 procedure TFormSettings.FormActivate(Sender: TObject);
 begin
-  FormMain.IniPropStorage.Save;
-  IniPropStorage.Save;
+  OKButtonClick(self);
+  ComboBoxLanguageChange(self);
 end;
 
 procedure TFormSettings.FormClose(Sender: TObject; var CloseAction: TCloseAction
