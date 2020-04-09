@@ -3951,7 +3951,7 @@ msgstr "Дастур ҳақида"
 
 #: tformmain.menuitemedit.caption
 msgid "Tahrirlash"
-msgstr ""
+msgstr "Таҳрирлаш"
 
 #: tformmain.menuitemexit.caption
 msgid "Chiqish"
