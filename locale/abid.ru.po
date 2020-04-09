@@ -1715,162 +1715,162 @@ msgstr ""
 #: tformmain.labelbasmala1a4f.caption
 msgctxt "tformmain.labelbasmala1a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1b2f.caption
 msgctxt "tformmain.labelbasmala1b2f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1b2s.caption
 msgctxt "tformmain.labelbasmala1b2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1p2s.caption
 msgctxt "tformmain.labelbasmala1p2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1p4f.caption
 msgctxt "tformmain.labelbasmala1p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1p4s.caption
 msgctxt "tformmain.labelbasmala1p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1sh2s.caption
 msgctxt "tformmain.labelbasmala1sh2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1sh3f.caption
 msgctxt "tformmain.labelbasmala1sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1v3v.caption
 msgctxt "tformmain.labelbasmala1v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1x2s.caption
 msgctxt "tformmain.labelbasmala1x2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1x4f.caption
 msgctxt "tformmain.labelbasmala1x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2a4f.caption
 msgctxt "tformmain.labelbasmala2a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2b2f.caption
 msgctxt "tformmain.labelbasmala2b2f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2b2s.caption
 msgctxt "tformmain.labelbasmala2b2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2p2s.caption
 msgctxt "tformmain.labelbasmala2p2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2p4f.caption
 msgctxt "tformmain.labelbasmala2p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2p4s.caption
 msgctxt "tformmain.labelbasmala2p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2sh2s.caption
 msgctxt "tformmain.labelbasmala2sh2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2sh3f.caption
 msgctxt "tformmain.labelbasmala2sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2v3v.caption
 msgctxt "tformmain.labelbasmala2v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2x2s.caption
 msgctxt "tformmain.labelbasmala2x2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2x4f.caption
 msgctxt "tformmain.labelbasmala2x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3a4f.caption
 msgctxt "tformmain.labelbasmala3a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3p4f.caption
 msgctxt "tformmain.labelbasmala3p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3p4s.caption
 msgctxt "tformmain.labelbasmala3p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3sh3f.caption
 msgctxt "tformmain.labelbasmala3sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3v3v.caption
 msgctxt "tformmain.labelbasmala3v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3x4f.caption
 msgctxt "tformmain.labelbasmala3x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala4a4f.caption
 msgctxt "tformmain.labelbasmala4a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala4p4f.caption
 msgctxt "tformmain.labelbasmala4p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala4p4s.caption
 msgctxt "tformmain.labelbasmala4p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala4x4f.caption
 msgctxt "tformmain.labelbasmala4x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr "Читается Басмала («Бисмиллях...»)."
+msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbomdod.caption
 msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda o'qish mustahab, a'loroqdir. Soat bo'yicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari o'qish mustahab vaqtiga muvofiq bo'ladi."
