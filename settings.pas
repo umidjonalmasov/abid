@@ -86,29 +86,29 @@ begin
    0:
      begin
        SetDefaultLang('uz@lat');
-       FormSettings.ComboBoxLanguage.Items.Clear;
-       FormSettings.ComboBoxLanguage.Items.Add('O''zbek (lotin)');
-       FormSettings.ComboBoxLanguage.Items.Add('O''zbek (kirill)');
-       FormSettings.ComboBoxLanguage.Items.Add('Rus');
-       FormSettings.ComboBoxLanguage.Text:=FormSettings.ComboBoxLanguage.Items.ValueFromIndex[0];
+       ComboBoxLanguage.Items.Clear;
+       ComboBoxLanguage.Items.Add('O''zbek (lotin)');
+       ComboBoxLanguage.Items.Add('O''zbek (kirill)');
+       ComboBoxLanguage.Items.Add('Rus');
+       ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[0];
      end;
    1:
      begin
        SetDefaultLang('uz@cyr');
-       FormSettings.ComboBoxLanguage.Items.Clear;
-       FormSettings.ComboBoxLanguage.Items.Add('Ўзбек (лотин)');
-       FormSettings.ComboBoxLanguage.Items.Add('Ўзбек (кирилл)');
-       FormSettings.ComboBoxLanguage.Items.Add('Рус');
-       FormSettings.ComboBoxLanguage.Text:=FormSettings.ComboBoxLanguage.Items.ValueFromIndex[1];
+       ComboBoxLanguage.Items.Clear;
+       ComboBoxLanguage.Items.Add('Ўзбек (лотин)');
+       ComboBoxLanguage.Items.Add('Ўзбек (кирилл)');
+       ComboBoxLanguage.Items.Add('Рус');
+       ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[1];
      end;
    2:
      begin
        SetDefaultLang('ru');
-       FormSettings.ComboBoxLanguage.Items.Clear;
-       FormSettings.ComboBoxLanguage.Items.Add('Узбекский (латиница)');
-       FormSettings.ComboBoxLanguage.Items.Add('Узбекский (кириллица)');
-       FormSettings.ComboBoxLanguage.Items.Add('Русский');
-       FormSettings.ComboBoxLanguage.Text:=FormSettings.ComboBoxLanguage.Items.ValueFromIndex[2];
+       ComboBoxLanguage.Items.Clear;
+       ComboBoxLanguage.Items.Add('Узбекский (латиница)');
+       ComboBoxLanguage.Items.Add('Узбекский (кириллица)');
+       ComboBoxLanguage.Items.Add('Русский');
+       ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[2];
      end;
  end;
 end;

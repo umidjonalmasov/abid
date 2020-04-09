@@ -36,9 +36,6 @@ type
   { TFormMain }
 
   TFormMain = class(TForm)
-    ActionPrevious: TAction;
-    ActionNext: TAction;
-    ActionList: TActionList;
     ButtonAla1_1X4F: TSpeedButton;
     ButtonAla1_1V3V: TSpeedButton;
     ButtonAla1_1X2S: TSpeedButton;
@@ -1128,11 +1125,14 @@ type
     LabelTashahhudSh2S: TLabel;
     LabelXufton: TLabel;
     MainMenu: TMainMenu;
+    MenuItemPrevious: TMenuItem;
+    MenuItemNext: TMenuItem;
+    MenuItemImage: TMenuItem;
     MenuItemExit: TMenuItem;
     MenuItemSettings: TMenuItem;
     MenuItemAbout: TMenuItem;
     MenuItemFile: TMenuItem;
-    MenuItemTools: TMenuItem;
+    MenuItemEdit: TMenuItem;
     MenuItemHelp: TMenuItem;
     PageControlX4F: TPageControl;
     PageControlV3V: TPageControl;
@@ -2208,12 +2208,12 @@ type
     TabSheetAsr: TTabSheet;
     TabSheetShom: TTabSheet;
     TabSheetXufton: TTabSheet;
-    procedure ActionNextExecute(Sender: TObject);
-    procedure ActionPreviousExecute(Sender: TObject);
-    procedure ButtonImageClick(Sender: TObject);
     procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
     procedure FormCreate(Sender: TObject);
     procedure MenuItemExitClick(Sender: TObject);
+    procedure MenuItemImageClick(Sender: TObject);
+    procedure MenuItemNextClick(Sender: TObject);
+    procedure MenuItemPreviousClick(Sender: TObject);
     procedure ProcDuo(Sender: TObject);
     procedure MenuItemAboutClick(Sender: TObject);
     procedure MenuItemSettingsClick(Sender: TObject);
@@ -2234,8 +2234,6 @@ type
     procedure ProcHamd(Sender: TObject);
     procedure ProcIxlos(Sender: TObject);
     procedure ProcKavsar(Sender: TObject);
-    procedure ButtonNextClick(Sender: TObject);
-    procedure ButtonPreviousClick(Sender: TObject);
     procedure ProcRobbana(Sender: TObject);
     procedure ProcSalavot(Sender: TObject);
     procedure ProcSalom(Sender: TObject);
@@ -2268,11 +2266,6 @@ implementation
 {$R *.lfm}
 
 { TFormMain }
-
-procedure TFormMain.ButtonPreviousClick(Sender: TObject);
-begin
-  ActionPrevious.Execute;
-end;
 
 procedure TFormMain.ProcRobbana(Sender: TObject);
 begin
@@ -2328,311 +2321,27 @@ begin
   FormSettings.ComboBoxLanguageChange(self);
 end;
 
-procedure TFormMain.ButtonNextClick(Sender: TObject);
-begin
-  ActionNext.Execute;
-end;
-
-procedure TFormMain.ActionPreviousExecute(Sender: TObject);
-begin
-  case PageControlMain.ActivePageIndex of
-  0: case PageControlBomdod.ActivePageIndex of
-     0: case PageControlB2S.ActivePageIndex of
-        1: PageControlB2S.ActivePageIndex:=0;
-        2: PageControlB2S.ActivePageIndex:=1;
-        3: PageControlB2S.ActivePageIndex:=2;
-        4: PageControlB2S.ActivePageIndex:=3;
-        5: PageControlB2S.ActivePageIndex:=4;
-        6: PageControlB2S.ActivePageIndex:=5;
-        7: PageControlB2S.ActivePageIndex:=6;
-        8: PageControlB2S.ActivePageIndex:=7;
-        9: PageControlB2S.ActivePageIndex:=8;
-        10: PageControlB2S.ActivePageIndex:=9;
-        11: PageControlB2S.ActivePageIndex:=10;
-        12: PageControlB2S.ActivePageIndex:=11;
-        13: PageControlB2S.ActivePageIndex:=12;
-        14: PageControlB2S.ActivePageIndex:=13;
-        end;
-     1: case PageControlB2F.ActivePageIndex of
-        1: PageControlB2F.ActivePageIndex:=0;
-        2: PageControlB2F.ActivePageIndex:=1;
-        3: PageControlB2F.ActivePageIndex:=2;
-        4: PageControlB2F.ActivePageIndex:=3;
-        5: PageControlB2F.ActivePageIndex:=4;
-        6: PageControlB2F.ActivePageIndex:=5;
-        7: PageControlB2F.ActivePageIndex:=6;
-        8: PageControlB2F.ActivePageIndex:=7;
-        9: PageControlB2F.ActivePageIndex:=8;
-        10: PageControlB2F.ActivePageIndex:=9;
-        11: PageControlB2F.ActivePageIndex:=10;
-        12: PageControlB2F.ActivePageIndex:=11;
-        13: PageControlB2F.ActivePageIndex:=12;
-        14: PageControlB2F.ActivePageIndex:=13;
-        15: PageControlB2F.ActivePageIndex:=14;
-        end;
-     end;
-  1: case PageControlPeshin.ActivePageIndex of
-     0: case PageControlP4S.ActivePageIndex of
-        1: PageControlP4S.ActivePageIndex:=0;
-        2: PageControlP4S.ActivePageIndex:=1;
-        3: PageControlP4S.ActivePageIndex:=2;
-        4: PageControlP4S.ActivePageIndex:=3;
-        5: PageControlP4S.ActivePageIndex:=4;
-        6: PageControlP4S.ActivePageIndex:=5;
-        7: PageControlP4S.ActivePageIndex:=6;
-        8: PageControlP4S.ActivePageIndex:=7;
-        9: PageControlP4S.ActivePageIndex:=8;
-        10: PageControlP4S.ActivePageIndex:=9;
-        11: PageControlP4S.ActivePageIndex:=10;
-        12: PageControlP4S.ActivePageIndex:=11;
-        13: PageControlP4S.ActivePageIndex:=12;
-        14: PageControlP4S.ActivePageIndex:=13;
-        15: PageControlP4S.ActivePageIndex:=14;
-        16: PageControlP4S.ActivePageIndex:=15;
-        17: PageControlP4S.ActivePageIndex:=16;
-        18: PageControlP4S.ActivePageIndex:=17;
-        19: PageControlP4S.ActivePageIndex:=18;
-        20: PageControlP4S.ActivePageIndex:=19;
-        21: PageControlP4S.ActivePageIndex:=20;
-        22: PageControlP4S.ActivePageIndex:=21;
-        23: PageControlP4S.ActivePageIndex:=22;
-        24: PageControlP4S.ActivePageIndex:=23;
-        25: PageControlP4S.ActivePageIndex:=24;
-        26: PageControlP4S.ActivePageIndex:=25;
-        27: PageControlP4S.ActivePageIndex:=26;
-        end;
-     1: case PageControlP4F.ActivePageIndex of
-        1: PageControlP4F.ActivePageIndex:=0;
-        2: PageControlP4F.ActivePageIndex:=1;
-        3: PageControlP4F.ActivePageIndex:=2;
-        4: PageControlP4F.ActivePageIndex:=3;
-        5: PageControlP4F.ActivePageIndex:=4;
-        6: PageControlP4F.ActivePageIndex:=5;
-        7: PageControlP4F.ActivePageIndex:=6;
-        8: PageControlP4F.ActivePageIndex:=7;
-        9: PageControlP4F.ActivePageIndex:=8;
-        10: PageControlP4F.ActivePageIndex:=9;
-        11: PageControlP4F.ActivePageIndex:=10;
-        12: PageControlP4F.ActivePageIndex:=11;
-        13: PageControlP4F.ActivePageIndex:=12;
-        14: PageControlP4F.ActivePageIndex:=13;
-        15: PageControlP4F.ActivePageIndex:=14;
-        16: PageControlP4F.ActivePageIndex:=15;
-        17: PageControlP4F.ActivePageIndex:=16;
-        18: PageControlP4F.ActivePageIndex:=17;
-        19: PageControlP4F.ActivePageIndex:=18;
-        20: PageControlP4F.ActivePageIndex:=19;
-        21: PageControlP4F.ActivePageIndex:=20;
-        22: PageControlP4F.ActivePageIndex:=21;
-        23: PageControlP4F.ActivePageIndex:=22;
-        24: PageControlP4F.ActivePageIndex:=23;
-        25: PageControlP4F.ActivePageIndex:=24;
-        26: PageControlP4F.ActivePageIndex:=25;
-        27: PageControlP4F.ActivePageIndex:=26;
-        28: PageControlP4F.ActivePageIndex:=27;
-        end;
-     2: case PageControlP2S.ActivePageIndex of
-        1: PageControlP2S.ActivePageIndex:=0;
-        2: PageControlP2S.ActivePageIndex:=1;
-        3: PageControlP2S.ActivePageIndex:=2;
-        4: PageControlP2S.ActivePageIndex:=3;
-        5: PageControlP2S.ActivePageIndex:=4;
-        6: PageControlP2S.ActivePageIndex:=5;
-        7: PageControlP2S.ActivePageIndex:=6;
-        8: PageControlP2S.ActivePageIndex:=7;
-        9: PageControlP2S.ActivePageIndex:=8;
-        10: PageControlP2S.ActivePageIndex:=9;
-        11: PageControlP2S.ActivePageIndex:=10;
-        12: PageControlP2S.ActivePageIndex:=11;
-        13: PageControlP2S.ActivePageIndex:=12;
-        14: PageControlP2S.ActivePageIndex:=13;
-        15: PageControlP2S.ActivePageIndex:=14;
-        end;
-     end;
-  2: case PageControlA4F.ActivePageIndex of
-        1: PageControlA4F.ActivePageIndex:=0;
-        2: PageControlA4F.ActivePageIndex:=1;
-        3: PageControlA4F.ActivePageIndex:=2;
-        4: PageControlA4F.ActivePageIndex:=3;
-        5: PageControlA4F.ActivePageIndex:=4;
-        6: PageControlA4F.ActivePageIndex:=5;
-        7: PageControlA4F.ActivePageIndex:=6;
-        8: PageControlA4F.ActivePageIndex:=7;
-        9: PageControlA4F.ActivePageIndex:=8;
-        10: PageControlA4F.ActivePageIndex:=9;
-        11: PageControlA4F.ActivePageIndex:=10;
-        12: PageControlA4F.ActivePageIndex:=11;
-        13: PageControlA4F.ActivePageIndex:=12;
-        14: PageControlA4F.ActivePageIndex:=13;
-        15: PageControlA4F.ActivePageIndex:=14;
-        16: PageControlA4F.ActivePageIndex:=15;
-        17: PageControlA4F.ActivePageIndex:=16;
-        18: PageControlA4F.ActivePageIndex:=17;
-        19: PageControlA4F.ActivePageIndex:=18;
-        20: PageControlA4F.ActivePageIndex:=19;
-        21: PageControlA4F.ActivePageIndex:=20;
-        22: PageControlA4F.ActivePageIndex:=21;
-        23: PageControlA4F.ActivePageIndex:=22;
-        24: PageControlA4F.ActivePageIndex:=23;
-        25: PageControlA4F.ActivePageIndex:=24;
-        26: PageControlA4F.ActivePageIndex:=25;
-        27: PageControlA4F.ActivePageIndex:=26;
-        28: PageControlA4F.ActivePageIndex:=27;
-        end;
-  3: case PageControlShom.ActivePageIndex of
-     0: case PageControlSh3F.ActivePageIndex of
-        1: PageControlSh3F.ActivePageIndex:=0;
-        2: PageControlSh3F.ActivePageIndex:=1;
-        3: PageControlSh3F.ActivePageIndex:=2;
-        4: PageControlSh3F.ActivePageIndex:=3;
-        5: PageControlSh3F.ActivePageIndex:=4;
-        6: PageControlSh3F.ActivePageIndex:=5;
-        7: PageControlSh3F.ActivePageIndex:=6;
-        8: PageControlSh3F.ActivePageIndex:=7;
-        9: PageControlSh3F.ActivePageIndex:=8;
-        10: PageControlSh3F.ActivePageIndex:=9;
-        11: PageControlSh3F.ActivePageIndex:=10;
-        12: PageControlSh3F.ActivePageIndex:=11;
-        13: PageControlSh3F.ActivePageIndex:=12;
-        14: PageControlSh3F.ActivePageIndex:=13;
-        15: PageControlSh3F.ActivePageIndex:=14;
-        16: PageControlSh3F.ActivePageIndex:=15;
-        17: PageControlSh3F.ActivePageIndex:=16;
-        18: PageControlSh3F.ActivePageIndex:=17;
-        19: PageControlSh3F.ActivePageIndex:=18;
-        20: PageControlSh3F.ActivePageIndex:=19;
-        21: PageControlSh3F.ActivePageIndex:=20;
-        22: PageControlSh3F.ActivePageIndex:=21;
-        end;
-     1: case PageControlSh2S.ActivePageIndex of
-        1: PageControlSh2S.ActivePageIndex:=0;
-        2: PageControlSh2S.ActivePageIndex:=1;
-        3: PageControlSh2S.ActivePageIndex:=2;
-        4: PageControlSh2S.ActivePageIndex:=3;
-        5: PageControlSh2S.ActivePageIndex:=4;
-        6: PageControlSh2S.ActivePageIndex:=5;
-        7: PageControlSh2S.ActivePageIndex:=6;
-        8: PageControlSh2S.ActivePageIndex:=7;
-        9: PageControlSh2S.ActivePageIndex:=8;
-        10: PageControlSh2S.ActivePageIndex:=9;
-        11: PageControlSh2S.ActivePageIndex:=10;
-        12: PageControlSh2S.ActivePageIndex:=11;
-        13: PageControlSh2S.ActivePageIndex:=12;
-        14: PageControlSh2S.ActivePageIndex:=13;
-        15: PageControlSh2S.ActivePageIndex:=14;
-        end;
-     end;
-  4: case PageControlXufton.ActivePageIndex of
-     0: case PageControlX4F.ActivePageIndex of
-        1: PageControlX4F.ActivePageIndex:=0;
-        2: PageControlX4F.ActivePageIndex:=1;
-        3: PageControlX4F.ActivePageIndex:=2;
-        4: PageControlX4F.ActivePageIndex:=3;
-        5: PageControlX4F.ActivePageIndex:=4;
-        6: PageControlX4F.ActivePageIndex:=5;
-        7: PageControlX4F.ActivePageIndex:=6;
-        8: PageControlX4F.ActivePageIndex:=7;
-        9: PageControlX4F.ActivePageIndex:=8;
-        10: PageControlX4F.ActivePageIndex:=9;
-        11: PageControlX4F.ActivePageIndex:=10;
-        12: PageControlX4F.ActivePageIndex:=11;
-        13: PageControlX4F.ActivePageIndex:=12;
-        14: PageControlX4F.ActivePageIndex:=13;
-        15: PageControlX4F.ActivePageIndex:=14;
-        16: PageControlX4F.ActivePageIndex:=15;
-        17: PageControlX4F.ActivePageIndex:=16;
-        18: PageControlX4F.ActivePageIndex:=17;
-        19: PageControlX4F.ActivePageIndex:=18;
-        20: PageControlX4F.ActivePageIndex:=19;
-        21: PageControlX4F.ActivePageIndex:=20;
-        22: PageControlX4F.ActivePageIndex:=21;
-        23: PageControlX4F.ActivePageIndex:=22;
-        24: PageControlX4F.ActivePageIndex:=23;
-        25: PageControlX4F.ActivePageIndex:=24;
-        26: PageControlX4F.ActivePageIndex:=25;
-        27: PageControlX4F.ActivePageIndex:=26;
-        28: PageControlX4F.ActivePageIndex:=27;
-        end;
-     1: case PageControlX2S.ActivePageIndex of
-        1: PageControlX2S.ActivePageIndex:=0;
-        2: PageControlX2S.ActivePageIndex:=1;
-        3: PageControlX2S.ActivePageIndex:=2;
-        4: PageControlX2S.ActivePageIndex:=3;
-        5: PageControlX2S.ActivePageIndex:=4;
-        6: PageControlX2S.ActivePageIndex:=5;
-        7: PageControlX2S.ActivePageIndex:=6;
-        8: PageControlX2S.ActivePageIndex:=7;
-        9: PageControlX2S.ActivePageIndex:=8;
-        10: PageControlX2S.ActivePageIndex:=9;
-        11: PageControlX2S.ActivePageIndex:=10;
-        12: PageControlX2S.ActivePageIndex:=11;
-        13: PageControlX2S.ActivePageIndex:=12;
-        14: PageControlX2S.ActivePageIndex:=13;
-        end;
-     2: case PageControlV3V.ActivePageIndex of
-        1: PageControlV3V.ActivePageIndex:=0;
-        2: PageControlV3V.ActivePageIndex:=1;
-        3: PageControlV3V.ActivePageIndex:=2;
-        4: PageControlV3V.ActivePageIndex:=3;
-        5: PageControlV3V.ActivePageIndex:=4;
-        6: PageControlV3V.ActivePageIndex:=5;
-        7: PageControlV3V.ActivePageIndex:=6;
-        8: PageControlV3V.ActivePageIndex:=7;
-        9: PageControlV3V.ActivePageIndex:=8;
-        10: PageControlV3V.ActivePageIndex:=9;
-        11: PageControlV3V.ActivePageIndex:=10;
-        12: PageControlV3V.ActivePageIndex:=11;
-        13: PageControlV3V.ActivePageIndex:=12;
-        14: PageControlV3V.ActivePageIndex:=13;
-        15: PageControlV3V.ActivePageIndex:=14;
-        16: PageControlV3V.ActivePageIndex:=15;
-        17: PageControlV3V.ActivePageIndex:=16;
-        18: PageControlV3V.ActivePageIndex:=17;
-        19: PageControlV3V.ActivePageIndex:=18;
-        20: PageControlV3V.ActivePageIndex:=19;
-        21: PageControlV3V.ActivePageIndex:=20;
-        22: PageControlV3V.ActivePageIndex:=21;
-        end;
-     end;
-  end;
-  FormMain.ProcImagesLoad(self);
-end;
-
-procedure TFormMain.ButtonImageClick(Sender: TObject);
-begin
-  if PanelImage.Visible=true then
-    begin
-      PanelImage.Hide;
-      ButtonImage.Caption:=ImageShow;
-    end
-  else
-    begin
-      PanelImage.Show;
-      ButtonImage.Caption:=ImageHide;
-    end
-end;
-
 procedure TFormMain.FormClose(Sender: TObject; var CloseAction: TCloseAction);
 begin
   if FormSettings.RadioButtonStart.Checked = true then
     begin
-      FormMain.PageControlA4F.TabIndex:=0;
-      FormMain.PageControlAsr.TabIndex:=0;
-      FormMain.PageControlB2F.TabIndex:=0;
-      FormMain.PageControlB2S.TabIndex:=0;
-      FormMain.PageControlBomdod.TabIndex:=0;
-      FormMain.PageControlMain.TabIndex:=0;
-      FormMain.PageControlP2S.TabIndex:=0;
-      FormMain.PageControlP4F.TabIndex:=0;
-      FormMain.PageControlP4S.TabIndex:=0;
-      FormMain.PageControlPeshin.TabIndex:=0;
-      FormMain.PageControlSh2S.TabIndex:=0;
-      FormMain.PageControlSh3F.TabIndex:=0;
-      FormMain.PageControlShom.TabIndex:=0;
-      FormMain.PageControlV3V.TabIndex:=0;
-      FormMain.PageControlX2S.TabIndex:=0;
-      FormMain.PageControlX4F.TabIndex:=0;
-      FormMain.PageControlXufton.TabIndex:=0;
+      PageControlA4F.TabIndex:=0;
+      PageControlAsr.TabIndex:=0;
+      PageControlB2F.TabIndex:=0;
+      PageControlB2S.TabIndex:=0;
+      PageControlBomdod.TabIndex:=0;
+      PageControlMain.TabIndex:=0;
+      PageControlP2S.TabIndex:=0;
+      PageControlP4F.TabIndex:=0;
+      PageControlP4S.TabIndex:=0;
+      PageControlPeshin.TabIndex:=0;
+      PageControlSh2S.TabIndex:=0;
+      PageControlSh3F.TabIndex:=0;
+      PageControlShom.TabIndex:=0;
+      PageControlV3V.TabIndex:=0;
+      PageControlX2S.TabIndex:=0;
+      PageControlX4F.TabIndex:=0;
+      PageControlXufton.TabIndex:=0;
     end;
 end;
 
@@ -2646,125 +2355,23 @@ begin
   Close;
 end;
 
-procedure TFormMain.ProcDuo(Sender: TObject);
+procedure TFormMain.MenuItemImageClick(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetDuo;
-  FormDetails.ShowModal;
+   if PanelImage.Visible=true then
+    begin
+      PanelImage.Hide;
+      MenuItemImage.Caption:=ImageShow;
+      ButtonImage.Caption:=ImageShow;
+    end
+  else
+    begin
+      PanelImage.Show;
+      MenuItemImage.Caption:=ImageHide;
+      ButtonImage.Caption:=ImageHide;
+    end
 end;
 
-procedure TFormMain.MenuItemAboutClick(Sender: TObject);
-begin
-  FormAbout.ShowModal;
-end;
-
-procedure TFormMain.MenuItemSettingsClick(Sender: TObject);
-begin
-  FormSettings.ShowModal;
-end;
-
-procedure TFormMain.ProcDuoF(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetDuoF;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcQunut(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetQunut;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcAzon(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzon;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcKursi(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetKursi;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcTasbehot(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetTasbehot;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcNas(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetNas;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcFalaq(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetFalaq;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcIqomat(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetIqomat;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcAla(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAla;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcAziym(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAziym;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcAzonBomdod(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzonBomdod;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcAzonDuo(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzonDuo;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcBasmala(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetBasmala;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcFotiha(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetFotiha;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcHamd(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetHamd;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcIxlos(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetIxlos;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ProcKavsar(Sender: TObject);
-begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetKavsar;
-  FormDetails.ShowModal;
-end;
-
-procedure TFormMain.ActionNextExecute(Sender: TObject);
+procedure TFormMain.MenuItemNextClick(Sender: TObject);
 begin
   case PageControlMain.ActivePageIndex of
   0: case PageControlBomdod.ActivePageIndex of
@@ -3026,544 +2633,1095 @@ begin
         end;
      end;
   end;
-  FormMain.ProcImagesLoad(self);
+  ProcImagesLoad(self);
+end;
+
+procedure TFormMain.MenuItemPreviousClick(Sender: TObject);
+begin
+   case PageControlMain.ActivePageIndex of
+  0: case PageControlBomdod.ActivePageIndex of
+     0: case PageControlB2S.ActivePageIndex of
+        1: PageControlB2S.ActivePageIndex:=0;
+        2: PageControlB2S.ActivePageIndex:=1;
+        3: PageControlB2S.ActivePageIndex:=2;
+        4: PageControlB2S.ActivePageIndex:=3;
+        5: PageControlB2S.ActivePageIndex:=4;
+        6: PageControlB2S.ActivePageIndex:=5;
+        7: PageControlB2S.ActivePageIndex:=6;
+        8: PageControlB2S.ActivePageIndex:=7;
+        9: PageControlB2S.ActivePageIndex:=8;
+        10: PageControlB2S.ActivePageIndex:=9;
+        11: PageControlB2S.ActivePageIndex:=10;
+        12: PageControlB2S.ActivePageIndex:=11;
+        13: PageControlB2S.ActivePageIndex:=12;
+        14: PageControlB2S.ActivePageIndex:=13;
+        end;
+     1: case PageControlB2F.ActivePageIndex of
+        1: PageControlB2F.ActivePageIndex:=0;
+        2: PageControlB2F.ActivePageIndex:=1;
+        3: PageControlB2F.ActivePageIndex:=2;
+        4: PageControlB2F.ActivePageIndex:=3;
+        5: PageControlB2F.ActivePageIndex:=4;
+        6: PageControlB2F.ActivePageIndex:=5;
+        7: PageControlB2F.ActivePageIndex:=6;
+        8: PageControlB2F.ActivePageIndex:=7;
+        9: PageControlB2F.ActivePageIndex:=8;
+        10: PageControlB2F.ActivePageIndex:=9;
+        11: PageControlB2F.ActivePageIndex:=10;
+        12: PageControlB2F.ActivePageIndex:=11;
+        13: PageControlB2F.ActivePageIndex:=12;
+        14: PageControlB2F.ActivePageIndex:=13;
+        15: PageControlB2F.ActivePageIndex:=14;
+        end;
+     end;
+  1: case PageControlPeshin.ActivePageIndex of
+     0: case PageControlP4S.ActivePageIndex of
+        1: PageControlP4S.ActivePageIndex:=0;
+        2: PageControlP4S.ActivePageIndex:=1;
+        3: PageControlP4S.ActivePageIndex:=2;
+        4: PageControlP4S.ActivePageIndex:=3;
+        5: PageControlP4S.ActivePageIndex:=4;
+        6: PageControlP4S.ActivePageIndex:=5;
+        7: PageControlP4S.ActivePageIndex:=6;
+        8: PageControlP4S.ActivePageIndex:=7;
+        9: PageControlP4S.ActivePageIndex:=8;
+        10: PageControlP4S.ActivePageIndex:=9;
+        11: PageControlP4S.ActivePageIndex:=10;
+        12: PageControlP4S.ActivePageIndex:=11;
+        13: PageControlP4S.ActivePageIndex:=12;
+        14: PageControlP4S.ActivePageIndex:=13;
+        15: PageControlP4S.ActivePageIndex:=14;
+        16: PageControlP4S.ActivePageIndex:=15;
+        17: PageControlP4S.ActivePageIndex:=16;
+        18: PageControlP4S.ActivePageIndex:=17;
+        19: PageControlP4S.ActivePageIndex:=18;
+        20: PageControlP4S.ActivePageIndex:=19;
+        21: PageControlP4S.ActivePageIndex:=20;
+        22: PageControlP4S.ActivePageIndex:=21;
+        23: PageControlP4S.ActivePageIndex:=22;
+        24: PageControlP4S.ActivePageIndex:=23;
+        25: PageControlP4S.ActivePageIndex:=24;
+        26: PageControlP4S.ActivePageIndex:=25;
+        27: PageControlP4S.ActivePageIndex:=26;
+        end;
+     1: case PageControlP4F.ActivePageIndex of
+        1: PageControlP4F.ActivePageIndex:=0;
+        2: PageControlP4F.ActivePageIndex:=1;
+        3: PageControlP4F.ActivePageIndex:=2;
+        4: PageControlP4F.ActivePageIndex:=3;
+        5: PageControlP4F.ActivePageIndex:=4;
+        6: PageControlP4F.ActivePageIndex:=5;
+        7: PageControlP4F.ActivePageIndex:=6;
+        8: PageControlP4F.ActivePageIndex:=7;
+        9: PageControlP4F.ActivePageIndex:=8;
+        10: PageControlP4F.ActivePageIndex:=9;
+        11: PageControlP4F.ActivePageIndex:=10;
+        12: PageControlP4F.ActivePageIndex:=11;
+        13: PageControlP4F.ActivePageIndex:=12;
+        14: PageControlP4F.ActivePageIndex:=13;
+        15: PageControlP4F.ActivePageIndex:=14;
+        16: PageControlP4F.ActivePageIndex:=15;
+        17: PageControlP4F.ActivePageIndex:=16;
+        18: PageControlP4F.ActivePageIndex:=17;
+        19: PageControlP4F.ActivePageIndex:=18;
+        20: PageControlP4F.ActivePageIndex:=19;
+        21: PageControlP4F.ActivePageIndex:=20;
+        22: PageControlP4F.ActivePageIndex:=21;
+        23: PageControlP4F.ActivePageIndex:=22;
+        24: PageControlP4F.ActivePageIndex:=23;
+        25: PageControlP4F.ActivePageIndex:=24;
+        26: PageControlP4F.ActivePageIndex:=25;
+        27: PageControlP4F.ActivePageIndex:=26;
+        28: PageControlP4F.ActivePageIndex:=27;
+        end;
+     2: case PageControlP2S.ActivePageIndex of
+        1: PageControlP2S.ActivePageIndex:=0;
+        2: PageControlP2S.ActivePageIndex:=1;
+        3: PageControlP2S.ActivePageIndex:=2;
+        4: PageControlP2S.ActivePageIndex:=3;
+        5: PageControlP2S.ActivePageIndex:=4;
+        6: PageControlP2S.ActivePageIndex:=5;
+        7: PageControlP2S.ActivePageIndex:=6;
+        8: PageControlP2S.ActivePageIndex:=7;
+        9: PageControlP2S.ActivePageIndex:=8;
+        10: PageControlP2S.ActivePageIndex:=9;
+        11: PageControlP2S.ActivePageIndex:=10;
+        12: PageControlP2S.ActivePageIndex:=11;
+        13: PageControlP2S.ActivePageIndex:=12;
+        14: PageControlP2S.ActivePageIndex:=13;
+        15: PageControlP2S.ActivePageIndex:=14;
+        end;
+     end;
+  2: case PageControlA4F.ActivePageIndex of
+        1: PageControlA4F.ActivePageIndex:=0;
+        2: PageControlA4F.ActivePageIndex:=1;
+        3: PageControlA4F.ActivePageIndex:=2;
+        4: PageControlA4F.ActivePageIndex:=3;
+        5: PageControlA4F.ActivePageIndex:=4;
+        6: PageControlA4F.ActivePageIndex:=5;
+        7: PageControlA4F.ActivePageIndex:=6;
+        8: PageControlA4F.ActivePageIndex:=7;
+        9: PageControlA4F.ActivePageIndex:=8;
+        10: PageControlA4F.ActivePageIndex:=9;
+        11: PageControlA4F.ActivePageIndex:=10;
+        12: PageControlA4F.ActivePageIndex:=11;
+        13: PageControlA4F.ActivePageIndex:=12;
+        14: PageControlA4F.ActivePageIndex:=13;
+        15: PageControlA4F.ActivePageIndex:=14;
+        16: PageControlA4F.ActivePageIndex:=15;
+        17: PageControlA4F.ActivePageIndex:=16;
+        18: PageControlA4F.ActivePageIndex:=17;
+        19: PageControlA4F.ActivePageIndex:=18;
+        20: PageControlA4F.ActivePageIndex:=19;
+        21: PageControlA4F.ActivePageIndex:=20;
+        22: PageControlA4F.ActivePageIndex:=21;
+        23: PageControlA4F.ActivePageIndex:=22;
+        24: PageControlA4F.ActivePageIndex:=23;
+        25: PageControlA4F.ActivePageIndex:=24;
+        26: PageControlA4F.ActivePageIndex:=25;
+        27: PageControlA4F.ActivePageIndex:=26;
+        28: PageControlA4F.ActivePageIndex:=27;
+        end;
+  3: case PageControlShom.ActivePageIndex of
+     0: case PageControlSh3F.ActivePageIndex of
+        1: PageControlSh3F.ActivePageIndex:=0;
+        2: PageControlSh3F.ActivePageIndex:=1;
+        3: PageControlSh3F.ActivePageIndex:=2;
+        4: PageControlSh3F.ActivePageIndex:=3;
+        5: PageControlSh3F.ActivePageIndex:=4;
+        6: PageControlSh3F.ActivePageIndex:=5;
+        7: PageControlSh3F.ActivePageIndex:=6;
+        8: PageControlSh3F.ActivePageIndex:=7;
+        9: PageControlSh3F.ActivePageIndex:=8;
+        10: PageControlSh3F.ActivePageIndex:=9;
+        11: PageControlSh3F.ActivePageIndex:=10;
+        12: PageControlSh3F.ActivePageIndex:=11;
+        13: PageControlSh3F.ActivePageIndex:=12;
+        14: PageControlSh3F.ActivePageIndex:=13;
+        15: PageControlSh3F.ActivePageIndex:=14;
+        16: PageControlSh3F.ActivePageIndex:=15;
+        17: PageControlSh3F.ActivePageIndex:=16;
+        18: PageControlSh3F.ActivePageIndex:=17;
+        19: PageControlSh3F.ActivePageIndex:=18;
+        20: PageControlSh3F.ActivePageIndex:=19;
+        21: PageControlSh3F.ActivePageIndex:=20;
+        22: PageControlSh3F.ActivePageIndex:=21;
+        end;
+     1: case PageControlSh2S.ActivePageIndex of
+        1: PageControlSh2S.ActivePageIndex:=0;
+        2: PageControlSh2S.ActivePageIndex:=1;
+        3: PageControlSh2S.ActivePageIndex:=2;
+        4: PageControlSh2S.ActivePageIndex:=3;
+        5: PageControlSh2S.ActivePageIndex:=4;
+        6: PageControlSh2S.ActivePageIndex:=5;
+        7: PageControlSh2S.ActivePageIndex:=6;
+        8: PageControlSh2S.ActivePageIndex:=7;
+        9: PageControlSh2S.ActivePageIndex:=8;
+        10: PageControlSh2S.ActivePageIndex:=9;
+        11: PageControlSh2S.ActivePageIndex:=10;
+        12: PageControlSh2S.ActivePageIndex:=11;
+        13: PageControlSh2S.ActivePageIndex:=12;
+        14: PageControlSh2S.ActivePageIndex:=13;
+        15: PageControlSh2S.ActivePageIndex:=14;
+        end;
+     end;
+  4: case PageControlXufton.ActivePageIndex of
+     0: case PageControlX4F.ActivePageIndex of
+        1: PageControlX4F.ActivePageIndex:=0;
+        2: PageControlX4F.ActivePageIndex:=1;
+        3: PageControlX4F.ActivePageIndex:=2;
+        4: PageControlX4F.ActivePageIndex:=3;
+        5: PageControlX4F.ActivePageIndex:=4;
+        6: PageControlX4F.ActivePageIndex:=5;
+        7: PageControlX4F.ActivePageIndex:=6;
+        8: PageControlX4F.ActivePageIndex:=7;
+        9: PageControlX4F.ActivePageIndex:=8;
+        10: PageControlX4F.ActivePageIndex:=9;
+        11: PageControlX4F.ActivePageIndex:=10;
+        12: PageControlX4F.ActivePageIndex:=11;
+        13: PageControlX4F.ActivePageIndex:=12;
+        14: PageControlX4F.ActivePageIndex:=13;
+        15: PageControlX4F.ActivePageIndex:=14;
+        16: PageControlX4F.ActivePageIndex:=15;
+        17: PageControlX4F.ActivePageIndex:=16;
+        18: PageControlX4F.ActivePageIndex:=17;
+        19: PageControlX4F.ActivePageIndex:=18;
+        20: PageControlX4F.ActivePageIndex:=19;
+        21: PageControlX4F.ActivePageIndex:=20;
+        22: PageControlX4F.ActivePageIndex:=21;
+        23: PageControlX4F.ActivePageIndex:=22;
+        24: PageControlX4F.ActivePageIndex:=23;
+        25: PageControlX4F.ActivePageIndex:=24;
+        26: PageControlX4F.ActivePageIndex:=25;
+        27: PageControlX4F.ActivePageIndex:=26;
+        28: PageControlX4F.ActivePageIndex:=27;
+        end;
+     1: case PageControlX2S.ActivePageIndex of
+        1: PageControlX2S.ActivePageIndex:=0;
+        2: PageControlX2S.ActivePageIndex:=1;
+        3: PageControlX2S.ActivePageIndex:=2;
+        4: PageControlX2S.ActivePageIndex:=3;
+        5: PageControlX2S.ActivePageIndex:=4;
+        6: PageControlX2S.ActivePageIndex:=5;
+        7: PageControlX2S.ActivePageIndex:=6;
+        8: PageControlX2S.ActivePageIndex:=7;
+        9: PageControlX2S.ActivePageIndex:=8;
+        10: PageControlX2S.ActivePageIndex:=9;
+        11: PageControlX2S.ActivePageIndex:=10;
+        12: PageControlX2S.ActivePageIndex:=11;
+        13: PageControlX2S.ActivePageIndex:=12;
+        14: PageControlX2S.ActivePageIndex:=13;
+        end;
+     2: case PageControlV3V.ActivePageIndex of
+        1: PageControlV3V.ActivePageIndex:=0;
+        2: PageControlV3V.ActivePageIndex:=1;
+        3: PageControlV3V.ActivePageIndex:=2;
+        4: PageControlV3V.ActivePageIndex:=3;
+        5: PageControlV3V.ActivePageIndex:=4;
+        6: PageControlV3V.ActivePageIndex:=5;
+        7: PageControlV3V.ActivePageIndex:=6;
+        8: PageControlV3V.ActivePageIndex:=7;
+        9: PageControlV3V.ActivePageIndex:=8;
+        10: PageControlV3V.ActivePageIndex:=9;
+        11: PageControlV3V.ActivePageIndex:=10;
+        12: PageControlV3V.ActivePageIndex:=11;
+        13: PageControlV3V.ActivePageIndex:=12;
+        14: PageControlV3V.ActivePageIndex:=13;
+        15: PageControlV3V.ActivePageIndex:=14;
+        16: PageControlV3V.ActivePageIndex:=15;
+        17: PageControlV3V.ActivePageIndex:=16;
+        18: PageControlV3V.ActivePageIndex:=17;
+        19: PageControlV3V.ActivePageIndex:=18;
+        20: PageControlV3V.ActivePageIndex:=19;
+        21: PageControlV3V.ActivePageIndex:=20;
+        22: PageControlV3V.ActivePageIndex:=21;
+        end;
+     end;
+  end;
+  ProcImagesLoad(self);
+end;
+
+procedure TFormMain.ProcDuo(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetDuo;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.MenuItemAboutClick(Sender: TObject);
+begin
+  FormAbout.ShowModal;
+end;
+
+procedure TFormMain.MenuItemSettingsClick(Sender: TObject);
+begin
+  FormSettings.ShowModal;
+end;
+
+procedure TFormMain.ProcDuoF(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetDuoF;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcQunut(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetQunut;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcAzon(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzon;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcKursi(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetKursi;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcTasbehot(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetTasbehot;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcNas(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetNas;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcFalaq(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetFalaq;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcIqomat(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetIqomat;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcAla(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAla;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcAziym(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAziym;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcAzonBomdod(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzonBomdod;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcAzonDuo(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzonDuo;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcBasmala(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetBasmala;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcFotiha(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetFotiha;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcHamd(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetHamd;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcIxlos(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetIxlos;
+  FormDetails.ShowModal;
+end;
+
+procedure TFormMain.ProcKavsar(Sender: TObject);
+begin
+  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetKavsar;
+  FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcImagesLoad(Sender: TObject);
 begin
-  case FormMain.PageControlMain.ActivePageIndex of
-  0: case FormMain.PageControlBomdod.ActivePageIndex of
-     0: case FormMain.PageControlB2S.ActivePage.Caption of
+  case PageControlMain.ActivePageIndex of
+  0: case PageControlBomdod.ActivePageIndex of
+     0: case PageControlB2S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
           begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
           begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
            begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
           begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
           begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
-     1: case FormMain.PageControlB2F.ActivePage.Caption of
+     1: case PageControlB2F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
            begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
            begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada': ProcImageJalsa;
         'Salom':
           begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Duo':
           begin
             ProcImageDuo;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
      end;
-  1: case FormMain.PageControlPeshin.ActivePageIndex of
-     0: case FormMain.PageControlP4S.ActivePage.Caption of
+  1: case PageControlPeshin.ActivePageIndex of
+     0: case PageControlP4S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
            begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
            begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
            begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
           begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
-     1: case FormMain.PageControlP4F.ActivePage.Caption of
+     1: case PageControlP4F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
           begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
           begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
           begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
           begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
           begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Duo':
           begin
             ProcImageDuo;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
-     2: case FormMain.PageControlP2S.ActivePage.Caption of
+     2: case PageControlP2S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
            begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
            begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
            begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
            begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Duo':
           begin
             ProcImageDuo;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
      end;
-  2: case FormMain.PageControlA4F.ActivePage.Caption of
+  2: case PageControlA4F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
             begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
             begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
             begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
             begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Duo':
           begin
             ProcImageDuo;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
-  3: case FormMain.PageControlShom.ActivePageIndex of
-     0: case FormMain.PageControlSh3F.ActivePage.Caption of
+  3: case PageControlShom.ActivePageIndex of
+     0: case PageControlSh3F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
             begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
             begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
             begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
             begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Duo':
           begin
             ProcImageDuo;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
-     1: case FormMain.PageControlSh2S.ActivePage.Caption of
+     1: case PageControlSh2S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
             FormMain.ButtonNext.Enabled:=true;
             FormMain.ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
             begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
             begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
             begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
             begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Duo':
           begin
             ProcImageDuo;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
      end;
-  4: case FormMain.PageControlXufton.ActivePageIndex of
-     0: case FormMain.PageControlX4F.ActivePage.Caption of
+  4: case PageControlXufton.ActivePageIndex of
+     0: case PageControlX4F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
             FormMain.ButtonNext.Enabled:=true;
             FormMain.ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
             begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
             begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
             begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
             begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Duo':
           begin
             ProcImageDuo;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
-     1: case FormMain.PageControlX2S.ActivePage.Caption of
+     1: case PageControlX2S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
             begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
             begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
             begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
           begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
-     2: case FormMain.PageControlV3V.ActivePage.Caption of
+     2: case PageControlV3V.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=false;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=false;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=false;
           end;
         'Qiyom':
           begin
             ProcImageQiyom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Ruku':
            begin
             ProcImageRuku;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Qovma':
             begin
             ProcImageQovma;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Sajda':
             begin
             ProcImageSajda;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Jalsa', 'Qada':
             begin
             ProcImageJalsa;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Salom':
             begin
             ProcImageSalom;
-            FormMain.ButtonNext.Enabled:=true;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=true;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=true;
+            ButtonPrevious.Enabled:=true;
           end;
         'Duo':
           begin
             ProcImageDuo;
-            FormMain.ButtonNext.Enabled:=false;
-            FormMain.ButtonPrevious.Enabled:=true;
+            MenuItemNext.Enabled:=false;
+            MenuItemPrevious.Enabled:=true;
+            ButtonNext.Enabled:=false;
+            ButtonPrevious.Enabled:=true;
           end;
         end;
      end;
@@ -3573,81 +3731,81 @@ end;
 procedure TFormMain.ProcImageKirish;
 begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/kirish.jpg') then
-  FormMain.ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/kirish.jpg')
-  else FormMain.ImageMan.Picture.Clear;
+  ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/kirish.jpg')
+  else ImageMan.Picture.Clear;
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/kirish.jpg') then
-  FormMain.ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/kirish.jpg')
-  else FormMain.ImageWoman.Picture.Clear;
+  ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/kirish.jpg')
+  else ImageWoman.Picture.Clear;
 end;
 
 procedure TFormMain.ProcImageQiyom;
 begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/qiyom.jpg') then
-  FormMain.ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/qiyom.jpg')
-  else FormMain.ImageMan.Picture.Clear;
+  ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/qiyom.jpg')
+  else ImageMan.Picture.Clear;
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/qiyom.jpg') then
-  FormMain.ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/qiyom.jpg')
-  else FormMain.ImageWoman.Picture.Clear;
+  ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/qiyom.jpg')
+  else ImageWoman.Picture.Clear;
 end;
 
 procedure TFormMain.ProcImageRuku;
 begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/ruku.jpg') then
-  FormMain.ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/ruku.jpg')
-  else FormMain.ImageMan.Picture.Clear;
+  ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/ruku.jpg')
+  else ImageMan.Picture.Clear;
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/ruku.jpg') then
-  FormMain.ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/ruku.jpg')
-  else FormMain.ImageWoman.Picture.Clear;
+  ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/ruku.jpg')
+  else ImageWoman.Picture.Clear;
 end;
 
 procedure TFormMain.ProcImageQovma;
 begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/qovma.jpg') then
-  FormMain.ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/qovma.jpg')
-  else FormMain.ImageMan.Picture.Clear;
+  ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/qovma.jpg')
+  else ImageMan.Picture.Clear;
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/qovma.jpg') then
-  FormMain.ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/qovma.jpg')
-  else FormMain.ImageWoman.Picture.Clear;
+  ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/qovma.jpg')
+  else ImageWoman.Picture.Clear;
 end;
 
 procedure TFormMain.ProcImageSajda;
 begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/sajda.jpg') then
-  FormMain.ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/sajda.jpg')
-  else FormMain.ImageMan.Picture.Clear;
+  ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/sajda.jpg')
+  else ImageMan.Picture.Clear;
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/sajda.jpg') then
-  FormMain.ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/sajda.jpg')
-  else FormMain.ImageWoman.Picture.Clear;
+  ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/sajda.jpg')
+  else ImageWoman.Picture.Clear;
 end;
 
 procedure TFormMain.ProcImageJalsa;
 begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/jalsa.jpg') then
-  FormMain.ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/jalsa.jpg')
-  else FormMain.ImageMan.Picture.Clear;
+  ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/jalsa.jpg')
+  else ImageMan.Picture.Clear;
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/jalsa.jpg') then
-  FormMain.ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/jalsa.jpg')
-  else FormMain.ImageWoman.Picture.Clear;
+  ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/jalsa.jpg')
+  else ImageWoman.Picture.Clear;
 end;
 
 procedure TFormMain.ProcImageSalom;
 begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/salom.jpg') then
-  FormMain.ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/salom.jpg')
-  else FormMain.ImageMan.Picture.Clear;
+  ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/salom.jpg')
+  else ImageMan.Picture.Clear;
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/salom.jpg') then
-  FormMain.ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/salom.jpg')
-  else FormMain.ImageWoman.Picture.Clear;
+  ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/salom.jpg')
+  else ImageWoman.Picture.Clear;
 end;
 
 procedure TFormMain.ProcImageDuo;
 begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/duo.jpg') then
-  FormMain.ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/duo.jpg')
-  else FormMain.ImageMan.Picture.Clear;
+  ImageMan.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/man/duo.jpg')
+  else ImageMan.Picture.Clear;
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/duo.jpg') then
-  FormMain.ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/duo.jpg')
-  else FormMain.ImageWoman.Picture.Clear;
+  ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/duo.jpg')
+  else ImageWoman.Picture.Clear;
 end;
 
 end.
