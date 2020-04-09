@@ -746,6 +746,16 @@ msgid ""
 "Ularni muhofaza qilish unga og'ir kelmas.\n"
 "Va U Aliy va Aziymdir.\n"
 msgstr ""
+"Значение:\n"
+"Аллах – нет божества, кроме Него, Живого, Поддерживающего жизнь.\n"
+"Им не овладевают ни дремота, ни сон.\n"
+"Ему принадлежит то, что на небесах, и то, что на земле.\n"
+"Кто станет заступаться перед Ним без Его дозволения?\n"
+"Он знает их будущее и прошлое.\n"
+"Они постигают из Его знания только то, что Он пожелает.\n"
+"Его Престол объемлет небеса и землю,\n"
+"и не тяготит Его оберегание их.\n"
+"Он – Возвышенный, Великий.\n"
 
 # Do not translate
 #: tformdetails.labelnasar.caption
@@ -916,12 +926,16 @@ msgid ""
 "\n"
 "Subhanalloh (33 marta).\n"
 msgstr ""
+"\n"
+"Subhanalloh (33 раза).\n"
 
 #: tformdetails.labelsubhanallohtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohni poklab zikr etaman.\n"
 msgstr ""
+"Значение:\n"
+"Allohni poklab zikr etaman.\n"
 
 # Do not translate
 #: tformdetails.labeltaavvuzar.caption
@@ -1003,13 +1017,15 @@ msgstr ""
 
 #: tformdetails.labeltavhidpr.caption
 msgid "La ilaha illallohu vahdahu la sharika lahu, lahul mulku va lahul hamdu va huva 'ala kulli shay'in qodir."
-msgstr ""
+msgstr "Ла илаха илла Ллах, вахдаху ла шарика лаху, Лаху л-мулку ва Лаху л-хамду ва хува ‘ала кули шай’ин кадир"
 
 #: tformdetails.labeltavhidtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohdan o'zga iloh yo'q. U yagonadir, sherigi yo'q, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.\n"
 msgstr ""
+"Значение:\n"
+"Нет никого и ничего достойного поклонения, кроме Единственного Аллаха, нет у Него сотоварища! Ему принадлежит вся власть и хвала, и Он над всякой вещью мощен.\n"
 
 # Do not translate
 #: tformdetails.tabsheetala.caption
@@ -1145,7 +1161,6 @@ msgid "Tasme"
 msgstr ""
 
 #: tformmain.buttonimage.caption
-#, fuzzy
 msgctxt "tformmain.buttonimage.caption"
 msgid "Tasvirlarni yashirish"
 msgstr "Скрыть изображения"
@@ -1166,322 +1181,322 @@ msgstr "Абид"
 #: tformmain.labelala1_1a4f.caption
 msgctxt "tformmain.labelala1_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1b2f.caption
 msgctxt "tformmain.labelala1_1b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1b2s.caption
 msgctxt "tformmain.labelala1_1b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1p2s.caption
 msgctxt "tformmain.labelala1_1p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1p4f.caption
 msgctxt "tformmain.labelala1_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1p4s.caption
 msgctxt "tformmain.labelala1_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1sh2s.caption
 msgctxt "tformmain.labelala1_1sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1sh3f.caption
 msgctxt "tformmain.labelala1_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1v3v.caption
 msgctxt "tformmain.labelala1_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1x2s.caption
 msgctxt "tformmain.labelala1_1x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_1x4f.caption
 msgctxt "tformmain.labelala1_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2a4f.caption
 msgctxt "tformmain.labelala1_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2b2f.caption
 msgctxt "tformmain.labelala1_2b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2b2s.caption
 msgctxt "tformmain.labelala1_2b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2p2s.caption
 msgctxt "tformmain.labelala1_2p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2p4f.caption
 msgctxt "tformmain.labelala1_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2p4s.caption
 msgctxt "tformmain.labelala1_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2sh2s.caption
 msgctxt "tformmain.labelala1_2sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2sh3f.caption
 msgctxt "tformmain.labelala1_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2v3v.caption
 msgctxt "tformmain.labelala1_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2x2s.caption
 msgctxt "tformmain.labelala1_2x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala1_2x4f.caption
 msgctxt "tformmain.labelala1_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1a4f.caption
 msgctxt "tformmain.labelala2_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1b2f.caption
 msgctxt "tformmain.labelala2_1b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1b2s.caption
 msgctxt "tformmain.labelala2_1b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1p2s.caption
 msgctxt "tformmain.labelala2_1p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1p4f.caption
 msgctxt "tformmain.labelala2_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1p4s.caption
 msgctxt "tformmain.labelala2_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1sh2s.caption
 msgctxt "tformmain.labelala2_1sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1sh3f.caption
 msgctxt "tformmain.labelala2_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1v3v.caption
 msgctxt "tformmain.labelala2_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1x2s.caption
 msgctxt "tformmain.labelala2_1x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_1x4f.caption
 msgctxt "tformmain.labelala2_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2a4f.caption
 msgctxt "tformmain.labelala2_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2b2f.caption
 msgctxt "tformmain.labelala2_2b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2b2s.caption
 msgctxt "tformmain.labelala2_2b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2p2s.caption
 msgctxt "tformmain.labelala2_2p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2p4f.caption
 msgctxt "tformmain.labelala2_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2p4s.caption
 msgctxt "tformmain.labelala2_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2sh2s.caption
 msgctxt "tformmain.labelala2_2sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2sh3f.caption
 msgctxt "tformmain.labelala2_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2v3v.caption
 msgctxt "tformmain.labelala2_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2x2s.caption
 msgctxt "tformmain.labelala2_2x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala2_2x4f.caption
 msgctxt "tformmain.labelala2_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_1a4f.caption
 msgctxt "tformmain.labelala3_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_1p4f.caption
 msgctxt "tformmain.labelala3_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_1p4s.caption
 msgctxt "tformmain.labelala3_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_1sh3f.caption
 msgctxt "tformmain.labelala3_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_1v3v.caption
 msgctxt "tformmain.labelala3_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_1x4f.caption
 msgctxt "tformmain.labelala3_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_2a4f.caption
 msgctxt "tformmain.labelala3_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_2p4f.caption
 msgctxt "tformmain.labelala3_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_2p4s.caption
 msgctxt "tformmain.labelala3_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_2sh3f.caption
 msgctxt "tformmain.labelala3_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_2v3v.caption
 msgctxt "tformmain.labelala3_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala3_2x4f.caption
 msgctxt "tformmain.labelala3_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala4_1a4f.caption
 msgctxt "tformmain.labelala4_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala4_1p4f.caption
 msgctxt "tformmain.labelala4_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala4_1p4s.caption
 msgctxt "tformmain.labelala4_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala4_1x4f.caption
 msgctxt "tformmain.labelala4_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala4_2a4f.caption
 msgctxt "tformmain.labelala4_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala4_2p4f.caption
 msgctxt "tformmain.labelala4_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala4_2p4s.caption
 msgctxt "tformmain.labelala4_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelala4_2x4f.caption
 msgctxt "tformmain.labelala4_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
-msgstr ""
+msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelasr.caption
 msgid "Asr namozining vaqti – har bir narsaning soyasi o'ziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Asr namozini quyosh tig'ini o'zgartirmay, nursiz holatga kirishidan oldinroq o'qish mustahabdir."
@@ -1490,162 +1505,162 @@ msgstr ""
 #: tformmain.labelaziym1a4f.caption
 msgctxt "tformmain.labelaziym1a4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1b2f.caption
 msgctxt "tformmain.labelaziym1b2f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1b2s.caption
 msgctxt "tformmain.labelaziym1b2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1p2s.caption
 msgctxt "tformmain.labelaziym1p2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1p4f.caption
 msgctxt "tformmain.labelaziym1p4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1p4s.caption
 msgctxt "tformmain.labelaziym1p4s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1sh2s.caption
 msgctxt "tformmain.labelaziym1sh2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1sh3f.caption
 msgctxt "tformmain.labelaziym1sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1v3v.caption
 msgctxt "tformmain.labelaziym1v3v.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1x2s.caption
 msgctxt "tformmain.labelaziym1x2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym1x4f.caption
 msgctxt "tformmain.labelaziym1x4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2a4f.caption
 msgctxt "tformmain.labelaziym2a4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2b2f.caption
 msgctxt "tformmain.labelaziym2b2f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2b2s.caption
 msgctxt "tformmain.labelaziym2b2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2p2s.caption
 msgctxt "tformmain.labelaziym2p2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2p4f.caption
 msgctxt "tformmain.labelaziym2p4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2p4s.caption
 msgctxt "tformmain.labelaziym2p4s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2sh2s.caption
 msgctxt "tformmain.labelaziym2sh2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2sh3f.caption
 msgctxt "tformmain.labelaziym2sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2v3v.caption
 msgctxt "tformmain.labelaziym2v3v.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2x2s.caption
 msgctxt "tformmain.labelaziym2x2s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym2x4f.caption
 msgctxt "tformmain.labelaziym2x4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym3a4f.caption
 msgctxt "tformmain.labelaziym3a4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym3p4f.caption
 msgctxt "tformmain.labelaziym3p4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym3p4s.caption
 msgctxt "tformmain.labelaziym3p4s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym3sh3f.caption
 msgctxt "tformmain.labelaziym3sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym3v3v.caption
 msgctxt "tformmain.labelaziym3v3v.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym3x4f.caption
 msgctxt "tformmain.labelaziym3x4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym4a4f.caption
 msgctxt "tformmain.labelaziym4a4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym4p4f.caption
 msgctxt "tformmain.labelaziym4p4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym4p4s.caption
 msgctxt "tformmain.labelaziym4p4s.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelaziym4x4f.caption
 msgctxt "tformmain.labelaziym4x4f.caption"
 msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
-msgstr ""
+msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.labelazona4f.caption
 msgctxt "tformmain.labelazona4f.caption"
@@ -1700,162 +1715,162 @@ msgstr ""
 #: tformmain.labelbasmala1a4f.caption
 msgctxt "tformmain.labelbasmala1a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1b2f.caption
 msgctxt "tformmain.labelbasmala1b2f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1b2s.caption
 msgctxt "tformmain.labelbasmala1b2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1p2s.caption
 msgctxt "tformmain.labelbasmala1p2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1p4f.caption
 msgctxt "tformmain.labelbasmala1p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1p4s.caption
 msgctxt "tformmain.labelbasmala1p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1sh2s.caption
 msgctxt "tformmain.labelbasmala1sh2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1sh3f.caption
 msgctxt "tformmain.labelbasmala1sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1v3v.caption
 msgctxt "tformmain.labelbasmala1v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1x2s.caption
 msgctxt "tformmain.labelbasmala1x2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala1x4f.caption
 msgctxt "tformmain.labelbasmala1x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2a4f.caption
 msgctxt "tformmain.labelbasmala2a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2b2f.caption
 msgctxt "tformmain.labelbasmala2b2f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2b2s.caption
 msgctxt "tformmain.labelbasmala2b2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2p2s.caption
 msgctxt "tformmain.labelbasmala2p2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2p4f.caption
 msgctxt "tformmain.labelbasmala2p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2p4s.caption
 msgctxt "tformmain.labelbasmala2p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2sh2s.caption
 msgctxt "tformmain.labelbasmala2sh2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2sh3f.caption
 msgctxt "tformmain.labelbasmala2sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2v3v.caption
 msgctxt "tformmain.labelbasmala2v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2x2s.caption
 msgctxt "tformmain.labelbasmala2x2s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala2x4f.caption
 msgctxt "tformmain.labelbasmala2x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3a4f.caption
 msgctxt "tformmain.labelbasmala3a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3p4f.caption
 msgctxt "tformmain.labelbasmala3p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3p4s.caption
 msgctxt "tformmain.labelbasmala3p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3sh3f.caption
 msgctxt "tformmain.labelbasmala3sh3f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3v3v.caption
 msgctxt "tformmain.labelbasmala3v3v.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala3x4f.caption
 msgctxt "tformmain.labelbasmala3x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala4a4f.caption
 msgctxt "tformmain.labelbasmala4a4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala4p4f.caption
 msgctxt "tformmain.labelbasmala4p4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala4p4s.caption
 msgctxt "tformmain.labelbasmala4p4s.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbasmala4x4f.caption
 msgctxt "tformmain.labelbasmala4x4f.caption"
 msgid "Basmala («Bismillah...») o'qiladi."
-msgstr ""
+msgstr "Читается Басмала («Бисмиллях...»)."
 
 #: tformmain.labelbomdod.caption
 msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda o'qish mustahab, a'loroqdir. Soat bo'yicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari o'qish mustahab vaqtiga muvofiq bo'ladi."
@@ -1944,322 +1959,322 @@ msgstr ""
 #: tformmain.labelfotiha1a4f.caption
 msgctxt "tformmain.labelfotiha1a4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1b2f.caption
 msgctxt "tformmain.labelfotiha1b2f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1b2s.caption
 msgctxt "tformmain.labelfotiha1b2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1p2s.caption
 msgctxt "tformmain.labelfotiha1p2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1p4f.caption
 msgctxt "tformmain.labelfotiha1p4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1p4s.caption
 msgctxt "tformmain.labelfotiha1p4s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1sh2s.caption
 msgctxt "tformmain.labelfotiha1sh2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1sh3f.caption
 msgctxt "tformmain.labelfotiha1sh3f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1v3v.caption
 msgctxt "tformmain.labelfotiha1v3v.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1x2s.caption
 msgctxt "tformmain.labelfotiha1x2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1x4f.caption
 msgctxt "tformmain.labelfotiha1x4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2a4f.caption
 msgctxt "tformmain.labelfotiha2a4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2b2f.caption
 msgctxt "tformmain.labelfotiha2b2f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2b2s.caption
 msgctxt "tformmain.labelfotiha2b2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2p2s.caption
 msgctxt "tformmain.labelfotiha2p2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2p4f.caption
 msgctxt "tformmain.labelfotiha2p4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2p4s.caption
 msgctxt "tformmain.labelfotiha2p4s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2sh2s.caption
 msgctxt "tformmain.labelfotiha2sh2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2sh3f.caption
 msgctxt "tformmain.labelfotiha2sh3f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2v3v.caption
 msgctxt "tformmain.labelfotiha2v3v.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2x2s.caption
 msgctxt "tformmain.labelfotiha2x2s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2x4f.caption
 msgctxt "tformmain.labelfotiha2x4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3a4f.caption
 msgctxt "tformmain.labelfotiha3a4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3p4f.caption
 msgctxt "tformmain.labelfotiha3p4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3p4s.caption
 msgctxt "tformmain.labelfotiha3p4s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3sh3f.caption
 msgctxt "tformmain.labelfotiha3sh3f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3v3v.caption
 msgctxt "tformmain.labelfotiha3v3v.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3x4f.caption
 msgctxt "tformmain.labelfotiha3x4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha4a4f.caption
 msgctxt "tformmain.labelfotiha4a4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha4p4f.caption
 msgctxt "tformmain.labelfotiha4p4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha4p4s.caption
 msgctxt "tformmain.labelfotiha4p4s.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha4x4f.caption
 msgctxt "tformmain.labelfotiha4x4f.caption"
 msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
-msgstr ""
+msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelhamd1a4f.caption
 msgctxt "tformmain.labelhamd1a4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1b2f.caption
 msgctxt "tformmain.labelhamd1b2f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1b2s.caption
 msgctxt "tformmain.labelhamd1b2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1p2s.caption
 msgctxt "tformmain.labelhamd1p2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1p4f.caption
 msgctxt "tformmain.labelhamd1p4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1p4s.caption
 msgctxt "tformmain.labelhamd1p4s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1sh2s.caption
 msgctxt "tformmain.labelhamd1sh2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1sh3f.caption
 msgctxt "tformmain.labelhamd1sh3f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1v3v.caption
 msgctxt "tformmain.labelhamd1v3v.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1x2s.caption
 msgctxt "tformmain.labelhamd1x2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd1x4f.caption
 msgctxt "tformmain.labelhamd1x4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2a4f.caption
 msgctxt "tformmain.labelhamd2a4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2b2f.caption
 msgctxt "tformmain.labelhamd2b2f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2b2s.caption
 msgctxt "tformmain.labelhamd2b2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2p2s.caption
 msgctxt "tformmain.labelhamd2p2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2p4f.caption
 msgctxt "tformmain.labelhamd2p4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2p4s.caption
 msgctxt "tformmain.labelhamd2p4s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2sh2s.caption
 msgctxt "tformmain.labelhamd2sh2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2sh3f.caption
 msgctxt "tformmain.labelhamd2sh3f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2v3v.caption
 msgctxt "tformmain.labelhamd2v3v.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2x2s.caption
 msgctxt "tformmain.labelhamd2x2s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd2x4f.caption
 msgctxt "tformmain.labelhamd2x4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd3a4f.caption
 msgctxt "tformmain.labelhamd3a4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd3p4f.caption
 msgctxt "tformmain.labelhamd3p4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd3p4s.caption
 msgctxt "tformmain.labelhamd3p4s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd3sh3f.caption
 msgctxt "tformmain.labelhamd3sh3f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd3v3v.caption
 msgctxt "tformmain.labelhamd3v3v.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd3x4f.caption
 msgctxt "tformmain.labelhamd3x4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd4a4f.caption
 msgctxt "tformmain.labelhamd4a4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd4p4f.caption
 msgctxt "tformmain.labelhamd4p4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd4p4s.caption
 msgctxt "tformmain.labelhamd4p4s.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labelhamd4x4f.caption
 msgctxt "tformmain.labelhamd4x4f.caption"
 msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
-msgstr ""
+msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.labeliqomata4f.caption
 msgctxt "tformmain.labeliqomata4f.caption"
@@ -2463,112 +2478,112 @@ msgstr ""
 #: tformmain.labelrobbanaa4f.caption
 msgctxt "tformmain.labelrobbanaa4f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanab2f.caption
 msgctxt "tformmain.labelrobbanab2f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanab2s.caption
 msgctxt "tformmain.labelrobbanab2s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanap2s.caption
 msgctxt "tformmain.labelrobbanap2s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanap4f.caption
 msgctxt "tformmain.labelrobbanap4f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanap4s.caption
 msgctxt "tformmain.labelrobbanap4s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanash2s.caption
 msgctxt "tformmain.labelrobbanash2s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanash3f.caption
 msgctxt "tformmain.labelrobbanash3f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanav3v.caption
 msgctxt "tformmain.labelrobbanav3v.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanax2s.caption
 msgctxt "tformmain.labelrobbanax2s.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelrobbanax4f.caption
 msgctxt "tformmain.labelrobbanax4f.caption"
 msgid "Duo («Robbana...») o'qiladi."
-msgstr ""
+msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.labelsalavota4f.caption
 msgctxt "tformmain.labelsalavota4f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotb2f.caption
 msgctxt "tformmain.labelsalavotb2f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotb2s.caption
 msgctxt "tformmain.labelsalavotb2s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotp2s.caption
 msgctxt "tformmain.labelsalavotp2s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotp4f.caption
 msgctxt "tformmain.labelsalavotp4f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotp4s.caption
 msgctxt "tformmain.labelsalavotp4s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotsh2s.caption
 msgctxt "tformmain.labelsalavotsh2s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotsh3f.caption
 msgctxt "tformmain.labelsalavotsh3f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotv3v.caption
 msgctxt "tformmain.labelsalavotv3v.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotx2s.caption
 msgctxt "tformmain.labelsalavotx2s.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsalavotx4f.caption
 msgctxt "tformmain.labelsalavotx4f.caption"
 msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
-msgstr ""
+msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.labelsaloma4f.caption
 msgctxt "tformmain.labelsaloma4f.caption"
@@ -2687,57 +2702,57 @@ msgstr ""
 #: tformmain.labeltaavvuza4f.caption
 msgctxt "tformmain.labeltaavvuza4f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzb2f.caption
 msgctxt "tformmain.labeltaavvuzb2f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzb2s.caption
 msgctxt "tformmain.labeltaavvuzb2s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzp2s.caption
 msgctxt "tformmain.labeltaavvuzp2s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzp4f.caption
 msgctxt "tformmain.labeltaavvuzp4f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzp4s.caption
 msgctxt "tformmain.labeltaavvuzp4s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzsh2s.caption
 msgctxt "tformmain.labeltaavvuzsh2s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzsh3f.caption
 msgctxt "tformmain.labeltaavvuzsh3f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzv3v.caption
 msgctxt "tformmain.labeltaavvuzv3v.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzx2s.caption
 msgctxt "tformmain.labeltaavvuzx2s.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltaavvuzx4f.caption
 msgctxt "tformmain.labeltaavvuzx4f.caption"
 msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
-msgstr ""
+msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.labeltakbirjalsa1a4f.caption
 msgctxt "tformmain.labeltakbirjalsa1a4f.caption"
@@ -3366,267 +3381,267 @@ msgstr ""
 #: tformmain.labeltakbirsajda1_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda1_2a4f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2b2f.caption
 msgctxt "tformmain.labeltakbirsajda1_2b2f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2b2s.caption
 msgctxt "tformmain.labeltakbirsajda1_2b2s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2p2s.caption
 msgctxt "tformmain.labeltakbirsajda1_2p2s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2p4f.caption
 msgctxt "tformmain.labeltakbirsajda1_2p4f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2p4s.caption
 msgctxt "tformmain.labeltakbirsajda1_2p4s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2sh2s.caption
 msgctxt "tformmain.labeltakbirsajda1_2sh2s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2sh3f.caption
 msgctxt "tformmain.labeltakbirsajda1_2sh3f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2v3v.caption
 msgctxt "tformmain.labeltakbirsajda1_2v3v.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2x2s.caption
 msgctxt "tformmain.labeltakbirsajda1_2x2s.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda1_2x4f.caption
 msgctxt "tformmain.labeltakbirsajda1_2x4f.caption"
 msgid "«Allohu akbar» deb ikkinchi marta sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается второй земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1a4f.caption
 msgctxt "tformmain.labeltakbirsajda2_1a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1b2f.caption
 msgctxt "tformmain.labeltakbirsajda2_1b2f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1b2s.caption
 msgctxt "tformmain.labeltakbirsajda2_1b2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1p2s.caption
 msgctxt "tformmain.labeltakbirsajda2_1p2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1p4f.caption
 msgctxt "tformmain.labeltakbirsajda2_1p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1p4s.caption
 msgctxt "tformmain.labeltakbirsajda2_1p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1sh2s.caption
 msgctxt "tformmain.labeltakbirsajda2_1sh2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1sh3f.caption
 msgctxt "tformmain.labeltakbirsajda2_1sh3f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1v3v.caption
 msgctxt "tformmain.labeltakbirsajda2_1v3v.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1x2s.caption
 msgctxt "tformmain.labeltakbirsajda2_1x2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_1x4f.caption
 msgctxt "tformmain.labeltakbirsajda2_1x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda2_2a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2b2f.caption
 msgctxt "tformmain.labeltakbirsajda2_2b2f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2b2s.caption
 msgctxt "tformmain.labeltakbirsajda2_2b2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2p2s.caption
 msgctxt "tformmain.labeltakbirsajda2_2p2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2p4s.caption
 msgctxt "tformmain.labeltakbirsajda2_2p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2p4s1.caption
 msgctxt "tformmain.labeltakbirsajda2_2p4s1.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2sh2s.caption
 msgctxt "tformmain.labeltakbirsajda2_2sh2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2sh3f.caption
 msgctxt "tformmain.labeltakbirsajda2_2sh3f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2v3v.caption
 msgctxt "tformmain.labeltakbirsajda2_2v3v.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2x2s.caption
 msgctxt "tformmain.labeltakbirsajda2_2x2s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda2_2x4f.caption
 msgctxt "tformmain.labeltakbirsajda2_2x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_1a4f.caption
 msgctxt "tformmain.labeltakbirsajda3_1a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_1p4f.caption
 msgctxt "tformmain.labeltakbirsajda3_1p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_1p4s.caption
 msgctxt "tformmain.labeltakbirsajda3_1p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_1sh3f.caption
 msgctxt "tformmain.labeltakbirsajda3_1sh3f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_1v3v.caption
 msgctxt "tformmain.labeltakbirsajda3_1v3v.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_1x4f.caption
 msgctxt "tformmain.labeltakbirsajda3_1x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda3_2a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_2p4f.caption
 msgctxt "tformmain.labeltakbirsajda3_2p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_2p4s.caption
 msgctxt "tformmain.labeltakbirsajda3_2p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_2sh3f.caption
 msgctxt "tformmain.labeltakbirsajda3_2sh3f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_2v3v.caption
 msgctxt "tformmain.labeltakbirsajda3_2v3v.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda3_2x4f.caption
 msgctxt "tformmain.labeltakbirsajda3_2x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda4_1a4f.caption
 msgctxt "tformmain.labeltakbirsajda4_1a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda4_1p4f.caption
 msgctxt "tformmain.labeltakbirsajda4_1p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda4_1p4s.caption
 msgctxt "tformmain.labeltakbirsajda4_1p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda4_1x4f.caption
 msgctxt "tformmain.labeltakbirsajda4_1x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda4_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda4_2a4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda4_2p4f.caption
 msgctxt "tformmain.labeltakbirsajda4_2p4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda4_2p4s.caption
 msgctxt "tformmain.labeltakbirsajda4_2p4s.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltakbirsajda4_2x4f.caption
 msgctxt "tformmain.labeltakbirsajda4_2x4f.caption"
 msgid "«Allohu akbar» deb sajda qilinadi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается земной поклон (саджда)."
 
 #: tformmain.labeltasbeha4f.caption
 msgctxt "tformmain.labeltasbeha4f.caption"
@@ -3656,247 +3671,247 @@ msgstr ""
 #: tformmain.labeltashahhud1a4f.caption
 msgctxt "tformmain.labeltashahhud1a4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud1p4f.caption
 msgctxt "tformmain.labeltashahhud1p4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud1p4s.caption
 msgctxt "tformmain.labeltashahhud1p4s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud1sh3f.caption
 msgctxt "tformmain.labeltashahhud1sh3f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud1v3v.caption
 msgctxt "tformmain.labeltashahhud1v3v.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud1x4f.caption
 msgctxt "tformmain.labeltashahhud1x4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud2a4f.caption
 msgctxt "tformmain.labeltashahhud2a4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud2p4f.caption
 msgctxt "tformmain.labeltashahhud2p4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud2p4s.caption
 msgctxt "tformmain.labeltashahhud2p4s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud2sh3f.caption
 msgctxt "tformmain.labeltashahhud2sh3f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud2v3v.caption
 msgctxt "tformmain.labeltashahhud2v3v.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhud2x4f.caption
 msgctxt "tformmain.labeltashahhud2x4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhudb2f.caption
 msgctxt "tformmain.labeltashahhudb2f.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhudb2s.caption
 msgctxt "tformmain.labeltashahhudb2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhudp2s.caption
 msgctxt "tformmain.labeltashahhudp2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhudsh2s.caption
 msgctxt "tformmain.labeltashahhudsh2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltashahhudx2s.caption
 msgctxt "tformmain.labeltashahhudx2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
-msgstr ""
+msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.labeltasme1a4f.caption
 msgctxt "tformmain.labeltasme1a4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1b2f.caption
 msgctxt "tformmain.labeltasme1b2f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1b2s.caption
 msgctxt "tformmain.labeltasme1b2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1p2s.caption
 msgctxt "tformmain.labeltasme1p2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1p4f.caption
 msgctxt "tformmain.labeltasme1p4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1p4s.caption
 msgctxt "tformmain.labeltasme1p4s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1sh2s.caption
 msgctxt "tformmain.labeltasme1sh2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1sh3f.caption
 msgctxt "tformmain.labeltasme1sh3f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1v3v.caption
 msgctxt "tformmain.labeltasme1v3v.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1x2s.caption
 msgctxt "tformmain.labeltasme1x2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme1x4f.caption
 msgctxt "tformmain.labeltasme1x4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2a4f.caption
 msgctxt "tformmain.labeltasme2a4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2b2f.caption
 msgctxt "tformmain.labeltasme2b2f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2b2s.caption
 msgctxt "tformmain.labeltasme2b2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2p2s.caption
 msgctxt "tformmain.labeltasme2p2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2p4f.caption
 msgctxt "tformmain.labeltasme2p4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2p4s.caption
 msgctxt "tformmain.labeltasme2p4s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2sh2s.caption
 msgctxt "tformmain.labeltasme2sh2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2sh3f.caption
 msgctxt "tformmain.labeltasme2sh3f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2v3v.caption
 msgctxt "tformmain.labeltasme2v3v.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2x2s.caption
 msgctxt "tformmain.labeltasme2x2s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme2x4f.caption
 msgctxt "tformmain.labeltasme2x4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme3a4f.caption
 msgctxt "tformmain.labeltasme3a4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme3p4f.caption
 msgctxt "tformmain.labeltasme3p4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme3p4s.caption
 msgctxt "tformmain.labeltasme3p4s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme3sh3f.caption
 msgctxt "tformmain.labeltasme3sh3f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme3v3v.caption
 msgctxt "tformmain.labeltasme3v3v.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme3x4f.caption
 msgctxt "tformmain.labeltasme3x4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme4a4f.caption
 msgctxt "tformmain.labeltasme4a4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme4p4f.caption
 msgctxt "tformmain.labeltasme4p4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme4p4s.caption
 msgctxt "tformmain.labeltasme4p4s.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labeltasme4x4f.caption
 msgctxt "tformmain.labeltasme4x4f.caption"
 msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
-msgstr ""
+msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labelxufton.caption
 msgid "Xufton namozining vaqti – shafaq batamom yo'qolgandan keyin kiradi. Vitr namozi vaqti esa xufton o'qilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha o'qisa bo'ladi. Xufton namozini kechaning uchdan biriga olib borib o'qish afzal va nihoyatda a'lo bo'ladi. Vitr namozini esa tun oxirida uyg'onishga qodir bo'lgan kishilar subh oldidan o'qisalar, mustahab amal qilgan bo'lishadi."
