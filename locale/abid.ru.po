@@ -1197,10 +1197,12 @@ msgid "Tasvirlarni yashirish"
 msgstr "Скрыть изображения"
 
 #: tformmain.buttonnext.hint
+msgctxt "tformmain.buttonnext.hint"
 msgid "Keyingi"
 msgstr "Следующий"
 
 #: tformmain.buttonprevious.hint
+msgctxt "tformmain.buttonprevious.hint"
 msgid "Oldingi"
 msgstr "Предыдущий"
 
@@ -3953,6 +3955,10 @@ msgctxt "tformmain.menuitemabout.caption"
 msgid "Dastur haqida"
 msgstr "О программе"
 
+#: tformmain.menuitemedit.caption
+msgid "Tahrirlash"
+msgstr "Правка"
+
 #: tformmain.menuitemexit.caption
 msgid "Chiqish"
 msgstr "Выход"
@@ -3965,14 +3971,25 @@ msgstr "Файл"
 msgid "Yordam"
 msgstr "Справка"
 
+#: tformmain.menuitemimage.caption
+msgctxt "tformmain.menuitemimage.caption"
+msgid "Tasvirlarni yashirish"
+msgstr "Скрыть изображения"
+
+#: tformmain.menuitemnext.caption
+msgctxt "tformmain.menuitemnext.caption"
+msgid "Keyingi"
+msgstr "Следующий"
+
+#: tformmain.menuitemprevious.caption
+msgctxt "tformmain.menuitemprevious.caption"
+msgid "Oldingi"
+msgstr "Предыдущий"
+
 #: tformmain.menuitemsettings.caption
 msgctxt "tformmain.menuitemsettings.caption"
 msgid "Sozlamalar"
 msgstr "Настройки"
-
-#: tformmain.menuitemtools.caption
-msgid "Asboblar"
-msgstr "Инструменты"
 
 #: tformmain.tabsheeta4f.caption
 msgctxt "tformmain.tabsheeta4f.caption"

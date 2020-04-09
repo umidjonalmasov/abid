@@ -1191,10 +1191,12 @@ msgid "Tasvirlarni yashirish"
 msgstr "Тасвирларни яшириш"
 
 #: tformmain.buttonnext.hint
+msgctxt "tformmain.buttonnext.hint"
 msgid "Keyingi"
 msgstr "Кейинги"
 
 #: tformmain.buttonprevious.hint
+msgctxt "tformmain.buttonprevious.hint"
 msgid "Oldingi"
 msgstr "Олдинги"
 
@@ -3947,6 +3949,10 @@ msgctxt "tformmain.menuitemabout.caption"
 msgid "Dastur haqida"
 msgstr "Дастур ҳақида"
 
+#: tformmain.menuitemedit.caption
+msgid "Tahrirlash"
+msgstr ""
+
 #: tformmain.menuitemexit.caption
 msgid "Chiqish"
 msgstr "Чиқиш"
@@ -3959,14 +3965,25 @@ msgstr "Файл"
 msgid "Yordam"
 msgstr "Ёрдам"
 
+#: tformmain.menuitemimage.caption
+msgctxt "tformmain.menuitemimage.caption"
+msgid "Tasvirlarni yashirish"
+msgstr "Тасвирларни яшириш"
+
+#: tformmain.menuitemnext.caption
+msgctxt "tformmain.menuitemnext.caption"
+msgid "Keyingi"
+msgstr "Кейинги"
+
+#: tformmain.menuitemprevious.caption
+msgctxt "tformmain.menuitemprevious.caption"
+msgid "Oldingi"
+msgstr "Олдинги"
+
 #: tformmain.menuitemsettings.caption
 msgctxt "tformmain.menuitemsettings.caption"
 msgid "Sozlamalar"
 msgstr "Созламалар"
-
-#: tformmain.menuitemtools.caption
-msgid "Asboblar"
-msgstr "Асбоблар"
 
 #: tformmain.tabsheeta4f.caption
 msgctxt "tformmain.tabsheeta4f.caption"

@@ -890,10 +890,12 @@ msgid "Tasvirlarni yashirish"
 msgstr ""
 
 #: tformmain.buttonnext.hint
+msgctxt "tformmain.buttonnext.hint"
 msgid "Keyingi"
 msgstr ""
 
 #: tformmain.buttonprevious.hint
+msgctxt "tformmain.buttonprevious.hint"
 msgid "Oldingi"
 msgstr ""
 
@@ -3646,6 +3648,10 @@ msgctxt "tformmain.menuitemabout.caption"
 msgid "Dastur haqida"
 msgstr ""
 
+#: tformmain.menuitemedit.caption
+msgid "Tahrirlash"
+msgstr ""
+
 #: tformmain.menuitemexit.caption
 msgid "Chiqish"
 msgstr ""
@@ -3658,13 +3664,24 @@ msgstr ""
 msgid "Yordam"
 msgstr ""
 
+#: tformmain.menuitemimage.caption
+msgctxt "tformmain.menuitemimage.caption"
+msgid "Tasvirlarni yashirish"
+msgstr ""
+
+#: tformmain.menuitemnext.caption
+msgctxt "tformmain.menuitemnext.caption"
+msgid "Keyingi"
+msgstr ""
+
+#: tformmain.menuitemprevious.caption
+msgctxt "tformmain.menuitemprevious.caption"
+msgid "Oldingi"
+msgstr ""
+
 #: tformmain.menuitemsettings.caption
 msgctxt "tformmain.menuitemsettings.caption"
 msgid "Sozlamalar"
-msgstr ""
-
-#: tformmain.menuitemtools.caption
-msgid "Asboblar"
 msgstr ""
 
 #: tformmain.tabsheeta4f.caption
