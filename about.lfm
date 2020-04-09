@@ -1,7 +1,7 @@
 object FormAbout: TFormAbout
-  Left = 458
+  Left = 504
   Height = 430
-  Top = 123
+  Top = 187
   Width = 525
   AutoSize = True
   BorderIcons = []
@@ -303,11 +303,12 @@ object FormAbout: TFormAbout
         WordWrap = True
       end
       object LabelDedication: TLabel
-        Left = 270
-        Height = 48
+        Left = 312
+        Height = 42
         Top = 256
-        Width = 211
+        Width = 171
         Caption = 'Ushbu dasturni va u uchun savobni'#10'marhum otam Almasov Ja''farga'#10'bag''ishlayman'
+        Font.Height = -11
         ParentColor = False
         ParentFont = False
       end
