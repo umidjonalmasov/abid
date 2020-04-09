@@ -77,9 +77,6 @@ end;
 
 procedure TFormSettings.CancelButtonClick(Sender: TObject);
 begin
-  FormMain.PageControlMain.Font.SetDefault;
-  FormDetails.PageControlMain.Font.SetDefault;
-  SetDefaultLang('uz@lat');
   IniPropStorage.Restore;
 end;
 
