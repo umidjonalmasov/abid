@@ -89,8 +89,8 @@ object FormSettings: TFormSettings
         ItemHeight = 0
         Items.Strings = (
           'O''zbek (lotin)'
-          'Ўзбек (кирилл)'
-          'Русский'
+          'O''zbek (kirill)'
+          'Rus'
         )
         OnChange = ComboBoxLanguageChange
         Style = csDropDownList
