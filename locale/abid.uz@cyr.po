@@ -5515,9 +5515,9 @@ msgid "Dastur ishga tushirilganda"
 msgstr "Дастур ишга туширилганда"
 
 #: tformsettings.radiobuttoncontinue.caption
-msgid "qolgan goydan davom etilsin"
-msgstr "қолган жойдан давом этилсин"
+msgid "qolgan goydan davom etish"
+msgstr "қолган жойдан давом этиш"
 
 #: tformsettings.radiobuttonstart.caption
-msgid "boshdan ishga tushirilsin"
-msgstr "бошдан ишга туширилсин"
+msgid "boshga o'tish"
+msgstr "бошга ўтиш"

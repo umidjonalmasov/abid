@@ -43,9 +43,9 @@ msgid ""
 "marhum otam Almasov Ja'farga\n"
 "bag'ishlayman\n"
 msgstr ""
-"Данную программу и вознаграждение\n"
-"за нее посвящаю моему покойному отцу\n"
-"Алмасову Джафару\n"
+"Посвящаю данную программу\n"
+"и воздаяние за нее моему покойному\n"
+"отцу Алмасову Джафару\n"
 
 #: tformabout.labeldescription.caption
 msgid "Namoz o'qishni o'rgatuvchi multimedia dasturi"
@@ -69,6 +69,9 @@ msgid ""
 "«Namozni to'kis ado qiling, zakotni bering va ruku' qiluvchilar bilan ruku' qiling»\n"
 "(Baqara surasi, 43-oyat).\n"
 msgstr ""
+"Alloh taolo shunday marhamat etadi:\n"
+"«Совершайте намаз, выплачивайте закят и кланяйтесь вместе с кланяющимися»\n"
+"(сура Аль-Бакара, 43 аят).\n"
 
 # Do not translate
 #: tformabout.labelweb.caption
@@ -129,12 +132,16 @@ msgid ""
 "\n"
 "Alhamdulillah (33 marta).\n"
 msgstr ""
+"\n"
+"Альхамдулиллях (33 раза).\n"
 
 #: tformdetails.labelalhamdulillahtr.caption
 msgid ""
 "Ma'nosi:\n"
 "Maqtovlar Allohga xosdir.\n"
 msgstr ""
+"Значение:\n"
+"Хвала Аллаху.\n"
 
 # Do not translate
 #: tformdetails.labelallohuakbarar.caption
@@ -218,7 +225,7 @@ msgstr ""
 #: tformdetails.labelazonbomdoddesc.caption
 msgctxt "tformdetails.labelazonbomdoddesc.caption"
 msgid "Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta'kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo'lning ko'rsatkich barmoqlarini quloq ichiga qo'yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya 'las-solah» kalimasida boshini o'ng tarafga, «Hayya 'alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so'zlashdan to'xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya 'alas-solah», deganida «Laa havla va laa quvvata illaa billahil 'aliyyil-a'ziym», deydi, «Hayya 'alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha' lam yakun», deydi. Safarda va jome' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi."
-msgstr ""
+msgstr "Азан означает громкое объявление людям том, что настало время намаза. Азан имеет установленную форму – нельзя ничего добавлять к его словам или убавлять из его слов. Условием действительности азана является оглашение его на арабском языке. Оглашение азана перед обязательными намазами, включая пятничный намаз, — это сунна муаккада. Мужчине желательно также оглашать азан, когда он совершает намаз в одиночку, причем не имеет значения, своевременный это намаз или восполнение пропущенного ранее. Если восполняешь несколько намазов, то лучше всего перед каждым восполняемым намазом произносить азан. Однако можно ограничиться одним азаном, совершенным перед первым из восполняемых намазов. Азан должен оглашать мужчина-мусульманин (или мальчик, достигший «возраста различения» (тамйиз), обычно это тот, кто старше семи лунных лет), находящийся в здравом рассудке. Азан маленького ребенка (не достигшего возраста тамйиза), а также сумасшедшего или пьяного не действителен."
 
 #: tformdetails.labelazonbomdodpr.caption
 msgid ""
@@ -291,7 +298,7 @@ msgstr ""
 #: tformdetails.labelazondesc.caption
 msgctxt "tformdetails.labelazondesc.caption"
 msgid "Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta'kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo'lning ko'rsatkich barmoqlarini quloq ichiga qo'yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya 'las-solah» kalimasida boshini o'ng tarafga, «Hayya 'alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so'zlashdan to'xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya 'alas-solah», deganida «Laa havla va laa quvvata illaa billahil 'aliyyil-a'ziym», deydi, «Hayya 'alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha' lam yakun», deydi. Safarda va jome' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi."
-msgstr ""
+msgstr "Азан означает громкое объявление людям том, что настало время намаза. Азан имеет установленную форму – нельзя ничего добавлять к его словам или убавлять из его слов. Условием действительности азана является оглашение его на арабском языке. Оглашение азана перед обязательными намазами, включая пятничный намаз, — это сунна муаккада. Мужчине желательно также оглашать азан, когда он совершает намаз в одиночку, причем не имеет значения, своевременный это намаз или восполнение пропущенного ранее. Если восполняешь несколько намазов, то лучше всего перед каждым восполняемым намазом произносить азан. Однако можно ограничиться одним азаном, совершенным перед первым из восполняемых намазов. Азан должен оглашать мужчина-мусульманин (или мальчик, достигший «возраста различения» (тамйиз), обычно это тот, кто старше семи лунных лет), находящийся в здравом рассудке. Азан маленького ребенка (не достигшего возраста тамйиза), а также сумасшедшего или пьяного не действителен."
 
 # Do not translate
 #: tformdetails.labelazonduoar.caption
@@ -732,6 +739,16 @@ msgid ""
 "Va la yauduhu hifzuhuma\n"
 "Va huval 'aliyyul 'aziym.\n"
 msgstr ""
+"\n"
+"Аллааху  ляя иляяха  илляя  хуаль-хаййуль-каййуум.\n"
+"Ляя  таъхузухуусинату-ва ляянаууум.\n"
+"Ляхуумаафис-самааваати ва маа филь-ард.\n"
+"Ман заллязии яшфа'у 'индахуу илляя биизних.\n"
+"Я'ляму  маа байна айдиихим ва маа хальфахум.\n"
+"Ва ляя йухыытууна бишай им  мин 'ильимхи илляя бимаа шаа.\n"
+"Васи'а  курсиййухус-самааваати  валь-ард.\n"
+"Ва  ляя йяъуудухуу хифзухумаа\n"
+"ва хуаль-'алиййуль-'азыйм.\n"
 
 #: tformdetails.labelkursitr.caption
 msgid ""
@@ -779,6 +796,13 @@ msgid ""
 "Allazi yuvasvisufi sudurin-nas\n"
 "Minal jinnati van-nas\n"
 msgstr ""
+"\n"
+"Куль а'узу бираббин-наас\n"
+"Маликин-наас\n"
+"Иляхин-наас\n"
+"Мин шарриль-уасуасиль-ханнаас\n"
+"Аль-лязи йувасвису фи судурин-наас\n"
+"Миналь-джиннати уан-наас\n"
 
 #: tformdetails.labelnastr.caption
 msgid ""
@@ -790,6 +814,13 @@ msgid ""
 "Odamlar qalbiga vasvasa soladiganning\n"
 "Jinlardan va odamlardan bo'lganning yomonligidan, deb ayt\n"
 msgstr ""
+"Значение:\n"
+"Скажи: «Прибегаю к защите Господа людей,\n"
+"Царя людей,\n"
+"Бога людей,\n"
+"от зла искусителя исчезающего при поминании Аллаха,\n"
+"который наущает в груди людей,\n"
+"от джиннов и людей».\n"
 
 # Do not translate
 #: tformdetails.labelqunutar.caption
@@ -927,7 +958,7 @@ msgid ""
 "Subhanalloh (33 marta).\n"
 msgstr ""
 "\n"
-"Subhanalloh (33 раза).\n"
+"Субханаллах (33 раза).\n"
 
 #: tformdetails.labelsubhanallohtr.caption
 msgid ""
@@ -935,7 +966,7 @@ msgid ""
 "Allohni poklab zikr etaman.\n"
 msgstr ""
 "Значение:\n"
-"Allohni poklab zikr etaman.\n"
+"Пречист Аллах.\n"
 
 # Do not translate
 #: tformdetails.labeltaavvuzar.caption
@@ -1017,7 +1048,7 @@ msgstr ""
 
 #: tformdetails.labeltavhidpr.caption
 msgid "La ilaha illallohu vahdahu la sharika lahu, lahul mulku va lahul hamdu va huva 'ala kulli shay'in qodir."
-msgstr "Ла илаха илла Ллах, вахдаху ла шарика лаху, Лаху л-мулку ва Лаху л-хамду ва хува ‘ала кули шай’ин кадир"
+msgstr "Ла илаха иллаллаху вахдаху ла шарика лаху, лаху л-мулку ва Лаху л-хамду ва хува 'ала кули шай'ин кадир."
 
 #: tformdetails.labeltavhidtr.caption
 msgid ""
@@ -1665,52 +1696,52 @@ msgstr "Три раза произносится «Субхана Роббиял
 #: tformmain.labelazona4f.caption
 msgctxt "tformmain.labelazona4f.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Сначала оглашается азан."
 
 #: tformmain.labelazonb2s.caption
 msgctxt "tformmain.labelazonb2s.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Сначала оглашается азан."
 
 #: tformmain.labelazonduoa4f.caption
 msgctxt "tformmain.labelazonduoa4f.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Затем читается дуа."
 
 #: tformmain.labelazonduob2s.caption
 msgctxt "tformmain.labelazonduob2s.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Затем читается дуа."
 
 #: tformmain.labelazonduop4s.caption
 msgctxt "tformmain.labelazonduop4s.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Затем читается дуа."
 
 #: tformmain.labelazonduosh3f.caption
 msgctxt "tformmain.labelazonduosh3f.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Затем читается дуа."
 
 #: tformmain.labelazonduox4f.caption
 msgctxt "tformmain.labelazonduox4f.caption"
 msgid "So'ng Azon duosi o'qiladi."
-msgstr ""
+msgstr "Затем читается дуа."
 
 #: tformmain.labelazonp4s.caption
 msgctxt "tformmain.labelazonp4s.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Сначала оглашается азан."
 
 #: tformmain.labelazonsh3f.caption
 msgctxt "tformmain.labelazonsh3f.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Сначала оглашается азан."
 
 #: tformmain.labelazonx4f.caption
 msgctxt "tformmain.labelazonx4f.caption"
 msgid "Avval Azon o'qiladi."
-msgstr ""
+msgstr "Сначала оглашается азан."
 
 #: tformmain.labelbasmala1a4f.caption
 msgctxt "tformmain.labelbasmala1a4f.caption"
@@ -1879,82 +1910,82 @@ msgstr ""
 #: tformmain.labelduoa4f.caption
 msgctxt "tformmain.labelduoa4f.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "По завершении намаза читается дуа."
 
 #: tformmain.labelduob2f.caption
 msgctxt "tformmain.labelduob2f.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "По завершении намаза читается дуа."
 
 #: tformmain.labelduofa4f.caption
 msgctxt "tformmain.labelduofa4f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.labelduofb2f.caption
 msgctxt "tformmain.labelduofb2f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.labelduofp4f.caption
 msgctxt "tformmain.labelduofp4f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.labelduofsh3f.caption
 msgctxt "tformmain.labelduofsh3f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.labelduofx4f.caption
 msgctxt "tformmain.labelduofx4f.caption"
 msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
-msgstr ""
+msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.labelduop2s.caption
 msgctxt "tformmain.labelduop2s.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "По завершении намаза читается дуа."
 
 #: tformmain.labelduosh2s.caption
 msgctxt "tformmain.labelduosh2s.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "По завершении намаза читается дуа."
 
 #: tformmain.labelduov3v.caption
 msgctxt "tformmain.labelduov3v.caption"
 msgid "Namoz tugagach, ushbu duo o'qiladi."
-msgstr ""
+msgstr "По завершении намаза читается дуа."
 
 #: tformmain.labelfalaqb2f.caption
 msgctxt "tformmain.labelfalaqb2f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqp2s.caption
 msgctxt "tformmain.labelfalaqp2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqp4s.caption
 msgctxt "tformmain.labelfalaqp4s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqsh2s.caption
 msgctxt "tformmain.labelfalaqsh2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqv3v.caption
 msgctxt "tformmain.labelfalaqv3v.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqx2s.caption
 msgctxt "tformmain.labelfalaqx2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfotiha1a4f.caption
 msgctxt "tformmain.labelfotiha1a4f.caption"
@@ -2279,92 +2310,92 @@ msgstr "Выпрямившись окончательно произноситс
 #: tformmain.labeliqomata4f.caption
 msgctxt "tformmain.labeliqomata4f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Читается икамат."
 
 #: tformmain.labeliqomatb2f.caption
 msgctxt "tformmain.labeliqomatb2f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Читается икамат."
 
 #: tformmain.labeliqomatp4f.caption
 msgctxt "tformmain.labeliqomatp4f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Читается икамат."
 
 #: tformmain.labeliqomatsh3f.caption
 msgctxt "tformmain.labeliqomatsh3f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Читается икамат."
 
 #: tformmain.labeliqomatx4f.caption
 msgctxt "tformmain.labeliqomatx4f.caption"
 msgid "Iqomat o'qiladi."
-msgstr ""
+msgstr "Читается икамат."
 
 #: tformmain.labelixlosa4f.caption
 msgctxt "tformmain.labelixlosa4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosb2s.caption
 msgctxt "tformmain.labelixlosb2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosp4f.caption
 msgctxt "tformmain.labelixlosp4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosp4s.caption
 msgctxt "tformmain.labelixlosp4s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlossh3f.caption
 msgctxt "tformmain.labelixlossh3f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosv3v.caption
 msgctxt "tformmain.labelixlosv3v.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosx4f.caption
 msgctxt "tformmain.labelixlosx4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsara4f.caption
 msgctxt "tformmain.labelkavsara4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarb2s.caption
 msgctxt "tformmain.labelkavsarb2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarp4f.caption
 msgctxt "tformmain.labelkavsarp4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarp4s.caption
 msgctxt "tformmain.labelkavsarp4s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarsh3f.caption
 msgctxt "tformmain.labelkavsarsh3f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarx4f.caption
 msgctxt "tformmain.labelkavsarx4f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkursia4f.caption
 msgctxt "tformmain.labelkursia4f.caption"
@@ -2394,32 +2425,32 @@ msgstr ""
 #: tformmain.labelnasb2f.caption
 msgctxt "tformmain.labelnasb2f.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnasp2s.caption
 msgctxt "tformmain.labelnasp2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnasp4s.caption
 msgctxt "tformmain.labelnasp4s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnassh2s.caption
 msgctxt "tformmain.labelnassh2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnasv3v.caption
 msgctxt "tformmain.labelnasv3v.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnasx2s.caption
 msgctxt "tformmain.labelnasx2s.caption"
 msgid "Zam sura o'qiladi."
-msgstr ""
+msgstr "Читается дополнительная сура."
 
 #: tformmain.labelniyata4f.caption
 msgctxt "tformmain.labelniyata4f.caption"
@@ -3057,107 +3088,107 @@ msgstr ""
 #: tformmain.labeltakbirqiyom2a4f.caption
 msgctxt "tformmain.labeltakbirqiyom2a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2b2f.caption
 msgctxt "tformmain.labeltakbirqiyom2b2f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2b2s.caption
 msgctxt "tformmain.labeltakbirqiyom2b2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2p2s.caption
 msgctxt "tformmain.labeltakbirqiyom2p2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2p4f.caption
 msgctxt "tformmain.labeltakbirqiyom2p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2p4s.caption
 msgctxt "tformmain.labeltakbirqiyom2p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2sh2s.caption
 msgctxt "tformmain.labeltakbirqiyom2sh2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2sh3f.caption
 msgctxt "tformmain.labeltakbirqiyom2sh3f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2v3v.caption
 msgctxt "tformmain.labeltakbirqiyom2v3v.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2x2s.caption
 msgctxt "tformmain.labeltakbirqiyom2x2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom2x4f.caption
 msgctxt "tformmain.labeltakbirqiyom2x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.labeltakbirqiyom3a4f.caption
 msgctxt "tformmain.labeltakbirqiyom3a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.labeltakbirqiyom3p4f.caption
 msgctxt "tformmain.labeltakbirqiyom3p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.labeltakbirqiyom3p4s.caption
 msgctxt "tformmain.labeltakbirqiyom3p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.labeltakbirqiyom3sh3f.caption
 msgctxt "tformmain.labeltakbirqiyom3sh3f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.labeltakbirqiyom3v3v.caption
 msgctxt "tformmain.labeltakbirqiyom3v3v.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.labeltakbirqiyom3x4f.caption
 msgctxt "tformmain.labeltakbirqiyom3x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.labeltakbirqiyom4a4f.caption
 msgctxt "tformmain.labeltakbirqiyom4a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения четвертого ракаата."
 
 #: tformmain.labeltakbirqiyom4p4f.caption
 msgctxt "tformmain.labeltakbirqiyom4p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения четвертого ракаата."
 
 #: tformmain.labeltakbirqiyom4p4s.caption
 msgctxt "tformmain.labeltakbirqiyom4p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения четвертого ракаата."
 
 #: tformmain.labeltakbirqiyom4x4f.caption
 msgctxt "tformmain.labeltakbirqiyom4x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения четвертого ракаата."
 
 #: tformmain.labeltakbirqunut.caption
 msgid "«Allohu akbar» deb, qo'llar quloqlar to'g'risigacha ko'tarilib, yana kindik ostiga qo'yiladi."
@@ -3166,217 +3197,217 @@ msgstr ""
 #: tformmain.labeltakbirruku1a4f.caption
 msgctxt "tformmain.labeltakbirruku1a4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1b2f.caption
 msgctxt "tformmain.labeltakbirruku1b2f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1b2s.caption
 msgctxt "tformmain.labeltakbirruku1b2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1p2s.caption
 msgctxt "tformmain.labeltakbirruku1p2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1p4f.caption
 msgctxt "tformmain.labeltakbirruku1p4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1p4s.caption
 msgctxt "tformmain.labeltakbirruku1p4s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1sh2s.caption
 msgctxt "tformmain.labeltakbirruku1sh2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1sh3f.caption
 msgctxt "tformmain.labeltakbirruku1sh3f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1v3v.caption
 msgctxt "tformmain.labeltakbirruku1v3v.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1x2s.caption
 msgctxt "tformmain.labeltakbirruku1x2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku1x4f.caption
 msgctxt "tformmain.labeltakbirruku1x4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.labeltakbirruku2a4f.caption
 msgctxt "tformmain.labeltakbirruku2a4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2b2f.caption
 msgctxt "tformmain.labeltakbirruku2b2f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2b2s.caption
 msgctxt "tformmain.labeltakbirruku2b2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2p2s.caption
 msgctxt "tformmain.labeltakbirruku2p2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2p4f.caption
 msgctxt "tformmain.labeltakbirruku2p4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2p4s.caption
 msgctxt "tformmain.labeltakbirruku2p4s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2sh2s.caption
 msgctxt "tformmain.labeltakbirruku2sh2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2sh3f.caption
 msgctxt "tformmain.labeltakbirruku2sh3f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2v3v.caption
 msgctxt "tformmain.labeltakbirruku2v3v.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2x2s.caption
 msgctxt "tformmain.labeltakbirruku2x2s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku2x4f.caption
 msgctxt "tformmain.labeltakbirruku2x4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku3a4f.caption
 msgctxt "tformmain.labeltakbirruku3a4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku3p4f.caption
 msgctxt "tformmain.labeltakbirruku3p4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku3p4s.caption
 msgctxt "tformmain.labeltakbirruku3p4s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku3sh3f.caption
 msgctxt "tformmain.labeltakbirruku3sh3f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku3v3v.caption
 msgctxt "tformmain.labeltakbirruku3v3v.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku3x4f.caption
 msgctxt "tformmain.labeltakbirruku3x4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku4a4f.caption
 msgctxt "tformmain.labeltakbirruku4a4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku4p4f.caption
 msgctxt "tformmain.labeltakbirruku4p4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku4p4s.caption
 msgctxt "tformmain.labeltakbirruku4p4s.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirruku4x4f.caption
 msgctxt "tformmain.labeltakbirruku4x4f.caption"
 msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.labeltakbirsajda1_1a4f.caption
 msgctxt "tformmain.labeltakbirsajda1_1a4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1b2f.caption
 msgctxt "tformmain.labeltakbirsajda1_1b2f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1b2s.caption
 msgctxt "tformmain.labeltakbirsajda1_1b2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1p2s.caption
 msgctxt "tformmain.labeltakbirsajda1_1p2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1p4f.caption
 msgctxt "tformmain.labeltakbirsajda1_1p4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1p4s.caption
 msgctxt "tformmain.labeltakbirsajda1_1p4s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1sh2s.caption
 msgctxt "tformmain.labeltakbirsajda1_1sh2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1sh3f.caption
 msgctxt "tformmain.labeltakbirsajda1_1sh3f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1v3v.caption
 msgctxt "tformmain.labeltakbirsajda1_1v3v.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1x2s.caption
 msgctxt "tformmain.labeltakbirsajda1_1x2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_1x4f.caption
 msgctxt "tformmain.labeltakbirsajda1_1x4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.labeltakbirsajda1_2a4f.caption
 msgctxt "tformmain.labeltakbirsajda1_2a4f.caption"
@@ -3646,27 +3677,27 @@ msgstr "Произнеся «Аллаху акбар» совершается з
 #: tformmain.labeltasbeha4f.caption
 msgctxt "tformmain.labeltasbeha4f.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "При совершении тасбихата каждый раз по завершении намаза получают великое воздаяние."
 
 #: tformmain.labeltasbehb2f.caption
 msgctxt "tformmain.labeltasbehb2f.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "При совершении тасбихата каждый раз по завершении намаза получают великое воздаяние."
 
 #: tformmain.labeltasbehp2s.caption
 msgctxt "tformmain.labeltasbehp2s.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "При совершении тасбихата каждый раз по завершении намаза получают великое воздаяние."
 
 #: tformmain.labeltasbehsh2s.caption
 msgctxt "tformmain.labeltasbehsh2s.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "При совершении тасбихата каждый раз по завершении намаза получают великое воздаяние."
 
 #: tformmain.labeltasbehv3v.caption
 msgctxt "tformmain.labeltasbehv3v.caption"
 msgid "Har vaqt namozni tugatgandan so'ng tasbehot qilinsa savobi ulug' bo'ladi."
-msgstr ""
+msgstr "При совершении тасбихата каждый раз по завершении намаза получают великое воздаяние."
 
 #: tformmain.labeltashahhud1a4f.caption
 msgctxt "tformmain.labeltashahhud1a4f.caption"
@@ -3915,7 +3946,7 @@ msgstr "Начиная выпрямляться произносится «Са�
 
 #: tformmain.labelxufton.caption
 msgid "Xufton namozining vaqti – shafaq batamom yo'qolgandan keyin kiradi. Vitr namozi vaqti esa xufton o'qilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha o'qisa bo'ladi. Xufton namozini kechaning uchdan biriga olib borib o'qish afzal va nihoyatda a'lo bo'ladi. Vitr namozini esa tun oxirida uyg'onishga qodir bo'lgan kishilar subh oldidan o'qisalar, mustahab amal qilgan bo'lishadi."
-msgstr ""
+msgstr "Иша – ночной намаз. Время его совершения начинается по окончании периода намаза магриб и продолжается до времени наступления утреннего намаза (фаджр). Наилучшее время выполнения ночного намаза – конец первой трети ночи."
 
 #: tformmain.menuitemabout.caption
 msgctxt "tformmain.menuitemabout.caption"
@@ -5490,9 +5521,9 @@ msgid "Dastur ishga tushirilganda"
 msgstr "При запуске программы"
 
 #: tformsettings.radiobuttoncontinue.caption
-msgid "qolgan goydan davom etilsin"
+msgid "qolgan goydan davom etish"
 msgstr "продолжить с прошлого места"
 
 #: tformsettings.radiobuttonstart.caption
-msgid "boshdan ishga tushirilsin"
-msgstr "запустить с начала"
+msgid "boshga o'tish"
+msgstr "перейти в начало"

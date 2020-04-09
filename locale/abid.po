@@ -4975,10 +4975,10 @@ msgid "Dastur ishga tushirilganda"
 msgstr ""
 
 #: tformsettings.radiobuttoncontinue.caption
-msgid "qolgan goydan davom etilsin"
+msgid "qolgan goydan davom etish"
 msgstr ""
 
 #: tformsettings.radiobuttonstart.caption
-msgid "boshdan ishga tushirilsin"
+msgid "boshga o'tish"
 msgstr ""
 
