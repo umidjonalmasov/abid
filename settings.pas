@@ -92,6 +92,16 @@ begin
        ComboBoxLanguage.Items.Add('O''zbek (kirill)');
        ComboBoxLanguage.Items.Add('Rus');
        ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[0];
+       if FormMain.PanelImage.Visible=true then
+          begin
+            FormMain.MenuItemImage.Caption:=ImageHide;
+            FormMain.ButtonImage.Caption:=ImageHide;
+          end
+       else
+          begin
+            FormMain.MenuItemImage.Caption:=ImageShow;
+            FormMain.ButtonImage.Caption:=ImageShow;
+          end;
      end;
    1:
      begin
@@ -101,6 +111,16 @@ begin
        ComboBoxLanguage.Items.Add('Ўзбек (кирилл)');
        ComboBoxLanguage.Items.Add('Рус');
        ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[1];
+       if FormMain.PanelImage.Visible=true then
+          begin
+            FormMain.MenuItemImage.Caption:=ImageHide;
+            FormMain.ButtonImage.Caption:=ImageHide;
+          end
+       else
+          begin
+            FormMain.MenuItemImage.Caption:=ImageShow;
+            FormMain.ButtonImage.Caption:=ImageShow;
+          end;
      end;
    2:
      begin
@@ -110,6 +130,16 @@ begin
        ComboBoxLanguage.Items.Add('Узбекский (кириллица)');
        ComboBoxLanguage.Items.Add('Русский');
        ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[2];
+       if FormMain.PanelImage.Visible=true then
+          begin
+            FormMain.MenuItemImage.Caption:=ImageHide;
+            FormMain.ButtonImage.Caption:=ImageHide;
+          end
+       else
+          begin
+            FormMain.MenuItemImage.Caption:=ImageShow;
+            FormMain.ButtonImage.Caption:=ImageShow;
+          end;
      end;
  end;
   OKButtonClick(self);
