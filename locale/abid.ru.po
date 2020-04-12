@@ -11,6 +11,18 @@ msgstr ""
 "Language: ru\n"
 "X-Generator: Poedit 2.0.6\n"
 
+#: details.errorcode
+msgid "(Xato kodi: "
+msgstr "(Код ошибки: "
+
+#: details.sounderror
+msgid "Ovoz initsializatsiya xatosi!"
+msgstr "Ошибка инициализации звука!"
+
+#: details.versionerror
+msgid "BASS versiyasi noto'g'ri"
+msgstr "Неверная версия BASS"
+
 #: main.imagehide
 msgctxt "main.imagehide"
 msgid "Tasvirlarni yashirish"

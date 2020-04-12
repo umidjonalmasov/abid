@@ -1,6 +1,18 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
+#: details.errorcode
+msgid "(Xato kodi: "
+msgstr ""
+
+#: details.sounderror
+msgid "Ovoz initsializatsiya xatosi!"
+msgstr ""
+
+#: details.versionerror
+msgid "BASS versiyasi noto'g'ri"
+msgstr ""
+
 #: main.imagehide
 msgctxt "main.imagehide"
 msgid "Tasvirlarni yashirish"
