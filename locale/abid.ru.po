@@ -433,13 +433,15 @@ msgstr ""
 
 #: tformdetails.labelduopr.caption
 msgid "Subhanallohi val hamdulillahi va laa ilaaha illallohu vallohu akbar, valaa havla valaa quvvata illaa billahil 'aliyyil 'aziym."
-msgstr ""
+msgstr "СубханАллахи валь-хамдулилляхи уа ля илляха илля Ллаху ва-Ллаху Акбар, ва ля хауля ва ля куввата илля билляхиль 'алий-иль-'азым."
 
 #: tformdetails.labelduotr.caption
 msgid ""
 "Ma'nosi:\n"
 "Allohni poklab zikr etaman, maqtovlar Allohga xosdir. Allohdan o'zga iloh yo'qdir. Kuch-qudrat faqat ulug'lik va azamat sohibi Allohga xosdir.\n"
 msgstr ""
+"Значение:\n"
+"Аллах чист от недостатков, приписываемых Ему неверующими, хвала Аллаху, нет божества, кроме Аллаха, Аллах превыше всего, нет силы и защиты, кроме как от Аллаха.\n"
 
 # Do not translate
 #: tformdetails.labelfalaqar.caption
@@ -580,7 +582,7 @@ msgstr ""
 #: tformdetails.labeliqomatdesc.caption
 msgctxt "tformdetails.labeliqomatdesc.caption"
 msgid "Kundalik besh vaqt namoz va juma namozlari uchun iqomat aytish ta'kidlangan sunnatdir. Safarda va jome' masjidlarida iqomatni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub kishining iqomat aytishi makruhdir. Iqomat farz namozlari oldidan aytiladi. Qazo namozlari uchun iqomat aytiladi. Hayit namozlari hamda janoza namoziga iqomat aytilmaydi."
-msgstr ""
+msgstr "Икамат – это формула оповещения собравшихся в мечети о начале намаза. Оглашение икамата перед обязательными намазами, включая пятничный намаз, — это сунна муаккада. Икамат должен оглашать мужчина-мусульманин (или мальчик, достигший «возраста различения» (тамйиз), обычно это тот, кто старше семи лунных лет), находящийся в здравом рассудке."
 
 #: tformdetails.labeliqomatpr.caption
 msgctxt "tformdetails.labeliqomatpr.caption"
@@ -2802,162 +2804,162 @@ msgstr "Читается та'аввуз («А'узу билляхи...»)."
 #: tformmain.labeltakbirjalsa1a4f.caption
 msgctxt "tformmain.labeltakbirjalsa1a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1b2f.caption
 msgctxt "tformmain.labeltakbirjalsa1b2f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1b2s.caption
 msgctxt "tformmain.labeltakbirjalsa1b2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1p2s.caption
 msgctxt "tformmain.labeltakbirjalsa1p2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1p4f.caption
 msgctxt "tformmain.labeltakbirjalsa1p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1p4s.caption
 msgctxt "tformmain.labeltakbirjalsa1p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1sh2s.caption
 msgctxt "tformmain.labeltakbirjalsa1sh2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1sh3f.caption
 msgctxt "tformmain.labeltakbirjalsa1sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1v3v.caption
 msgctxt "tformmain.labeltakbirjalsa1v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1x2s.caption
 msgctxt "tformmain.labeltakbirjalsa1x2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa1x4f.caption
 msgctxt "tformmain.labeltakbirjalsa1x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2a4f.caption
 msgctxt "tformmain.labeltakbirjalsa2a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2b2f.caption
 msgctxt "tformmain.labeltakbirjalsa2b2f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2b2s.caption
 msgctxt "tformmain.labeltakbirjalsa2b2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2p2s.caption
 msgctxt "tformmain.labeltakbirjalsa2p2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2p4f.caption
 msgctxt "tformmain.labeltakbirjalsa2p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2p4s.caption
 msgctxt "tformmain.labeltakbirjalsa2p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2sh2s.caption
 msgctxt "tformmain.labeltakbirjalsa2sh2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2sh3f.caption
 msgctxt "tformmain.labeltakbirjalsa2sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2v3v.caption
 msgctxt "tformmain.labeltakbirjalsa2v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2x2s.caption
 msgctxt "tformmain.labeltakbirjalsa2x2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa2x4f.caption
 msgctxt "tformmain.labeltakbirjalsa2x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa3a4f.caption
 msgctxt "tformmain.labeltakbirjalsa3a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa3p4f.caption
 msgctxt "tformmain.labeltakbirjalsa3p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa3p4s.caption
 msgctxt "tformmain.labeltakbirjalsa3p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa3sh3f.caption
 msgctxt "tformmain.labeltakbirjalsa3sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa3v3v.caption
 msgctxt "tformmain.labeltakbirjalsa3v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa3x4f.caption
 msgctxt "tformmain.labeltakbirjalsa3x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa4a4f.caption
 msgctxt "tformmain.labeltakbirjalsa4a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa4p4f.caption
 msgctxt "tformmain.labeltakbirjalsa4p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa4p4s.caption
 msgctxt "tformmain.labeltakbirjalsa4p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirjalsa4x4f.caption
 msgctxt "tformmain.labeltakbirjalsa4x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.labeltakbirkirisha4f.caption
 msgctxt "tformmain.labeltakbirkirisha4f.caption"
@@ -3017,87 +3019,87 @@ msgstr "Подняв ладони обеих рук в направлении к
 #: tformmain.labeltakbirqada1a4f.caption
 msgctxt "tformmain.labeltakbirqada1a4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada1p4f.caption
 msgctxt "tformmain.labeltakbirqada1p4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada1p4s.caption
 msgctxt "tformmain.labeltakbirqada1p4s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada1sh3f.caption
 msgctxt "tformmain.labeltakbirqada1sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada1v3v.caption
 msgctxt "tformmain.labeltakbirqada1v3v.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada1x4f.caption
 msgctxt "tformmain.labeltakbirqada1x4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada2a4f.caption
 msgctxt "tformmain.labeltakbirqada2a4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada2p4f.caption
 msgctxt "tformmain.labeltakbirqada2p4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada2p4s.caption
 msgctxt "tformmain.labeltakbirqada2p4s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada2sh3f.caption
 msgctxt "tformmain.labeltakbirqada2sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada2v3v.caption
 msgctxt "tformmain.labeltakbirqada2v3v.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqada2x4f.caption
 msgctxt "tformmain.labeltakbirqada2x4f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqadab2f.caption
 msgctxt "tformmain.labeltakbirqadab2f.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqadab2s.caption
 msgctxt "tformmain.labeltakbirqadab2s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqadap2s.caption
 msgctxt "tformmain.labeltakbirqadap2s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqadash2s.caption
 msgctxt "tformmain.labeltakbirqadash2s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqadax2s.caption
 msgctxt "tformmain.labeltakbirqadax2s.caption"
 msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
-msgstr ""
+msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.labeltakbirqiyom2a4f.caption
 msgctxt "tformmain.labeltakbirqiyom2a4f.caption"
@@ -3206,7 +3208,7 @@ msgstr "Произнеся «Аллаху акбар» не опираясь п�
 
 #: tformmain.labeltakbirqunut.caption
 msgid "«Allohu akbar» deb, qo'llar quloqlar to'g'risigacha ko'tarilib, yana kindik ostiga qo'yiladi."
-msgstr ""
+msgstr "Произнеся «Аллаху Акбар»поднять руки как при вступительном такбире, а затем снова сложить их под пупком."
 
 #: tformmain.labeltakbirruku1a4f.caption
 msgctxt "tformmain.labeltakbirruku1a4f.caption"
