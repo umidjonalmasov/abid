@@ -26,6 +26,11 @@ uses
   Classes, SysUtils, Forms, LCLIntf, LCLType, Controls, Graphics, Dialogs,
   ExtCtrls, ComCtrls, Buttons, StdCtrls, BASS;
 
+resourcestring
+  VersionError = 'BASS versiyasi noto''g''ri';
+  SoundError = 'Ovoz initsializatsiya xatosi!';
+  ErrorCode = '(Xato kodi: ';
+
 type
 
   { TFormDetails }
@@ -246,7 +251,7 @@ var
 begin
   if (HIWORD(BASS_GetVersion) <> BASSVERSION) then
     begin
-      MessageBox(0,'BASS.DLL noto''g''ri versiyasi yuklangan',nil,MB_ICONERROR);
+      MessageBox(0,PChar(VersionError),nil,MB_ICONERROR);
       Halt;
     end;
   {$IFDEF MSWINDOWS}
@@ -255,192 +260,195 @@ begin
   if not BASS_Init(-1, 44100, 0, nil, nil)
   {$ENDIF}
   then
-    Error('Ovoz initsializatsiya xatosi!');
-
-  case PageControlMain.ActivePageIndex of
-  0: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg') then
-       begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  1: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azon.ogg') then
-       begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azon.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  2: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonduo.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonduo.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  3: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/iqomat.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/iqomat.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  4: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/takbir.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/takbir.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  5: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/sano.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/sano.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  6: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/taavvuz.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/taavvuz.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  7:  if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/basmala.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/basmala.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  8: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/fotiha.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/fotiha.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  9: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kavsar.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kavsar.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  10: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ixlos.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ixlos.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  11: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/falaq.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/falaq.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  12: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/nas.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/nas.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  13: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/aziym.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/aziym.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  14: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasme.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasme.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  15: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/hamd.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/hamd.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  16: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ala.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ala.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  17: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tashahhud.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tashahhud.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  18: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salavot.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salavot.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  19: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/robbana.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/robbana.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  20: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salom.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salom.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  21: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/qunut.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/qunut.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  22: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duof.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duof.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  23: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasbehot.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasbehot.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  24: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kursi.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kursi.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  25: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duo.ogg') then
-        begin
-         f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duo.ogg');
-         ButtonPlay.Enabled:=true;
-       end
-      else
-        ButtonPlay.Enabled:=false;
-  end;
+    begin
+      Error(SoundError);
+      ButtonPlay.Enabled:=false;
+    end
+  else
+    case PageControlMain.ActivePageIndex of
+    0: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg') then
+         begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    1: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azon.ogg') then
+         begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azon.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    2: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonduo.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonduo.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    3: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/iqomat.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/iqomat.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    4: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/takbir.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/takbir.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    5: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/sano.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/sano.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    6: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/taavvuz.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/taavvuz.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    7:  if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/basmala.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/basmala.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    8: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/fotiha.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/fotiha.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    9: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kavsar.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kavsar.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    10: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ixlos.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ixlos.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    11: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/falaq.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/falaq.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    12: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/nas.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/nas.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    13: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/aziym.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/aziym.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    14: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasme.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasme.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    15: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/hamd.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/hamd.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    16: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ala.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ala.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    17: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tashahhud.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tashahhud.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    18: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salavot.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salavot.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    19: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/robbana.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/robbana.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    20: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salom.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salom.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    21: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/qunut.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/qunut.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    22: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duof.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duof.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    23: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasbehot.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasbehot.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    24: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kursi.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kursi.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    25: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duo.ogg') then
+          begin
+           f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duo.ogg');
+           ButtonPlay.Enabled:=true;
+         end
+        else
+          ButtonPlay.Enabled:=false;
+    end;
   str := BASS_StreamCreateFile(False, f, 0, 0, 0);
 end;
 
@@ -448,7 +456,7 @@ procedure TFormDetails.Error(msg: string);
 var
   s: string;
 begin
-  s := msg + #13#10 + '(Xato kodi: ' + IntToStr(BASS_ErrorGetCode) + ')';
+  s := msg + #13#10 + ErrorCode + IntToStr(BASS_ErrorGetCode) + ')';
   MessageBox(Handle, PChar(s), nil, 0);
 end;
 
