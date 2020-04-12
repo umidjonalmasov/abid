@@ -1,10 +1,9 @@
-#!/usr/bin/env xdg-open
 [Desktop Entry]
 Name=Abid
-GenericName=Namoz o'qishni o'rgatuvchi multimedia dasturi
-GenericName[ru]=Мультимедийная программа обучающая чтению намаза
-GenericName[uz]=Намоз ўқишни ўргатувчи мультимедиа дастури
-Comment=
+GenericName=Abid
+Comment=Namoz o'qishni o'rgatuvchi multimedia dasturi
+Comment[ru]=Мультимедийная программа обучающая чтению намаза
+Comment[uz]=Намоз ўқишни ўргатувчи мультимедиа дастури
 Keywords=islam;namaz;multimedia;
 Icon=abid
 Type=Application
