@@ -23,8 +23,7 @@ unit Details;
 interface
 
 uses
-  Classes, SysUtils, Forms, LCLIntf, LCLType, Controls, Graphics, Dialogs,
-  ExtCtrls, ComCtrls, Buttons, StdCtrls, BASS;
+  SysUtils, Forms, LCLIntf, LCLType, ExtCtrls, ComCtrls, Buttons, StdCtrls, BASS;
 
 resourcestring
   VersionError = 'BASS versiyasi noto''g''ri';

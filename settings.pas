@@ -23,8 +23,8 @@ unit Settings;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, StdCtrls, ButtonPanel,
-  Buttons, ExtCtrls, IniPropStorage, LCLTranslator, Details;
+  SysUtils, Forms, Dialogs, StdCtrls, ButtonPanel, Buttons, IniPropStorage,
+  LCLTranslator, Details;
 
 type
 

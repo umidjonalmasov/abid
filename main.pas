@@ -23,9 +23,8 @@ unit Main;
 interface
 
 uses
-  Classes, SysUtils, Forms, LCLIntf, LCLType, Controls, Graphics, Dialogs,
-  ExtCtrls, ComCtrls, Menus, StdCtrls, Buttons, ActnList, IniPropStorage,
-  LCLTranslator, Details, Settings, About;
+  SysUtils, Forms, ExtCtrls, ComCtrls, Menus, StdCtrls, Buttons, IniPropStorage,
+  Details, Settings, About;
 
 resourcestring
   ImageShow = 'Tasvirlarni ko''rsatish';
