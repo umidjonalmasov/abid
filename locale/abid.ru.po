@@ -81,7 +81,7 @@ msgid ""
 "«Namozni to'kis ado qiling, zakotni bering va ruku' qiluvchilar bilan ruku' qiling»\n"
 "(Baqara surasi, 43-oyat).\n"
 msgstr ""
-"Alloh taolo shunday marhamat etadi:\n"
+"Всевышний Аллах сказал так:\n"
 "«Совершайте намаз, выплачивайте закят и кланяйтесь вместе с кланяющимися»\n"
 "(сура Аль-Бакара, 43 аят).\n"
 
