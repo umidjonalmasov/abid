@@ -11,6 +11,11 @@ msgstr ""
 "Language: uz@lat\n"
 "X-Generator: Poedit 2.0.6\n"
 
+#: abid.apptitle
+msgctxt "abid.apptitle"
+msgid "Abid"
+msgstr ""
+
 #: details.errorcode
 msgid "(Xato kodi: "
 msgstr ""
@@ -5020,3 +5025,4 @@ msgstr ""
 #: tformsettings.radiobuttonstart.caption
 msgid "boshga o'tish"
 msgstr ""
+

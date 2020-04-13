@@ -11,6 +11,12 @@ msgstr ""
 "Language: uz@cyr\n"
 "X-Generator: Poedit 2.0.6\n"
 
+#: abid.apptitle
+#, fuzzy
+msgctxt "abid.apptitle"
+msgid "Abid"
+msgstr "Абид"
+
 #: details.errorcode
 msgid "(Xato kodi: "
 msgstr "(Хато коди: "
@@ -5550,3 +5556,4 @@ msgstr "қолган жойдан давом этиш"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshga o'tish"
 msgstr "бошга ўтиш"
+
