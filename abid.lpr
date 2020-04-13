@@ -10,10 +10,14 @@ uses
   Forms, Main, Details, Settings, About
   { you can add units after this };
 
+resourcestring
+  AppTitle = 'Abid';
+
 {$R *.res}
 
 begin
   RequireDerivedFormResource:=True;
+  Application.Title:=AppTitle;
   Application.Scaled:=True;
   Application.Initialize;
   Application.CreateForm(TFormMain, FormMain);
