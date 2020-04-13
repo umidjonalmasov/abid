@@ -453,10 +453,10 @@ object FormDetails: TFormDetails
     Height = 501
     Top = 0
     Width = 966
-    ActivePage = TabSheetBasmala
+    ActivePage = TabSheetFotiha
     Align = alClient
     ShowTabs = False
-    TabIndex = 7
+    TabIndex = 8
     TabOrder = 1
     object TabSheetAzonBomdod: TTabSheet
       Caption = 'AzonBomdod'
@@ -471,8 +471,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 398
         Align = alClient
-        ClientHeight = 495
-        ClientWidth = 954
+        ClientHeight = 493
+        ClientWidth = 952
         TabOrder = 0
         object LabelAzonBomdodDesc: TLabel
           Left = 10
@@ -766,8 +766,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 495
-        ClientWidth = 954
+        ClientHeight = 493
+        ClientWidth = 952
         TabOrder = 0
         object LabelSanoAr: TLabel
           Left = 10
@@ -820,8 +820,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 495
-        ClientWidth = 954
+        ClientHeight = 493
+        ClientWidth = 952
         TabOrder = 0
         object LabelTaavvuzAr: TLabel
           Left = 10
@@ -921,19 +921,19 @@ object FormDetails: TFormDetails
       ClientWidth = 956
       object ScrollBoxFotiha: TScrollBox
         Left = 0
-        Height = 457
+        Height = 497
         Top = 0
         Width = 956
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 148
         Align = alClient
-        ClientHeight = 453
-        ClientWidth = 952
+        ClientHeight = 495
+        ClientWidth = 954
         TabOrder = 0
         object LabelFotihaAr: TLabel
           Left = 10
-          Height = 435
+          Height = 475
           Top = 10
           Width = 179
           Align = alLeft
@@ -944,24 +944,24 @@ object FormDetails: TFormDetails
           WordWrap = True
         end
         object LabelFotihaTr: TLabel
-          Left = 432
-          Height = 435
+          Left = 467
+          Height = 475
           Top = 10
-          Width = 450
+          Width = 425
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Barcha maqtov, shukrlar olamlarning Robbi Allohga bo''lsin'#10'U Rohman va Rahiymdir'#10'U qiyomat kunining egasi'#10'Faqat sengagina ibodat qilamiz va faqat sendangina yordam so''raymiz'#10'Bizni to''g''ri yo''lga boshlagin'#10'O''zing ne''mat berganlarning yo''liga (boshlagin),'#10'G''azabga duchor bo''lganlarning yo''liga emas, adashganlarnikiga ham emas'
+          Caption = 'Ma''nosi:'#10'Hamd olamlarning Robbi – Аllohgadir.'#10'U Rohman va Rohiymdir.'#10'Jazo-mukofot kunining egasidir.'#10'Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.'#10'Bizni toʼgʼri yoʼlga hidoyat qilgin.'#10'Oʼzing neʼmat berganlarning yoʼliga'#10'Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.'
           ParentColor = False
           WordWrap = True
         end
         object LabelFotihaPr: TLabel
           Left = 199
-          Height = 435
+          Height = 475
           Top = 10
-          Width = 223
+          Width = 258
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Alhamdu lillahi robbil ''alamiyn'#10'Ar-rohmanir-rohiym'#10'Maliki yavmiddiyn'#10'Iyyaka na''budu va iyyaka nasta''in'#10'Ihdinas sirotol mustaqiym'#10'Sirotol-laziyna an''amta ''alayhim'#10'G''oyril mag''zubi ''alayhim valazzolliyn'
+          Caption = #10'Аlhamdu lillaahi Robbil ʼaalamiyn.'#10'Аr-rohmaanir rohiym.'#10'Maaliki yavmid-diyn.'#10'Iyyaaka naʼbudu va iyyaaka nastaʼiyn.'#10'Ihdinas-sirootol mustaqiym.'#10'Sirootol-laziina anʼamta ʼalayhim'#10'Gʼoyril magʼduubi ʼalayhim valad-doolliyn.'
           ParentColor = False
           WordWrap = True
         end
