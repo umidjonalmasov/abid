@@ -12,7 +12,6 @@ msgstr ""
 "X-Generator: Poedit 2.0.6\n"
 
 #: abid.apptitle
-#, fuzzy
 msgctxt "abid.apptitle"
 msgid "Abid"
 msgstr "Абид"
@@ -78,8 +77,8 @@ msgstr ""
 "(Передали имам Бухари и Муслим).\n"
 
 #: tformabout.labelname.caption
-msgid "Abid 4.0"
-msgstr "Абид 4.0"
+msgid "Abid 4.1"
+msgstr "Абид 4.1"
 
 #: tformabout.labelquron.caption
 msgid ""
@@ -5564,4 +5563,3 @@ msgstr "продолжить с прошлого места"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshga o'tish"
 msgstr "перейти в начало"
-
