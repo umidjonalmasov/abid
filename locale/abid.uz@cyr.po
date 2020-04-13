@@ -505,15 +505,25 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelfotihapr.caption
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "Alhamdu lillahi robbil 'alamiyn\n"
+#| "Ar-rohmanir-rohiym\n"
+#| "Maliki yavmiddiyn\n"
+#| "Iyyaka na'budu va iyyaka nasta'in\n"
+#| "Ihdinas sirotol mustaqiym\n"
+#| "Sirotol-laziyna an'amta 'alayhim\n"
+#| "G'oyril mag'zubi 'alayhim valazzolliyn\n"
 msgid ""
 "\n"
-"Alhamdu lillahi robbil 'alamiyn\n"
-"Ar-rohmanir-rohiym\n"
-"Maliki yavmiddiyn\n"
-"Iyyaka na'budu va iyyaka nasta'in\n"
-"Ihdinas sirotol mustaqiym\n"
-"Sirotol-laziyna an'amta 'alayhim\n"
-"G'oyril mag'zubi 'alayhim valazzolliyn\n"
+"Аlhamdu lillaahi Robbil ʼaalamiyn.\n"
+"Аr-rohmaanir rohiym.\n"
+"Maaliki yavmid-diyn.\n"
+"Iyyaaka naʼbudu va iyyaaka nastaʼiyn.\n"
+"Ihdinas-sirootol mustaqiym.\n"
+"Sirootol-laziina anʼamta ʼalayhim\n"
+"Gʼoyril magʼduubi ʼalayhim valad-doolliyn.\n"
 msgstr ""
 "\n"
 "Алҳамду лиллаҳи роббил ъаламийн\n"
@@ -525,15 +535,25 @@ msgstr ""
 "Ғойрил мағзуби ъалайҳим валаззоллийн\n"
 
 #: tformdetails.labelfotihatr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Barcha maqtov, shukrlar olamlarning Robbi Allohga bo'lsin\n"
+#| "U Rohman va Rahiymdir\n"
+#| "U qiyomat kunining egasi\n"
+#| "Faqat sengagina ibodat qilamiz va faqat sendangina yordam so'raymiz\n"
+#| "Bizni to'g'ri yo'lga boshlagin\n"
+#| "O'zing ne'mat berganlarning yo'liga (boshlagin),\n"
+#| "G'azabga duchor bo'lganlarning yo'liga emas, adashganlarnikiga ham emas\n"
 msgid ""
 "Ma'nosi:\n"
-"Barcha maqtov, shukrlar olamlarning Robbi Allohga bo'lsin\n"
-"U Rohman va Rahiymdir\n"
-"U qiyomat kunining egasi\n"
-"Faqat sengagina ibodat qilamiz va faqat sendangina yordam so'raymiz\n"
-"Bizni to'g'ri yo'lga boshlagin\n"
-"O'zing ne'mat berganlarning yo'liga (boshlagin),\n"
-"G'azabga duchor bo'lganlarning yo'liga emas, adashganlarnikiga ham emas\n"
+"Hamd olamlarning Robbi – Аllohgadir.\n"
+"U Rohman va Rohiymdir.\n"
+"Jazo-mukofot kunining egasidir.\n"
+"Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.\n"
+"Bizni toʼgʼri yoʼlga hidoyat qilgin.\n"
+"Oʼzing neʼmat berganlarning yoʼliga\n"
+"Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.\n"
 msgstr ""
 "Маъноси:\n"
 "Барча мақтов, шукрлар оламларнинг Робби Аллоҳга бўлсин\n"
@@ -1983,33 +2003,45 @@ msgid "Namoz tugagach, ushbu duo o'qiladi."
 msgstr "Намоз тугагач, ушбу дуо ўқилади."
 
 #: tformmain.labelfalaqb2f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqb2f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqp2s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqp2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqp4s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqp4s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqsh2s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqsh2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqv3v.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqv3v.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfalaqx2s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqx2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelfotiha1a4f.caption
@@ -2422,68 +2454,94 @@ msgid "Iqomat o'qiladi."
 msgstr "Иқомат ўқилади."
 
 #: tformmain.labelixlosa4f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosa4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosb2s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosb2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosp4f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosp4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosp4s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosp4s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlossh3f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlossh3f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosv3v.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosv3v.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelixlosx4f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosx4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsara4f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsara4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarb2s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarb2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarp4f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarp4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarp4s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarp4s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarsh3f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarsh3f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkavsarx4f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarx4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelkursia4f.caption
@@ -2512,33 +2570,45 @@ msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
 msgstr "Намоздан кейин Курсий оятини (Оятал Курсий) ўқиш ҳам савобли."
 
 #: tformmain.labelnasb2f.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasb2f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnasp2s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasp2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnasp4s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasp4s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnassh2s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnassh2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnasv3v.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasv3v.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelnasx2s.caption
+#, fuzzy
+#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasx2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Зам сура ўқилади."
 
 #: tformmain.labelniyata4f.caption

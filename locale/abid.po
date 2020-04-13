@@ -386,25 +386,25 @@ msgstr ""
 #: tformdetails.labelfotihapr.caption
 msgid ""
 "\n"
-"Alhamdu lillahi robbil 'alamiyn\n"
-"Ar-rohmanir-rohiym\n"
-"Maliki yavmiddiyn\n"
-"Iyyaka na'budu va iyyaka nasta'in\n"
-"Ihdinas sirotol mustaqiym\n"
-"Sirotol-laziyna an'amta 'alayhim\n"
-"G'oyril mag'zubi 'alayhim valazzolliyn\n"
+"Аlhamdu lillaahi Robbil ʼaalamiyn.\n"
+"Аr-rohmaanir rohiym.\n"
+"Maaliki yavmid-diyn.\n"
+"Iyyaaka naʼbudu va iyyaaka nastaʼiyn.\n"
+"Ihdinas-sirootol mustaqiym.\n"
+"Sirootol-laziina anʼamta ʼalayhim\n"
+"Gʼoyril magʼduubi ʼalayhim valad-doolliyn.\n"
 msgstr ""
 
 #: tformdetails.labelfotihatr.caption
 msgid ""
 "Ma'nosi:\n"
-"Barcha maqtov, shukrlar olamlarning Robbi Allohga bo'lsin\n"
-"U Rohman va Rahiymdir\n"
-"U qiyomat kunining egasi\n"
-"Faqat sengagina ibodat qilamiz va faqat sendangina yordam so'raymiz\n"
-"Bizni to'g'ri yo'lga boshlagin\n"
-"O'zing ne'mat berganlarning yo'liga (boshlagin),\n"
-"G'azabga duchor bo'lganlarning yo'liga emas, adashganlarnikiga ham emas\n"
+"Hamd olamlarning Robbi – Аllohgadir.\n"
+"U Rohman va Rohiymdir.\n"
+"Jazo-mukofot kunining egasidir.\n"
+"Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.\n"
+"Bizni toʼgʼri yoʼlga hidoyat qilgin.\n"
+"Oʼzing neʼmat berganlarning yoʼliga\n"
+"Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.\n"
 msgstr ""
 
 #: tformdetails.labelhamdar.caption
@@ -1671,32 +1671,32 @@ msgstr ""
 
 #: tformmain.labelfalaqb2f.caption
 msgctxt "tformmain.labelfalaqb2f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelfalaqp2s.caption
 msgctxt "tformmain.labelfalaqp2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelfalaqp4s.caption
 msgctxt "tformmain.labelfalaqp4s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelfalaqsh2s.caption
 msgctxt "tformmain.labelfalaqsh2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelfalaqv3v.caption
 msgctxt "tformmain.labelfalaqv3v.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelfalaqx2s.caption
 msgctxt "tformmain.labelfalaqx2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelfotiha1a4f.caption
@@ -2046,67 +2046,67 @@ msgstr ""
 
 #: tformmain.labelixlosa4f.caption
 msgctxt "tformmain.labelixlosa4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelixlosb2s.caption
 msgctxt "tformmain.labelixlosb2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelixlosp4f.caption
 msgctxt "tformmain.labelixlosp4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelixlosp4s.caption
 msgctxt "tformmain.labelixlosp4s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelixlossh3f.caption
 msgctxt "tformmain.labelixlossh3f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelixlosv3v.caption
 msgctxt "tformmain.labelixlosv3v.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelixlosx4f.caption
 msgctxt "tformmain.labelixlosx4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelkavsara4f.caption
 msgctxt "tformmain.labelkavsara4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelkavsarb2s.caption
 msgctxt "tformmain.labelkavsarb2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelkavsarp4f.caption
 msgctxt "tformmain.labelkavsarp4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelkavsarp4s.caption
 msgctxt "tformmain.labelkavsarp4s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelkavsarsh3f.caption
 msgctxt "tformmain.labelkavsarsh3f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelkavsarx4f.caption
 msgctxt "tformmain.labelkavsarx4f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelkursia4f.caption
@@ -2136,32 +2136,32 @@ msgstr ""
 
 #: tformmain.labelnasb2f.caption
 msgctxt "tformmain.labelnasb2f.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelnasp2s.caption
 msgctxt "tformmain.labelnasp2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelnasp4s.caption
 msgctxt "tformmain.labelnasp4s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelnassh2s.caption
 msgctxt "tformmain.labelnassh2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelnasv3v.caption
 msgctxt "tformmain.labelnasv3v.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelnasx2s.caption
 msgctxt "tformmain.labelnasx2s.caption"
-msgid "Zam sura o'qiladi."
+msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr ""
 
 #: tformmain.labelniyata4f.caption
