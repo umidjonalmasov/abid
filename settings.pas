@@ -45,7 +45,7 @@ type
     procedure CancelButtonClick(Sender: TObject);
     procedure ComboBoxLanguageChange(Sender: TObject);
     procedure FormActivate(Sender: TObject);
-    procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
+    procedure FormClose(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure OKButtonClick(Sender: TObject);
   private
@@ -151,8 +151,7 @@ begin
   ComboBoxLanguageChange(self);
 end;
 
-procedure TFormSettings.FormClose(Sender: TObject; var CloseAction: TCloseAction
-  );
+procedure TFormSettings.FormClose(Sender: TObject);
 begin
   IniPropStorage.Restore;
 end;

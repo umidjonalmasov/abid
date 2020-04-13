@@ -2207,7 +2207,7 @@ type
     TabSheetAsr: TTabSheet;
     TabSheetShom: TTabSheet;
     TabSheetXufton: TTabSheet;
-    procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
+    procedure FormClose(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure MenuItemExitClick(Sender: TObject);
     procedure MenuItemImageClick(Sender: TObject);
@@ -2320,7 +2320,7 @@ begin
   FormSettings.ComboBoxLanguageChange(self);
 end;
 
-procedure TFormMain.FormClose(Sender: TObject; var CloseAction: TCloseAction);
+procedure TFormMain.FormClose(Sender: TObject);
 begin
   if FormSettings.RadioButtonStart.Checked = true then
     begin

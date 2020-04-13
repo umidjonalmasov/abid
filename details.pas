@@ -191,7 +191,7 @@ type
     procedure ButtonStopClick(Sender: TObject);
     procedure FormActivate(Sender: TObject);
     procedure ChannelPos;
-    procedure FormClose(Sender: TObject; var CloseAction: TCloseAction);
+    procedure FormClose(Sender: TObject);
     procedure TimerTimer(Sender: TObject);
   private
     str: HSTREAM;
@@ -466,8 +466,7 @@ begin
   Timer.Enabled:=true;
 end;
 
-procedure TFormDetails.FormClose(Sender: TObject; var CloseAction: TCloseAction
-  );
+procedure TFormDetails.FormClose(Sender: TObject);
 begin
   BASS_Free();
   ButtonPause.Enabled:=false;
