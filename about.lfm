@@ -271,6 +271,7 @@ object FormAbout: TFormAbout
         Height = 17
         Top = 224
         Width = 321
+        BorderSpacing.Around = 10
         Caption = 'Namoz o''qishni o''rgatuvchi multimedia dasturi'
         Font.Height = -15
         ParentColor = False
