@@ -126,22 +126,16 @@ msgid "سُبْحَانَ رَبِّيَ الْأَعْلَى"
 msgstr ""
 
 #: tformdetails.labelalapr.caption
-#, fuzzy
-#| msgid "Subhana Robbiyal 'ala."
 msgid "Subhaana robbiyal aʼla."
-msgstr "Субҳана Роббиял ъала."
+msgstr "Субҳаана роббиял аъла."
 
 #: tformdetails.labelalatr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Oliy Robbim pokdir.\n"
 msgid ""
 "Ma'nosi:\n"
 "Oliy Robbim nuqsonlardan pokdir.\n"
 msgstr ""
 "Маъноси:\n"
-"Олий Роббим покдир.\n"
+"Олий Роббим нуқсонлардан покдир.\n"
 
 # Do not translate
 #: tformdetails.labelalhamdulillahar.caption
@@ -196,22 +190,16 @@ msgid "سُبْحَانَ رَبِّيَ الْعَظِيمِ"
 msgstr ""
 
 #: tformdetails.labelaziympr.caption
-#, fuzzy
-#| msgid "Subhana Robbiyal 'aziym."
 msgid "Subhaana Robbiyal aziym."
-msgstr "Субҳана Роббиял ъазийм."
+msgstr "Субҳаана Роббиял азийм."
 
 #: tformdetails.labelaziymtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Ulug' Robbim pokdir.\n"
 msgid ""
 "Ma'nosi:\n"
 "Ulugʼ Robbim nuqsonlardan pokdir.\n"
 msgstr ""
 "Маъноси:\n"
-"Улуғ Роббим покдир.\n"
+"Улуғ Роббим нуқсонлардан покдир.\n"
 
 # Do not translate
 #: tformdetails.labelazonar.caption
@@ -435,11 +423,9 @@ msgid "اللهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ ال�
 msgstr ""
 
 #: tformdetails.labelduofpr.caption
-#, fuzzy
-#| msgid "Allohumma, antas-salam va minkas-salam, tabarokta ya zaljalali val-ikrom."
 msgctxt "tformdetails.labelduofpr.caption"
 msgid "Аllohumma, antas-salom va minkas-salom, tabarokta ya zaljaloli val-ikrom."
-msgstr "Аллоҳумма, антас-салам ва минкас-салам, табарокта йа залжалали вал-икром."
+msgstr "Aллоҳумма, антас-салом ва минкас-салом, табарокта я залжалоли вал-икром."
 
 #: tformdetails.labelduoftr.caption
 msgctxt "tformdetails.labelduoftr.caption"
@@ -474,14 +460,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelfalaqpr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Qul a'uzu birobbil falaq\n"
-#| "Min sharri ma xolaq\n"
-#| "Va min sharri g'osiqin iza vaqob\n"
-#| "Va min sharrin naffasati fil 'uqod\n"
-#| "Va min sharri hasidin iza hasad\n"
 msgid ""
 "\n"
 "Qul aʼuuzu birobbil falaq.\n"
@@ -491,21 +469,13 @@ msgid ""
 "Va min sharri haasidin izaa hasad.\n"
 msgstr ""
 "\n"
-"Қул аъузу бироббил фалақ\n"
-"Мин шарри ма холақ\n"
-"Ва мин шарри ғосиқин иза вақоб\n"
-"Ва мин шаррин наффасати фил ъуқод\n"
-"Ва мин шарри ҳасидин иза ҳасад\n"
+"Қул аъуузу бироббил фалақ.\n"
+"Мин шарри маа холақ.\n"
+"Ва мин шарри ғоосиқин изаа вақоб.\n"
+"Ва мин шаррин наффасаати фил ъуқоди.\n"
+"Ва мин шарри ҳаасидин изаа ҳасад.\n"
 
 #: tformdetails.labelfalaqtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Tong Robbisidan panoh so'rayman\n"
-#| "U yaratgan narsalar yomonligidan\n"
-#| "Va kirib kelgan qorong'ulik yomonligidan\n"
-#| "Va tugunlarga dam soluvchilar yomonligidan\n"
-#| "Va hasad qilgan hasadchining yomonligidan, deb ayt\n"
 msgid ""
 "Ma'nosi:\n"
 "«Tong Robbisidan panoh soʼrayman.\n"
@@ -515,11 +485,11 @@ msgid ""
 "Va hasad qilgan hasadchining yomonligidan», deb ayt.\n"
 msgstr ""
 "Маъноси:\n"
-"Тонг Роббисидан паноҳ сўрайман\n"
-"У яратган нарсалар ёмонлигидан\n"
-"Ва кириб келган қоронғулик ёмонлигидан\n"
-"Ва тугунларга дам солувчилар ёмонлигидан\n"
-"Ва ҳасад қилган ҳасадчининг ёмонлигидан, деб айт\n"
+"«Тонг Роббисидан паноҳ сўрайман.\n"
+"У яратган нарсалар ёмонлигидан.\n"
+"Ва кириб келган қоронғу кечанинг ёмонлигидан.\n"
+"Ва тугунларга дам солувчилар ёмонлигидан.\n"
+"Ва ҳасад қилган ҳасадчининг ёмонлигидан», деб айт.\n"
 
 # Do not translate
 #: tformdetails.labelfotihaar.caption
@@ -535,16 +505,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelfotihapr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Alhamdu lillahi robbil 'alamiyn\n"
-#| "Ar-rohmanir-rohiym\n"
-#| "Maliki yavmiddiyn\n"
-#| "Iyyaka na'budu va iyyaka nasta'in\n"
-#| "Ihdinas sirotol mustaqiym\n"
-#| "Sirotol-laziyna an'amta 'alayhim\n"
-#| "G'oyril mag'zubi 'alayhim valazzolliyn\n"
 msgid ""
 "\n"
 "Аlhamdu lillaahi Robbil ʼaalamiyn.\n"
@@ -556,25 +516,15 @@ msgid ""
 "Gʼoyril magʼduubi ʼalayhim valad-doolliyn.\n"
 msgstr ""
 "\n"
-"Алҳамду лиллаҳи роббил ъаламийн\n"
-"Ар-роҳманир-роҳийм\n"
-"Малики явмиддийн\n"
-"Иййака наъбуду ва иййака настаъин\n"
-"Иҳдинас сиротол мустақийм\n"
-"Cиротол-лазийна анъамта ъалайҳим\n"
-"Ғойрил мағзуби ъалайҳим валаззоллийн\n"
+"Алҳамду лиллааҳи роббил ъаламийн.\n"
+"Ар-роҳмаанир-роҳийм.\n"
+"Маалики явмид-дийн\n"
+"Иййака наъбуду ва иййака настаъийн.\n"
+"Иҳдинас-сироотол мустақийм.\n"
+"Cироотол-лазиина анъамта ъалайҳим\n"
+"Ғойрил мағдууби ъалайҳим валад-доллийн.\n"
 
 #: tformdetails.labelfotihatr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Barcha maqtov, shukrlar olamlarning Robbi Allohga bo'lsin\n"
-#| "U Rohman va Rahiymdir\n"
-#| "U qiyomat kunining egasi\n"
-#| "Faqat sengagina ibodat qilamiz va faqat sendangina yordam so'raymiz\n"
-#| "Bizni to'g'ri yo'lga boshlagin\n"
-#| "O'zing ne'mat berganlarning yo'liga (boshlagin),\n"
-#| "G'azabga duchor bo'lganlarning yo'liga emas, adashganlarnikiga ham emas\n"
 msgid ""
 "Ma'nosi:\n"
 "Hamd olamlarning Robbi – Аllohgadir.\n"
@@ -586,13 +536,13 @@ msgid ""
 "Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.\n"
 msgstr ""
 "Маъноси:\n"
-"Барча мақтов, шукрлар оламларнинг Робби Аллоҳга бўлсин\n"
-"У Роҳман ва Раҳиймдир\n"
-"У қиёмат кунининг эгаси\n"
-"Фақат сенгагина ибодат қиламиз ва фақат сендангина ёрдам сўраймиз\n"
-"Бизни тўғри йўлга бошлагин\n"
-"Ўзинг неъмат берганларнинг йўлига (бошлагин),\n"
-"Ғазабга дучор бўлганларнинг йўлига эмас, адашганларникига ҳам эмас\n"
+"Ҳамд оламларнинг Робби – Аллоҳгадир.\n"
+"У Роҳман ва Роҳиймдир.\n"
+"Жазо-мукофот кунининг егасидир.\n"
+"Фақат Сенгагина ибодат қиламиз ва фақат Сендангина ёрдам сўраймиз.\n"
+"Бизни тўғри йўлга ҳидоят қилгин.\n"
+"Ўзинг неъмат берганларнинг йўлига\n"
+"Ғазабга қолганларникига ҳам емас, адашганларникига ҳам емас.\n"
 
 # Do not translate
 #: tformdetails.labelhamdar.caption
@@ -600,22 +550,16 @@ msgid "رَبَّنَا لَكَ الحَمْدُ"
 msgstr ""
 
 #: tformdetails.labelhamdpr.caption
-#, fuzzy
-#| msgid "Robbana lakal hamd."
 msgid "Robbanaa, lakal hamd."
-msgstr "Роббана лакал ҳамд."
+msgstr "Роббана, лакал ҳамд."
 
 #: tformdetails.labelhamdtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Robbimiz! Maqtov Sengadir.\n"
 msgid ""
 "Ma'nosi:\n"
 "Robbimiz, Senga hamd boʼlsin.\n"
 msgstr ""
 "Маъноси:\n"
-"Роббимиз! Мақтов Сенгадир.\n"
+"Роббимиз, Сенга ҳамд бўлсин.\n"
 
 # Do not translate
 #: tformdetails.labeliqomatar.caption
@@ -719,13 +663,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelixlospr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Qul huvallohu ahad\n"
-#| "Allohus-somad\n"
-#| "Lam yalid va lam yulad\n"
-#| "Va lam yakullahu kufuvan ahad\n"
 msgid ""
 "\n"
 "Qul huvallohu ahad.\n"
@@ -734,19 +671,12 @@ msgid ""
 "Va lam yakullahu kufuvan ahad.\n"
 msgstr ""
 "\n"
-"Қул ҳуваллоҳу аҳад\n"
-"Аллоҳус-сомад\n"
+"Қул ҳуваллоҳу аҳад.\n"
+"Аллоҳус-сомад.\n"
 "Лам йалид ва лам йулад\n"
-"Ва лам якуллаҳу куфуван аҳад\n"
+"Ва лам якуллаҳу куфуван аҳад.\n"
 
 #: tformdetails.labelixlostr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Ayt: «U Alloh yagonadir»\n"
-#| "Alloh somaddir\n"
-#| "U tug'magan va tug'ilmagan\n"
-#| "Va Unga hech kim teng bo'lmagan\n"
 msgid ""
 "Ma'nosi:\n"
 "Аyt: «U Аlloh yagonadir.\n"
@@ -755,10 +685,10 @@ msgid ""
 "Va Unga hech kim teng boʼlmagan».\n"
 msgstr ""
 "Маъноси:\n"
-"Айт: «У Аллоҳ ягонадир\n"
-"Аллоҳ сомаддир\n"
+"Айт: «У Аллоҳ ягонадир.\n"
+"Аллоҳ – сомаддир.\n"
 "У туғмаган ва туғилмаган\n"
-"Ва Унга ҳеч ким тенг бўлмаган»\n"
+"Ва Унга ҳеч ким тенг бўлмаган».\n"
 
 # Do not translate
 #: tformdetails.labelkavsarar.caption
@@ -770,12 +700,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelkavsarpr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Innaa a'toynakal kavsar\n"
-#| "Fasolli lirobbika vanhar\n"
-#| "Inna shaniaka huval abtar\n"
 msgid ""
 "\n"
 "Innaa aʼtoynaakal kavsar.\n"
@@ -783,17 +707,11 @@ msgid ""
 "Inna shaani-aka huval abtar.\n"
 msgstr ""
 "\n"
-"Иннаа аътойнакал кавсар\n"
-"Фасолли лироббика ванҳар\n"
-"Инна шаниака ҳувал абтар\n"
+"Иннаа аътойнакал кавсар.\n"
+"Фасолли лироббика ванҳар.\n"
+"Инна шаани-ака ҳувал абтар.\n"
 
 #: tformdetails.labelkavsartr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Albatta, Biz senga Kavsarni berdik\n"
-#| "Bas, Robbingga namoz o'qi va jonlik so'y\n"
-#| "Albatta, seni yomon ko'rib, ayblovchining orqasi kesikdir\n"
 msgid ""
 "Ma'nosi:\n"
 "Аlbatta, Biz senga Kavsarni berdik.\n"
@@ -801,9 +719,9 @@ msgid ""
 "Аlbatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.\n"
 msgstr ""
 "Маъноси:\n"
-"Албатта, Биз сенга Кавсарни бердик\n"
-"Бас, Роббингга намоз ўқи ва жонлик сўй\n"
-"Албатта, сени ёмон кўриб, айбловчининг орқаси кесикдир\n"
+"Албатта, Биз сенга Кавсарни бердик.\n"
+"Бас, Роббингга намоз ўқи ва жонлик сўй.\n"
+"Албатта, сени ёмон кўриб айбловчининг ўзининг орқаси кесик.\n"
 
 # Do not translate
 #: tformdetails.labelkursiar.caption
@@ -821,18 +739,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelkursipr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Allohu la ilaha illa huval hayyul qoyyum.\n"
-#| "La ta'xuzuhu sinatuv va la navm.\n"
-#| "Lahu ma fis-samavati va ma fil ard.\n"
-#| "Man-zallazii yashfa'u 'indahu illa bi iznih.\n"
-#| "Ya'lamu ma bayna aydiyhim va ma xolfahum.\n"
-#| "Va la yuhituna bishay'im-min 'ilmihii illa bima sha.\n"
-#| "Vasi'a kursiyyuuhus-samaavati val-ard.\n"
-#| "Va la yauduhu hifzuhuma\n"
-#| "Va huval 'aliyyul 'aziym.\n"
 msgid ""
 "\n"
 "Аllohu laa ilaaha illa huval Hayyul Qoyyuum.\n"
@@ -846,15 +752,15 @@ msgid ""
 "Va huval ʼaliyyul ʼaziym.\n"
 msgstr ""
 "\n"
-"Аллоҳу ла илаҳа илла ҳувал ҳаййул қоййум.\n"
-"Ла таъхузуҳу синатув ва ла навм.\n"
-"Лаҳу ма фис-самавати ва ма фил ард.\n"
-"Ман-заллазии йашфаъу ъиндаҳу илла би изниҳ.\n"
-"Йаъламу ма байна айдийҳим ва ма холфаҳум.\n"
-"Ва ла йуҳитуна бишайъим-мин ъилмиҳии илла бима ша.\n"
-"Васиъа курсийюуҳус-самаавати вал-ард.\n"
-"Ва ла йаудуҳу ҳифзуҳума\n"
-"Ва ҳувал ъалиййул ъазийм\n"
+"Aллоҳу лаа илааҳа илла ҳувал Ҳайюл Қойюум.\n"
+"Лаа таъхузуҳу синатув ва лаа навм.\n"
+"Лаҳуу маа фис-самааваати ва маа фил ард.\n"
+"Ман‑заллазии яшфаъу ъиндаҳу иллаа би‑изниҳ.\n"
+"Яъламу маа байна айдийҳим ва маа холфаҳум\n"
+"Ва лаа юҳитууна бишайъим‑мин ъилмиҳии иллаа бима шаа-а.\n"
+"Васиъа курсийюуҳус-самааваати вал‑ард.\n"
+"Ва лаа яудуҳу ҳифзуҳумаа\n"
+"Ва ҳувал ъалийюл ъазийм.\n"
 
 #: tformdetails.labelkursitr.caption
 msgid ""
@@ -893,15 +799,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelnaspr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Qul a'uzu birrobin-nas\n"
-#| "Malikin-nas\n"
-#| "Ilahin-naas\n"
-#| "Min sharril-vasvasil xonnas\n"
-#| "Allazi yuvasvisufi sudurin-nas\n"
-#| "Minal jinnati van-nas\n"
 msgid ""
 "\n"
 "Qul aʼuuzu birrobin-naas.\n"
@@ -912,12 +809,12 @@ msgid ""
 "Minal jinnati van-naas.\n"
 msgstr ""
 "\n"
-"Қул аъуузу бирробин-наас\n"
-"Маликин-наас\n"
-"Илааҳин-наас\n"
-"Мин шаррил‑васваасил хоннаас\n"
-"Аллазии йувасвису фии судуурин-наас\n"
-"Минал жиннати ван-наас\n"
+"Қул аъуузу бирробин-наас.\n"
+"Маликин-наас.\n"
+"Илааҳин-наас.\n"
+"Мин шаррил‑васваасил хоннаас.\n"
+"Аллазии йувасвису фии судуурин-наас.\n"
+"Минал жиннати ван-наас.\n"
 
 #: tformdetails.labelnastr.caption
 #, fuzzy
