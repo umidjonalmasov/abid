@@ -27,7 +27,7 @@ uses
   Details, Settings, About;
 
 resourcestring
-  ImageShow = 'Tasvirlarni ko''rsatish';
+  ImageShow = 'Tasvirlarni koʼrsatish';
   ImageHide = 'Tasvirlarni yashirish';
 
 type
@@ -2207,50 +2207,51 @@ type
     TabSheetAsr: TTabSheet;
     TabSheetShom: TTabSheet;
     TabSheetXufton: TTabSheet;
+    procedure FormActivate(Sender: TObject);
     procedure FormClose(Sender: TObject);
     procedure FormCreate(Sender: TObject);
+    procedure MenuItemAboutClick(Sender: TObject);
     procedure MenuItemExitClick(Sender: TObject);
     procedure MenuItemImageClick(Sender: TObject);
     procedure MenuItemNextClick(Sender: TObject);
     procedure MenuItemPreviousClick(Sender: TObject);
-    procedure ProcDuo(Sender: TObject);
-    procedure MenuItemAboutClick(Sender: TObject);
     procedure MenuItemSettingsClick(Sender: TObject);
-    procedure ProcDuoF(Sender: TObject);
-    procedure ProcQunut(Sender: TObject);
-    procedure ProcAzon(Sender: TObject);
-    procedure ProcKursi(Sender: TObject);
-    procedure ProcTasbehot(Sender: TObject);
-    procedure ProcNas(Sender: TObject);
-    procedure ProcFalaq(Sender: TObject);
-    procedure ProcIqomat(Sender: TObject);
     procedure ProcAla(Sender: TObject);
     procedure ProcAziym(Sender: TObject);
     procedure ProcAzonBomdod(Sender: TObject);
     procedure ProcAzonDuo(Sender: TObject);
+    procedure ProcAzon(Sender: TObject);
     procedure ProcBasmala(Sender: TObject);
+    procedure ProcDuoF(Sender: TObject);
+    procedure ProcDuo(Sender: TObject);
+    procedure ProcFalaq(Sender: TObject);
     procedure ProcFotiha(Sender: TObject);
     procedure ProcHamd(Sender: TObject);
+    procedure ProcImageDuo;
+    procedure ProcImageJalsa;
+    procedure ProcImageKirish;
+    procedure ProcImageQiyom;
+    procedure ProcImageQovma;
+    procedure ProcImageRuku;
+    procedure ProcImageSajda;
+    procedure ProcImageSalom;
+    procedure ProcImagesLoad(Sender: TObject);
+    procedure ProcIqomat(Sender: TObject);
     procedure ProcIxlos(Sender: TObject);
     procedure ProcKavsar(Sender: TObject);
+    procedure ProcKursi(Sender: TObject);
+    procedure ProcNas(Sender: TObject);
+    procedure ProcQunut(Sender: TObject);
     procedure ProcRobbana(Sender: TObject);
     procedure ProcSalavot(Sender: TObject);
     procedure ProcSalom(Sender: TObject);
-    procedure ProcTasme(Sender: TObject);
     procedure ProcSano(Sender: TObject);
     procedure ProcTaavvuz(Sender: TObject);
     procedure ProcTakbir(Sender: TObject);
+    procedure ProcTasbehot(Sender: TObject);
     procedure ProcTashahhud(Sender: TObject);
-    procedure FormActivate(Sender: TObject);
-    procedure ProcImagesLoad(Sender: TObject);
-    procedure ProcImageKirish;
-    procedure ProcImageQiyom;
-    procedure ProcImageRuku;
-    procedure ProcImageQovma;
-    procedure ProcImageSajda;
-    procedure ProcImageJalsa;
-    procedure ProcImageSalom;
-    procedure ProcImageDuo;
+    procedure ProcTasme(Sender: TObject);
+
   private
 
   public
@@ -2265,6 +2266,11 @@ implementation
 {$R *.lfm}
 
 { TFormMain }
+
+procedure TFormMain.FormCreate(Sender: TObject);
+begin
+  IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
+end;
 
 procedure TFormMain.ProcRobbana(Sender: TObject);
 begin
@@ -2318,35 +2324,6 @@ procedure TFormMain.FormActivate(Sender: TObject);
 begin
   FormMain.ProcImagesLoad(self);
   FormSettings.ComboBoxLanguageChange(self);
-end;
-
-procedure TFormMain.FormClose(Sender: TObject);
-begin
-  if FormSettings.RadioButtonStart.Checked = true then
-    begin
-      PageControlA4F.TabIndex:=0;
-      PageControlAsr.TabIndex:=0;
-      PageControlB2F.TabIndex:=0;
-      PageControlB2S.TabIndex:=0;
-      PageControlBomdod.TabIndex:=0;
-      PageControlMain.TabIndex:=0;
-      PageControlP2S.TabIndex:=0;
-      PageControlP4F.TabIndex:=0;
-      PageControlP4S.TabIndex:=0;
-      PageControlPeshin.TabIndex:=0;
-      PageControlSh2S.TabIndex:=0;
-      PageControlSh3F.TabIndex:=0;
-      PageControlShom.TabIndex:=0;
-      PageControlV3V.TabIndex:=0;
-      PageControlX2S.TabIndex:=0;
-      PageControlX4F.TabIndex:=0;
-      PageControlXufton.TabIndex:=0;
-    end;
-end;
-
-procedure TFormMain.FormCreate(Sender: TObject);
-begin
-  IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
 end;
 
 procedure TFormMain.MenuItemExitClick(Sender: TObject);
@@ -3805,6 +3782,30 @@ begin
   if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/duo.jpg') then
   ImageWoman.Picture.LoadFromFile({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'images/woman/duo.jpg')
   else ImageWoman.Picture.Clear;
+end;
+
+procedure TFormMain.FormClose(Sender: TObject);
+begin
+  if FormSettings.RadioButtonStart.Checked = true then
+    begin
+      PageControlA4F.TabIndex:=0;
+      PageControlAsr.TabIndex:=0;
+      PageControlB2F.TabIndex:=0;
+      PageControlB2S.TabIndex:=0;
+      PageControlBomdod.TabIndex:=0;
+      PageControlMain.TabIndex:=0;
+      PageControlP2S.TabIndex:=0;
+      PageControlP4F.TabIndex:=0;
+      PageControlP4S.TabIndex:=0;
+      PageControlPeshin.TabIndex:=0;
+      PageControlSh2S.TabIndex:=0;
+      PageControlSh3F.TabIndex:=0;
+      PageControlShom.TabIndex:=0;
+      PageControlV3V.TabIndex:=0;
+      PageControlX2S.TabIndex:=0;
+      PageControlX4F.TabIndex:=0;
+      PageControlXufton.TabIndex:=0;
+    end;
 end;
 
 end.

@@ -1136,8 +1136,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 132
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 1028
+        ClientHeight = 491
+        ClientWidth = 1026
         TabOrder = 0
         object LabelNasAr: TLabel
           Left = 10
@@ -1722,8 +1722,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 254
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 1028
+        ClientHeight = 491
+        ClientWidth = 1026
         TabOrder = 0
         object PanelSubhanalloh: TPanel
           Left = 0
@@ -1732,8 +1732,8 @@ object FormDetails: TFormDetails
           Width = 1028
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 1028
+          ClientHeight = 46
+          ClientWidth = 1024
           ParentColor = False
           TabOrder = 0
           object LabelSubhanallohAr: TLabel
@@ -1777,8 +1777,8 @@ object FormDetails: TFormDetails
           Width = 1028
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 1028
+          ClientHeight = 46
+          ClientWidth = 1024
           ParentColor = False
           TabOrder = 1
           object LabelAlhamdulillahAr: TLabel
@@ -1822,8 +1822,8 @@ object FormDetails: TFormDetails
           Width = 1028
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 1028
+          ClientHeight = 46
+          ClientWidth = 1024
           ParentColor = False
           TabOrder = 2
           object LabelAllohuAkbarAr: TLabel

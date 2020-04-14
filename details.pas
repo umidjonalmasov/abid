@@ -26,7 +26,7 @@ uses
   SysUtils, Forms, LCLIntf, LCLType, ExtCtrls, ComCtrls, Buttons, StdCtrls, BASS;
 
 resourcestring
-  VersionError = 'BASS versiyasi noto''g''ri';
+  VersionError = 'BASS versiyasi notoʼgʼri';
   SoundError = 'Ovoz initsializatsiya xatosi!';
   ErrorCode = '(Xato kodi: ';
 

@@ -88,8 +88,8 @@ begin
      begin
        SetDefaultLang('uz@lat');
        ComboBoxLanguage.Items.Clear;
-       ComboBoxLanguage.Items.Add('O''zbek (lotin)');
-       ComboBoxLanguage.Items.Add('O''zbek (kirill)');
+       ComboBoxLanguage.Items.Add('Oʼzbek (lotin)');
+       ComboBoxLanguage.Items.Add('Oʼzbek (kirill)');
        ComboBoxLanguage.Items.Add('Rus');
        ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[0];
        if FormMain.PanelImage.Visible=true then
