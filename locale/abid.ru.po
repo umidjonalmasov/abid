@@ -126,16 +126,10 @@ msgid "سُبْحَانَ رَبِّيَ الْأَعْلَى"
 msgstr ""
 
 #: tformdetails.labelalapr.caption
-#, fuzzy
-#| msgid "Subhana Robbiyal 'ala."
 msgid "Subhaana robbiyal aʼla."
-msgstr "Субхана Роббияль аʼля."
+msgstr "Субхаана роббияль аʼля."
 
 #: tformdetails.labelalatr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Oliy Robbim pokdir.\n"
 msgid ""
 "Ma'nosi:\n"
 "Oliy Robbim nuqsonlardan pokdir.\n"
@@ -196,16 +190,10 @@ msgid "سُبْحَانَ رَبِّيَ الْعَظِيمِ"
 msgstr ""
 
 #: tformdetails.labelaziympr.caption
-#, fuzzy
-#| msgid "Subhana Robbiyal 'aziym."
 msgid "Subhaana Robbiyal aziym."
-msgstr "Субхана Роббияль 'азым."
+msgstr "Субхаана Роббияль азым."
 
 #: tformdetails.labelaziymtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Ulug' Robbim pokdir.\n"
 msgid ""
 "Ma'nosi:\n"
 "Ulugʼ Robbim nuqsonlardan pokdir.\n"
@@ -435,8 +423,6 @@ msgid "اللهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ ال�
 msgstr ""
 
 #: tformdetails.labelduofpr.caption
-#, fuzzy
-#| msgid "Allohumma, antas-salam va minkas-salam, tabarokta ya zaljalali val-ikrom."
 msgctxt "tformdetails.labelduofpr.caption"
 msgid "Аllohumma, antas-salom va minkas-salom, tabarokta ya zaljaloli val-ikrom."
 msgstr "Аллахумма антас-салям уа минкас-салям, табаракта я зальджаляли уаль-икрам."
@@ -474,14 +460,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelfalaqpr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Qul a'uzu birobbil falaq\n"
-#| "Min sharri ma xolaq\n"
-#| "Va min sharri g'osiqin iza vaqob\n"
-#| "Va min sharrin naffasati fil 'uqod\n"
-#| "Va min sharri hasidin iza hasad\n"
 msgid ""
 "\n"
 "Qul aʼuuzu birobbil falaq.\n"
@@ -491,22 +469,14 @@ msgid ""
 "Va min sharri haasidin izaa hasad.\n"
 msgstr ""
 "\n"
-"Куль аʼузу би роббиль-фаляк\n"
-"Мин шарри ма холяк\n"
-"Уа мин шарри госикын иза уакоб\n"
-"Уа мин шарри-н-наффасати филь-ʼукод\n"
+"Куль аʼуузу би роббиль-фаляк\n"
+"Мин шарри маа холяк\n"
+"Уа мин шарри гоасикын изаа уакоб\n"
+"Уа мин шарри-н-наффасаати филь-ʼукод\n"
 "Уа мин шарри хасидин иза хасад\n"
 "\n"
 
 #: tformdetails.labelfalaqtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Tong Robbisidan panoh so'rayman\n"
-#| "U yaratgan narsalar yomonligidan\n"
-#| "Va kirib kelgan qorong'ulik yomonligidan\n"
-#| "Va tugunlarga dam soluvchilar yomonligidan\n"
-#| "Va hasad qilgan hasadchining yomonligidan, deb ayt\n"
 msgid ""
 "Ma'nosi:\n"
 "«Tong Robbisidan panoh soʼrayman.\n"
@@ -537,16 +507,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelfotihapr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Alhamdu lillahi robbil 'alamiyn\n"
-#| "Ar-rohmanir-rohiym\n"
-#| "Maliki yavmiddiyn\n"
-#| "Iyyaka na'budu va iyyaka nasta'in\n"
-#| "Ihdinas sirotol mustaqiym\n"
-#| "Sirotol-laziyna an'amta 'alayhim\n"
-#| "G'oyril mag'zubi 'alayhim valazzolliyn\n"
 msgid ""
 "\n"
 "Аlhamdu lillaahi Robbil ʼaalamiyn.\n"
@@ -567,16 +527,6 @@ msgstr ""
 "Гойриль магдуби ʼалейхим уа ляд-дооооллин\n"
 
 #: tformdetails.labelfotihatr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Barcha maqtov, shukrlar olamlarning Robbi Allohga bo'lsin\n"
-#| "U Rohman va Rahiymdir\n"
-#| "U qiyomat kunining egasi\n"
-#| "Faqat sengagina ibodat qilamiz va faqat sendangina yordam so'raymiz\n"
-#| "Bizni to'g'ri yo'lga boshlagin\n"
-#| "O'zing ne'mat berganlarning yo'liga (boshlagin),\n"
-#| "G'azabga duchor bo'lganlarning yo'liga emas, adashganlarnikiga ham emas\n"
 msgid ""
 "Ma'nosi:\n"
 "Hamd olamlarning Robbi – Аllohgadir.\n"
@@ -603,16 +553,10 @@ msgid "رَبَّنَا لَكَ الحَمْدُ"
 msgstr ""
 
 #: tformdetails.labelhamdpr.caption
-#, fuzzy
-#| msgid "Robbana lakal hamd."
 msgid "Robbanaa, lakal hamd."
 msgstr "Роббана лякаль хамд."
 
 #: tformdetails.labelhamdtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Robbimiz! Maqtov Sengadir.\n"
 msgid ""
 "Ma'nosi:\n"
 "Robbimiz, Senga hamd boʼlsin.\n"
@@ -722,13 +666,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelixlospr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Qul huvallohu ahad\n"
-#| "Allohus-somad\n"
-#| "Lam yalid va lam yulad\n"
-#| "Va lam yakullahu kufuvan ahad\n"
 msgid ""
 "\n"
 "Qul huvallohu ahad.\n"
@@ -744,13 +681,6 @@ msgstr ""
 "\n"
 
 #: tformdetails.labelixlostr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Ayt: «U Alloh yagonadir»\n"
-#| "Alloh somaddir\n"
-#| "U tug'magan va tug'ilmagan\n"
-#| "Va Unga hech kim teng bo'lmagan\n"
 msgid ""
 "Ma'nosi:\n"
 "Аyt: «U Аlloh yagonadir.\n"
@@ -775,12 +705,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelkavsarpr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Innaa a'toynakal kavsar\n"
-#| "Fasolli lirobbika vanhar\n"
-#| "Inna shaniaka huval abtar\n"
 msgid ""
 "\n"
 "Innaa aʼtoynaakal kavsar.\n"
@@ -794,12 +718,6 @@ msgstr ""
 "\n"
 
 #: tformdetails.labelkavsartr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Albatta, Biz senga Kavsarni berdik\n"
-#| "Bas, Robbingga namoz o'qi va jonlik so'y\n"
-#| "Albatta, seni yomon ko'rib, ayblovchining orqasi kesikdir\n"
 msgid ""
 "Ma'nosi:\n"
 "Аlbatta, Biz senga Kavsarni berdik.\n"
@@ -828,18 +746,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelkursipr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Allohu la ilaha illa huval hayyul qoyyum.\n"
-#| "La ta'xuzuhu sinatuv va la navm.\n"
-#| "Lahu ma fis-samavati va ma fil ard.\n"
-#| "Man-zallazii yashfa'u 'indahu illa bi iznih.\n"
-#| "Ya'lamu ma bayna aydiyhim va ma xolfahum.\n"
-#| "Va la yuhituna bishay'im-min 'ilmihii illa bima sha.\n"
-#| "Vasi'a kursiyyuuhus-samaavati val-ard.\n"
-#| "Va la yauduhu hifzuhuma\n"
-#| "Va huval 'aliyyul 'aziym.\n"
 msgid ""
 "\n"
 "Аllohu laa ilaaha illa huval Hayyul Qoyyuum.\n"
@@ -900,15 +806,6 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelnaspr.caption
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "Qul a'uzu birrobin-nas\n"
-#| "Malikin-nas\n"
-#| "Ilahin-naas\n"
-#| "Min sharril-vasvasil xonnas\n"
-#| "Allazi yuvasvisufi sudurin-nas\n"
-#| "Minal jinnati van-nas\n"
 msgid ""
 "\n"
 "Qul aʼuuzu birrobin-naas.\n"
@@ -927,15 +824,6 @@ msgstr ""
 "Миналь-джиннати уан-наас\n"
 
 #: tformdetails.labelnastr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Odamlar Robbisidan\n"
-#| "Odamlar Podshohidan\n"
-#| "Odamlar Ilohidan panoh so'rayman\n"
-#| "Berkinib, ko'rinib turuvchi vasvosning\n"
-#| "Odamlar qalbiga vasvasa soladiganning\n"
-#| "Jinlardan va odamlardan bo'lganning yomonligidan, deb ayt\n"
 msgid ""
 "Ma'nosi:\n"
 "Аyt: «Odamlar Robbisidan panoh soʼrayman.\n"
@@ -1011,8 +899,6 @@ msgid "رَبَّنَا اَتِنَا فِى الدُّنْيَا حَسَنَ�
 msgstr ""
 
 #: tformdetails.labelrobbanapr.caption
-#, fuzzy
-#| msgid "Robbana! Atina fid dunya hasanatav va fil axiroti hasanatav-va qina 'azaban nar."
 msgid "Robbana, aatinaa fid-dunya hasanatav va fil axiroti hasanatav vaqinaa ʼazaban-naar."
 msgstr "Роббана атина фид-дунья хасанатан уа филь-ахирати хасанатан уа кына ʼазабан-нар."
 
@@ -1030,16 +916,10 @@ msgid "اللّهُـمَّ صَلِّ عَلـى مُحمَّـد، وَعَل�
 msgstr ""
 
 #: tformdetails.labelsalavotpr.caption
-#, fuzzy
-#| msgid "Allohumma! Solli 'ala Muhammadiv va 'ala ali Muhammad. Kama sollayta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd. Allohumma! Barik 'ala Muhammadiv va 'ala ali Muhammad. Kama barokta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd."
 msgid "Аllohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Аllohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid."
 msgstr "Аллахумма! Солли ʼаля Мухаммад, уа ʼаля али Мухаммад.  Кама солляйта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид. Аллахумма! Барик ʼаля Мухаммад уа ʼаля али Мухаммад. Кама баракта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид."
 
 #: tformdetails.labelsalavottr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'zingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z barakangni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'z barakangni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan!\n"
 msgid ""
 "Ma'nosi:\n"
 "Аllohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan! Аllohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan!\n"
@@ -1054,17 +934,11 @@ msgid "السَّلاَمُ عَلَيْكُمْ وَ رَحْمَةُ الله�
 msgstr ""
 
 #: tformdetails.labelsalompr.caption
-#, fuzzy
-#| msgid "Assalomu alaykum va rahmatulloh."
 msgctxt "tformdetails.labelsalompr.caption"
 msgid "Аssalamu ʼalaykum va rohmatulloh."
 msgstr "Ассаляму алейкум уа рахматуллах."
 
 #: tformdetails.labelsalomtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Sizlarga Allohning salomi va rahmati bo'lsin.\n"
 msgctxt "tformdetails.labelsalomtr.caption"
 msgid ""
 "Ma'nosi:\n"
@@ -1079,16 +953,10 @@ msgid "سُبْحَا نَكَ الّٰلهُمَّ وَبِحَمْدِكَ و�
 msgstr ""
 
 #: tformdetails.labelsanopr.caption
-#, fuzzy
-#| msgid "Subhanakallohumma va bihamdika va tabarokasmuka va ta'ala jadduka va la ilaha g'oyruk."
 msgid "Subhanakallohumma va bihamdika, va tabarokasmuka, va taaʼla jadduka va laa ilaaha gʼoyruk."
 msgstr "Cубханакаллахумма уа бихамдик, уа табарака смук, уа та'аля джаддук, уа ля иляха гойрук."
 
 #: tformdetails.labelsanotr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Allohim! Seni pok Zot deb yod qilurman. Sening isming muborakdir. Martabang ulug'dir. Sendan o'zga iloh yo'qdir.\n"
 msgid ""
 "Ma'nosi:\n"
 "Аllohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.\n"
@@ -1125,16 +993,10 @@ msgid "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَ�
 msgstr ""
 
 #: tformdetails.labeltaavvuzpr.caption
-#, fuzzy
-#| msgid "A'uzu billahi minash shaytonir rojiym."
 msgid "Аʼuzu billahi minash shaytonir rojiym."
 msgstr "А'узу билляхи минаш-шайтанир-раджим."
 
 #: tformdetails.labeltaavvuztr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Allohning dargohidan quvilgan shayton yomonligidan Allohning panohiga qochaman.\n"
 msgid ""
 "Ma'nosi:\n"
 "Quvilgan shayton yomonligidan Аllohning panohini soʼrayman.\n"
@@ -1148,16 +1010,10 @@ msgid "اَللهُ اَكْبَرُ"
 msgstr ""
 
 #: tformdetails.labeltakbirpr.caption
-#, fuzzy
-#| msgid "Allohu akbar."
 msgid "Аllohu akbar."
 msgstr "Аллаху акбар."
 
 #: tformdetails.labeltakbirtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Alloh ulug'dir.\n"
 msgctxt "tformdetails.labeltakbirtr.caption"
 msgid ""
 "Ma'nosi:\n"
@@ -1172,16 +1028,10 @@ msgid "التَّحِيّـاتُ للهِ وَالصَّلَـواتُ والط
 msgstr ""
 
 #: tformdetails.labeltashahhudpr.caption
-#, fuzzy
-#| msgid "At-tahiyyatu lillahi vas-solavatu vat-toyyibat. Assalamu 'alayka ayyuhan-nabiyyu va rohmatullohi va barokatuh. Assalamu 'alayna va a'la 'ibadillahis solihiyn. Ashhadu alla ilaha illallohu va ashhadu anna Muhammadan 'abduhu va rosuluhu."
 msgid "Аttahiyyatu lillahi vassolavatu vat­toy­yibat. Аssalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Аssalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Аshhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh."
 msgstr "Ат-тахийяту лилляхи уас-соляуату уат-тоййибат. Ассаляму ʼаляйка айюхан-набийю уа рахматуллахи уа баракатух. Ас-саляму ʼаляйна уа ʼаля ʼибадилляхис солихин. Ашхаду алля иляха илляллаху уа ашхаду анна Мухаммадан абдуху уа расулюх."
 
 #: tformdetails.labeltashahhudtr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi bo'lsin. Bizlarga va Allohning solih bandalariga salom bo'lsin. Allohdan o'zga iloh yo'q deb guvohlik beraman va albatta, Muhammad Allohning Rasuli deb guvohlik beraman.\n"
 msgid ""
 "Ma'nosi:\n"
 "Barokatli tabriklar va pokiza salavotlar Аlloh uchundir. Ey Nabiy! Senga salom, Аllohning rahmati va barakasi boʼlsin. Bizlarga va Аllohning solih bandalariga salom boʼlsin. Аllohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Аllohning Rasuli deb guvohlik beraman.\n"
@@ -1197,17 +1047,11 @@ msgid "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ"
 msgstr ""
 
 #: tformdetails.labeltasmepr.caption
-#, fuzzy
-#| msgid "Sami'allohu liman hamidah."
 msgctxt "tformdetails.labeltasmepr.caption"
 msgid "Samiʼallohu liman hamidah."
 msgstr "Сами'аллаху лиман хамидах."
 
 #: tformdetails.labeltasmetr.caption
-#, fuzzy
-#| msgid ""
-#| "Ma'nosi:\n"
-#| "Alloh O'ziga hamd aytgan kishini eshitadi.\n"
 msgctxt "tformdetails.labeltasmetr.caption"
 msgid ""
 "Ma'nosi:\n"
@@ -1222,8 +1066,6 @@ msgid "لاَ اِلَهَ اِلاَّ اللهُ وَحْدَهُ لاَ شَ�
 msgstr ""
 
 #: tformdetails.labeltavhidpr.caption
-#, fuzzy
-#| msgid "La ilaha illallohu vahdahu la sharika lahu, lahul mulku va lahul hamdu va huva 'ala kulli shay'in qodir."
 msgid "Laa ilaaha illallohu vahdahu laa sharika lahu, lahul mulku valahul hamdu va huva ʼalaa kulli shayʼin qodir."
 msgstr "Ла илаха иллаллаху вахдаху ла шарика лаху, лаху л-мулку ва Лаху л-хамду ва хува 'ала кули шай'ин кадир."
 
@@ -1709,8 +1551,6 @@ msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelasr.caption
-#, fuzzy
-#| msgid "Asr namozining vaqti – har bir narsaning soyasi o'ziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Asr namozini quyosh tig'ini o'zgartirmay, nursiz holatga kirishidan oldinroq o'qish mustahabdir."
 msgid "Аsr namozining vaqti – har bir narsaning soyasi quyosh tikkaga kelgan paytdagi soyasidan tashqari oʼziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Аsr namozini quyosh tigʼini oʼzgartirmay, nursiz holatga kirishidan oldinroq oʼqish mustahabdir."
 msgstr "Аср – послеобеденный намаз. Время его совершения начинается сразу после окончания времени намаза зухр и продолжается до захода солнца за горизонт. Лучше всего этот намаз выполнять не сразу, а чуть попозже, но и не следует откладывать до того момента, пока солнце станет красноватого или рыжего цвета и глаза смогут безболезненно смотреть на него. Совершение намаза аср после этого момента (обычно солнце становится таким за 20-30 минут до заката) будет грехом, однако намаз совершить нужно все равно."
 
@@ -2085,8 +1925,6 @@ msgid "Basmala («Bismillah...») o'qiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbomdod.caption
-#, fuzzy
-#| msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda o'qish mustahab, a'loroqdir. Soat bo'yicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari o'qish mustahab vaqtiga muvofiq bo'ladi."
 msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda oʼqish mustahab, aʼloroqdir. Soat boʼyicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari oʼqish mustahab vaqtiga muvofiq boʼladi."
 msgstr "Фаджр – утренний намаз. Время его совершения начинается с наступлением рассвета (при первых признаках белизны, появившейся вдоль горизонта) и заканчивается за несколько мгновений до восхода солнца. Наилучшее время совершения утреннего намаза: ближе к концу его времени, когда становятся видны контуры предметов. Смысл выбора такого времени в том, чтобы собрать как можно больше людей для совершения коллективного намаза в мечети. Однако не следует чрезмерно его откладывать, чтобы не выйти за пределы установленного временного промежутка."
 
@@ -2141,267 +1979,191 @@ msgid "Namoz tugagach, ushbu duo o'qiladi."
 msgstr "По завершении намаза читается дуа."
 
 #: tformmain.labelfalaqb2f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqb2f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqp2s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqp2s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqp4s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqp4s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqsh2s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqsh2s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqv3v.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqv3v.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfalaqx2s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelfalaqx2s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelfotiha1a4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1a4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1b2f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1b2f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1b2s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1b2s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1p2s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1p2s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1p4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1p4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1p4s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1p4s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1sh2s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1sh2s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1sh3f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1sh3f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1v3v.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1v3v.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1x2s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1x2s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha1x4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha1x4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2a4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2a4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2b2f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2b2f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2b2s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2b2s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2p2s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2p2s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2p4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2p4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2p4s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2p4s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2sh2s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2sh2s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2sh3f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2sh3f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2v3v.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2v3v.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2x2s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2x2s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha2x4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha2x4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3a4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha3a4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3p4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha3p4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3p4s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha3p4s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3sh3f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha3sh3f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3v3v.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha3v3v.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha3x4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha3x4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha4a4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha4a4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha4p4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha4p4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha4p4s.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha4p4s.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.labelfotiha4x4f.caption
-#, fuzzy
-#| msgid "Fotiha surasi o'qiladi. Fotiha surasi tugagach, maxfiy tarzda «Omin» deyiladi."
 msgctxt "tformmain.labelfotiha4x4f.caption"
 msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
@@ -2592,92 +2354,66 @@ msgid "Iqomat o'qiladi."
 msgstr "Читается икамат."
 
 #: tformmain.labelixlosa4f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosa4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosb2s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosb2s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosp4f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosp4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosp4s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosp4s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlossh3f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlossh3f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosv3v.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosv3v.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelixlosx4f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelixlosx4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsara4f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsara4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarb2s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarb2s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarp4f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarp4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarp4s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarp4s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarsh3f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarsh3f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelkavsarx4f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelkavsarx4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
@@ -2708,118 +2444,82 @@ msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
 msgstr "Чтение после намаза Аят-уль-Курси также воздается."
 
 #: tformmain.labelnasb2f.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasb2f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnasp2s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasp2s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnasp4s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasp4s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnassh2s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnassh2s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnasv3v.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasv3v.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelnasx2s.caption
-#, fuzzy
-#| msgid "Zam sura o'qiladi."
 msgctxt "tformmain.labelnasx2s.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
 msgstr "Читается дополнительная сура."
 
 #: tformmain.labelniyata4f.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Asr namozining to'rt rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgctxt "tformmain.labelniyata4f.caption"
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun asr namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза аср искренне ради Аллаха»."
 
 #: tformmain.labelniyatb2f.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Bomdod namozining ikki rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun bomdod namozining ikki rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата фард-намаза фаджр искренне ради Аллаха»."
 
 #: tformmain.labelniyatb2s.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Bomdod namozining ikki rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgctxt "tformmain.labelniyatb2s.caption"
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun bomdod namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза фаджр искренне ради Аллаха»."
 
 #: tformmain.labelniyatp2s.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Peshin namozining ikki rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun peshin namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза зухр искренне ради Аллаха»."
 
 #: tformmain.labelniyatp4f.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Peshin namozining to'rt rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun peshin namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза зухр искренне ради Аллаха»."
 
 #: tformmain.labelniyatp4s.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Peshin namozining to'rt rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun peshin namozining to'rt rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата сунна-намаза зухр искренне ради Аллаха»."
 
 #: tformmain.labelniyatsh2s.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Shom namozining ikki rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun shom namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза магриб искренне ради Аллаха»."
 
 #: tformmain.labelniyatsh3f.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Shom namozining uch rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun shom namozining uch rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить три ракаата фард-намаза магриб искренне ради Аллаха»."
 
 #: tformmain.labelniyatv3v.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Vitr vojib namozini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun vitr vojib namozining uch rakʼatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить намаз витр ваджиб искренне ради Аллаха»."
 
 #: tformmain.labelniyatx2s.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Xufton namozining ikki rak'at sunnatini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun xufton namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза иша искренне ради Аллаха»."
 
 #: tformmain.labelniyatx4f.caption
-#, fuzzy
-#| msgid "Ka'ba tomonga yuzlanib «Xufton namozining to'rt rak'at farzini xolis Alloh uchun o'qishga niyat qildim» mazmunida niyat qilinadi."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun xufton namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза иша искренне ради Аллаха»."
 
 #: tformmain.labelpeshin.caption
-#, fuzzy
-#| msgid "Peshin namozining vaqti – quyosh zavolga (og'ishga) ketganidan so'ng to narsalarning soyasi o'z uzunligiga nisbatan ikki baravar ortguniga qadar. Peshin namozini yoz faslida bir oz kechiktirib, qish faslida esa vaqti kirishi bilan o'qish mustahabdir."
 msgid "Peshin namozining vaqti – quyosh zavolga (ogʼishga) ketganidan soʼng to narsalarning soyasi quyosh tikkaga kelgan paytdagi soyasidan tashqari oʼz uzunligiga nisbatan ikki baravar ortguniga qadar. Peshin namozini yoz faslida biroz kechiktirib, qish faslida esa vaqti kirishi bilan oʼqish mustahabdir."
 msgstr "Зухр – обеденный намаз. Время его выполнения начинается при отклонении солнца от зенита и заканчивается тогда, когда тень какого-либо предмета становится в два раза больше его длины (помимо длины тени, который предмет отбрасывает во время зенита). С этого времени наступает период совершения намаза аср. Оптимальное время совершения намаза зухр зависит от времени года. Зимой (а также весной и осенью) лучше всего совершать его ближе к началу его времени. Летом же желательно отложить его совершение на более позднее время: в самом начале его времени обычно дневная жара достигает своего пика. Мусульманам будет легче собраться в мечети для совершения намаза зухр коллективно, когда жара начнет немного спадать."
 
@@ -3048,8 +2748,6 @@ msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallo
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.labelshom.caption
-#, fuzzy
-#| msgid "Shom namozining vaqti – kun botgan paytdan boshlab kun botar tomonda shafaq (qizg'ish nurlar) g'oyib bo'lgunchadir. Shom namozini doimo quyosh botishi bilan o'qish mustahabdir."
 msgid "Shom namozining vaqti – kun botgan paytdan boshlab kunbotar tomonda shafaq (qizgʼish nurlar) gʼoyib boʼlgunchadir. Shom namozini doimo quyosh botishi bilan oʼqish mustahabdir."
 msgstr "Магриб – вечерний намаз. Время его совершения начинается сразу после заката и заканчивается после исчезновения вечерней зари (красного зарева на горизонте). Оптимальное время выполнения вечернего намаза – сразу, как только возникнет уверенность в наступлении его периода (то есть как только не останется сомнений, что солнце зашло за горизонт). Желательно читать вечерний намаз сразу после азана, не совершая между азаном и икаматом никаких дополнительных намазов. Совершать магриб ближе к концу его периода – нежелательно (макрух танзихан)."
 
@@ -4268,8 +3966,6 @@ msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labelxufton.caption
-#, fuzzy
-#| msgid "Xufton namozining vaqti – shafaq batamom yo'qolgandan keyin kiradi. Vitr namozi vaqti esa xufton o'qilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha o'qisa bo'ladi. Xufton namozini kechaning uchdan biriga olib borib o'qish afzal va nihoyatda a'lo bo'ladi. Vitr namozini esa tun oxirida uyg'onishga qodir bo'lgan kishilar subh oldidan o'qisalar, mustahab amal qilgan bo'lishadi."
 msgid "Xufton namozining vaqti – shafaq batamom yoʼqolgandan keyin kiradi. Vitr namozi vaqti esa xufton oʼqilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha oʼqisa boʼladi. Xufton namozini kechaning uchdan birining oxirida oʼqish afzal va nihoyatda aʼlo boʼladi. Vitr namozini esa tun oxirida uygʼonishga qodir boʼlgan kishilar subh oldidan oʼqisalar, mustahab amal qilgan boʼlishadi."
 msgstr "Иша – ночной намаз. Время его совершения начинается по окончании периода намаза магриб и продолжается до времени наступления утреннего намаза (фаджр). Наилучшее время выполнения ночного намаза – конец первой трети ночи."
 
@@ -5867,4 +5563,3 @@ msgstr "продолжить с прошлого места"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshga o'tish"
 msgstr "перейти в начало"
-
