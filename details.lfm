@@ -843,7 +843,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Аʼuzu billahi minash shaytonir rojiym.'
+          Caption = 'Aʼuzu billahi minash shaytonir rojiym.'
           ParentColor = False
           WordWrap = True
         end
@@ -961,7 +961,7 @@ object FormDetails: TFormDetails
           Width = 258
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Аlhamdu lillaahi Robbil ʼaalamiyn.'#10'Аr-rohmaanir rohiym.'#10'Maaliki yavmid-diyn.'#10'Iyyaaka naʼbudu va iyyaaka nastaʼiyn.'#10'Ihdinas-sirootol mustaqiym.'#10'Sirootol-laziina anʼamta ʼalayhim'#10'Gʼoyril magʼduubi ʼalayhim valad-doolliyn.'
+          Caption = #10'Alhamdu lillaahi Robbil ʼaalamiyn.'#10'Ar-rohmaanir rohiym.'#10'Maaliki yavmid-diyn.'#10'Iyyaaka naʼbudu va iyyaaka nastaʼiyn.'#10'Ihdinas-sirootol mustaqiym.'#10'Sirootol-laziina anʼamta ʼalayhim'#10'Gʼoyril magʼduubi ʼalayhim valad-doolliyn.'
           ParentColor = False
           WordWrap = True
         end
@@ -1002,7 +1002,7 @@ object FormDetails: TFormDetails
           Width = 375
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Аlbatta, Biz senga Kavsarni berdik.'#10'Bas, Robbingga namoz oʼqi va jonliq soʼy.'#10'Аlbatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.'
+          Caption = 'Ma''nosi:'#10'Albatta, Biz senga Kavsarni berdik.'#10'Bas, Robbingga namoz oʼqi va jonliq soʼy.'#10'Albatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.'
           ParentColor = False
           WordWrap = True
         end
@@ -1054,7 +1054,7 @@ object FormDetails: TFormDetails
           Width = 217
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Аyt: «U Alloh yagonadir.'#10'Alloh – somaddir.'#10'U tugʼmagan va tugʼilmagan'#10'Va Unga hech kim teng boʼlmagan».'
+          Caption = 'Ma''nosi:'#10'Ayt: «U Alloh yagonadir.'#10'Alloh – somaddir.'#10'U tugʼmagan va tugʼilmagan'#10'Va Unga hech kim teng boʼlmagan».'
           ParentColor = False
           WordWrap = True
         end
@@ -1158,7 +1158,7 @@ object FormDetails: TFormDetails
           Width = 418
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Аyt: «Odamlar Robbisidan panoh soʼrayman.'#10'Odamlar Podshohidan.'#10'Odamlar Ilohidan.'#10'Berkinib, koʼrinib turuvchi vasvasachining.'#10'Odamlarning koʼkslariga vasvasa soladiganning.'#10'Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».'
+          Caption = 'Ma''nosi:'#10'Ayt: «Odamlar Robbisidan panoh soʼrayman.'#10'Odamlar Podshohidan.'#10'Odamlar Ilohidan.'#10'Berkinib, koʼrinib turuvchi vasvasachining.'#10'Odamlarning koʼkslariga vasvasa soladiganning.'#10'Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».'
           ParentColor = False
           WordWrap = True
         end
@@ -1169,7 +1169,7 @@ object FormDetails: TFormDetails
           Width = 205
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Qul aʼuuzu birrobin-naas.'#10'Malikin-naas.'#10'Ilaahin-naas.'#10'Min sharril vasvaasil xonnaas.'#10'Аllazii yuvasvisu fii suduurin-naas.'#10'Minal jinnati van-naas.'
+          Caption = #10'Qul aʼuuzu birrobin-naas.'#10'Malikin-naas.'#10'Ilaahin-naas.'#10'Min sharril vasvaasil xonnaas.'#10'Allazii yuvasvisu fii suduurin-naas.'#10'Minal jinnati van-naas.'
           ParentColor = False
           WordWrap = True
         end
@@ -1426,7 +1426,7 @@ object FormDetails: TFormDetails
           Width = 938
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Аttahiyyatu lillahi vassolavatu vat­toy­yibat. Аssalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Аssalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Аshhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh.'
+          Caption = 'Attahiyyatu lillahi vassolavatu vat­toy­yibat. Assalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Assalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Ashhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh.'
           ParentColor = False
           WordWrap = True
         end
@@ -1489,7 +1489,7 @@ object FormDetails: TFormDetails
           Width = 938
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan!'
+          Caption = 'Ma''nosi:'#10'Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan!'
           ParentColor = False
           WordWrap = True
         end
@@ -1585,7 +1585,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Аssalamu ʼalaykum va rohmatulloh.'
+          Caption = 'Assalamu ʼalaykum va rohmatulloh.'
           ParentColor = False
           WordWrap = True
         end
