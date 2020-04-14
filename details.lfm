@@ -735,7 +735,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Аllohu akbar.'
+          Caption = 'Allohu akbar.'
           ParentColor = False
           WordWrap = True
         end
@@ -747,7 +747,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Аlloh buyukdir.'
+          Caption = 'Ma''nosi:'#10'Alloh buyukdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -801,7 +801,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Аllohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.'
+          Caption = 'Ma''nosi:'#10'Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -855,7 +855,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Quvilgan shayton yomonligidan Аllohning panohini soʼrayman.'
+          Caption = 'Ma''nosi:'#10'Quvilgan shayton yomonligidan Allohning panohini soʼrayman.'
           ParentColor = False
           WordWrap = True
         end
@@ -950,7 +950,7 @@ object FormDetails: TFormDetails
           Width = 425
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Hamd olamlarning Robbi – Аllohgadir.'#10'U Rohman va Rohiymdir.'#10'Jazo-mukofot kunining egasidir.'#10'Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.'#10'Bizni toʼgʼri yoʼlga hidoyat qilgin.'#10'Oʼzing neʼmat berganlarning yoʼliga'#10'Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.'
+          Caption = 'Ma''nosi:'#10'Hamd olamlarning Robbi – Allohgadir.'#10'U Rohman va Rohiymdir.'#10'Jazo-mukofot kunining egasidir.'#10'Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.'#10'Bizni toʼgʼri yoʼlga hidoyat qilgin.'#10'Oʼzing neʼmat berganlarning yoʼliga'#10'Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.'
           ParentColor = False
           WordWrap = True
         end
@@ -1054,7 +1054,7 @@ object FormDetails: TFormDetails
           Width = 217
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Аyt: «U Аlloh yagonadir.'#10'Аlloh – somaddir.'#10'U tugʼmagan va tugʼilmagan'#10'Va Unga hech kim teng boʼlmagan».'
+          Caption = 'Ma''nosi:'#10'Аyt: «U Alloh yagonadir.'#10'Alloh – somaddir.'#10'U tugʼmagan va tugʼilmagan'#10'Va Unga hech kim teng boʼlmagan».'
           ParentColor = False
           WordWrap = True
         end
@@ -1065,7 +1065,7 @@ object FormDetails: TFormDetails
           Width = 193
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Qul huvallohu ahad.'#10'Аllohus-somad.'#10'Lam yalid va lam yulad'#10'Va lam yakullahu kufuvan ahad.'
+          Caption = #10'Qul huvallohu ahad.'#10'Allohus-somad.'#10'Lam yalid va lam yulad'#10'Va lam yakullahu kufuvan ahad.'
           ParentColor = False
           WordWrap = True
         end
@@ -1277,7 +1277,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Kim hamd aytsa, Аlloh uni eshitadi.'
+          Caption = 'Ma''nosi:'#10'Kim hamd aytsa, Alloh uni eshitadi.'
           ParentColor = False
           WordWrap = True
         end
@@ -1437,7 +1437,7 @@ object FormDetails: TFormDetails
           Width = 938
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Barokatli tabriklar va pokiza salavotlar Аlloh uchundir. Ey Nabiy! Senga salom, Аllohning rahmati va barakasi boʼlsin. Bizlarga va Аllohning solih bandalariga salom boʼlsin. Аllohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Аllohning Rasuli deb guvohlik beraman.'
+          Caption = 'Ma''nosi:'#10'Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi boʼlsin. Bizlarga va Allohning solih bandalariga salom boʼlsin. Allohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Allohning Rasuli deb guvohlik beraman.'
           ParentColor = False
           WordWrap = True
         end
@@ -1478,7 +1478,7 @@ object FormDetails: TFormDetails
           Width = 938
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Аllohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Аllohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid.'
+          Caption = 'Allohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Allohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid.'
           ParentColor = False
           WordWrap = True
         end
@@ -1489,7 +1489,7 @@ object FormDetails: TFormDetails
           Width = 938
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Аllohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan! Аllohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan!'
+          Caption = 'Ma''nosi:'#10'Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan!'
           ParentColor = False
           WordWrap = True
         end
@@ -1597,7 +1597,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Sizga tinchlik-omonlik, Аllohning rahmati boʼlsin.'
+          Caption = 'Ma''nosi:'#10'Sizga tinchlik-omonlik, Allohning rahmati boʼlsin.'
           ParentColor = False
           WordWrap = True
         end
@@ -1691,7 +1691,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Аllohumma, antas-salom va minkas-salom, tabarokta ya zaljaloli val-ikrom.'
+          Caption = 'Allohumma, antas-salom va minkas-salom, tabarokta ya zaljaloli val-ikrom.'
           ParentColor = False
           WordWrap = True
         end
@@ -1944,7 +1944,7 @@ object FormDetails: TFormDetails
           Width = 338
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Аllohu laa ilaaha illa huval Hayyul Qoyyuum.'#10'Laa taʼxuzuhu sinatuv va laa navm.'#10'Lahuu maa fis-samaavaati va maa fil ard.'#10'Man‑zallazii yashfaʼu ʼindahu illaa bi‑iznih.'#10'Yaʼlamu maa bayna aydiyhim va maa xolfahum'#10'Va laa yuhituuna bishayʼim‑min ʼilmihii illaa bima shaa-a.'#10'Vasiʼa kursiyyuuhus-samaavaati val‑ard.'#10'Va laa yauduhu hifzuhumaa'#10'Va huval ʼaliyyul ʼaziym.'
+          Caption = #10'Allohu laa ilaaha illa huval Hayyul Qoyyuum.'#10'Laa taʼxuzuhu sinatuv va laa navm.'#10'Lahuu maa fis-samaavaati va maa fil ard.'#10'Man‑zallazii yashfaʼu ʼindahu illaa bi‑iznih.'#10'Yaʼlamu maa bayna aydiyhim va maa xolfahum'#10'Va laa yuhituuna bishayʼim‑min ʼilmihii illaa bima shaa-a.'#10'Vasiʼa kursiyyuuhus-samaavaati val‑ard.'#10'Va laa yauduhu hifzuhumaa'#10'Va huval ʼaliyyul ʼaziym.'
           ParentColor = False
           WordWrap = True
         end
