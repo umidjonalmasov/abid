@@ -1,7 +1,7 @@
 object FormDetails: TFormDetails
   Left = 328
   Height = 537
-  Top = 113
+  Top = 126
   Width = 1036
   AutoSize = True
   ClientHeight = 537
@@ -453,10 +453,10 @@ object FormDetails: TFormDetails
     Height = 501
     Top = 0
     Width = 1036
-    ActivePage = TabSheetTasbehot
+    ActivePage = TabSheetAzonBomdod
     Align = alClient
     ShowTabs = False
-    TabIndex = 23
+    TabIndex = 0
     TabOrder = 1
     object TabSheetAzonBomdod: TTabSheet
       Caption = 'AzonBomdod'
