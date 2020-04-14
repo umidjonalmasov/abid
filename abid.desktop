@@ -1,12 +1,16 @@
 [Desktop Entry]
 Name=Abid
+Name[ru]=Абид
+Name[uz]=Абид
 GenericName=Abid
+GenericName[ru]=Абид
+GenericName[uz]=Абид
 Comment=Namoz o'qishni o'rgatuvchi multimedia dasturi
 Comment[ru]=Мультимедийная программа обучающая чтению намаза
 Comment[uz]=Намоз ўқишни ўргатувчи мультимедиа дастури
-Keywords=islam;namaz;multimedia;
+Keywords=islom;namoz;ислам;намаз;ислом;намоз;
 Icon=abid
 Type=Application
-Categories=AudioVideo;Education;
+Categories=Education;
 Exec=/opt/abid/abid
 Terminal=false
