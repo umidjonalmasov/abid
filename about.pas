@@ -49,6 +49,7 @@ type
     TabSheetAbid: TTabSheet;
     TabSheetContributors: TTabSheet;
     TabSheetLicense: TTabSheet;
+    procedure FormClose(Sender: TObject);
     procedure LabelWebClick(Sender: TObject);
     procedure PanelAzanKzClick(Sender: TObject);
     procedure PanelIslomUzClick(Sender: TObject);
@@ -70,6 +71,11 @@ implementation
 procedure TFormAbout.LabelWebClick(Sender: TObject);
 begin
   OpenURL('https://github.com/umidjonalmasov/abid');
+end;
+
+procedure TFormAbout.FormClose(Sender: TObject);
+begin
+  PageControl.ActivePage:=TabSheetAbid;
 end;
 
 procedure TFormAbout.PanelAzanKzClick(Sender: TObject);
