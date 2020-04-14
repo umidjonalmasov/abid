@@ -25,7 +25,7 @@ msgid "Ovoz initsializatsiya xatosi!"
 msgstr "Ошибка инициализации звука!"
 
 #: details.versionerror
-msgid "BASS versiyasi noto'g'ri"
+msgid "BASS versiyasi notoʼgʼri"
 msgstr "Неверная версия BASS"
 
 #: main.imagehide
@@ -34,7 +34,7 @@ msgid "Tasvirlarni yashirish"
 msgstr "Скрыть изображения"
 
 #: main.imageshow
-msgid "Tasvirlarni ko'rsatish"
+msgid "Tasvirlarni koʼrsatish"
 msgstr "Показать изображения"
 
 #: tformabout.buttonpanel.closebutton.caption
@@ -424,7 +424,7 @@ msgstr ""
 
 #: tformdetails.labelduofpr.caption
 msgctxt "tformdetails.labelduofpr.caption"
-msgid "Аllohumma, antas-salom va minkas-salom, tabarokta ya zaljaloli val-ikrom."
+msgid "Allohumma, antas-salom va minkas-salom, tabarokta ya zaljaloli val-ikrom."
 msgstr "Аллахумма антас-салям уа минкас-салям, табаракта я зальджаляли уаль-икрам."
 
 #: tformdetails.labelduoftr.caption
@@ -509,8 +509,8 @@ msgstr ""
 #: tformdetails.labelfotihapr.caption
 msgid ""
 "\n"
-"Аlhamdu lillaahi Robbil ʼaalamiyn.\n"
-"Аr-rohmaanir rohiym.\n"
+"Alhamdu lillaahi Robbil ʼaalamiyn.\n"
+"Ar-rohmaanir rohiym.\n"
 "Maaliki yavmid-diyn.\n"
 "Iyyaaka naʼbudu va iyyaaka nastaʼiyn.\n"
 "Ihdinas-sirootol mustaqiym.\n"
@@ -529,7 +529,7 @@ msgstr ""
 #: tformdetails.labelfotihatr.caption
 msgid ""
 "Ma'nosi:\n"
-"Hamd olamlarning Robbi – Аllohgadir.\n"
+"Hamd olamlarning Robbi – Allohgadir.\n"
 "U Rohman va Rohiymdir.\n"
 "Jazo-mukofot kunining egasidir.\n"
 "Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.\n"
@@ -669,7 +669,7 @@ msgstr ""
 msgid ""
 "\n"
 "Qul huvallohu ahad.\n"
-"Аllohus-somad.\n"
+"Allohus-somad.\n"
 "Lam yalid va lam yulad\n"
 "Va lam yakullahu kufuvan ahad.\n"
 msgstr ""
@@ -683,8 +683,8 @@ msgstr ""
 #: tformdetails.labelixlostr.caption
 msgid ""
 "Ma'nosi:\n"
-"Аyt: «U Аlloh yagonadir.\n"
-"Аlloh – somaddir.\n"
+"Ayt: «U Alloh yagonadir.\n"
+"Alloh – somaddir.\n"
 "U tugʼmagan va tugʼilmagan\n"
 "Va Unga hech kim teng boʼlmagan».\n"
 msgstr ""
@@ -720,9 +720,9 @@ msgstr ""
 #: tformdetails.labelkavsartr.caption
 msgid ""
 "Ma'nosi:\n"
-"Аlbatta, Biz senga Kavsarni berdik.\n"
+"Albatta, Biz senga Kavsarni berdik.\n"
 "Bas, Robbingga namoz oʼqi va jonliq soʼy.\n"
-"Аlbatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.\n"
+"Albatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.\n"
 msgstr ""
 "Значение:\n"
 "Мы даровали тебе аль-Каусар (бесчисленные блага, в том числе одноименную реку в Раю)\n"
@@ -748,7 +748,7 @@ msgstr ""
 #: tformdetails.labelkursipr.caption
 msgid ""
 "\n"
-"Аllohu laa ilaaha illa huval Hayyul Qoyyuum.\n"
+"Allohu laa ilaaha illa huval Hayyul Qoyyuum.\n"
 "Laa taʼxuzuhu sinatuv va laa navm.\n"
 "Lahuu maa fis-samaavaati va maa fil ard.\n"
 "Man‑zallazii yashfaʼu ʼindahu illaa bi‑iznih.\n"
@@ -812,7 +812,7 @@ msgid ""
 "Malikin-naas.\n"
 "Ilaahin-naas.\n"
 "Min sharril vasvaasil xonnaas.\n"
-"Аllazii yuvasvisu fii suduurin-naas.\n"
+"Allazii yuvasvisu fii suduurin-naas.\n"
 "Minal jinnati van-naas.\n"
 msgstr ""
 "\n"
@@ -826,7 +826,7 @@ msgstr ""
 #: tformdetails.labelnastr.caption
 msgid ""
 "Ma'nosi:\n"
-"Аyt: «Odamlar Robbisidan panoh soʼrayman.\n"
+"Ayt: «Odamlar Robbisidan panoh soʼrayman.\n"
 "Odamlar Podshohidan.\n"
 "Odamlar Ilohidan.\n"
 "Berkinib, koʼrinib turuvchi vasvasachining.\n"
@@ -916,13 +916,13 @@ msgid "اللّهُـمَّ صَلِّ عَلـى مُحمَّـد، وَعَل�
 msgstr ""
 
 #: tformdetails.labelsalavotpr.caption
-msgid "Аllohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Аllohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid."
+msgid "Allohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Allohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid."
 msgstr "Аллахумма! Солли ʼаля Мухаммад, уа ʼаля али Мухаммад.  Кама солляйта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид. Аллахумма! Барик ʼаля Мухаммад уа ʼаля али Мухаммад. Кама баракта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид."
 
 #: tformdetails.labelsalavottr.caption
 msgid ""
 "Ma'nosi:\n"
-"Аllohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan! Аllohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan!\n"
+"Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan!\n"
 msgstr ""
 "Значение:\n"
 "О Аллах, благослови Мухаммада и семейство Мухаммада, как Ты благословил Ибрахима и семейство Ибрахима. Поистине, Ты – Достойный похвалы. Славный! Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как Ты послал их Ибрахиму и семейству Ибрахима. Поистине, Ты – Достойный похвалы, Славный!\n"
@@ -935,14 +935,14 @@ msgstr ""
 
 #: tformdetails.labelsalompr.caption
 msgctxt "tformdetails.labelsalompr.caption"
-msgid "Аssalamu ʼalaykum va rohmatulloh."
+msgid "Assalamu ʼalaykum va rohmatulloh."
 msgstr "Ассаляму алейкум уа рахматуллах."
 
 #: tformdetails.labelsalomtr.caption
 msgctxt "tformdetails.labelsalomtr.caption"
 msgid ""
 "Ma'nosi:\n"
-"Sizga tinchlik-omonlik, Аllohning rahmati boʼlsin.\n"
+"Sizga tinchlik-omonlik, Allohning rahmati boʼlsin.\n"
 msgstr ""
 "Значение:\n"
 "Мир вам и милость Аллаха.\n"
@@ -959,7 +959,7 @@ msgstr "Cубханакаллахумма уа бихамдик, уа табар
 #: tformdetails.labelsanotr.caption
 msgid ""
 "Ma'nosi:\n"
-"Аllohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.\n"
+"Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.\n"
 msgstr ""
 "Значение:\n"
 "Слава Тебе, о Аллах, и хвала Тебе, благословенно имя Твое, превыше всего величие Твое, и нет никого достойного поклонения, кроме Тебя.\n"
@@ -993,13 +993,13 @@ msgid "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَ�
 msgstr ""
 
 #: tformdetails.labeltaavvuzpr.caption
-msgid "Аʼuzu billahi minash shaytonir rojiym."
+msgid "Aʼuzu billahi minash shaytonir rojiym."
 msgstr "А'узу билляхи минаш-шайтанир-раджим."
 
 #: tformdetails.labeltaavvuztr.caption
 msgid ""
 "Ma'nosi:\n"
-"Quvilgan shayton yomonligidan Аllohning panohini soʼrayman.\n"
+"Quvilgan shayton yomonligidan Allohning panohini soʼrayman.\n"
 msgstr ""
 "Значение:\n"
 "Прибегаю к защите Аллаха от побиваемого камнями шайтана.\n"
@@ -1010,14 +1010,14 @@ msgid "اَللهُ اَكْبَرُ"
 msgstr ""
 
 #: tformdetails.labeltakbirpr.caption
-msgid "Аllohu akbar."
+msgid "Allohu akbar."
 msgstr "Аллаху акбар."
 
 #: tformdetails.labeltakbirtr.caption
 msgctxt "tformdetails.labeltakbirtr.caption"
 msgid ""
 "Ma'nosi:\n"
-"Аlloh buyukdir.\n"
+"Alloh buyukdir.\n"
 msgstr ""
 "Значение:\n"
 "Аллах велик.\n"
@@ -1028,13 +1028,13 @@ msgid "التَّحِيّـاتُ للهِ وَالصَّلَـواتُ والط
 msgstr ""
 
 #: tformdetails.labeltashahhudpr.caption
-msgid "Аttahiyyatu lillahi vassolavatu vat­toy­yibat. Аssalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Аssalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Аshhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh."
+msgid "Attahiyyatu lillahi vassolavatu vat­toy­yibat. Assalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Assalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Ashhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh."
 msgstr "Ат-тахийяту лилляхи уас-соляуату уат-тоййибат. Ассаляму ʼаляйка айюхан-набийю уа рахматуллахи уа баракатух. Ас-саляму ʼаляйна уа ʼаля ʼибадилляхис солихин. Ашхаду алля иляха илляллаху уа ашхаду анна Мухаммадан абдуху уа расулюх."
 
 #: tformdetails.labeltashahhudtr.caption
 msgid ""
 "Ma'nosi:\n"
-"Barokatli tabriklar va pokiza salavotlar Аlloh uchundir. Ey Nabiy! Senga salom, Аllohning rahmati va barakasi boʼlsin. Bizlarga va Аllohning solih bandalariga salom boʼlsin. Аllohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Аllohning Rasuli deb guvohlik beraman.\n"
+"Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi boʼlsin. Bizlarga va Allohning solih bandalariga salom boʼlsin. Allohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Allohning Rasuli deb guvohlik beraman.\n"
 msgstr ""
 "Значение:\n"
 "Приветствия Аллаху, молитвы и добрые дела. Мир тебе, о Пророк, милость Аллаха и Его благословение. Мир нам и истинным слугам Аллаха. Свидетельствую, что нет никого, достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад – Его раб и Его Посланник.\n"
@@ -1055,7 +1055,7 @@ msgstr "Сами'аллаху лиман хамидах."
 msgctxt "tformdetails.labeltasmetr.caption"
 msgid ""
 "Ma'nosi:\n"
-"Kim hamd aytsa, Аlloh uni eshitadi.\n"
+"Kim hamd aytsa, Alloh uni eshitadi.\n"
 msgstr ""
 "Значение:\n"
 "Аллах слышит того, кто Его восхваляет.\n"
@@ -1551,7 +1551,7 @@ msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelasr.caption
-msgid "Аsr namozining vaqti – har bir narsaning soyasi quyosh tikkaga kelgan paytdagi soyasidan tashqari oʼziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Аsr namozini quyosh tigʼini oʼzgartirmay, nursiz holatga kirishidan oldinroq oʼqish mustahabdir."
+msgid "Asr namozining vaqti – har bir narsaning soyasi quyosh tikkaga kelgan paytdagi soyasidan tashqari oʼziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Asr namozini quyosh tigʼini oʼzgartirmay, nursiz holatga kirishidan oldinroq oʼqish mustahabdir."
 msgstr "Аср – послеобеденный намаз. Время его совершения начинается сразу после окончания времени намаза зухр и продолжается до захода солнца за горизонт. Лучше всего этот намаз выполнять не сразу, а чуть попозже, но и не следует откладывать до того момента, пока солнце станет красноватого или рыжего цвета и глаза смогут безболезненно смотреть на него. Совершение намаза аср после этого момента (обычно солнце становится таким за 20-30 минут до заката) будет грехом, однако намаз совершить нужно все равно."
 
 #: tformmain.labelaziym1a4f.caption
@@ -2475,48 +2475,48 @@ msgstr "Читается дополнительная сура."
 
 #: tformmain.labelniyata4f.caption
 msgctxt "tformmain.labelniyata4f.caption"
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun asr namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun asr namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза аср искренне ради Аллаха»."
 
 #: tformmain.labelniyatb2f.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun bomdod namozining ikki rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun bomdod namozining ikki rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата фард-намаза фаджр искренне ради Аллаха»."
 
 #: tformmain.labelniyatb2s.caption
 msgctxt "tformmain.labelniyatb2s.caption"
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun bomdod namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun bomdod namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза фаджр искренне ради Аллаха»."
 
 #: tformmain.labelniyatp2s.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun peshin namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun peshin namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза зухр искренне ради Аллаха»."
 
 #: tformmain.labelniyatp4f.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun peshin namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun peshin namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза зухр искренне ради Аллаха»."
 
 #: tformmain.labelniyatp4s.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun peshin namozining to'rt rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun peshin namozining to'rt rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата сунна-намаза зухр искренне ради Аллаха»."
 
 #: tformmain.labelniyatsh2s.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun shom namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun shom namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза магриб искренне ради Аллаха»."
 
 #: tformmain.labelniyatsh3f.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun shom namozining uch rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun shom namozining uch rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить три ракаата фард-намаза магриб искренне ради Аллаха»."
 
 #: tformmain.labelniyatv3v.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun vitr vojib namozining uch rakʼatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun vitr vojib namozining uch rakʼatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить намаз витр ваджиб искренне ради Аллаха»."
 
 #: tformmain.labelniyatx2s.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun xufton namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun xufton namozining ikki rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза иша искренне ради Аллаха»."
 
 #: tformmain.labelniyatx4f.caption
-msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Аlloh uchun xufton namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
+msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun xufton namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза иша искренне ради Аллаха»."
 
 #: tformmain.labelpeshin.caption
