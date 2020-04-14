@@ -126,13 +126,19 @@ msgid "سُبْحَانَ رَبِّيَ الْأَعْلَى"
 msgstr ""
 
 #: tformdetails.labelalapr.caption
-msgid "Subhana Robbiyal 'ala."
+#, fuzzy
+#| msgid "Subhana Robbiyal 'ala."
+msgid "Subhaana robbiyal aʼla."
 msgstr "Субхана Роббияль аʼля."
 
 #: tformdetails.labelalatr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Oliy Robbim pokdir.\n"
 msgid ""
 "Ma'nosi:\n"
-"Oliy Robbim pokdir.\n"
+"Oliy Robbim nuqsonlardan pokdir.\n"
 msgstr ""
 "Значение:\n"
 "Мой Всевышний Господь не имеет недостатков.\n"
@@ -190,13 +196,19 @@ msgid "سُبْحَانَ رَبِّيَ الْعَظِيمِ"
 msgstr ""
 
 #: tformdetails.labelaziympr.caption
-msgid "Subhana Robbiyal 'aziym."
+#, fuzzy
+#| msgid "Subhana Robbiyal 'aziym."
+msgid "Subhaana Robbiyal aziym."
 msgstr "Субхана Роббияль 'азым."
 
 #: tformdetails.labelaziymtr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Ulug' Robbim pokdir.\n"
 msgid ""
 "Ma'nosi:\n"
-"Ulug' Robbim pokdir.\n"
+"Ulugʼ Robbim nuqsonlardan pokdir.\n"
 msgstr ""
 "Значение:\n"
 "Великий мой Господь не имеет недостатков.\n"
@@ -423,8 +435,10 @@ msgid "اللهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ ال�
 msgstr ""
 
 #: tformdetails.labelduofpr.caption
+#, fuzzy
+#| msgid "Allohumma, antas-salam va minkas-salam, tabarokta ya zaljalali val-ikrom."
 msgctxt "tformdetails.labelduofpr.caption"
-msgid "Allohumma, antas-salam va minkas-salam, tabarokta ya zaljalali val-ikrom."
+msgid "Аllohumma, antas-salom va minkas-salom, tabarokta ya zaljaloli val-ikrom."
 msgstr "Аллахумма антас-салям уа минкас-салям, табаракта я зальджаляли уаль-икрам."
 
 #: tformdetails.labelduoftr.caption
@@ -460,13 +474,21 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelfalaqpr.caption
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "Qul a'uzu birobbil falaq\n"
+#| "Min sharri ma xolaq\n"
+#| "Va min sharri g'osiqin iza vaqob\n"
+#| "Va min sharrin naffasati fil 'uqod\n"
+#| "Va min sharri hasidin iza hasad\n"
 msgid ""
 "\n"
-"Qul a'uzu birobbil falaq\n"
-"Min sharri ma xolaq\n"
-"Va min sharri g'osiqin iza vaqob\n"
-"Va min sharrin naffasati fil 'uqod\n"
-"Va min sharri hasidin iza hasad\n"
+"Qul aʼuuzu birobbil falaq.\n"
+"Min sharri maa xolaq.\n"
+"Va min sharri gʼoosiqin izaa vaqob.\n"
+"Va min sharrin naffasaati fil ʼuqodi.\n"
+"Va min sharri haasidin izaa hasad.\n"
 msgstr ""
 "\n"
 "Куль аʼузу би роббиль-фаляк\n"
@@ -477,13 +499,21 @@ msgstr ""
 "\n"
 
 #: tformdetails.labelfalaqtr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Tong Robbisidan panoh so'rayman\n"
+#| "U yaratgan narsalar yomonligidan\n"
+#| "Va kirib kelgan qorong'ulik yomonligidan\n"
+#| "Va tugunlarga dam soluvchilar yomonligidan\n"
+#| "Va hasad qilgan hasadchining yomonligidan, deb ayt\n"
 msgid ""
 "Ma'nosi:\n"
-"Tong Robbisidan panoh so'rayman\n"
-"U yaratgan narsalar yomonligidan\n"
-"Va kirib kelgan qorong'ulik yomonligidan\n"
-"Va tugunlarga dam soluvchilar yomonligidan\n"
-"Va hasad qilgan hasadchining yomonligidan, deb ayt\n"
+"«Tong Robbisidan panoh soʼrayman.\n"
+"U yaratgan narsalar yomonligidan.\n"
+"Va kirib kelgan qorongʼu kechaning yomonligidan.\n"
+"Va tugunlarga dam soluvchilar yomonligidan.\n"
+"Va hasad qilgan hasadchining yomonligidan», deb ayt.\n"
 msgstr ""
 "Значение:\n"
 "Скажи: «Прибегаю к (защите) Господа рассвета\n"
@@ -573,13 +603,19 @@ msgid "رَبَّنَا لَكَ الحَمْدُ"
 msgstr ""
 
 #: tformdetails.labelhamdpr.caption
-msgid "Robbana lakal hamd."
+#, fuzzy
+#| msgid "Robbana lakal hamd."
+msgid "Robbanaa, lakal hamd."
 msgstr "Роббана лякаль хамд."
 
 #: tformdetails.labelhamdtr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Robbimiz! Maqtov Sengadir.\n"
 msgid ""
 "Ma'nosi:\n"
-"Robbimiz! Maqtov Sengadir.\n"
+"Robbimiz, Senga hamd boʼlsin.\n"
 msgstr ""
 "Значение:\n"
 "О наш Господь! Тебе слава.\n"
@@ -686,12 +722,19 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelixlospr.caption
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "Qul huvallohu ahad\n"
+#| "Allohus-somad\n"
+#| "Lam yalid va lam yulad\n"
+#| "Va lam yakullahu kufuvan ahad\n"
 msgid ""
 "\n"
-"Qul huvallohu ahad\n"
-"Allohus-somad\n"
+"Qul huvallohu ahad.\n"
+"Аllohus-somad.\n"
 "Lam yalid va lam yulad\n"
-"Va lam yakullahu kufuvan ahad\n"
+"Va lam yakullahu kufuvan ahad.\n"
 msgstr ""
 "\n"
 "Куль хуаллаху ахад\n"
@@ -701,12 +744,19 @@ msgstr ""
 "\n"
 
 #: tformdetails.labelixlostr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Ayt: «U Alloh yagonadir»\n"
+#| "Alloh somaddir\n"
+#| "U tug'magan va tug'ilmagan\n"
+#| "Va Unga hech kim teng bo'lmagan\n"
 msgid ""
 "Ma'nosi:\n"
-"Ayt: «U Alloh yagonadir»\n"
-"Alloh somaddir\n"
-"U tug'magan va tug'ilmagan\n"
-"Va Unga hech kim teng bo'lmagan\n"
+"Аyt: «U Аlloh yagonadir.\n"
+"Аlloh – somaddir.\n"
+"U tugʼmagan va tugʼilmagan\n"
+"Va Unga hech kim teng boʼlmagan».\n"
 msgstr ""
 "Значение:\n"
 "Скажи: Аллах – Един!\n"
@@ -725,11 +775,17 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelkavsarpr.caption
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "Innaa a'toynakal kavsar\n"
+#| "Fasolli lirobbika vanhar\n"
+#| "Inna shaniaka huval abtar\n"
 msgid ""
 "\n"
-"Innaa a'toynakal kavsar\n"
-"Fasolli lirobbika vanhar\n"
-"Inna shaniaka huval abtar\n"
+"Innaa aʼtoynaakal kavsar.\n"
+"Fasolli lirobbika vanhar.\n"
+"Inna shaani-aka huval abtar.\n"
 msgstr ""
 "\n"
 "Инна а'тойнакаль-каусар\n"
@@ -738,11 +794,17 @@ msgstr ""
 "\n"
 
 #: tformdetails.labelkavsartr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Albatta, Biz senga Kavsarni berdik\n"
+#| "Bas, Robbingga namoz o'qi va jonlik so'y\n"
+#| "Albatta, seni yomon ko'rib, ayblovchining orqasi kesikdir\n"
 msgid ""
 "Ma'nosi:\n"
-"Albatta, Biz senga Kavsarni berdik\n"
-"Bas, Robbingga namoz o'qi va jonlik so'y\n"
-"Albatta, seni yomon ko'rib, ayblovchining orqasi kesikdir\n"
+"Аlbatta, Biz senga Kavsarni berdik.\n"
+"Bas, Robbingga namoz oʼqi va jonliq soʼy.\n"
+"Аlbatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.\n"
 msgstr ""
 "Значение:\n"
 "Мы даровали тебе аль-Каусар (бесчисленные блага, в том числе одноименную реку в Раю)\n"
@@ -766,17 +828,29 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelkursipr.caption
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "Allohu la ilaha illa huval hayyul qoyyum.\n"
+#| "La ta'xuzuhu sinatuv va la navm.\n"
+#| "Lahu ma fis-samavati va ma fil ard.\n"
+#| "Man-zallazii yashfa'u 'indahu illa bi iznih.\n"
+#| "Ya'lamu ma bayna aydiyhim va ma xolfahum.\n"
+#| "Va la yuhituna bishay'im-min 'ilmihii illa bima sha.\n"
+#| "Vasi'a kursiyyuuhus-samaavati val-ard.\n"
+#| "Va la yauduhu hifzuhuma\n"
+#| "Va huval 'aliyyul 'aziym.\n"
 msgid ""
 "\n"
-"Allohu la ilaha illa huval hayyul qoyyum.\n"
-"La ta'xuzuhu sinatuv va la navm.\n"
-"Lahu ma fis-samavati va ma fil ard.\n"
-"Man-zallazii yashfa'u 'indahu illa bi iznih.\n"
-"Ya'lamu ma bayna aydiyhim va ma xolfahum.\n"
-"Va la yuhituna bishay'im-min 'ilmihii illa bima sha.\n"
-"Vasi'a kursiyyuuhus-samaavati val-ard.\n"
-"Va la yauduhu hifzuhuma\n"
-"Va huval 'aliyyul 'aziym.\n"
+"Аllohu laa ilaaha illa huval Hayyul Qoyyuum.\n"
+"Laa taʼxuzuhu sinatuv va laa navm.\n"
+"Lahuu maa fis-samaavaati va maa fil ard.\n"
+"Man‑zallazii yashfaʼu ʼindahu illaa bi‑iznih.\n"
+"Yaʼlamu maa bayna aydiyhim va maa xolfahum\n"
+"Va laa yuhituuna bishayʼim‑min ʼilmihii illaa bima shaa-a.\n"
+"Vasiʼa kursiyyuuhus-samaavaati val‑ard.\n"
+"Va laa yauduhu hifzuhumaa\n"
+"Va huval ʼaliyyul ʼaziym.\n"
 msgstr ""
 "\n"
 "Аллааху  ляя иляяха  илляя  хуаль-хаййуль-каййуум.\n"
@@ -826,14 +900,23 @@ msgid ""
 msgstr ""
 
 #: tformdetails.labelnaspr.caption
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "Qul a'uzu birrobin-nas\n"
+#| "Malikin-nas\n"
+#| "Ilahin-naas\n"
+#| "Min sharril-vasvasil xonnas\n"
+#| "Allazi yuvasvisufi sudurin-nas\n"
+#| "Minal jinnati van-nas\n"
 msgid ""
 "\n"
-"Qul a'uzu birrobin-nas\n"
-"Malikin-nas\n"
-"Ilahin-naas\n"
-"Min sharril-vasvasil xonnas\n"
-"Allazi yuvasvisufi sudurin-nas\n"
-"Minal jinnati van-nas\n"
+"Qul aʼuuzu birrobin-naas.\n"
+"Malikin-naas.\n"
+"Ilaahin-naas.\n"
+"Min sharril vasvaasil xonnaas.\n"
+"Аllazii yuvasvisu fii suduurin-naas.\n"
+"Minal jinnati van-naas.\n"
 msgstr ""
 "\n"
 "Куль а'узу бираббин-наас\n"
@@ -844,14 +927,23 @@ msgstr ""
 "Миналь-джиннати уан-наас\n"
 
 #: tformdetails.labelnastr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Odamlar Robbisidan\n"
+#| "Odamlar Podshohidan\n"
+#| "Odamlar Ilohidan panoh so'rayman\n"
+#| "Berkinib, ko'rinib turuvchi vasvosning\n"
+#| "Odamlar qalbiga vasvasa soladiganning\n"
+#| "Jinlardan va odamlardan bo'lganning yomonligidan, deb ayt\n"
 msgid ""
 "Ma'nosi:\n"
-"Odamlar Robbisidan\n"
-"Odamlar Podshohidan\n"
-"Odamlar Ilohidan panoh so'rayman\n"
-"Berkinib, ko'rinib turuvchi vasvosning\n"
-"Odamlar qalbiga vasvasa soladiganning\n"
-"Jinlardan va odamlardan bo'lganning yomonligidan, deb ayt\n"
+"Аyt: «Odamlar Robbisidan panoh soʼrayman.\n"
+"Odamlar Podshohidan.\n"
+"Odamlar Ilohidan.\n"
+"Berkinib, koʼrinib turuvchi vasvasachining.\n"
+"Odamlarning koʼkslariga vasvasa soladiganning.\n"
+"Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».\n"
 msgstr ""
 "Значение:\n"
 "Скажи: «Прибегаю к защите Господа людей,\n"
@@ -919,7 +1011,9 @@ msgid "رَبَّنَا اَتِنَا فِى الدُّنْيَا حَسَنَ�
 msgstr ""
 
 #: tformdetails.labelrobbanapr.caption
-msgid "Robbana! Atina fid dunya hasanatav va fil axiroti hasanatav-va qina 'azaban nar."
+#, fuzzy
+#| msgid "Robbana! Atina fid dunya hasanatav va fil axiroti hasanatav-va qina 'azaban nar."
+msgid "Robbana, aatinaa fid-dunya hasanatav va fil axiroti hasanatav vaqinaa ʼazaban-naar."
 msgstr "Роббана атина фид-дунья хасанатан уа филь-ахирати хасанатан уа кына ʼазабан-нар."
 
 #: tformdetails.labelrobbanatr.caption
@@ -936,13 +1030,19 @@ msgid "اللّهُـمَّ صَلِّ عَلـى مُحمَّـد، وَعَل�
 msgstr ""
 
 #: tformdetails.labelsalavotpr.caption
-msgid "Allohumma! Solli 'ala Muhammadiv va 'ala ali Muhammad. Kama sollayta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd. Allohumma! Barik 'ala Muhammadiv va 'ala ali Muhammad. Kama barokta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd."
+#, fuzzy
+#| msgid "Allohumma! Solli 'ala Muhammadiv va 'ala ali Muhammad. Kama sollayta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd. Allohumma! Barik 'ala Muhammadiv va 'ala ali Muhammad. Kama barokta 'ala Ibrohima va 'ala ali Ibrohim. Innaka hamidum majiyd."
+msgid "Аllohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Аllohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid."
 msgstr "Аллахумма! Солли ʼаля Мухаммад, уа ʼаля али Мухаммад.  Кама солляйта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид. Аллахумма! Барик ʼаля Мухаммад уа ʼаля али Мухаммад. Кама баракта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид."
 
 #: tformdetails.labelsalavottr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'zingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z barakangni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'z barakangni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan!\n"
 msgid ""
 "Ma'nosi:\n"
-"Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'zingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga O'z barakangni nozil qilganingdek, Muhammadga va Muhammadning oila a'zolariga O'z barakangni nozil qilgin! Albatta, Sen maqtalgan, ulug'langan Zotsan!\n"
+"Аllohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan! Аllohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Аlbatta, Sen maqtalgan, ulugʼlangan Zotsan!\n"
 msgstr ""
 "Значение:\n"
 "О Аллах, благослови Мухаммада и семейство Мухаммада, как Ты благословил Ибрахима и семейство Ибрахима. Поистине, Ты – Достойный похвалы. Славный! Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как Ты послал их Ибрахиму и семейству Ибрахима. Поистине, Ты – Достойный похвалы, Славный!\n"
@@ -954,15 +1054,21 @@ msgid "السَّلاَمُ عَلَيْكُمْ وَ رَحْمَةُ الله�
 msgstr ""
 
 #: tformdetails.labelsalompr.caption
+#, fuzzy
+#| msgid "Assalomu alaykum va rahmatulloh."
 msgctxt "tformdetails.labelsalompr.caption"
-msgid "Assalomu alaykum va rahmatulloh."
+msgid "Аssalamu ʼalaykum va rohmatulloh."
 msgstr "Ассаляму алейкум уа рахматуллах."
 
 #: tformdetails.labelsalomtr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Sizlarga Allohning salomi va rahmati bo'lsin.\n"
 msgctxt "tformdetails.labelsalomtr.caption"
 msgid ""
 "Ma'nosi:\n"
-"Sizlarga Allohning salomi va rahmati bo'lsin.\n"
+"Sizga tinchlik-omonlik, Аllohning rahmati boʼlsin.\n"
 msgstr ""
 "Значение:\n"
 "Мир вам и милость Аллаха.\n"
@@ -1042,14 +1148,20 @@ msgid "اَللهُ اَكْبَرُ"
 msgstr ""
 
 #: tformdetails.labeltakbirpr.caption
-msgid "Allohu akbar."
+#, fuzzy
+#| msgid "Allohu akbar."
+msgid "Аllohu akbar."
 msgstr "Аллаху акбар."
 
 #: tformdetails.labeltakbirtr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Alloh ulug'dir.\n"
 msgctxt "tformdetails.labeltakbirtr.caption"
 msgid ""
 "Ma'nosi:\n"
-"Alloh ulug'dir.\n"
+"Аlloh buyukdir.\n"
 msgstr ""
 "Значение:\n"
 "Аллах велик.\n"
@@ -1060,13 +1172,19 @@ msgid "التَّحِيّـاتُ للهِ وَالصَّلَـواتُ والط
 msgstr ""
 
 #: tformdetails.labeltashahhudpr.caption
-msgid "At-tahiyyatu lillahi vas-solavatu vat-toyyibat. Assalamu 'alayka ayyuhan-nabiyyu va rohmatullohi va barokatuh. Assalamu 'alayna va a'la 'ibadillahis solihiyn. Ashhadu alla ilaha illallohu va ashhadu anna Muhammadan 'abduhu va rosuluhu."
+#, fuzzy
+#| msgid "At-tahiyyatu lillahi vas-solavatu vat-toyyibat. Assalamu 'alayka ayyuhan-nabiyyu va rohmatullohi va barokatuh. Assalamu 'alayna va a'la 'ibadillahis solihiyn. Ashhadu alla ilaha illallohu va ashhadu anna Muhammadan 'abduhu va rosuluhu."
+msgid "Аttahiyyatu lillahi vassolavatu vat­toy­yibat. Аssalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Аssalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Аshhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh."
 msgstr "Ат-тахийяту лилляхи уас-соляуату уат-тоййибат. Ассаляму ʼаляйка айюхан-набийю уа рахматуллахи уа баракатух. Ас-саляму ʼаляйна уа ʼаля ʼибадилляхис солихин. Ашхаду алля иляха илляллаху уа ашхаду анна Мухаммадан абдуху уа расулюх."
 
 #: tformdetails.labeltashahhudtr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi bo'lsin. Bizlarga va Allohning solih bandalariga salom bo'lsin. Allohdan o'zga iloh yo'q deb guvohlik beraman va albatta, Muhammad Allohning Rasuli deb guvohlik beraman.\n"
 msgid ""
 "Ma'nosi:\n"
-"Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi bo'lsin. Bizlarga va Allohning solih bandalariga salom bo'lsin. Allohdan o'zga iloh yo'q deb guvohlik beraman va albatta, Muhammad Allohning Rasuli deb guvohlik beraman.\n"
+"Barokatli tabriklar va pokiza salavotlar Аlloh uchundir. Ey Nabiy! Senga salom, Аllohning rahmati va barakasi boʼlsin. Bizlarga va Аllohning solih bandalariga salom boʼlsin. Аllohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Аllohning Rasuli deb guvohlik beraman.\n"
 msgstr ""
 "Значение:\n"
 "Приветствия Аллаху, молитвы и добрые дела. Мир тебе, о Пророк, милость Аллаха и Его благословение. Мир нам и истинным слугам Аллаха. Свидетельствую, что нет никого, достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад – Его раб и Его Посланник.\n"
@@ -1079,15 +1197,21 @@ msgid "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ"
 msgstr ""
 
 #: tformdetails.labeltasmepr.caption
+#, fuzzy
+#| msgid "Sami'allohu liman hamidah."
 msgctxt "tformdetails.labeltasmepr.caption"
-msgid "Sami'allohu liman hamidah."
+msgid "Samiʼallohu liman hamidah."
 msgstr "Сами'аллаху лиман хамидах."
 
 #: tformdetails.labeltasmetr.caption
+#, fuzzy
+#| msgid ""
+#| "Ma'nosi:\n"
+#| "Alloh O'ziga hamd aytgan kishini eshitadi.\n"
 msgctxt "tformdetails.labeltasmetr.caption"
 msgid ""
 "Ma'nosi:\n"
-"Alloh O'ziga hamd aytgan kishini eshitadi.\n"
+"Kim hamd aytsa, Аlloh uni eshitadi.\n"
 msgstr ""
 "Значение:\n"
 "Аллах слышит того, кто Его восхваляет.\n"
@@ -1098,7 +1222,9 @@ msgid "لاَ اِلَهَ اِلاَّ اللهُ وَحْدَهُ لاَ شَ�
 msgstr ""
 
 #: tformdetails.labeltavhidpr.caption
-msgid "La ilaha illallohu vahdahu la sharika lahu, lahul mulku va lahul hamdu va huva 'ala kulli shay'in qodir."
+#, fuzzy
+#| msgid "La ilaha illallohu vahdahu la sharika lahu, lahul mulku va lahul hamdu va huva 'ala kulli shay'in qodir."
+msgid "Laa ilaaha illallohu vahdahu laa sharika lahu, lahul mulku valahul hamdu va huva ʼalaa kulli shayʼin qodir."
 msgstr "Ла илаха иллаллаху вахдаху ла шарика лаху, лаху л-мулку ва Лаху л-хамду ва хува 'ала кули шай'ин кадир."
 
 #: tformdetails.labeltavhidtr.caption
@@ -1583,7 +1709,9 @@ msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.labelasr.caption
-msgid "Asr namozining vaqti – har bir narsaning soyasi o'ziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Asr namozini quyosh tig'ini o'zgartirmay, nursiz holatga kirishidan oldinroq o'qish mustahabdir."
+#, fuzzy
+#| msgid "Asr namozining vaqti – har bir narsaning soyasi o'ziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Asr namozini quyosh tig'ini o'zgartirmay, nursiz holatga kirishidan oldinroq o'qish mustahabdir."
+msgid "Аsr namozining vaqti – har bir narsaning soyasi quyosh tikkaga kelgan paytdagi soyasidan tashqari oʼziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Аsr namozini quyosh tigʼini oʼzgartirmay, nursiz holatga kirishidan oldinroq oʼqish mustahabdir."
 msgstr "Аср – послеобеденный намаз. Время его совершения начинается сразу после окончания времени намаза зухр и продолжается до захода солнца за горизонт. Лучше всего этот намаз выполнять не сразу, а чуть попозже, но и не следует откладывать до того момента, пока солнце станет красноватого или рыжего цвета и глаза смогут безболезненно смотреть на него. Совершение намаза аср после этого момента (обычно солнце становится таким за 20-30 минут до заката) будет грехом, однако намаз совершить нужно все равно."
 
 #: tformmain.labelaziym1a4f.caption
@@ -1957,7 +2085,9 @@ msgid "Basmala («Bismillah...») o'qiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.labelbomdod.caption
-msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda o'qish mustahab, a'loroqdir. Soat bo'yicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari o'qish mustahab vaqtiga muvofiq bo'ladi."
+#, fuzzy
+#| msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda o'qish mustahab, a'loroqdir. Soat bo'yicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari o'qish mustahab vaqtiga muvofiq bo'ladi."
+msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda oʼqish mustahab, aʼloroqdir. Soat boʼyicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari oʼqish mustahab vaqtiga muvofiq boʼladi."
 msgstr "Фаджр – утренний намаз. Время его совершения начинается с наступлением рассвета (при первых признаках белизны, появившейся вдоль горизонта) и заканчивается за несколько мгновений до восхода солнца. Наилучшее время совершения утреннего намаза: ближе к концу его времени, когда становятся видны контуры предметов. Смысл выбора такого времени в том, чтобы собрать как можно больше людей для совершения коллективного намаза в мечети. Однако не следует чрезмерно его откладывать, чтобы не выйти за пределы установленного временного промежутка."
 
 #: tformmain.labelduoa4f.caption
@@ -2688,7 +2818,9 @@ msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, 
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза иша искренне ради Аллаха»."
 
 #: tformmain.labelpeshin.caption
-msgid "Peshin namozining vaqti – quyosh zavolga (og'ishga) ketganidan so'ng to narsalarning soyasi o'z uzunligiga nisbatan ikki baravar ortguniga qadar. Peshin namozini yoz faslida bir oz kechiktirib, qish faslida esa vaqti kirishi bilan o'qish mustahabdir."
+#, fuzzy
+#| msgid "Peshin namozining vaqti – quyosh zavolga (og'ishga) ketganidan so'ng to narsalarning soyasi o'z uzunligiga nisbatan ikki baravar ortguniga qadar. Peshin namozini yoz faslida bir oz kechiktirib, qish faslida esa vaqti kirishi bilan o'qish mustahabdir."
+msgid "Peshin namozining vaqti – quyosh zavolga (ogʼishga) ketganidan soʼng to narsalarning soyasi quyosh tikkaga kelgan paytdagi soyasidan tashqari oʼz uzunligiga nisbatan ikki baravar ortguniga qadar. Peshin namozini yoz faslida biroz kechiktirib, qish faslida esa vaqti kirishi bilan oʼqish mustahabdir."
 msgstr "Зухр – обеденный намаз. Время его выполнения начинается при отклонении солнца от зенита и заканчивается тогда, когда тень какого-либо предмета становится в два раза больше его длины (помимо длины тени, который предмет отбрасывает во время зенита). С этого времени наступает период совершения намаза аср. Оптимальное время совершения намаза зухр зависит от времени года. Зимой (а также весной и осенью) лучше всего совершать его ближе к началу его времени. Летом же желательно отложить его совершение на более позднее время: в самом начале его времени обычно дневная жара достигает своего пика. Мусульманам будет легче собраться в мечети для совершения намаза зухр коллективно, когда жара начнет немного спадать."
 
 #: tformmain.labelqunut.caption
@@ -2916,7 +3048,9 @@ msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallo
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.labelshom.caption
-msgid "Shom namozining vaqti – kun botgan paytdan boshlab kun botar tomonda shafaq (qizg'ish nurlar) g'oyib bo'lgunchadir. Shom namozini doimo quyosh botishi bilan o'qish mustahabdir."
+#, fuzzy
+#| msgid "Shom namozining vaqti – kun botgan paytdan boshlab kun botar tomonda shafaq (qizg'ish nurlar) g'oyib bo'lgunchadir. Shom namozini doimo quyosh botishi bilan o'qish mustahabdir."
+msgid "Shom namozining vaqti – kun botgan paytdan boshlab kunbotar tomonda shafaq (qizgʼish nurlar) gʼoyib boʼlgunchadir. Shom namozini doimo quyosh botishi bilan oʼqish mustahabdir."
 msgstr "Магриб – вечерний намаз. Время его совершения начинается сразу после заката и заканчивается после исчезновения вечерней зари (красного зарева на горизонте). Оптимальное время выполнения вечернего намаза – сразу, как только возникнет уверенность в наступлении его периода (то есть как только не останется сомнений, что солнце зашло за горизонт). Желательно читать вечерний намаз сразу после азана, не совершая между азаном и икаматом никаких дополнительных намазов. Совершать магриб ближе к концу его периода – нежелательно (макрух танзихан)."
 
 #: tformmain.labeltaavvuza4f.caption
@@ -4134,7 +4268,9 @@ msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.labelxufton.caption
-msgid "Xufton namozining vaqti – shafaq batamom yo'qolgandan keyin kiradi. Vitr namozi vaqti esa xufton o'qilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha o'qisa bo'ladi. Xufton namozini kechaning uchdan biriga olib borib o'qish afzal va nihoyatda a'lo bo'ladi. Vitr namozini esa tun oxirida uyg'onishga qodir bo'lgan kishilar subh oldidan o'qisalar, mustahab amal qilgan bo'lishadi."
+#, fuzzy
+#| msgid "Xufton namozining vaqti – shafaq batamom yo'qolgandan keyin kiradi. Vitr namozi vaqti esa xufton o'qilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha o'qisa bo'ladi. Xufton namozini kechaning uchdan biriga olib borib o'qish afzal va nihoyatda a'lo bo'ladi. Vitr namozini esa tun oxirida uyg'onishga qodir bo'lgan kishilar subh oldidan o'qisalar, mustahab amal qilgan bo'lishadi."
+msgid "Xufton namozining vaqti – shafaq batamom yoʼqolgandan keyin kiradi. Vitr namozi vaqti esa xufton oʼqilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha oʼqisa boʼladi. Xufton namozini kechaning uchdan birining oxirida oʼqish afzal va nihoyatda aʼlo boʼladi. Vitr namozini esa tun oxirida uygʼonishga qodir boʼlgan kishilar subh oldidan oʼqisalar, mustahab amal qilgan boʼlishadi."
 msgstr "Иша – ночной намаз. Время его совершения начинается по окончании периода намаза магриб и продолжается до времени наступления утреннего намаза (фаджр). Наилучшее время выполнения ночного намаза – конец первой трети ночи."
 
 #: tformmain.menuitemabout.caption
