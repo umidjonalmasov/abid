@@ -453,10 +453,10 @@ object FormDetails: TFormDetails
     Height = 501
     Top = 0
     Width = 1036
-    ActivePage = TabSheetAzonBomdod
+    ActivePage = TabSheetTasbehot
     Align = alClient
     ShowTabs = False
-    TabIndex = 0
+    TabIndex = 23
     TabOrder = 1
     object TabSheetAzonBomdod: TTabSheet
       Caption = 'AzonBomdod'
@@ -712,8 +712,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelTakbirAr: TLabel
           Left = 10
@@ -766,8 +766,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelSanoAr: TLabel
           Left = 10
@@ -928,8 +928,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 148
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelFotihaAr: TLabel
           Left = 10
@@ -980,8 +980,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 84
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelKavsarAr: TLabel
           Left = 10
@@ -1032,8 +1032,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 100
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelIxlosAr: TLabel
           Left = 10
@@ -1084,8 +1084,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 116
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelFalaqAr: TLabel
           Left = 10
@@ -1131,13 +1131,13 @@ object FormDetails: TFormDetails
         Left = 0
         Height = 495
         Top = 0
-        Width = 960
+        Width = 1030
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 132
         Align = alClient
         ClientHeight = 493
-        ClientWidth = 958
+        ClientWidth = 1028
         TabOrder = 0
         object LabelNasAr: TLabel
           Left = 10
@@ -1158,7 +1158,7 @@ object FormDetails: TFormDetails
           Width = 418
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Аyt: «Odamlar Robbidan panoh soʼrayman.'#10'Odamlar Podshohidan.'#10'Odamlar Ilohidan.'#10'Berkinib, koʼrinib turuvchi vasvasachining.'#10'Odamlarning koʼkslariga vasvasa soladiganning.'#10'Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».'
+          Caption = 'Ma''nosi:'#10'Аyt: «Odamlar Robbisidan panoh soʼrayman.'#10'Odamlar Podshohidan.'#10'Odamlar Ilohidan.'#10'Berkinib, koʼrinib turuvchi vasvasachining.'#10'Odamlarning koʼkslariga vasvasa soladiganning.'#10'Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».'
           ParentColor = False
           WordWrap = True
         end
@@ -1188,8 +1188,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelAziymAr: TLabel
           Left = 10
@@ -1242,8 +1242,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelTasmeAr: TLabel
           Left = 10
@@ -1296,8 +1296,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelHamdAr: TLabel
           Left = 10
@@ -1350,8 +1350,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelAlaAr: TLabel
           Left = 10
@@ -1404,8 +1404,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 152
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelTashahhudAr: TLabel
           Left = 10
@@ -1456,8 +1456,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 168
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelSalavotAr: TLabel
           Left = 10
@@ -1508,8 +1508,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 1028
+        ClientHeight = 491
+        ClientWidth = 1026
         TabOrder = 0
         object LabelRobbanaAr: TLabel
           Left = 10
@@ -1562,8 +1562,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 958
+        ClientHeight = 491
+        ClientWidth = 956
         TabOrder = 0
         object LabelSalomAr: TLabel
           Left = 10
@@ -1616,8 +1616,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 392
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 1028
+        ClientHeight = 491
+        ClientWidth = 1026
         TabOrder = 0
         object LabelQunutAr: TLabel
           Left = 10
@@ -1668,8 +1668,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 1028
+        ClientHeight = 491
+        ClientWidth = 1026
         TabOrder = 0
         object LabelDuoFAr: TLabel
           Left = 10
@@ -1880,7 +1880,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Laa ilaaha illallohu vahdahu laa sharika lahul mulku valahul hamdu va huva ʼalaa kulli shayʼin qodir.'
+          Caption = 'Laa ilaaha illallohu vahdahu laa sharika lahu, lahul mulku valahul hamdu va huva ʼalaa kulli shayʼin qodir.'
           ParentColor = False
           WordWrap = True
         end
@@ -1911,8 +1911,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 180
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 1028
+        ClientHeight = 491
+        ClientWidth = 1026
         TabOrder = 0
         object LabelKursiAr: TLabel
           Left = 10
@@ -1963,8 +1963,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 493
-        ClientWidth = 1028
+        ClientHeight = 491
+        ClientWidth = 1026
         TabOrder = 0
         object LabelDuoAr: TLabel
           Left = 10
