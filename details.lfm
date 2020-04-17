@@ -1,26 +1,27 @@
 object FormDetails: TFormDetails
-  Left = 328
+  Left = 448
   Height = 537
-  Top = 126
-  Width = 1036
+  Top = 113
+  Width = 796
   AutoSize = True
   ClientHeight = 537
-  ClientWidth = 1036
+  ClientWidth = 796
   OnActivate = FormActivate
   OnClose = FormClose
   Position = poMainFormCenter
   SessionProperties = 'PageControlMain.Font'
+  ShowInTaskBar = stNever
   LCLVersion = '2.0.6.0'
   object PanelBottom: TPanel
     Left = 0
     Height = 36
     Top = 501
-    Width = 1036
+    Width = 796
     Align = alBottom
     AutoSize = True
     BevelOuter = bvNone
     ClientHeight = 36
-    ClientWidth = 1036
+    ClientWidth = 796
     TabOrder = 0
     object ButtonPlay: TSpeedButton
       Left = 0
@@ -29,6 +30,7 @@ object FormDetails: TFormDetails
       Width = 36
       Align = alLeft
       AutoSize = True
+      Enabled = False
       Glyph.Data = {
         36100000424D3610000000000000360000002800000020000000200000000100
         2000000000000010000064000000640000000000000000000000000000000000
@@ -452,7 +454,7 @@ object FormDetails: TFormDetails
     Left = 0
     Height = 501
     Top = 0
-    Width = 1036
+    Width = 796
     ActivePage = TabSheetAzonBomdod
     Align = alClient
     ShowTabs = False
@@ -461,24 +463,24 @@ object FormDetails: TFormDetails
     object TabSheetAzonBomdod: TTabSheet
       Caption = 'AzonBomdod'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxAzonBomdod: TScrollBox
         Left = 0
         Height = 495
         Top = 0
-        Width = 1030
+        Width = 790
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 382
+        VertScrollBar.Page = 414
         Align = alClient
         ClientHeight = 493
-        ClientWidth = 1028
+        ClientWidth = 788
         TabOrder = 0
         object LabelAzonBomdodDesc: TLabel
           Left = 10
-          Height = 112
+          Height = 144
           Top = 10
-          Width = 1008
+          Width = 768
           Align = alTop
           BorderSpacing.Around = 10
           Caption = 'Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta''kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo''lning ko''rsatkich barmoqlarini quloq ichiga qo''yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya ''las-solah» kalimasida boshini o''ng tarafga, «Hayya ''alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so''zlashdan to''xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya ''alas-solah», deganida «Laa havla va laa quvvata illaa billahil ''aliyyil-a''ziym», deydi, «Hayya ''alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha'' lam yakun», deydi. Safarda va jome'' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi.'
@@ -487,8 +489,8 @@ object FormDetails: TFormDetails
         end
         object LabelAzonBomdodAr: TLabel
           Left = 10
-          Height = 351
-          Top = 132
+          Height = 319
+          Top = 164
           Width = 150
           Align = alLeft
           Alignment = taRightJustify
@@ -499,8 +501,8 @@ object FormDetails: TFormDetails
         end
         object LabelAzonBomdodTr: TLabel
           Left = 427
-          Height = 351
-          Top = 132
+          Height = 319
+          Top = 164
           Width = 354
           Align = alLeft
           BorderSpacing.Around = 10
@@ -510,8 +512,8 @@ object FormDetails: TFormDetails
         end
         object LabelAzonBomdodPr: TLabel
           Left = 170
-          Height = 351
-          Top = 132
+          Height = 319
+          Top = 164
           Width = 247
           Align = alLeft
           BorderSpacing.Around = 10
@@ -524,7 +526,7 @@ object FormDetails: TFormDetails
     object TabSheetAzon: TTabSheet
       Caption = 'Azon'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxAzon: TScrollBox
         Left = 0
         Height = 457
@@ -587,7 +589,7 @@ object FormDetails: TFormDetails
     object TabSheetAzonDuo: TTabSheet
       Caption = 'AzonDuo'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxAzonDuo: TScrollBox
         Left = 0
         Height = 457
@@ -639,7 +641,7 @@ object FormDetails: TFormDetails
     object TabSheetIqomat: TTabSheet
       Caption = 'Iqomat'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxIqomat: TScrollBox
         Left = 0
         Height = 457
@@ -702,7 +704,7 @@ object FormDetails: TFormDetails
     object TabSheetTakbir: TTabSheet
       Caption = 'Takbir'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxTakbir: TScrollBox
         Left = 0
         Height = 495
@@ -756,7 +758,7 @@ object FormDetails: TFormDetails
     object TabSheetSano: TTabSheet
       Caption = 'Sano'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxSano: TScrollBox
         Left = 0
         Height = 495
@@ -810,7 +812,7 @@ object FormDetails: TFormDetails
     object TabSheetTaavvuz: TTabSheet
       Caption = 'Taavvuz'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxTaavvuz: TScrollBox
         Left = 0
         Height = 497
@@ -864,7 +866,7 @@ object FormDetails: TFormDetails
     object TabSheetBasmala: TTabSheet
       Caption = 'Basmala'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxBasmala: TScrollBox
         Left = 0
         Height = 497
@@ -918,7 +920,7 @@ object FormDetails: TFormDetails
     object TabSheetFotiha: TTabSheet
       Caption = 'Fotiha'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxFotiha: TScrollBox
         Left = 0
         Height = 495
@@ -970,7 +972,7 @@ object FormDetails: TFormDetails
     object TabSheetKavsar: TTabSheet
       Caption = 'Kavsar'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxKavsar: TScrollBox
         Left = 0
         Height = 495
@@ -1022,7 +1024,7 @@ object FormDetails: TFormDetails
     object TabSheetIxlos: TTabSheet
       Caption = 'Ixlos'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxIxlos: TScrollBox
         Left = 0
         Height = 495
@@ -1074,7 +1076,7 @@ object FormDetails: TFormDetails
     object TabSheetFalaq: TTabSheet
       Caption = 'Falaq'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxFalaq: TScrollBox
         Left = 0
         Height = 495
@@ -1126,7 +1128,7 @@ object FormDetails: TFormDetails
     object TabSheetNas: TTabSheet
       Caption = 'Nas'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxNas: TScrollBox
         Left = 0
         Height = 495
@@ -1178,7 +1180,7 @@ object FormDetails: TFormDetails
     object TabSheetAziym: TTabSheet
       Caption = 'Aziym'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxAziym: TScrollBox
         Left = 0
         Height = 495
@@ -1232,7 +1234,7 @@ object FormDetails: TFormDetails
     object TabSheetTasme: TTabSheet
       Caption = 'Tasme'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxTasme: TScrollBox
         Left = 0
         Height = 495
@@ -1286,7 +1288,7 @@ object FormDetails: TFormDetails
     object TabSheetHamd: TTabSheet
       Caption = 'Hamd'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxHamd: TScrollBox
         Left = 0
         Height = 495
@@ -1340,7 +1342,7 @@ object FormDetails: TFormDetails
     object TabSheetAla: TTabSheet
       Caption = 'Ala'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxAla: TScrollBox
         Left = 0
         Height = 495
@@ -1394,7 +1396,7 @@ object FormDetails: TFormDetails
     object TabSheetTashahhud: TTabSheet
       Caption = 'Tashahhud'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxTashahhud: TScrollBox
         Left = 0
         Height = 495
@@ -1446,7 +1448,7 @@ object FormDetails: TFormDetails
     object TabSheetSalavot: TTabSheet
       Caption = 'Salavot'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxSalavot: TScrollBox
         Left = 0
         Height = 495
@@ -1498,7 +1500,7 @@ object FormDetails: TFormDetails
     object TabSheetRobbana: TTabSheet
       Caption = 'Robbana'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxRobbana: TScrollBox
         Left = 0
         Height = 495
@@ -1552,7 +1554,7 @@ object FormDetails: TFormDetails
     object TabSheetSalom: TTabSheet
       Caption = 'Salom'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxSalom: TScrollBox
         Left = 0
         Height = 495
@@ -1606,7 +1608,7 @@ object FormDetails: TFormDetails
     object TabSheetQunut: TTabSheet
       Caption = 'Qunut'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxQunut: TScrollBox
         Left = 0
         Height = 495
@@ -1658,7 +1660,7 @@ object FormDetails: TFormDetails
     object TabSheetDuoF: TTabSheet
       Caption = 'Duo Farz'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxDuoF: TScrollBox
         Left = 0
         Height = 495
@@ -1712,7 +1714,7 @@ object FormDetails: TFormDetails
     object TabSheetTasbehot: TTabSheet
       Caption = 'Tasbehot'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxTasbehot: TScrollBox
         Left = 0
         Height = 495
@@ -1901,7 +1903,7 @@ object FormDetails: TFormDetails
     object TabSheetKursi: TTabSheet
       Caption = 'Kursi'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxKursi: TScrollBox
         Left = 0
         Height = 495
@@ -1953,7 +1955,7 @@ object FormDetails: TFormDetails
     object TabSheetDuo: TTabSheet
       Caption = 'Duo'
       ClientHeight = 495
-      ClientWidth = 1030
+      ClientWidth = 790
       object ScrollBoxDuo: TScrollBox
         Left = 0
         Height = 495

@@ -12,6 +12,7 @@ object FormAbout: TFormAbout
   Constraints.MinWidth = 525
   OnClose = FormClose
   Position = poMainFormCenter
+  ShowInTaskBar = stNever
   LCLVersion = '2.0.6.0'
   object PageControl: TPageControl
     Left = 0
