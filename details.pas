@@ -203,6 +203,8 @@ type
 
 var
   FormDetails: TFormDetails;
+  i: boolean=true;
+  j: boolean=true;
 
 implementation
 
@@ -251,9 +253,13 @@ var
 begin
   if (HIWORD(BASS_GetVersion) <> BASSVERSION) then
     begin
-      v := VersionError + #13#10 + NoSound;
-      MessageBox(Handle,PChar(v),nil,MB_ICONERROR);
+     if (i <> false) then
+       begin
+        v:=VersionError + #13#10 + NoSound;
+        MessageBox(Handle,PChar(v),nil,MB_ICONERROR);
+       end;
       ButtonPlay.Enabled:=false;
+      i:=false;
     end
   else
   {$IFDEF MSWINDOWS}
@@ -263,9 +269,13 @@ begin
   {$ENDIF}
   then
     begin
-      s := SoundError + #13#10 + ErrorCode + IntToStr(BASS_ErrorGetCode) + ')' + #13#10 + NoSound;
-      MessageBox(Handle, PChar(s), nil,MB_ICONERROR);
+     if (j <> false) then
+       begin
+        s:=SoundError + #13#10 + ErrorCode + IntToStr(BASS_ErrorGetCode) + ')' + #13#10 + NoSound;
+        MessageBox(Handle, PChar(s), nil,MB_ICONERROR);
+       end;
       ButtonPlay.Enabled:=false;
+      j:=false;
     end
   else
     case PageControlMain.ActivePageIndex of
