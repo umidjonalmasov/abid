@@ -20,6 +20,10 @@ msgstr "Абид"
 msgid "(Xato kodi: "
 msgstr "(Код ошибки: "
 
+#: details.nosound
+msgid "Dastur oʼz ishini ovozsiz davom etadi."
+msgstr "Программа продолжит свою работу без звука."
+
 #: details.sounderror
 msgid "Ovoz initsializatsiya xatosi!"
 msgstr "Ошибка инициализации звука!"

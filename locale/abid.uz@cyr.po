@@ -20,6 +20,10 @@ msgstr "Абид"
 msgid "(Xato kodi: "
 msgstr "(Хато коди: "
 
+#: details.nosound
+msgid "Dastur oʼz ishini ovozsiz davom etadi."
+msgstr "Дастур ўз ишини овозсиз давом этади."
+
 #: details.sounderror
 msgid "Ovoz initsializatsiya xatosi!"
 msgstr "Овоз инициализация хатоси!"
