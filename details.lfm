@@ -484,7 +484,7 @@ object FormDetails: TFormDetails
           Width = 768
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta''kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo''lning ko''rsatkich barmoqlarini quloq ichiga qo''yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya ''las-solah» kalimasida boshini o''ng tarafga, «Hayya ''alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so''zlashdan to''xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya ''alas-solah», deganida «Laa havla va laa quvvata illaa billahil ''aliyyil-a''ziym», deydi, «Hayya ''alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha'' lam yakun», deydi. Safarda va jome'' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi.'
+          Caption = 'Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish taʼkidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qoʼlning koʼrsatkich barmoqlarini quloq ichiga qoʼyib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya ʼlas-solah» kalimasida boshini oʼng tarafga, «Hayya ʼalal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, soʼzlashdan toʼxtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya ʼalas-solah», deganida «Laa havla va laa quvvata illaa billahil ʼaliyyil-aʼziym», deydi, «Hayya ʼalal falah», deganida esa «Maa sha Allohu kaana vama alam yashaʼ lam yakun», deydi. Safarda va jomeʼ masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi.'
           ParentColor = False
           WordWrap = True
         end
@@ -507,7 +507,7 @@ object FormDetails: TFormDetails
           Width = 354
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Alloh ulug''dir Alloh ulug''dir'#10'Alloh ulug''dir Alloh ulug''dir'#10'Guvohlik beramanki, Allohdan boshqa iloh yo''q'#10'Guvohlik beramanki, Allohdan boshqa iloh yo''q'#10'Guvohlik beramanki, Muhammad Allohning payg''ambaridir'#10'Guvohlik beramanki, Muhammad Allohning payg''ambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz uyqudan afzal'#10'Namoz uyqudan afzal'#10'Alloh ulug''dir Alloh ulug''dir'#10'Allohdan o''zga iloh yo''q'''
+          Caption = 'Maʼnosi:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz uyqudan afzal'#10'Namoz uyqudan afzal'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼqʼ'
           ParentColor = False
           WordWrap = True
         end
@@ -518,7 +518,7 @@ object FormDetails: TFormDetails
           Width = 247
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ''las-solaah'#10'Hayya ''las-solaah'#10'Hayya ''alal-falaah'#10'Hayya ''alal-falaah'#10'As-solatu xoyrum minan-navm'#10'As-solatu xoyrum minan-navm'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
+          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ʼlas-solaah'#10'Hayya ʼlas-solaah'#10'Hayya ʼalal-falaah'#10'Hayya ʼalal-falaah'#10'As-solatu xoyrum minan-navm'#10'As-solatu xoyrum minan-navm'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
           ParentColor = False
           WordWrap = True
         end
@@ -547,7 +547,7 @@ object FormDetails: TFormDetails
           Width = 934
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta''kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo''lning ko''rsatkich barmoqlarini quloq ichiga qo''yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya ''las-solah» kalimasida boshini o''ng tarafga, «Hayya ''alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so''zlashdan to''xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya ''alas-solah», deganida «Laa havla va laa quvvata illaa billahil ''aliyyil-a''ziym», deydi, «Hayya ''alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha'' lam yakun», deydi. Safarda va jome'' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi.'
+          Caption = 'Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish taʼkidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qoʼlning koʼrsatkich barmoqlarini quloq ichiga qoʼyib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya ʼlas-solah» kalimasida boshini oʼng tarafga, «Hayya ʼalal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, soʼzlashdan toʼxtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya ʼalas-solah», deganida «Laa havla va laa quvvata illaa billahil ʼaliyyil-aʼziym», deydi, «Hayya ʼalal falah», deganida esa «Maa sha Allohu kaana vama alam yashaʼ lam yakun», deydi. Safarda va jomeʼ masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi.'
           ParentColor = False
           WordWrap = True
         end
@@ -570,7 +570,7 @@ object FormDetails: TFormDetails
           Width = 354
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Alloh ulug''dir Alloh ulug''dir'#10'Alloh ulug''dir Alloh ulug''dir'#10'Guvohlik beramanki, Allohdan boshqa iloh yo''q'#10'Guvohlik beramanki, Allohdan boshqa iloh yo''q'#10'Guvohlik beramanki, Muhammad Allohning payg''ambaridir'#10'Guvohlik beramanki, Muhammad Allohning payg''ambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Alloh ulug''dir Alloh ulug''dir'#10'Allohdan o''zga iloh yo''q'
+          Caption = 'Maʼnosi:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼq'
           ParentColor = False
           WordWrap = True
         end
@@ -581,7 +581,7 @@ object FormDetails: TFormDetails
           Width = 247
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ''las-solaah'#10'Hayya ''las-solaah'#10'Hayya ''alal-falaah'#10'Hayya ''alal-falaah'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
+          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ʼlas-solaah'#10'Hayya ʼlas-solaah'#10'Hayya ʼalal-falaah'#10'Hayya ʼalal-falaah'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
           ParentColor = False
           WordWrap = True
         end
@@ -622,7 +622,7 @@ object FormDetails: TFormDetails
           Width = 934
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Allohumma! Robba hazihid-da''vatit tammah. Vassolatil qoimah, ati Muhammadanil vasiylata val faziylah. Vab''ashu maqomam mahmudanillaziy va''adtah. Varzuqna shafa''atahu yavmal qiyomah. Innaka laa tuxliful miy''ad.'
+          Caption = 'Allohumma! Robba hazihid-daʼvatit tammah. Vassolatil qoimah, ati Muhammadanil vasiylata val faziylah. Vabʼashu maqomam mahmudanillaziy vaʼadtah. Varzuqna shafaʼatahu yavmal qiyomah. Innaka laa tuxliful miyʼad.'
           ParentColor = False
           WordWrap = True
         end
@@ -633,7 +633,7 @@ object FormDetails: TFormDetails
           Width = 934
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Ey ushbu mukammal duo va hamda abadiy salavot Parvardigori. Muhammad alayhissalomning martabalarini ulug'' qilib, ne''matlaringni unga bisyor qilgaysan, ul zotga O''zing va''da qilgan makomi mahmudni (jannatdagi o''rinni) ato etgaysan. Qiyomatda bizga uning shafoatini nasib etgaysan. Sen zinhor va''daga xilof qilmaysan.'
+          Caption = 'Maʼnosi:'#10'Ey ushbu mukammal duo va hamda abadiy salavot Parvardigori. Muhammad alayhissalomning martabalarini ulugʼ qilib, neʼmatlaringni unga bisyor qilgaysan, ul zotga Oʼzing vaʼda qilgan makomi mahmudni (jannatdagi oʼrinni) ato etgaysan. Qiyomatda bizga uning shafoatini nasib etgaysan. Sen zinhor vaʼdaga xilof qilmaysan.'
           ParentColor = False
           WordWrap = True
         end
@@ -662,7 +662,7 @@ object FormDetails: TFormDetails
           Width = 934
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Kundalik besh vaqt namoz va juma namozlari uchun iqomat aytish ta''kidlangan sunnatdir. Safarda va jome'' masjidlarida iqomatni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub kishining iqomat aytishi makruhdir. Iqomat farz namozlari oldidan aytiladi. Qazo namozlari uchun iqomat aytiladi. Hayit namozlari hamda janoza namoziga iqomat aytilmaydi.'
+          Caption = 'Kundalik besh vaqt namoz va juma namozlari uchun iqomat aytish taʼkidlangan sunnatdir. Safarda va jomeʼ masjidlarida iqomatni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub kishining iqomat aytishi makruhdir. Iqomat farz namozlari oldidan aytiladi. Qazo namozlari uchun iqomat aytiladi. Hayit namozlari hamda janoza namoziga iqomat aytilmaydi.'
           ParentColor = False
           WordWrap = True
         end
@@ -685,7 +685,7 @@ object FormDetails: TFormDetails
           Width = 354
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Alloh ulug''dir Alloh ulug''dir'#10'Alloh ulug''dir Alloh ulug''dir'#10'Guvohlik beramanki, Allohdan boshqa iloh yo''q'#10'Guvohlik beramanki, Allohdan boshqa iloh yo''q'#10'Guvohlik beramanki, Muhammad Allohning payg''ambaridir'#10'Guvohlik beramanki, Muhammad Allohning payg''ambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz boshlanib qoldi Namoz boshlanib qoldi'#10'Alloh ulug''dir Alloh ulug''dir'#10'Allohdan o''zga iloh yo''q'
+          Caption = 'Maʼnosi:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz boshlanib qoldi Namoz boshlanib qoldi'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼq'
           ParentColor = False
           WordWrap = True
         end
@@ -696,7 +696,7 @@ object FormDetails: TFormDetails
           Width = 247
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ''las-solaah'#10'Hayya ''las-solaah'#10'Hayya ''alal-falaah'#10'Hayya ''alal-falaah'#10'Qod qomatis-solah Qod qomatis-solah'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
+          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ʼlas-solaah'#10'Hayya ʼlas-solaah'#10'Hayya ʼalal-falaah'#10'Hayya ʼalal-falaah'#10'Qod qomatis-solah Qod qomatis-solah'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
           ParentColor = False
           WordWrap = True
         end
@@ -750,7 +750,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Alloh buyukdir.'
+          Caption = 'Maʼnosi:'#10'Alloh buyukdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -804,7 +804,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.'
+          Caption = 'Maʼnosi:'#10'Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -858,7 +858,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Quvilgan shayton yomonligidan Allohning panohini soʼrayman.'
+          Caption = 'Maʼnosi:'#10'Quvilgan shayton yomonligidan Allohning panohini soʼrayman.'
           ParentColor = False
           WordWrap = True
         end
@@ -912,7 +912,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Mehribon va rahmli Alloh nomi bilan (boshlayman).'
+          Caption = 'Maʼnosi:'#10'Mehribon va rahmli Alloh nomi bilan (boshlayman).'
           ParentColor = False
           WordWrap = True
         end
@@ -953,7 +953,7 @@ object FormDetails: TFormDetails
           Width = 425
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Hamd olamlarning Robbi – Allohgadir.'#10'U Rohman va Rohiymdir.'#10'Jazo-mukofot kunining egasidir.'#10'Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.'#10'Bizni toʼgʼri yoʼlga hidoyat qilgin.'#10'Oʼzing neʼmat berganlarning yoʼliga'#10'Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.'
+          Caption = 'Maʼnosi:'#10'Hamd olamlarning Robbi – Allohgadir.'#10'U Rohman va Rohiymdir.'#10'Jazo-mukofot kunining egasidir.'#10'Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.'#10'Bizni toʼgʼri yoʼlga hidoyat qilgin.'#10'Oʼzing neʼmat berganlarning yoʼliga'#10'Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.'
           ParentColor = False
           WordWrap = True
         end
@@ -1005,7 +1005,7 @@ object FormDetails: TFormDetails
           Width = 375
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Albatta, Biz senga Kavsarni berdik.'#10'Bas, Robbingga namoz oʼqi va jonliq soʼy.'#10'Albatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.'
+          Caption = 'Maʼnosi:'#10'Albatta, Biz senga Kavsarni berdik.'#10'Bas, Robbingga namoz oʼqi va jonliq soʼy.'#10'Albatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.'
           ParentColor = False
           WordWrap = True
         end
@@ -1057,7 +1057,7 @@ object FormDetails: TFormDetails
           Width = 217
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Ayt: «U Alloh yagonadir.'#10'Alloh – somaddir.'#10'U tugʼmagan va tugʼilmagan'#10'Va Unga hech kim teng boʼlmagan».'
+          Caption = 'Maʼnosi:'#10'Ayt: «U Alloh yagonadir.'#10'Alloh – somaddir.'#10'U tugʼmagan va tugʼilmagan'#10'Va Unga hech kim teng boʼlmagan».'
           ParentColor = False
           WordWrap = True
         end
@@ -1109,7 +1109,7 @@ object FormDetails: TFormDetails
           Width = 326
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'«Tong Robbisidan panoh soʼrayman.'#10'U yaratgan narsalar yomonligidan.'#10'Va kirib kelgan qorongʼu kechaning yomonligidan.'#10'Va tugunlarga dam soluvchilar yomonligidan.'#10'Va hasad qilgan hasadchining yomonligidan», deb ayt.'
+          Caption = 'Maʼnosi:'#10'«Tong Robbisidan panoh soʼrayman.'#10'U yaratgan narsalar yomonligidan.'#10'Va kirib kelgan qorongʼu kechaning yomonligidan.'#10'Va tugunlarga dam soluvchilar yomonligidan.'#10'Va hasad qilgan hasadchining yomonligidan», deb ayt.'
           ParentColor = False
           WordWrap = True
         end
@@ -1161,7 +1161,7 @@ object FormDetails: TFormDetails
           Width = 418
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Ayt: «Odamlar Robbisidan panoh soʼrayman.'#10'Odamlar Podshohidan.'#10'Odamlar Ilohidan.'#10'Berkinib, koʼrinib turuvchi vasvasachining.'#10'Odamlarning koʼkslariga vasvasa soladiganning.'#10'Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».'
+          Caption = 'Maʼnosi:'#10'Ayt: «Odamlar Robbisidan panoh soʼrayman.'#10'Odamlar Podshohidan.'#10'Odamlar Ilohidan.'#10'Berkinib, koʼrinib turuvchi vasvasachining.'#10'Odamlarning koʼkslariga vasvasa soladiganning.'#10'Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».'
           ParentColor = False
           WordWrap = True
         end
@@ -1226,7 +1226,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Ulugʼ Robbim nuqsonlardan pokdir.'
+          Caption = 'Maʼnosi:'#10'Ulugʼ Robbim nuqsonlardan pokdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -1280,7 +1280,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Kim hamd aytsa, Alloh uni eshitadi.'
+          Caption = 'Maʼnosi:'#10'Kim hamd aytsa, Alloh uni eshitadi.'
           ParentColor = False
           WordWrap = True
         end
@@ -1334,7 +1334,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Robbimiz, Senga hamd boʼlsin.'
+          Caption = 'Maʼnosi:'#10'Robbimiz, Senga hamd boʼlsin.'
           ParentColor = False
           WordWrap = True
         end
@@ -1388,7 +1388,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Oliy Robbim nuqsonlardan pokdir.'
+          Caption = 'Maʼnosi:'#10'Oliy Robbim nuqsonlardan pokdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -1440,7 +1440,7 @@ object FormDetails: TFormDetails
           Width = 938
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi boʼlsin. Bizlarga va Allohning solih bandalariga salom boʼlsin. Allohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Allohning Rasuli deb guvohlik beraman.'
+          Caption = 'Maʼnosi:'#10'Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi boʼlsin. Bizlarga va Allohning solih bandalariga salom boʼlsin. Allohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Allohning Rasuli deb guvohlik beraman.'
           ParentColor = False
           WordWrap = True
         end
@@ -1492,7 +1492,7 @@ object FormDetails: TFormDetails
           Width = 938
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan!'
+          Caption = 'Maʼnosi:'#10'Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan!'
           ParentColor = False
           WordWrap = True
         end
@@ -1546,7 +1546,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Robbimiz! Bizlarga dunyoda ham, oxiratda ham yaxshilik ber va do''zax azobidan asra.'
+          Caption = 'Maʼnosi:'#10'Robbimiz! Bizlarga dunyoda ham, oxiratda ham yaxshilik ber va doʼzax azobidan asra.'
           ParentColor = False
           WordWrap = True
         end
@@ -1600,7 +1600,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Sizga tinchlik-omonlik, Allohning rahmati boʼlsin.'
+          Caption = 'Maʼnosi:'#10'Sizga tinchlik-omonlik, Allohning rahmati boʼlsin.'
           ParentColor = False
           WordWrap = True
         end
@@ -1641,7 +1641,7 @@ object FormDetails: TFormDetails
           Width = 1008
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Allohumma! Innaa nasta''iynuka va nastag''firuk.'#10'Va nu''minu bika va natavakkalu ''alayka va nusniy ''alaykal xoyr.'#10'Nashkuruka va la nakfuruk.'#10'Va naxla''u va natruku man yafjuruk.'#10'Allohumma! Iyyaka na''budu va laka nusolliy va nasjudu,'#10'va ilayka nas''a va nahfidu, narju rohmataka va naxsha ''azabaka,'#10'inna ''azabaka bil kuffari mulhiq.'
+          Caption = 'Allohumma! Innaa nastaʼiynuka va nastagʼfiruk.'#10'Va nuʼminu bika va natavakkalu ʼalayka va nusniy ʼalaykal xoyr.'#10'Nashkuruka va la nakfuruk.'#10'Va naxlaʼu va natruku man yafjuruk.'#10'Allohumma! Iyyaka naʼbudu va laka nusolliy va nasjudu,'#10'va ilayka nasʼa va nahfidu, narju rohmataka va naxsha ʼazabaka,'#10'inna ʼazabaka bil kuffari mulhiq.'
           ParentColor = False
           WordWrap = True
         end
@@ -1652,7 +1652,7 @@ object FormDetails: TFormDetails
           Width = 1008
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Allohim! Albatta, Sendan yordam so''raymiz, Sendan hidoyat so''raymiz,'#10'Senga istig''for aytamiz va Senga tavba qilamiz.'#10'Senga iymon keltiramiz va Senga tavakkal qilamiz.'#10'Senga shukr qilamiz, kufr keltirmaymiz.'#10'Va kim Senga fojirlik qilsa, uni ajratamiz va tark qilamiz.'#10'Allohim! Sengagina ibodat qilamiz, Sengagina namoz o''qiymiz va sajda qilamiz,'#10'Sengagina intilamiz va shoshilamiz.'#10'Va Sening rahmatingni umid qilamiz va azobingdan qo''rqamiz.'#10'Albatta, azobing kofirlarga etguvchidir.'
+          Caption = 'Maʼnosi:'#10'Allohim! Albatta, Sendan yordam soʼraymiz, Sendan hidoyat soʼraymiz,'#10'Senga istigʼfor aytamiz va Senga tavba qilamiz.'#10'Senga iymon keltiramiz va Senga tavakkal qilamiz.'#10'Senga shukr qilamiz, kufr keltirmaymiz.'#10'Va kim Senga fojirlik qilsa, uni ajratamiz va tark qilamiz.'#10'Allohim! Sengagina ibodat qilamiz, Sengagina namoz oʼqiymiz va sajda qilamiz,'#10'Sengagina intilamiz va shoshilamiz.'#10'Va Sening rahmatingni umid qilamiz va azobingdan qoʼrqamiz.'#10'Albatta, azobing kofirlarga etguvchidir.'
           ParentColor = False
           WordWrap = True
         end
@@ -1706,7 +1706,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Allohim! Sen Salomsan, salomatlik Sendandir. Sen Tabarruksan, ey jalol va ikrom egasi.'
+          Caption = 'Maʼnosi:'#10'Allohim! Sen Salomsan, salomatlik Sendandir. Sen Tabarruksan, ey jalol va ikrom egasi.'
           ParentColor = False
           WordWrap = True
         end
@@ -1769,7 +1769,7 @@ object FormDetails: TFormDetails
             Align = alLeft
             BorderSpacing.Left = 10
             BorderSpacing.Right = 10
-            Caption = 'Ma''nosi:'#10'Allohni poklab zikr etaman.'
+            Caption = 'Maʼnosi:'#10'Allohni poklab zikr etaman.'
             ParentColor = False
           end
         end
@@ -1814,7 +1814,7 @@ object FormDetails: TFormDetails
             Align = alLeft
             BorderSpacing.Left = 10
             BorderSpacing.Right = 10
-            Caption = 'Ma''nosi:'#10'Maqtovlar Allohga xosdir.'
+            Caption = 'Maʼnosi:'#10'Maqtovlar Allohga xosdir.'
             ParentColor = False
           end
         end
@@ -1859,7 +1859,7 @@ object FormDetails: TFormDetails
             Align = alLeft
             BorderSpacing.Left = 10
             BorderSpacing.Right = 10
-            Caption = 'Ma''nosi:'#10'Alloh ulug''dir.'
+            Caption = 'Maʼnosi:'#10'Alloh ulugʼdir.'
             ParentColor = False
           end
         end
@@ -1895,7 +1895,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Allohdan o''zga iloh yo''q. U yagonadir, sherigi yo''q, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.'
+          Caption = 'Maʼnosi:'#10'Allohdan oʼzga iloh yoʼq. U yagonadir, sherigi yoʼq, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -1936,7 +1936,7 @@ object FormDetails: TFormDetails
           Width = 437
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Alloh – Undan o''zga iloh yo''q. U Hayy va Qayyumdir.'#10'Uni mudroq ham, uyqu ham olmas.'#10'Osmonlaru erdagi narsalar Unikidir.'#10'Uning huzurida O''zining iznisiz hech kim shafoat qila olmas.'#10'Ularning oldilaridagi narsani ham, ortlaridagi narsani ham bilur.'#10'Uning ilmidan O''zi xohlaganidan boshqa hech narsani ihota qila olmaslar.'#10'Uning Kursisi osmonlaru erni qamragan.'#10'Ularni muhofaza qilish unga og''ir kelmas.'#10'Va U Aliy va Aziymdir.'
+          Caption = 'Maʼnosi:'#10'Alloh – Undan oʼzga iloh yoʼq. U Hayy va Qayyumdir.'#10'Uni mudroq ham, uyqu ham olmas.'#10'Osmonlaru erdagi narsalar Unikidir.'#10'Uning huzurida Oʼzining iznisiz hech kim shafoat qila olmas.'#10'Ularning oldilaridagi narsani ham, ortlaridagi narsani ham bilur.'#10'Uning ilmidan Oʼzi xohlaganidan boshqa hech narsani ihota qila olmaslar.'#10'Uning Kursisi osmonlaru erni qamragan.'#10'Ularni muhofaza qilish unga ogʼir kelmas.'#10'Va U Aliy va Aziymdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -1989,7 +1989,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Subhanallohi val hamdulillahi va laa ilaaha illallohu vallohu akbar, valaa havla valaa quvvata illaa billahil ''aliyyil ''aziym.'
+          Caption = 'Subhanallohi val hamdulillahi va laa ilaaha illallohu vallohu akbar, valaa havla valaa quvvata illaa billahil ʼaliyyil ʼaziym.'
           ParentColor = False
           WordWrap = True
         end
@@ -2001,7 +2001,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Ma''nosi:'#10'Allohni poklab zikr etaman, maqtovlar Allohga xosdir. Allohdan o''zga iloh yo''qdir. Kuch-qudrat faqat ulug''lik va azamat sohibi Allohga xosdir.'
+          Caption = 'Maʼnosi:'#10'Allohni poklab zikr etaman, maqtovlar Allohga xosdir. Allohdan oʼzga iloh yoʼqdir. Kuch-qudrat faqat ulugʼlik va azamat sohibi Allohga xosdir.'
           ParentColor = False
           WordWrap = True
         end
