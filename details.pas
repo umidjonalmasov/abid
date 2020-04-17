@@ -196,7 +196,6 @@ type
     procedure TimerTimer(Sender: TObject);
   private
     str: HSTREAM;
-    //procedure Error(msg: string);
 
   public
 
@@ -269,7 +268,7 @@ begin
       ButtonPlay.Enabled:=false;
     end
   else
-  case PageControlMain.ActivePageIndex of
+    case PageControlMain.ActivePageIndex of
     0: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg') then
          begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg');
