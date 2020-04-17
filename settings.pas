@@ -24,7 +24,7 @@ interface
 
 uses
   SysUtils, Forms, Dialogs, StdCtrls, ButtonPanel, Buttons, IniPropStorage,
-  LCLTranslator, Details;
+  LCLTranslator, Details, Classes;
 
 type
 
@@ -33,6 +33,7 @@ type
   TFormSettings = class(TForm)
     ButtonPanel: TButtonPanel;
     ComboBoxLanguage: TComboBox;
+    DefaultButton: TPanelBitBtn;
     FontDialog: TFontDialog;
     GroupBoxLanguage: TGroupBox;
     GroupBoxRun: TGroupBox;
@@ -47,6 +48,7 @@ type
     procedure FormActivate(Sender: TObject);
     procedure FormClose(Sender: TObject);
     procedure FormCreate(Sender: TObject);
+    procedure DefaultButtonClick(Sender: TObject);
     procedure OKButtonClick(Sender: TObject);
   private
 
@@ -159,6 +161,15 @@ end;
 procedure TFormSettings.FormCreate(Sender: TObject);
 begin
   IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
+end;
+
+procedure TFormSettings.DefaultButtonClick(Sender: TObject);
+begin
+  RadioButtonStart.Checked:=true;
+  ComboBoxLanguage.ItemIndex:=0;
+  ComboBoxLanguageChange(self);
+  FormMain.PageControlMain.Font.SetDefault;
+  FormDetails.PageControlMain.Font.SetDefault;
 end;
 
 procedure TFormSettings.OKButtonClick(Sender: TObject);

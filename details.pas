@@ -24,7 +24,7 @@ interface
 
 uses
   SysUtils, Forms, LCLIntf, LCLType, ExtCtrls, ComCtrls, Buttons, StdCtrls,
-  IniPropStorage, BASS, Classes;
+  IniPropStorage, BASS;
 
 resourcestring
   VersionError = 'BASS versiyasi notoʼgʼri';

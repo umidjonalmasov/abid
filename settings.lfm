@@ -1,13 +1,13 @@
 object FormSettings: TFormSettings
   Left = 540
-  Height = 270
+  Height = 290
   Top = 215
-  Width = 280
+  Width = 386
   AutoSize = True
   BorderIcons = []
   Caption = 'Sozlamalar'
-  ClientHeight = 270
-  ClientWidth = 280
+  ClientHeight = 290
+  ClientWidth = 386
   Constraints.MinHeight = 270
   Constraints.MinWidth = 280
   OnActivate = FormActivate
@@ -19,14 +19,14 @@ object FormSettings: TFormSettings
   LCLVersion = '2.0.6.0'
   object GroupBoxInterface: TGroupBox
     Left = 10
-    Height = 218
+    Height = 238
     Top = 10
     Width = 239
     Align = alLeft
     AutoSize = True
     BorderSpacing.Around = 10
     Caption = 'Interfeys'
-    ClientHeight = 200
+    ClientHeight = 220
     ClientWidth = 235
     TabOrder = 0
     object GroupBoxRun: TGroupBox
@@ -112,14 +112,16 @@ object FormSettings: TFormSettings
   object ButtonPanel: TButtonPanel
     Left = 6
     Height = 26
-    Top = 238
-    Width = 268
+    Top = 258
+    Width = 374
     OKButton.Name = 'OKButton'
     OKButton.Caption = 'OK'
     OKButton.DefaultCaption = False
     OKButton.OnClick = OKButtonClick
-    HelpButton.Name = 'HelpButton'
-    HelpButton.DefaultCaption = True
+    HelpButton.Name = 'DefaultButton'
+    HelpButton.Caption = 'Standart'
+    HelpButton.DefaultCaption = False
+    HelpButton.OnClick = DefaultButtonClick
     CloseButton.Name = 'CloseButton'
     CloseButton.DefaultCaption = True
     CancelButton.Name = 'CancelButton'
@@ -127,7 +129,7 @@ object FormSettings: TFormSettings
     CancelButton.DefaultCaption = False
     CancelButton.OnClick = CancelButtonClick
     TabOrder = 1
-    ShowButtons = [pbOK, pbCancel]
+    ShowButtons = [pbOK, pbCancel, pbHelp]
     ShowBevel = False
   end
   object FontDialog: TFontDialog

@@ -1,7 +1,7 @@
 object FormDetails: TFormDetails
   Left = 419
   Height = 537
-  Top = 223
+  Top = 159
   Width = 796
   AutoSize = True
   ClientHeight = 537
@@ -504,7 +504,7 @@ object FormDetails: TFormDetails
           Left = 427
           Height = 319
           Top = 164
-          Width = 354
+          Width = 356
           Align = alLeft
           BorderSpacing.Around = 10
           Caption = 'Maʼnosi:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz uyqudan afzal'#10'Namoz uyqudan afzal'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼqʼ'
