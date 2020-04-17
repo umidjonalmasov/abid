@@ -50,7 +50,7 @@ object FormSettings: TFormSettings
         BorderSpacing.Left = 10
         BorderSpacing.Top = 10
         BorderSpacing.Right = 10
-        Caption = 'boshga o''tish'
+        Caption = 'boshga oʼtish'
         Checked = True
         TabOrder = 0
         TabStop = True
@@ -89,8 +89,8 @@ object FormSettings: TFormSettings
         BorderSpacing.Around = 10
         ItemHeight = 0
         Items.Strings = (
-          'O''zbek (lotin)'
-          'O''zbek (kirill)'
+          'Oʼzbek (lotin)'
+          'Oʼzbek (kirill)'
           'Rus'
         )
         OnChange = ComboBoxLanguageChange
@@ -105,7 +105,7 @@ object FormSettings: TFormSettings
       Width = 215
       Align = alTop
       BorderSpacing.Around = 10
-      Caption = 'Shrift o''zgartirish'
+      Caption = 'Shrift oʼzgartirish'
       OnClick = ButtonFontClick
     end
   end
