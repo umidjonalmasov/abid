@@ -29,6 +29,7 @@ resourcestring
   VersionError = 'BASS versiyasi notoʼgʼri';
   SoundError = 'Ovoz initsializatsiya xatosi!';
   ErrorCode = '(Xato kodi: ';
+  NoSound = 'Dastur oʼz ishini ovozsiz davom etadi.';
 
 type
 
@@ -195,7 +196,7 @@ type
     procedure TimerTimer(Sender: TObject);
   private
     str: HSTREAM;
-    procedure Error(msg: string);
+    //procedure Error(msg: string);
 
   public
 
@@ -247,12 +248,15 @@ end;
 procedure TFormDetails.FormActivate(Sender: TObject);
 var
   f: PChar;
+  s, v: string;
 begin
   if (HIWORD(BASS_GetVersion) <> BASSVERSION) then
     begin
-      MessageBox(0,PChar(VersionError),nil,MB_ICONERROR);
-      Halt;
-    end;
+      v := VersionError + #13#10 + NoSound;
+      MessageBox(Handle,PChar(v),nil,MB_ICONERROR);
+      ButtonPlay.Enabled:=false;
+    end
+  else
   {$IFDEF MSWINDOWS}
   if not BASS_Init(-1, 44100, 0, Handle, nil)
   {$ELSE}
@@ -260,11 +264,12 @@ begin
   {$ENDIF}
   then
     begin
-      Error(SoundError);
+      s := SoundError + #13#10 + ErrorCode + IntToStr(BASS_ErrorGetCode) + ')' + #13#10 + NoSound;
+      MessageBox(Handle, PChar(s), nil,MB_ICONERROR);
       ButtonPlay.Enabled:=false;
     end
   else
-    case PageControlMain.ActivePageIndex of
+  case PageControlMain.ActivePageIndex of
     0: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg') then
          begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg');
@@ -449,14 +454,6 @@ begin
           ButtonPlay.Enabled:=false;
     end;
   str := BASS_StreamCreateFile(False, f, 0, 0, 0);
-end;
-
-procedure TFormDetails.Error(msg: string);
-var
-  s: string;
-begin
-  s := msg + #13#10 + ErrorCode + IntToStr(BASS_ErrorGetCode) + ')';
-  MessageBox(Handle, PChar(s), nil, 0);
 end;
 
 procedure TFormDetails.ChannelPos;
