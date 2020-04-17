@@ -94,23 +94,6 @@ msgstr ""
 "«Совершайте намаз, выплачивайте закят и кланяйтесь вместе с кланяющимися»\n"
 "(сура Аль-Бакара, 43 аят).\n"
 
-# Do not translate
-#: tformabout.labelweb.caption
-msgid "github.com/umidjonalmasov/abid"
-msgstr ""
-
-# Do not translate
-#: tformabout.panelazankz.caption
-msgctxt "tformabout.panelazankz.caption"
-msgid "AZAN.KZ"
-msgstr ""
-
-# Do not translate
-#: tformabout.panelislomuz.caption
-msgctxt "tformabout.panelislomuz.caption"
-msgid "ISLOM.UZ"
-msgstr ""
-
 #: tformabout.tabsheetabid.caption
 msgctxt "tformabout.tabsheetabid.caption"
 msgid "Abid"
@@ -124,11 +107,6 @@ msgstr "Благодарности"
 msgid "Litsenziyalar"
 msgstr "Лицензии"
 
-# Do not translate
-#: tformdetails.labelalaar.caption
-msgid "سُبْحَانَ رَبِّيَ الْأَعْلَى"
-msgstr ""
-
 #: tformdetails.labelalapr.caption
 msgid "Subhaana robbiyal aʼla."
 msgstr "Субхаана роббияль аʼля."
@@ -140,13 +118,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Мой Всевышний Господь не имеет недостатков.\n"
-
-# Do not translate
-#: tformdetails.labelalhamdulillahar.caption
-msgid ""
-"\n"
-"اَلْحَمْدُ لِلهِ\n"
-msgstr ""
 
 #: tformdetails.labelalhamdulillahpr.caption
 msgid ""
@@ -163,13 +134,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Хвала Аллаху.\n"
-
-# Do not translate
-#: tformdetails.labelallohuakbarar.caption
-msgid ""
-"\n"
-"اَللَّهُ اَكْبَرُ\n"
-msgstr ""
 
 #: tformdetails.labelallohuakbarpr.caption
 msgid ""
@@ -188,11 +152,6 @@ msgstr ""
 "Значение:\n"
 "Аллах велик.\n"
 
-# Do not translate
-#: tformdetails.labelaziymar.caption
-msgid "سُبْحَانَ رَبِّيَ الْعَظِيمِ"
-msgstr ""
-
 #: tformdetails.labelaziympr.caption
 msgid "Subhaana Robbiyal aziym."
 msgstr "Субхаана Роббияль азым."
@@ -204,44 +163,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Великий мой Господь не имеет недостатков.\n"
-
-# Do not translate
-#: tformdetails.labelazonar.caption
-msgid ""
-"\n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"أَشْهَدُ أَنْ لآ إِلهَ إِلاَّ اللهُ \n"
-"أَشْهَدُ أَنْ لآ إِلهَ إِلاَّ اللهُ\n"
-"أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ \n"
-"أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ \n"
-"حَيَّ عَلَى الصَّلاةِ \n"
-"حَيَّ عَلَى الصَّلاةِ \n"
-"حَيَّ عَلَى الْفَلاحِ \n"
-"حَيَّ عَلَى الْفَلاحِ\n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"لآ إِلهَ إِلاَّ اللهُ\n"
-msgstr ""
-
-# Do not translate
-#: tformdetails.labelazonbomdodar.caption
-msgid ""
-"\n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"أَشْهَدُ أَنْ لآ إِلهَ إِلاَّ اللهُ \n"
-"أَشْهَدُ أَنْ لآ إِلهَ إِلاَّ اللهُ\n"
-"أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ \n"
-"أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ \n"
-"حَيَّ عَلَى الصَّلاةِ \n"
-"حَيَّ عَلَى الصَّلاةِ \n"
-"حَيَّ عَلَى الْفَلاحِ \n"
-"حَيَّ عَلَى الْفَلاحِ\n"
-"اَلصَّلاةُ خَيْرٌ مِنَ النَّوْمِ \n"
-"اَلصَّلاةُ خَيْرٌ مِنَ النَّوْمِ \n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"لآ إِلهَ إِلاَّ اللهُ \n"
-msgstr ""
 
 #: tformdetails.labelazonbomdoddesc.caption
 msgctxt "tformdetails.labelazonbomdoddesc.caption"
@@ -321,11 +242,6 @@ msgctxt "tformdetails.labelazondesc.caption"
 msgid "Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta'kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo'lning ko'rsatkich barmoqlarini quloq ichiga qo'yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya 'las-solah» kalimasida boshini o'ng tarafga, «Hayya 'alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so'zlashdan to'xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya 'alas-solah», deganida «Laa havla va laa quvvata illaa billahil 'aliyyil-a'ziym», deydi, «Hayya 'alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha' lam yakun», deydi. Safarda va jome' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi."
 msgstr "Азан означает громкое объявление людям том, что настало время намаза. Азан имеет установленную форму – нельзя ничего добавлять к его словам или убавлять из его слов. Условием действительности азана является оглашение его на арабском языке. Оглашение азана перед обязательными намазами, включая пятничный намаз, — это сунна муаккада. Мужчине желательно также оглашать азан, когда он совершает намаз в одиночку, причем не имеет значения, своевременный это намаз или восполнение пропущенного ранее. Если восполняешь несколько намазов, то лучше всего перед каждым восполняемым намазом произносить азан. Однако можно ограничиться одним азаном, совершенным перед первым из восполняемых намазов. Азан должен оглашать мужчина-мусульманин (или мальчик, достигший «возраста различения» (тамйиз), обычно это тот, кто старше семи лунных лет), находящийся в здравом рассудке. Азан маленького ребенка (не достигшего возраста тамйиза), а также сумасшедшего или пьяного не действителен."
 
-# Do not translate
-#: tformdetails.labelazonduoar.caption
-msgid "اَللّهُمَّ رَبَّ هذِهِ الدَّعْوَةِ التّامَّةِ وَالصَّلاةِ الْقائِمَةِ آتِ سَيِّدَنا مَحَمَّدً الْوَسيلَةَ وَالْفَضيلَةَ وَابْعَثْهُ مَقامًا مَحْمُودًا الَّذي وَعَدْتَهُ وَارْزُقْنا شَفاعَتَهُ يَوْمَ الْقِيامَةِ إِنَّكَ لا تُخْلِفُ الْميعادْ"
-msgstr ""
-
 #: tformdetails.labelazonduopr.caption
 msgid "Allohumma! Robba hazihid-da'vatit tammah. Vassolatil qoimah, ati Muhammadanil vasiylata val faziylah. Vab'ashu maqomam mahmudanillaziy va'adtah. Varzuqna shafa'atahu yavmal qiyomah. Innaka laa tuxliful miy'ad."
 msgstr "Аллахумма робба хазихи-д-да‘вати-т-таммати вас-солятиль-каима, ати Мухаммаданиль-василята валь-фадыля, ваб‘асху макаман махмуданиллязи ва‘аттах, варзукна шафа‘атаху яумаль-кыяма. Иннака ля тухлифуль-ми‘ад."
@@ -398,11 +314,6 @@ msgstr ""
 "Аллах велик Аллах велик\n"
 "Нет никого, достойного поклонения, кроме Аллаха\n"
 
-# Do not translate
-#: tformdetails.labelbasmalaar.caption
-msgid "بِسْمِ اللهِ الرَّحْمَنِ الرَّحيِمِ"
-msgstr ""
-
 #: tformdetails.labelbasmalapr.caption
 msgid "Bismillahir rohmanir rohiym."
 msgstr "Бисмилляхир рахманир рахим."
@@ -414,17 +325,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Во имя Аллаха Милостивого, Милующего.\n"
-
-# Do not translate
-#: tformdetails.labelduoar.caption
-msgid "سُبْحَانَ اللهِ، وَالحْمُدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيمِ"
-msgstr ""
-
-# Do not translate
-#: tformdetails.labelduofar.caption
-msgctxt "tformdetails.labelduofar.caption"
-msgid "اللهُمَّ أَنْتَ السَّلاَمُ وَمِنْكَ السَّلاَمُ تَبَارَكْتَ يَا ذَا الجَلاَلِ وَالإِكْرَامِ"
-msgstr ""
 
 #: tformdetails.labelduofpr.caption
 msgctxt "tformdetails.labelduofpr.caption"
@@ -451,17 +351,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Аллах чист от недостатков, приписываемых Ему неверующими, хвала Аллаху, нет божества, кроме Аллаха, Аллах превыше всего, нет силы и защиты, кроме как от Аллаха.\n"
-
-# Do not translate
-#: tformdetails.labelfalaqar.caption
-msgid ""
-"\n"
-"قُلْ أَعُوذُ بِرَ‌بِّ الْفَلَقِ\n"
-"مِن شَرِّ‌ مَا خَلَقَ\n"
-"وَمِن شَرِّ‌ غَاسِقٍ إِذَا وَقَبَ\n"
-"وَمِن شَرِّ‌ النَّفَّاثَاتِ فِي الْعُقَدِ\n"
-"وَمِن شَرِّ‌ حَاسِدٍ إِذَا حَسَدَ\n"
-msgstr ""
 
 #: tformdetails.labelfalaqpr.caption
 msgid ""
@@ -496,19 +385,6 @@ msgstr ""
 "От зла дующих на узлы\n"
 "И от зла завистника, когда тот завидует»\n"
 "\n"
-
-# Do not translate
-#: tformdetails.labelfotihaar.caption
-msgid ""
-"\n"
-"الْحَمْدُ لِلَّـهِ رَ‌بِّ الْعَالَمِينَ\n"
-"الرَّ‌حْمَـٰنِ الرَّ‌حِيم\n"
-"مَالِكِ يَوْمِ الدِّينِ\n"
-"إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ\n"
-"اهْدِنَا الصِّرَ‌اطَ الْمُسْتَقِيمَ\n"
-" صِرَ‌اطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ\n"
-" غَيْرِ‌ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ\n"
-msgstr ""
 
 #: tformdetails.labelfotihapr.caption
 msgid ""
@@ -551,11 +427,6 @@ msgstr ""
 "А не тех, кто навлек на себя Твой гнев,\n"
 "и не тех, кто впал в заблуждение\n"
 
-# Do not translate
-#: tformdetails.labelhamdar.caption
-msgid "رَبَّنَا لَكَ الحَمْدُ"
-msgstr ""
-
 #: tformdetails.labelhamdpr.caption
 msgid "Robbanaa, lakal hamd."
 msgstr "Роббана лякаль хамд."
@@ -567,26 +438,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "О наш Господь! Тебе слава.\n"
-
-# Do not translate
-#: tformdetails.labeliqomatar.caption
-msgctxt "tformdetails.labeliqomatar.caption"
-msgid ""
-"\n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"أَشْهَدُ أَنْ لآ إِلهَ إِلاَّ اللهُ \n"
-"أَشْهَدُ أَنْ لآ إِلهَ إِلاَّ اللهُ\n"
-"أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ \n"
-"أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ \n"
-"حَيَّ عَلَى الصَّلاةِ \n"
-"حَيَّ عَلَى الصَّلاةِ \n"
-"حَيَّ عَلَى الْفَلاحِ \n"
-"حَيَّ عَلَى الْفَلاحِ\n"
-"قَدْ قامَتِ الصَّلاةُ قَدْ قامَتِ الصَّلاةُ\n"
-"اَللهُ اَكْبَرُ اَللهُ اَكْبَرُ \n"
-"لآ إِلهَ إِلاَّ اللهُ \n"
-msgstr ""
 
 #: tformdetails.labeliqomatdesc.caption
 msgctxt "tformdetails.labeliqomatdesc.caption"
@@ -659,16 +510,6 @@ msgstr ""
 "Аллах велик Аллах велик\n"
 "Нет никого, достойного поклонения, кроме Аллаха\n"
 
-# Do not translate
-#: tformdetails.labelixlosar.caption
-msgid ""
-"\n"
-"قُلْ هُوَ اللَّـهُ أَحَدٌ\n"
-"اللَّـهُ الصَّمَدُ\n"
-"لَمْ يَلِدْ وَلَمْ يُولَدْ\n"
-"وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ\n"
-msgstr ""
-
 #: tformdetails.labelixlospr.caption
 msgid ""
 "\n"
@@ -699,15 +540,6 @@ msgstr ""
 "И нет никого, равного (или подобного) Ему\n"
 "\n"
 
-# Do not translate
-#: tformdetails.labelkavsarar.caption
-msgid ""
-"\n"
-"إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ\n"
-"فَصَلِّ لِرَ‌بِّكَ وَانْحَرْ\n"
-"إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ\n"
-msgstr ""
-
 #: tformdetails.labelkavsarpr.caption
 msgid ""
 "\n"
@@ -733,21 +565,6 @@ msgstr ""
 "Посему совершай намаз ради своего Господа и закалывай жертву\n"
 "Воистину, твой ненавистник сам окажется безвестным\n"
 "\n"
-
-# Do not translate
-#: tformdetails.labelkursiar.caption
-msgid ""
-"\n"
-"اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ\n"
-"لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ \n"
-"لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ \n"
-"مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ \n"
-"يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ\n"
-"وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ \n"
-" وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ \n"
-"وَلَا يَئُودُهُ حِفْظُهُمَا \n"
-"وَهُوَ الْعَلِيُّ الْعَظِيمُ\n"
-msgstr ""
 
 #: tformdetails.labelkursipr.caption
 msgid ""
@@ -797,18 +614,6 @@ msgstr ""
 "и не тяготит Его оберегание их.\n"
 "Он – Возвышенный, Великий.\n"
 
-# Do not translate
-#: tformdetails.labelnasar.caption
-msgid ""
-"\n"
-"قُلْ أَعُوذُ بِرَبِّ النَّاسِ \n"
-"مَلِكِ النَّاسِ \n"
-"إِلَٰهِ النَّاسِ\n"
-"مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ\n"
-"الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ\n"
-"مِنَ الْجِنَّةِ وَالنَّاسِ\n"
-msgstr ""
-
 #: tformdetails.labelnaspr.caption
 msgid ""
 "\n"
@@ -844,16 +649,6 @@ msgstr ""
 "от зла искусителя исчезающего при поминании Аллаха,\n"
 "который наущает в груди людей,\n"
 "от джиннов и людей».\n"
-
-# Do not translate
-#: tformdetails.labelqunutar.caption
-msgid ""
-"اَللَّهُمَّ اِنَّا نَسْتَعِينُكَ وَ نَسْتَغْفِرُكَ وَ نُؤْمِنُ بِكَ وَ\n"
-"نَتَوَكَّلُ عَلَيْكَ وَ نُثْنِى عَلَيْكَ الْخَيْرَ نَشْكُرُكَ\n"
-"وَ لآ نَكْفُرُكَ وَ نَخْلَعُ وَ نَتْرُكُ مَنْ يَفْجُرُكَ\n"
-"اَللَّهُمَّ اِيَّاكَ نَعْبُدُ وَ لَكَ نُصَلِّى وَ نَسْجُدُ وَ اِلَيْكَ نَسْعَى وَ نَحْفِدُ\n"
-"نَرْجُوا رَحْمَتَكَ وَ نَخْشَى عَذَابَكَ اِنَّ عَذَابَكَ بِالْكُفَّارِ مُلْحِقٌ\n"
-msgstr ""
 
 #: tformdetails.labelqunutpr.caption
 msgid ""
@@ -897,11 +692,6 @@ msgstr ""
 "уповая на Твою милость, и страшимся Твоего наказания,\n"
 "поистине, Твое наказание неизбежно постигнет неверующих.\n"
 
-# Do not translate
-#: tformdetails.labelrobbanaar.caption
-msgid "رَبَّنَا اَتِنَا فِى الدُّنْيَا حَسَنَةً وَ فِى اْلآخِرَةِ حَسَنَةً وَ قِنَا عَذَابَ النَّارِ"
-msgstr ""
-
 #: tformdetails.labelrobbanapr.caption
 msgid "Robbana, aatinaa fid-dunya hasanatav va fil axiroti hasanatav vaqinaa ʼazaban-naar."
 msgstr "Роббана атина фид-дунья хасанатан уа филь-ахирати хасанатан уа кына ʼазабан-нар."
@@ -914,11 +704,6 @@ msgstr ""
 "Значение:\n"
 "О наш Господь! Даруй нам благо в земной жизни и благо в вечной жизни и защити нас от наказания в Аду.\n"
 
-# Do not translate
-#: tformdetails.labelsalavotar.caption
-msgid "اللّهُـمَّ صَلِّ عَلـى مُحمَّـد، وَعَلـى آلِ مُحمَّد، كَمـا صَلَّيـتَ عَلـىإبْراهـيمَ وَعَلـى آلِ إبْراهـيم، إِنَّكَ حَمـيدٌ مَجـيد ، اللّهُـمَّ بارِكْ عَلـى مُحمَّـد، وَعَلـى آلِ مُحمَّـد، كَمـا بارِكْتَ عَلـىإبْراهـيمَ وَعَلـى آلِ إبْراهيم، إِنَّكَ حَمـيدٌ مَجـيد"
-msgstr ""
-
 #: tformdetails.labelsalavotpr.caption
 msgid "Allohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Allohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid."
 msgstr "Аллахумма! Солли ʼаля Мухаммад, уа ʼаля али Мухаммад.  Кама солляйта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид. Аллахумма! Барик ʼаля Мухаммад уа ʼаля али Мухаммад. Кама баракта ʼаля Ибрахима уа ʼаля али Ибрахим. Иннака хамидум-маджид."
@@ -930,12 +715,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "О Аллах, благослови Мухаммада и семейство Мухаммада, как Ты благословил Ибрахима и семейство Ибрахима. Поистине, Ты – Достойный похвалы. Славный! Аллах, пошли благословения Мухаммаду и семейству Мухаммада, как Ты послал их Ибрахиму и семейству Ибрахима. Поистине, Ты – Достойный похвалы, Славный!\n"
-
-# Do not translate
-#: tformdetails.labelsalomar.caption
-msgctxt "tformdetails.labelsalomar.caption"
-msgid "السَّلاَمُ عَلَيْكُمْ وَ رَحْمَةُ اللهِ"
-msgstr ""
 
 #: tformdetails.labelsalompr.caption
 msgctxt "tformdetails.labelsalompr.caption"
@@ -951,11 +730,6 @@ msgstr ""
 "Значение:\n"
 "Мир вам и милость Аллаха.\n"
 
-# Do not translate
-#: tformdetails.labelsanoar.caption
-msgid "سُبْحَا نَكَ الّٰلهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالٰى جَدُّكَ وَ لآ اِلٰهَ غَيْرُكَ"
-msgstr ""
-
 #: tformdetails.labelsanopr.caption
 msgid "Subhanakallohumma va bihamdika, va tabarokasmuka, va taaʼla jadduka va laa ilaaha gʼoyruk."
 msgstr "Cубханакаллахумма уа бихамдик, уа табарака смук, уа та'аля джаддук, уа ля иляха гойрук."
@@ -967,13 +741,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Слава Тебе, о Аллах, и хвала Тебе, благословенно имя Твое, превыше всего величие Твое, и нет никого достойного поклонения, кроме Тебя.\n"
-
-# Do not translate
-#: tformdetails.labelsubhanallohar.caption
-msgid ""
-"\n"
-"سُبْحَانَ اللهِ\n"
-msgstr ""
 
 #: tformdetails.labelsubhanallohpr.caption
 msgid ""
@@ -991,11 +758,6 @@ msgstr ""
 "Значение:\n"
 "Пречист Аллах.\n"
 
-# Do not translate
-#: tformdetails.labeltaavvuzar.caption
-msgid "أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ"
-msgstr ""
-
 #: tformdetails.labeltaavvuzpr.caption
 msgid "Aʼuzu billahi minash shaytonir rojiym."
 msgstr "А'узу билляхи минаш-шайтанир-раджим."
@@ -1007,11 +769,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Прибегаю к защите Аллаха от побиваемого камнями шайтана.\n"
-
-# Do not translate
-#: tformdetails.labeltakbirar.caption
-msgid "اَللهُ اَكْبَرُ"
-msgstr ""
 
 #: tformdetails.labeltakbirpr.caption
 msgid "Allohu akbar."
@@ -1026,11 +783,6 @@ msgstr ""
 "Значение:\n"
 "Аллах велик.\n"
 
-# Do not translate
-#: tformdetails.labeltashahhudar.caption
-msgid "التَّحِيّـاتُ للهِ وَالصَّلَـواتُ والطَّيِّـبات ، السَّلامُ عَلَيـكَ أَيُّهـا النَّبِـيُّ وَرَحْمَـةُ اللهِ وَبَرَكـاتُه ، السَّلامُ عَلَيْـنا وَعَلـى عِبـادِ للهِ الصَّـالِحـين . أَشْـهَدُ أَنْ لا إِلـهَ إِلاّ الله ، وَأَشْـهَدُ أَنَّ مُحَمّـداً عَبْـدُهُ وَرَسـولُه"
-msgstr ""
-
 #: tformdetails.labeltashahhudpr.caption
 msgid "Attahiyyatu lillahi vassolavatu vat­toy­yibat. Assalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Assalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Ashhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh."
 msgstr "Ат-тахийяту лилляхи уас-соляуату уат-тоййибат. Ассаляму ʼаляйка айюхан-набийю уа рахматуллахи уа баракатух. Ас-саляму ʼаляйна уа ʼаля ʼибадилляхис солихин. Ашхаду алля иляха илляллаху уа ашхаду анна Мухаммадан абдуху уа расулюх."
@@ -1043,12 +795,6 @@ msgstr ""
 "Значение:\n"
 "Приветствия Аллаху, молитвы и добрые дела. Мир тебе, о Пророк, милость Аллаха и Его благословение. Мир нам и истинным слугам Аллаха. Свидетельствую, что нет никого, достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад – Его раб и Его Посланник.\n"
 "\n"
-
-# Do not translate
-#: tformdetails.labeltasmear.caption
-msgctxt "tformdetails.labeltasmear.caption"
-msgid "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ"
-msgstr ""
 
 #: tformdetails.labeltasmepr.caption
 msgctxt "tformdetails.labeltasmepr.caption"
@@ -1064,11 +810,6 @@ msgstr ""
 "Значение:\n"
 "Аллах слышит того, кто Его восхваляет.\n"
 
-# Do not translate
-#: tformdetails.labeltavhidar.caption
-msgid "لاَ اِلَهَ اِلاَّ اللهُ وَحْدَهُ لاَ شَرِيكَ لَهُ.لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ"
-msgstr ""
-
 #: tformdetails.labeltavhidpr.caption
 msgid "Laa ilaaha illallohu vahdahu laa sharika lahu, lahul mulku valahul hamdu va huva ʼalaa kulli shayʼin qodir."
 msgstr "Ла илаха иллаллаху вахдаху ла шарика лаху, лаху л-мулку ва Лаху л-хамду ва хува 'ала кули шай'ин кадир."
@@ -1080,139 +821,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Нет никого и ничего достойного поклонения, кроме Единственного Аллаха, нет у Него сотоварища! Ему принадлежит вся власть и хвала, и Он над всякой вещью мощен.\n"
-
-# Do not translate
-#: tformdetails.tabsheetala.caption
-msgid "Ala"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetaziym.caption
-msgid "Aziym"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetazon.caption
-msgid "Azon"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetazonbomdod.caption
-msgid "AzonBomdod"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetazonduo.caption
-msgid "AzonDuo"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetbasmala.caption
-msgid "Basmala"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetduo.caption
-msgctxt "tformdetails.tabsheetduo.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetduof.caption
-msgctxt "tformdetails.tabsheetduof.caption"
-msgid "Duo Farz"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetfalaq.caption
-msgid "Falaq"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetfotiha.caption
-msgid "Fotiha"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheethamd.caption
-msgid "Hamd"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetiqomat.caption
-msgid "Iqomat"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetixlos.caption
-msgid "Ixlos"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetkavsar.caption
-msgid "Kavsar"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetkursi.caption
-msgid "Kursi"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetnas.caption
-msgid "Nas"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetqunut.caption
-msgid "Qunut"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetrobbana.caption
-msgid "Robbana"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetsalavot.caption
-msgid "Salavot"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetsalom.caption
-msgctxt "tformdetails.tabsheetsalom.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheetsano.caption
-msgid "Sano"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheettaavvuz.caption
-msgid "Taavvuz"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheettakbir.caption
-msgid "Takbir"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheettasbehot.caption
-msgid "Tasbehot"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheettashahhud.caption
-msgid "Tashahhud"
-msgstr ""
-
-# Do not translate
-#: tformdetails.tabsheettasme.caption
-msgid "Tasme"
-msgstr ""
 
 #: tformmain.buttonimage.caption
 msgctxt "tformmain.buttonimage.caption"
@@ -4038,312 +3646,6 @@ msgctxt "tformmain.tabsheetbomdod.caption"
 msgid "Bomdod"
 msgstr "Фаджр"
 
-# Do not translate
-#: tformmain.tabsheetduoa4f.caption
-msgctxt "tformmain.tabsheetduoa4f.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetduob2f.caption
-msgctxt "tformmain.tabsheetduob2f.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetduop2s.caption
-msgctxt "tformmain.tabsheetduop2s.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetduop4f.caption
-msgctxt "tformmain.tabsheetduop4f.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetduosh2s.caption
-msgctxt "tformmain.tabsheetduosh2s.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetduosh3f.caption
-msgctxt "tformmain.tabsheetduosh3f.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetduov3v.caption
-msgctxt "tformmain.tabsheetduov3v.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetduox4f.caption
-msgctxt "tformmain.tabsheetduox4f.caption"
-msgid "Duo"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1a4f.caption
-msgctxt "tformmain.tabsheetjalsa1a4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1b2f.caption
-msgctxt "tformmain.tabsheetjalsa1b2f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1b2s.caption
-msgctxt "tformmain.tabsheetjalsa1b2s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1p2s.caption
-msgctxt "tformmain.tabsheetjalsa1p2s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1p4f.caption
-msgctxt "tformmain.tabsheetjalsa1p4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1p4s.caption
-msgctxt "tformmain.tabsheetjalsa1p4s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1sh2s.caption
-msgctxt "tformmain.tabsheetjalsa1sh2s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1sh3f.caption
-msgctxt "tformmain.tabsheetjalsa1sh3f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1v3v.caption
-msgctxt "tformmain.tabsheetjalsa1v3v.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1x2s.caption
-msgctxt "tformmain.tabsheetjalsa1x2s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa1x4f.caption
-msgctxt "tformmain.tabsheetjalsa1x4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2a4f.caption
-msgctxt "tformmain.tabsheetjalsa2a4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2b2f.caption
-msgctxt "tformmain.tabsheetjalsa2b2f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2b2s.caption
-msgctxt "tformmain.tabsheetjalsa2b2s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2p2s.caption
-msgctxt "tformmain.tabsheetjalsa2p2s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2p4f.caption
-msgctxt "tformmain.tabsheetjalsa2p4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2p4s.caption
-msgctxt "tformmain.tabsheetjalsa2p4s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2sh2s.caption
-msgctxt "tformmain.tabsheetjalsa2sh2s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2sh3f.caption
-msgctxt "tformmain.tabsheetjalsa2sh3f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2v3v.caption
-msgctxt "tformmain.tabsheetjalsa2v3v.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2x2s.caption
-msgctxt "tformmain.tabsheetjalsa2x2s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa2x4f.caption
-msgctxt "tformmain.tabsheetjalsa2x4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa3a4f.caption
-msgctxt "tformmain.tabsheetjalsa3a4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa3p4f.caption
-msgctxt "tformmain.tabsheetjalsa3p4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa3p4s.caption
-msgctxt "tformmain.tabsheetjalsa3p4s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa3sh3f.caption
-msgctxt "tformmain.tabsheetjalsa3sh3f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa3v3v.caption
-msgctxt "tformmain.tabsheetjalsa3v3v.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa3x4f.caption
-msgctxt "tformmain.tabsheetjalsa3x4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa4a4f.caption
-msgctxt "tformmain.tabsheetjalsa4a4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa4p4f.caption
-msgctxt "tformmain.tabsheetjalsa4p4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa4p4s.caption
-msgctxt "tformmain.tabsheetjalsa4p4s.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetjalsa4x4f.caption
-msgctxt "tformmain.tabsheetjalsa4x4f.caption"
-msgid "Jalsa"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirisha4f.caption
-msgctxt "tformmain.tabsheetkirisha4f.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishb2f.caption
-msgctxt "tformmain.tabsheetkirishb2f.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishb2s.caption
-msgctxt "tformmain.tabsheetkirishb2s.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishp2s.caption
-msgctxt "tformmain.tabsheetkirishp2s.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishp4f.caption
-msgctxt "tformmain.tabsheetkirishp4f.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishp4s.caption
-msgctxt "tformmain.tabsheetkirishp4s.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishsh2s.caption
-msgctxt "tformmain.tabsheetkirishsh2s.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishsh3f.caption
-msgctxt "tformmain.tabsheetkirishsh3f.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishv3v.caption
-msgctxt "tformmain.tabsheetkirishv3v.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishx2s.caption
-msgctxt "tformmain.tabsheetkirishx2s.caption"
-msgid "Kirish"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetkirishx4f.caption
-msgctxt "tformmain.tabsheetkirishx4f.caption"
-msgid "Kirish"
-msgstr ""
-
 #: tformmain.tabsheetp2s.caption
 msgctxt "tformmain.tabsheetp2s.caption"
 msgid "2 rak'at sunnat"
@@ -4362,1134 +3664,6 @@ msgstr "4 ракаата сунны"
 msgctxt "tformmain.tabsheetpeshin.caption"
 msgid "Peshin"
 msgstr "Зухр"
-
-# Do not translate
-#: tformmain.tabsheetqada1a4f.caption
-msgctxt "tformmain.tabsheetqada1a4f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada1p4f.caption
-msgctxt "tformmain.tabsheetqada1p4f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada1p4s.caption
-msgctxt "tformmain.tabsheetqada1p4s.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada1sh3f.caption
-msgctxt "tformmain.tabsheetqada1sh3f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada1v3v.caption
-msgctxt "tformmain.tabsheetqada1v3v.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada1x4f.caption
-msgctxt "tformmain.tabsheetqada1x4f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada2a4f.caption
-msgctxt "tformmain.tabsheetqada2a4f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada2p4f.caption
-msgctxt "tformmain.tabsheetqada2p4f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada2p4s.caption
-msgctxt "tformmain.tabsheetqada2p4s.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada2sh3f.caption
-msgctxt "tformmain.tabsheetqada2sh3f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada2v3v.caption
-msgctxt "tformmain.tabsheetqada2v3v.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqada2x4f.caption
-msgctxt "tformmain.tabsheetqada2x4f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqadab2f.caption
-msgctxt "tformmain.tabsheetqadab2f.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqadab2s.caption
-msgctxt "tformmain.tabsheetqadab2s.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqadap2s.caption
-msgctxt "tformmain.tabsheetqadap2s.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqadash2s.caption
-msgctxt "tformmain.tabsheetqadash2s.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqadax2s.caption
-msgctxt "tformmain.tabsheetqadax2s.caption"
-msgid "Qada"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1a4f.caption
-msgctxt "tformmain.tabsheetqiyom1a4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1b2f.caption
-msgctxt "tformmain.tabsheetqiyom1b2f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1b2s.caption
-msgctxt "tformmain.tabsheetqiyom1b2s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1p2s.caption
-msgctxt "tformmain.tabsheetqiyom1p2s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1p4f.caption
-msgctxt "tformmain.tabsheetqiyom1p4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1p4s.caption
-msgctxt "tformmain.tabsheetqiyom1p4s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1sh2s.caption
-msgctxt "tformmain.tabsheetqiyom1sh2s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1sh3f.caption
-msgctxt "tformmain.tabsheetqiyom1sh3f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1v3v.caption
-msgctxt "tformmain.tabsheetqiyom1v3v.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1x2s.caption
-msgctxt "tformmain.tabsheetqiyom1x2s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom1x4f.caption
-msgctxt "tformmain.tabsheetqiyom1x4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2a4f.caption
-msgctxt "tformmain.tabsheetqiyom2a4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2b2f.caption
-msgctxt "tformmain.tabsheetqiyom2b2f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2b2s.caption
-msgctxt "tformmain.tabsheetqiyom2b2s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2p2s.caption
-msgctxt "tformmain.tabsheetqiyom2p2s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2p4f.caption
-msgctxt "tformmain.tabsheetqiyom2p4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2p4s.caption
-msgctxt "tformmain.tabsheetqiyom2p4s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2sh2s.caption
-msgctxt "tformmain.tabsheetqiyom2sh2s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2sh3f.caption
-msgctxt "tformmain.tabsheetqiyom2sh3f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2v3v.caption
-msgctxt "tformmain.tabsheetqiyom2v3v.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2x2s.caption
-msgctxt "tformmain.tabsheetqiyom2x2s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom2x4f.caption
-msgctxt "tformmain.tabsheetqiyom2x4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom3a4f.caption
-msgctxt "tformmain.tabsheetqiyom3a4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom3p4f.caption
-msgctxt "tformmain.tabsheetqiyom3p4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom3p4s.caption
-msgctxt "tformmain.tabsheetqiyom3p4s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom3sh3f.caption
-msgctxt "tformmain.tabsheetqiyom3sh3f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom3v3v.caption
-msgctxt "tformmain.tabsheetqiyom3v3v.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom3x4f.caption
-msgctxt "tformmain.tabsheetqiyom3x4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom4a4f.caption
-msgctxt "tformmain.tabsheetqiyom4a4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom4p4f.caption
-msgctxt "tformmain.tabsheetqiyom4p4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom4p4s.caption
-msgctxt "tformmain.tabsheetqiyom4p4s.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqiyom4x4f.caption
-msgctxt "tformmain.tabsheetqiyom4x4f.caption"
-msgid "Qiyom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1a4f.caption
-msgctxt "tformmain.tabsheetqovma1a4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1b2f.caption
-msgctxt "tformmain.tabsheetqovma1b2f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1b2s.caption
-msgctxt "tformmain.tabsheetqovma1b2s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1p2s.caption
-msgctxt "tformmain.tabsheetqovma1p2s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1p4f.caption
-msgctxt "tformmain.tabsheetqovma1p4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1p4s.caption
-msgctxt "tformmain.tabsheetqovma1p4s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1sh2s.caption
-msgctxt "tformmain.tabsheetqovma1sh2s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1sh3f.caption
-msgctxt "tformmain.tabsheetqovma1sh3f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1v3v.caption
-msgctxt "tformmain.tabsheetqovma1v3v.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1x2s.caption
-msgctxt "tformmain.tabsheetqovma1x2s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma1x4f.caption
-msgctxt "tformmain.tabsheetqovma1x4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2a4f.caption
-msgctxt "tformmain.tabsheetqovma2a4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2b2f.caption
-msgctxt "tformmain.tabsheetqovma2b2f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2b2s.caption
-msgctxt "tformmain.tabsheetqovma2b2s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2p2s.caption
-msgctxt "tformmain.tabsheetqovma2p2s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2p4f.caption
-msgctxt "tformmain.tabsheetqovma2p4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2p4s.caption
-msgctxt "tformmain.tabsheetqovma2p4s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2sh2s.caption
-msgctxt "tformmain.tabsheetqovma2sh2s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2sh3f.caption
-msgctxt "tformmain.tabsheetqovma2sh3f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2v3v.caption
-msgctxt "tformmain.tabsheetqovma2v3v.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2x2s.caption
-msgctxt "tformmain.tabsheetqovma2x2s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma2x4f.caption
-msgctxt "tformmain.tabsheetqovma2x4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma3a4f.caption
-msgctxt "tformmain.tabsheetqovma3a4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma3p4f.caption
-msgctxt "tformmain.tabsheetqovma3p4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma3p4s.caption
-msgctxt "tformmain.tabsheetqovma3p4s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma3sh3f.caption
-msgctxt "tformmain.tabsheetqovma3sh3f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma3v3v.caption
-msgctxt "tformmain.tabsheetqovma3v3v.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma3x4f.caption
-msgctxt "tformmain.tabsheetqovma3x4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma4a4f.caption
-msgctxt "tformmain.tabsheetqovma4a4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma4p4f.caption
-msgctxt "tformmain.tabsheetqovma4p4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma4p4s.caption
-msgctxt "tformmain.tabsheetqovma4p4s.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetqovma4x4f.caption
-msgctxt "tformmain.tabsheetqovma4x4f.caption"
-msgid "Qovma"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1a4f.caption
-msgctxt "tformmain.tabsheetruku1a4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1b2f.caption
-msgctxt "tformmain.tabsheetruku1b2f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1b2s.caption
-msgctxt "tformmain.tabsheetruku1b2s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1p2s.caption
-msgctxt "tformmain.tabsheetruku1p2s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1p4f.caption
-msgctxt "tformmain.tabsheetruku1p4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1p4s.caption
-msgctxt "tformmain.tabsheetruku1p4s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1sh2s.caption
-msgctxt "tformmain.tabsheetruku1sh2s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1sh3f.caption
-msgctxt "tformmain.tabsheetruku1sh3f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1v3v.caption
-msgctxt "tformmain.tabsheetruku1v3v.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1x2s.caption
-msgctxt "tformmain.tabsheetruku1x2s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku1x4f.caption
-msgctxt "tformmain.tabsheetruku1x4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2a4f.caption
-msgctxt "tformmain.tabsheetruku2a4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2b2f.caption
-msgctxt "tformmain.tabsheetruku2b2f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2b2s.caption
-msgctxt "tformmain.tabsheetruku2b2s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2p2s.caption
-msgctxt "tformmain.tabsheetruku2p2s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2p4f.caption
-msgctxt "tformmain.tabsheetruku2p4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2p4s.caption
-msgctxt "tformmain.tabsheetruku2p4s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2sh2s.caption
-msgctxt "tformmain.tabsheetruku2sh2s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2sh3f.caption
-msgctxt "tformmain.tabsheetruku2sh3f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2v3v.caption
-msgctxt "tformmain.tabsheetruku2v3v.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2x2s.caption
-msgctxt "tformmain.tabsheetruku2x2s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku2x4f.caption
-msgctxt "tformmain.tabsheetruku2x4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku3a4f.caption
-msgctxt "tformmain.tabsheetruku3a4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku3p4f.caption
-msgctxt "tformmain.tabsheetruku3p4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku3p4s.caption
-msgctxt "tformmain.tabsheetruku3p4s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku3sh3f.caption
-msgctxt "tformmain.tabsheetruku3sh3f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku3v3v.caption
-msgctxt "tformmain.tabsheetruku3v3v.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku3x4f.caption
-msgctxt "tformmain.tabsheetruku3x4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku4a4f.caption
-msgctxt "tformmain.tabsheetruku4a4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku4p4f.caption
-msgctxt "tformmain.tabsheetruku4p4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku4p4s.caption
-msgctxt "tformmain.tabsheetruku4p4s.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetruku4x4f.caption
-msgctxt "tformmain.tabsheetruku4x4f.caption"
-msgid "Ruku"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1a4f.caption
-msgctxt "tformmain.tabsheetsajda1_1a4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1b2f.caption
-msgctxt "tformmain.tabsheetsajda1_1b2f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1b2s.caption
-msgctxt "tformmain.tabsheetsajda1_1b2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1p2s.caption
-msgctxt "tformmain.tabsheetsajda1_1p2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1p4f.caption
-msgctxt "tformmain.tabsheetsajda1_1p4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1p4s.caption
-msgctxt "tformmain.tabsheetsajda1_1p4s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1sh2s.caption
-msgctxt "tformmain.tabsheetsajda1_1sh2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1sh3f.caption
-msgctxt "tformmain.tabsheetsajda1_1sh3f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1v3v.caption
-msgctxt "tformmain.tabsheetsajda1_1v3v.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1x2s.caption
-msgctxt "tformmain.tabsheetsajda1_1x2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_1x4f.caption
-msgctxt "tformmain.tabsheetsajda1_1x4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2a4f.caption
-msgctxt "tformmain.tabsheetsajda1_2a4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2b2f.caption
-msgctxt "tformmain.tabsheetsajda1_2b2f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2b2s.caption
-msgctxt "tformmain.tabsheetsajda1_2b2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2p2s.caption
-msgctxt "tformmain.tabsheetsajda1_2p2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2p4f.caption
-msgctxt "tformmain.tabsheetsajda1_2p4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2p4s.caption
-msgctxt "tformmain.tabsheetsajda1_2p4s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2sh2s.caption
-msgctxt "tformmain.tabsheetsajda1_2sh2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2sh3f.caption
-msgctxt "tformmain.tabsheetsajda1_2sh3f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2v3v.caption
-msgctxt "tformmain.tabsheetsajda1_2v3v.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2x2s.caption
-msgctxt "tformmain.tabsheetsajda1_2x2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda1_2x4f.caption
-msgctxt "tformmain.tabsheetsajda1_2x4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1a4f.caption
-msgctxt "tformmain.tabsheetsajda2_1a4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1b2f.caption
-msgctxt "tformmain.tabsheetsajda2_1b2f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1b2s.caption
-msgctxt "tformmain.tabsheetsajda2_1b2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1p2s.caption
-msgctxt "tformmain.tabsheetsajda2_1p2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1p4f.caption
-msgctxt "tformmain.tabsheetsajda2_1p4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1p4s.caption
-msgctxt "tformmain.tabsheetsajda2_1p4s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1sh2s.caption
-msgctxt "tformmain.tabsheetsajda2_1sh2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1sh3f.caption
-msgctxt "tformmain.tabsheetsajda2_1sh3f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1v3v.caption
-msgctxt "tformmain.tabsheetsajda2_1v3v.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1x2s.caption
-msgctxt "tformmain.tabsheetsajda2_1x2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_1x4f.caption
-msgctxt "tformmain.tabsheetsajda2_1x4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2a4f.caption
-msgctxt "tformmain.tabsheetsajda2_2a4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2b2f.caption
-msgctxt "tformmain.tabsheetsajda2_2b2f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2b2s.caption
-msgctxt "tformmain.tabsheetsajda2_2b2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2p2s.caption
-msgctxt "tformmain.tabsheetsajda2_2p2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2p4f.caption
-msgctxt "tformmain.tabsheetsajda2_2p4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2p4s.caption
-msgctxt "tformmain.tabsheetsajda2_2p4s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2sh2s.caption
-msgctxt "tformmain.tabsheetsajda2_2sh2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2sh3f.caption
-msgctxt "tformmain.tabsheetsajda2_2sh3f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2v3v.caption
-msgctxt "tformmain.tabsheetsajda2_2v3v.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2x2s.caption
-msgctxt "tformmain.tabsheetsajda2_2x2s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda2_2x4f.caption
-msgctxt "tformmain.tabsheetsajda2_2x4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_1a4f.caption
-msgctxt "tformmain.tabsheetsajda3_1a4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_1p4f.caption
-msgctxt "tformmain.tabsheetsajda3_1p4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_1p4s.caption
-msgctxt "tformmain.tabsheetsajda3_1p4s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_1sh3f.caption
-msgctxt "tformmain.tabsheetsajda3_1sh3f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_1v3v.caption
-msgctxt "tformmain.tabsheetsajda3_1v3v.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_1x4f.caption
-msgctxt "tformmain.tabsheetsajda3_1x4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_2a4f.caption
-msgctxt "tformmain.tabsheetsajda3_2a4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_2p4f.caption
-msgctxt "tformmain.tabsheetsajda3_2p4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_2p4s.caption
-msgctxt "tformmain.tabsheetsajda3_2p4s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_2sh3f.caption
-msgctxt "tformmain.tabsheetsajda3_2sh3f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_2v3v.caption
-msgctxt "tformmain.tabsheetsajda3_2v3v.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda3_2x4f.caption
-msgctxt "tformmain.tabsheetsajda3_2x4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda4_1a4f.caption
-msgctxt "tformmain.tabsheetsajda4_1a4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda4_1p4f.caption
-msgctxt "tformmain.tabsheetsajda4_1p4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda4_1p4s.caption
-msgctxt "tformmain.tabsheetsajda4_1p4s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda4_1x4f.caption
-msgctxt "tformmain.tabsheetsajda4_1x4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda4_2a4f.caption
-msgctxt "tformmain.tabsheetsajda4_2a4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda4_2p4f.caption
-msgctxt "tformmain.tabsheetsajda4_2p4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda4_2p4s.caption
-msgctxt "tformmain.tabsheetsajda4_2p4s.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsajda4_2x4f.caption
-msgctxt "tformmain.tabsheetsajda4_2x4f.caption"
-msgid "Sajda"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsaloma4f.caption
-msgctxt "tformmain.tabsheetsaloma4f.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomb2f.caption
-msgctxt "tformmain.tabsheetsalomb2f.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomb2s.caption
-msgctxt "tformmain.tabsheetsalomb2s.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomp2s.caption
-msgctxt "tformmain.tabsheetsalomp2s.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomp4f.caption
-msgctxt "tformmain.tabsheetsalomp4f.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomp4s.caption
-msgctxt "tformmain.tabsheetsalomp4s.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomsh2s.caption
-msgctxt "tformmain.tabsheetsalomsh2s.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomsh3f.caption
-msgctxt "tformmain.tabsheetsalomsh3f.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomv3v.caption
-msgctxt "tformmain.tabsheetsalomv3v.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomx2s.caption
-msgctxt "tformmain.tabsheetsalomx2s.caption"
-msgid "Salom"
-msgstr ""
-
-# Do not translate
-#: tformmain.tabsheetsalomx4f.caption
-msgctxt "tformmain.tabsheetsalomx4f.caption"
-msgid "Salom"
-msgstr ""
 
 #: tformmain.tabsheetsh2s.caption
 msgctxt "tformmain.tabsheetsh2s.caption"
@@ -5567,3 +3741,4 @@ msgstr "продолжить с прошлого места"
 #: tformsettings.radiobuttonstart.caption
 msgid "boshga o'tish"
 msgstr "перейти в начало"
+
