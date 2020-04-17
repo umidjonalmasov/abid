@@ -130,6 +130,7 @@ object FormSettings: TFormSettings
     CancelButton.OnClick = CancelButtonClick
     TabOrder = 1
     ShowButtons = [pbOK, pbCancel, pbHelp]
+    ShowGlyphs = [pbOK, pbCancel, pbClose]
     ShowBevel = False
   end
   object FontDialog: TFontDialog

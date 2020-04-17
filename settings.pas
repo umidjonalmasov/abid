@@ -24,7 +24,7 @@ interface
 
 uses
   SysUtils, Forms, Dialogs, StdCtrls, ButtonPanel, Buttons, IniPropStorage,
-  LCLTranslator, Details, Classes;
+  LCLTranslator, Details;
 
 type
 
