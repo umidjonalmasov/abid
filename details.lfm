@@ -1,13 +1,14 @@
 object FormDetails: TFormDetails
-  Left = 448
+  Left = 419
   Height = 537
-  Top = 113
+  Top = 223
   Width = 796
   AutoSize = True
   ClientHeight = 537
   ClientWidth = 796
   OnActivate = FormActivate
   OnClose = FormClose
+  OnCreate = FormCreate
   Position = poMainFormCenter
   SessionProperties = 'PageControlMain.Font'
   ShowInTaskBar = stNever
@@ -462,25 +463,25 @@ object FormDetails: TFormDetails
     TabOrder = 1
     object TabSheetAzonBomdod: TTabSheet
       Caption = 'AzonBomdod'
-      ClientHeight = 493
-      ClientWidth = 788
+      ClientHeight = 495
+      ClientWidth = 790
       object ScrollBoxAzonBomdod: TScrollBox
         Left = 0
-        Height = 493
+        Height = 495
         Top = 0
-        Width = 788
+        Width = 790
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 375
+        VertScrollBar.Page = 414
         Align = alClient
-        ClientHeight = 489
-        ClientWidth = 784
+        ClientHeight = 493
+        ClientWidth = 788
         TabOrder = 0
         object LabelAzonBomdodDesc: TLabel
           Left = 10
-          Height = 120
+          Height = 144
           Top = 10
-          Width = 764
+          Width = 768
           Align = alTop
           BorderSpacing.Around = 10
           Caption = 'Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish ta''kidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qo''lning ko''rsatkich barmoqlarini quloq ichiga qo''yib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya ''las-solah» kalimasida boshini o''ng tarafga, «Hayya ''alal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, so''zlashdan to''xtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya ''alas-solah», deganida «Laa havla va laa quvvata illaa billahil ''aliyyil-a''ziym», deydi, «Hayya ''alal falah», deganida esa «Maa sha Allohu kaana vama alam yasha'' lam yakun», deydi. Safarda va jome'' masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi.'
@@ -489,9 +490,9 @@ object FormDetails: TFormDetails
         end
         object LabelAzonBomdodAr: TLabel
           Left = 10
-          Height = 339
-          Top = 140
-          Width = 124
+          Height = 319
+          Top = 164
+          Width = 150
           Align = alLeft
           Alignment = taRightJustify
           BorderSpacing.Around = 10
@@ -500,10 +501,10 @@ object FormDetails: TFormDetails
           WordWrap = True
         end
         object LabelAzonBomdodTr: TLabel
-          Left = 371
-          Height = 339
-          Top = 140
-          Width = 316
+          Left = 427
+          Height = 319
+          Top = 164
+          Width = 354
           Align = alLeft
           BorderSpacing.Around = 10
           Caption = 'Ma''nosi:'#10'Alloh ulug''dir Alloh ulug''dir'#10'Alloh ulug''dir Alloh ulug''dir'#10'Guvohlik beramanki, Allohdan boshqa iloh yo''q'#10'Guvohlik beramanki, Allohdan boshqa iloh yo''q'#10'Guvohlik beramanki, Muhammad Allohning payg''ambaridir'#10'Guvohlik beramanki, Muhammad Allohning payg''ambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz uyqudan afzal'#10'Namoz uyqudan afzal'#10'Alloh ulug''dir Alloh ulug''dir'#10'Allohdan o''zga iloh yo''q'''
@@ -511,10 +512,10 @@ object FormDetails: TFormDetails
           WordWrap = True
         end
         object LabelAzonBomdodPr: TLabel
-          Left = 144
-          Height = 339
-          Top = 140
-          Width = 217
+          Left = 170
+          Height = 319
+          Top = 164
+          Width = 247
           Align = alLeft
           BorderSpacing.Around = 10
           Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ''las-solaah'#10'Hayya ''las-solaah'#10'Hayya ''alal-falaah'#10'Hayya ''alal-falaah'#10'As-solatu xoyrum minan-navm'#10'As-solatu xoyrum minan-navm'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
@@ -534,7 +535,7 @@ object FormDetails: TFormDetails
         Width = 956
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 330
+        VertScrollBar.Page = 366
         Align = alClient
         ClientHeight = 453
         ClientWidth = 952
@@ -597,7 +598,7 @@ object FormDetails: TFormDetails
         Width = 956
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 130
+        VertScrollBar.Page = 152
         Align = alClient
         ClientHeight = 453
         ClientWidth = 952
@@ -649,7 +650,7 @@ object FormDetails: TFormDetails
         Width = 956
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 285
+        VertScrollBar.Page = 302
         Align = alClient
         ClientHeight = 453
         ClientWidth = 952
@@ -712,7 +713,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -766,7 +767,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -820,7 +821,7 @@ object FormDetails: TFormDetails
         Width = 956
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 493
         ClientWidth = 952
@@ -874,7 +875,7 @@ object FormDetails: TFormDetails
         Width = 956
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 493
         ClientWidth = 952
@@ -928,7 +929,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 140
+        VertScrollBar.Page = 148
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -980,6 +981,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
+        VertScrollBar.Page = 84
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1031,7 +1033,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 95
+        VertScrollBar.Page = 100
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1083,7 +1085,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 110
+        VertScrollBar.Page = 116
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1135,7 +1137,7 @@ object FormDetails: TFormDetails
         Width = 1030
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 125
+        VertScrollBar.Page = 132
         Align = alClient
         ClientHeight = 491
         ClientWidth = 1026
@@ -1187,7 +1189,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1241,7 +1243,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1295,7 +1297,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1349,7 +1351,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1403,7 +1405,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 130
+        VertScrollBar.Page = 152
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1455,7 +1457,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 145
+        VertScrollBar.Page = 168
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1507,7 +1509,7 @@ object FormDetails: TFormDetails
         Width = 1030
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 1026
@@ -1561,7 +1563,7 @@ object FormDetails: TFormDetails
         Width = 960
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 956
@@ -1615,7 +1617,7 @@ object FormDetails: TFormDetails
         Width = 1030
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 370
+        VertScrollBar.Page = 392
         Align = alClient
         ClientHeight = 491
         ClientWidth = 1026
@@ -1667,7 +1669,7 @@ object FormDetails: TFormDetails
         Width = 1030
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 1026
@@ -1721,7 +1723,7 @@ object FormDetails: TFormDetails
         Width = 1030
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 250
+        VertScrollBar.Page = 254
         Align = alClient
         ClientHeight = 491
         ClientWidth = 1026
@@ -1733,8 +1735,8 @@ object FormDetails: TFormDetails
           Width = 1028
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 1028
+          ClientHeight = 46
+          ClientWidth = 1024
           ParentColor = False
           TabOrder = 0
           object LabelSubhanallohAr: TLabel
@@ -1778,8 +1780,8 @@ object FormDetails: TFormDetails
           Width = 1028
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 1028
+          ClientHeight = 46
+          ClientWidth = 1024
           ParentColor = False
           TabOrder = 1
           object LabelAlhamdulillahAr: TLabel
@@ -1823,8 +1825,8 @@ object FormDetails: TFormDetails
           Width = 1028
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 1028
+          ClientHeight = 46
+          ClientWidth = 1024
           ParentColor = False
           TabOrder = 2
           object LabelAllohuAkbarAr: TLabel
@@ -1910,7 +1912,7 @@ object FormDetails: TFormDetails
         Width = 1030
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 170
+        VertScrollBar.Page = 180
         Align = alClient
         ClientHeight = 491
         ClientWidth = 1026
@@ -1962,7 +1964,7 @@ object FormDetails: TFormDetails
         Width = 1030
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
         ClientWidth = 1026
@@ -2011,5 +2013,10 @@ object FormDetails: TFormDetails
     OnTimer = TimerTimer
     left = 884
     top = 432
+  end
+  object IniPropStorage: TIniPropStorage
+    StoredValues = <>
+    left = 595
+    top = 447
   end
 end

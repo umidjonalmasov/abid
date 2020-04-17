@@ -23,7 +23,8 @@ unit Details;
 interface
 
 uses
-  SysUtils, Forms, LCLIntf, LCLType, ExtCtrls, ComCtrls, Buttons, StdCtrls, BASS;
+  SysUtils, Forms, LCLIntf, LCLType, ExtCtrls, ComCtrls, Buttons, StdCtrls,
+  IniPropStorage, BASS, Classes;
 
 resourcestring
   VersionError = 'BASS versiyasi notoʼgʼri';
@@ -36,6 +37,7 @@ type
   { TFormDetails }
 
   TFormDetails = class(TForm)
+    IniPropStorage: TIniPropStorage;
     LabelAllohuAkbarAr: TLabel;
     LabelAllohuAkbarPr: TLabel;
     LabelAllohuAkbarTr: TLabel;
@@ -193,6 +195,7 @@ type
     procedure FormActivate(Sender: TObject);
     procedure ChannelPos;
     procedure FormClose(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
     procedure TimerTimer(Sender: TObject);
   private
     str: HSTREAM;
@@ -478,6 +481,11 @@ begin
   ButtonPause.Enabled:=false;
   ButtonStop.Enabled:=false;
   Timer.Enabled:=false;
+end;
+
+procedure TFormDetails.FormCreate(Sender: TObject);
+begin
+  IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
 end;
 
 procedure TFormDetails.TimerTimer(Sender: TObject);
