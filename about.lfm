@@ -272,7 +272,7 @@ object FormAbout: TFormAbout
         Left = 160
         Height = 17
         Top = 224
-        Width = 321
+        Width = 325
         BorderSpacing.Around = 10
         Caption = 'Namoz oʼqishni oʼrgatuvchi multimedia dasturi'
         Font.Height = -15
@@ -310,7 +310,7 @@ object FormAbout: TFormAbout
         Height = 42
         Top = 256
         Width = 171
-        Caption = 'Ushbu dasturni va u uchun savobni'#10'marhum otam Almasov Jaʼfarga'#10'bagʼishlayman'
+        Caption = 'Ushbu dasturni va u uchun savobni'#10'marhum otam Almasov Jaʼfarga'#10'(1942-2017) bagʼishlayman'
         Font.Height = -11
         ParentColor = False
         ParentFont = False
