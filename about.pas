@@ -23,7 +23,7 @@ unit About;
 interface
 
 uses
-  Forms, ComCtrls, StdCtrls, ExtCtrls, LCLIntf, ButtonPanel;
+  Forms, ComCtrls, StdCtrls, ExtCtrls, LCLIntf, ButtonPanel, Classes;
 
 type
 
@@ -33,7 +33,21 @@ type
     ButtonPanel: TButtonPanel;
     ImageIslomUz: TImage;
     ImageAzanKz: TImage;
+    ImageLazarus: TImage;
+    ImageBass: TImage;
+    Image5: TImage;
     ImageLogo: TImage;
+    LabelIslomUz: TLabel;
+    LabelMintWeb: TLabel;
+    LabelContributors: TLabel;
+    LabelIslomUzWeb: TLabel;
+    LabelAzanKz: TLabel;
+    LabelAzanKzWeb: TLabel;
+    LabelLazarus: TLabel;
+    LabelLazarusWeb: TLabel;
+    LabelBass: TLabel;
+    LabelBassWeb: TLabel;
+    LabelMint: TLabel;
     LabelDedication: TLabel;
     LabelHadis: TLabel;
     LabelQuron: TLabel;
@@ -44,12 +58,20 @@ type
     LabelBasmala: TLabel;
     MemoLicense: TMemo;
     PageControl: TPageControl;
-    PanelIslomUz: TPanel;
+    PanelIslonUz: TPanel;
     PanelAzanKz: TPanel;
+    PanelLazarus: TPanel;
+    PanelBass: TPanel;
+    PanelMint: TPanel;
     TabSheetAbid: TTabSheet;
     TabSheetContributors: TTabSheet;
     TabSheetLicense: TTabSheet;
     procedure FormClose(Sender: TObject);
+    procedure LabelMintWebClick(Sender: TObject);
+    procedure LabelIslomUzWebClick(Sender: TObject);
+    procedure LabelAzanKzWebClick(Sender: TObject);
+    procedure LabelLazarusWebClick(Sender: TObject);
+    procedure LabelBassWebClick(Sender: TObject);
     procedure LabelWebClick(Sender: TObject);
     procedure PanelAzanKzClick(Sender: TObject);
     procedure PanelIslomUzClick(Sender: TObject);
@@ -76,6 +98,31 @@ end;
 procedure TFormAbout.FormClose(Sender: TObject);
 begin
   PageControl.ActivePage:=TabSheetAbid;
+end;
+
+procedure TFormAbout.LabelMintWebClick(Sender: TObject);
+begin
+  OpenURL('https://linuxmint.com/');
+end;
+
+procedure TFormAbout.LabelIslomUzWebClick(Sender: TObject);
+begin
+  OpenURL('https://islom.uz/');
+end;
+
+procedure TFormAbout.LabelAzanKzWebClick(Sender: TObject);
+begin
+  OpenURL('https://azan.kz/');
+end;
+
+procedure TFormAbout.LabelLazarusWebClick(Sender: TObject);
+begin
+  OpenURL('https://www.lazarus-ide.org/');
+end;
+
+procedure TFormAbout.LabelBassWebClick(Sender: TObject);
+begin
+  OpenURL('http://www.un4seen.com/');
 end;
 
 procedure TFormAbout.PanelAzanKzClick(Sender: TObject);
