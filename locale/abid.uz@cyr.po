@@ -61,20 +61,20 @@ msgstr "Муаллифлик ҳуқуқи © 2015-2020 Умиджон Алмас
 #: tformabout.labeldedication.caption
 msgid ""
 "Ushbu dasturni va u uchun savobni\n"
-"marhum otam Almasov Ja'farga\n"
-"bag'ishlayman\n"
+"marhum otam Almasov Jaʼfarga\n"
+"(1942-2017) bagʼishlayman\n"
 msgstr ""
 "Ушбу дастурни ва у учун савобни\n"
 "марҳум отам Алмасов Жаъфарга\n"
-"бағишлайман\n"
+"(1942-2017) бағишлайман\n"
 
 #: tformabout.labeldescription.caption
-msgid "Namoz o'qishni o'rgatuvchi multimedia dasturi"
+msgid "Namoz oʼqishni oʼrgatuvchi multimedia dasturi"
 msgstr "Намоз ўқишни ўргатувчи мультимедия дастури"
 
 #: tformabout.labelhadis.caption
 msgid ""
-"Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb so'rashganida: «Vaqtida o'qilgan namoz», deb javob berganlar\n"
+"Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb soʼrashganida: «Vaqtida oʼqilgan namoz», deb javob berganlar\n"
 "(Imom Buxoriy va Muslim rivoyat qilishgan).\n"
 msgstr ""
 "Расули Акрамдан: «Қайси амал афзал (Аллоҳга севимлироқ)?», деб сўрашганида: «Вақтида ўқилган намоз», деб жавоб берганлар\n"
@@ -87,7 +87,7 @@ msgstr "Абид 4.1"
 #: tformabout.labelquron.caption
 msgid ""
 "Alloh taolo shunday marhamat etadi:\n"
-"«Namozni to'kis ado qiling, zakotni bering va ruku' qiluvchilar bilan ruku' qiling»\n"
+"«Namozni toʼkis ado qiling, zakotni bering va rukuʼ qiluvchilar bilan rukuʼ qiling»\n"
 "(Baqara surasi, 43-oyat).\n"
 msgstr ""
 "Аллоҳ таоло шундай марҳамат этади:\n"

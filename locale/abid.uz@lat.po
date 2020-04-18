@@ -61,17 +61,17 @@ msgstr ""
 #: tformabout.labeldedication.caption
 msgid ""
 "Ushbu dasturni va u uchun savobni\n"
-"marhum otam Almasov Ja'farga\n"
-"bag'ishlayman\n"
+"marhum otam Almasov Jaʼfarga\n"
+"(1942-2017) bagʼishlayman\n"
 msgstr ""
 
 #: tformabout.labeldescription.caption
-msgid "Namoz o'qishni o'rgatuvchi multimedia dasturi"
+msgid "Namoz oʼqishni oʼrgatuvchi multimedia dasturi"
 msgstr ""
 
 #: tformabout.labelhadis.caption
 msgid ""
-"Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb so'rashganida: «Vaqtida o'qilgan namoz», deb javob berganlar\n"
+"Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb soʼrashganida: «Vaqtida oʼqilgan namoz», deb javob berganlar\n"
 "(Imom Buxoriy va Muslim rivoyat qilishgan).\n"
 msgstr ""
 
@@ -82,7 +82,7 @@ msgstr ""
 #: tformabout.labelquron.caption
 msgid ""
 "Alloh taolo shunday marhamat etadi:\n"
-"«Namozni to'kis ado qiling, zakotni bering va ruku' qiluvchilar bilan ruku' qiling»\n"
+"«Namozni toʼkis ado qiling, zakotni bering va rukuʼ qiluvchilar bilan rukuʼ qiling»\n"
 "(Baqara surasi, 43-oyat).\n"
 msgstr ""
 
