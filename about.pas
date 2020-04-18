@@ -23,7 +23,7 @@ unit About;
 interface
 
 uses
-  Forms, ComCtrls, StdCtrls, ExtCtrls, LCLIntf, ButtonPanel, Classes;
+  Forms, ComCtrls, StdCtrls, ExtCtrls, LCLIntf, ButtonPanel;
 
 type
 
@@ -58,7 +58,7 @@ type
     LabelBasmala: TLabel;
     MemoLicense: TMemo;
     PageControl: TPageControl;
-    PanelIslonUz: TPanel;
+    PanelIslomUz: TPanel;
     PanelAzanKz: TPanel;
     PanelLazarus: TPanel;
     PanelBass: TPanel;
