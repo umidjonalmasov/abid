@@ -331,6 +331,7 @@ object FormAbout: TFormAbout
         BevelOuter = bvNone
         ClientHeight = 50
         ClientWidth = 495
+        Color = 16773346
         ParentColor = False
         TabOrder = 0
         object ImageIslomUz: TImage
@@ -697,6 +698,8 @@ object FormAbout: TFormAbout
         BevelOuter = bvNone
         ClientHeight = 50
         ClientWidth = 495
+        Color = 16773346
+        ParentColor = False
         TabOrder = 2
         object ImageLazarus: TImage
           Left = 0
@@ -943,6 +946,8 @@ object FormAbout: TFormAbout
         BevelOuter = bvNone
         ClientHeight = 50
         ClientWidth = 495
+        Color = 16773346
+        ParentColor = False
         TabOrder = 4
         object Image5: TImage
           Left = 0
