@@ -55,8 +55,8 @@ msgid "Bismillahir rohmanir rohiym"
 msgstr "Бисмилляхир рахманир рахим"
 
 #: tformabout.labelcontributors.caption
-msgid "Dasturda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman."
-msgstr "В приложении использованы материалы и программное обеспечение следующих проектов. Выражаю благодарность данным проектам."
+msgid "Dastur tuzishda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman."
+msgstr "При разработке приложения использованы материалы и программное обеспечение следующих проектов. Выражаю благодарность данным проектам."
 
 #: tformabout.labelcopyright.caption
 msgid "Mualliflik huquqi © 2015-2020 Umidjon Almasov"

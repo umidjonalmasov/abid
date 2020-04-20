@@ -45,7 +45,7 @@ msgid "Bismillahir rohmanir rohiym"
 msgstr ""
 
 #: tformabout.labelcontributors.caption
-msgid "Dasturda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman."
+msgid "Dastur tuzishda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman."
 msgstr ""
 
 #: tformabout.labelcopyright.caption
