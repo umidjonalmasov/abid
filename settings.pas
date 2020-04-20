@@ -27,7 +27,7 @@ uses
   LCLTranslator, Details;
 
 resourcestring
-  NoTranslate = 'Ushbu tilga tarjima mavjud emas.';
+  NoTranslate = 'Ushbu tilga tarjimasi mavjud emas.';
 
 type
 
