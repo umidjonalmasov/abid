@@ -50,13 +50,14 @@ msgctxt "tformabout.caption"
 msgid "Dastur haqida"
 msgstr "О программе"
 
+#: tformabout.labelacknowledgements.caption
+msgctxt "tformabout.labelacknowledgements.caption"
+msgid "Dastur tuzishda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman."
+msgstr "При разработке приложения использованы материалы и программное обеспечение следующих проектов. Выражаю благодарность данным проектам."
+
 #: tformabout.labelbasmala.caption
 msgid "Bismillahir rohmanir rohiym"
 msgstr "Бисмилляхир рахманир рахим"
-
-#: tformabout.labelcontributors.caption
-msgid "Dastur tuzishda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman."
-msgstr "При разработке приложения использованы материалы и программное обеспечение следующих проектов. Выражаю благодарность данным проектам."
 
 #: tformabout.labelcopyright.caption
 msgid "Mualliflik huquqi © 2015-2020 Umidjon Almasov"
@@ -103,7 +104,8 @@ msgctxt "tformabout.tabsheetabid.caption"
 msgid "Abid"
 msgstr "Абид"
 
-#: tformabout.tabsheetcontributors.caption
+#: tformabout.tabsheetacknowledgements.caption
+msgctxt "tformabout.tabsheetacknowledgements.caption"
 msgid "Minnatdorlik"
 msgstr "Благодарности"
 
