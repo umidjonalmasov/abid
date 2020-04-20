@@ -39,7 +39,7 @@ type
     ImageLogo: TImage;
     LabelIslomUz: TLabel;
     LabelMintWeb: TLabel;
-    LabelContributors: TLabel;
+    LabelAcknowledgements: TLabel;
     LabelIslomUzWeb: TLabel;
     LabelAzanKz: TLabel;
     LabelAzanKzWeb: TLabel;
@@ -64,7 +64,7 @@ type
     PanelBass: TPanel;
     PanelMint: TPanel;
     TabSheetAbid: TTabSheet;
-    TabSheetContributors: TTabSheet;
+    TabSheetAcknowledgements: TTabSheet;
     TabSheetLicense: TTabSheet;
     procedure FormClose(Sender: TObject);
     procedure LabelMintWebClick(Sender: TObject);

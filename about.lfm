@@ -317,7 +317,7 @@ object FormAbout: TFormAbout
         ParentFont = False
       end
     end
-    object TabSheetContributors: TTabSheet
+    object TabSheetAcknowledgements: TTabSheet
       Caption = 'Minnatdorlik'
       ClientHeight = 352
       ClientWidth = 507
@@ -1085,7 +1085,7 @@ object FormAbout: TFormAbout
           OnClick = LabelMintWebClick
         end
       end
-      object LabelContributors: TLabel
+      object LabelAcknowledgements: TLabel
         Left = 10
         Height = 32
         Top = 10
