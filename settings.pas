@@ -26,6 +26,9 @@ uses
   SysUtils, Forms, Dialogs, StdCtrls, ButtonPanel, Buttons, IniPropStorage,
   LCLTranslator, Details;
 
+resourcestring
+  NoTranslate = 'Ushbu tilga tarjima mavjud emas.';
+
 type
 
   { TFormSettings }
@@ -107,25 +110,35 @@ begin
      end;
    1:
      begin
-       SetDefaultLang('uz@cyr');
-       ComboBoxLanguage.Items.Clear;
-       ComboBoxLanguage.Items.Add('Ўзбек (лотин)');
-       ComboBoxLanguage.Items.Add('Ўзбек (кирилл)');
-       ComboBoxLanguage.Items.Add('Рус');
-       ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[1];
-       if FormMain.PanelImage.Visible=true then
-          begin
-            FormMain.MenuItemImage.Caption:=ImageHide;
-            FormMain.ButtonImage.Caption:=ImageHide;
-          end
+       if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.uz@cyr.po') then
+       begin
+         SetDefaultLang('uz@cyr');
+         ComboBoxLanguage.Items.Clear;
+         ComboBoxLanguage.Items.Add('Ўзбек (лотин)');
+         ComboBoxLanguage.Items.Add('Ўзбек (кирилл)');
+         ComboBoxLanguage.Items.Add('Рус');
+         ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[1];
+         if FormMain.PanelImage.Visible=true then
+            begin
+              FormMain.MenuItemImage.Caption:=ImageHide;
+              FormMain.ButtonImage.Caption:=ImageHide;
+            end
+         else
+            begin
+              FormMain.MenuItemImage.Caption:=ImageShow;
+              FormMain.ButtonImage.Caption:=ImageShow;
+            end;
+       end
        else
-          begin
-            FormMain.MenuItemImage.Caption:=ImageShow;
-            FormMain.ButtonImage.Caption:=ImageShow;
-          end;
+        begin
+         ShowMessage(NoTranslate);
+         IniPropStorage.Restore;
+        end;
      end;
    2:
      begin
+       if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.ru.po') then
+       begin
        SetDefaultLang('ru');
        ComboBoxLanguage.Items.Clear;
        ComboBoxLanguage.Items.Add('Узбекский (латиница)');
@@ -142,6 +155,12 @@ begin
             FormMain.MenuItemImage.Caption:=ImageShow;
             FormMain.ButtonImage.Caption:=ImageShow;
           end;
+     end
+       else
+       begin
+         ShowMessage(NoTranslate);
+         IniPropStorage.Restore;
+        end;
      end;
  end;
   OKButtonClick(self);

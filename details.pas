@@ -23,8 +23,8 @@ unit Details;
 interface
 
 uses
-  SysUtils, Forms, LCLIntf, LCLType, ExtCtrls, ComCtrls, Buttons, StdCtrls,
-  IniPropStorage, BASS;
+  SysUtils, Forms, Dialogs, LCLIntf, LCLType, ExtCtrls, ComCtrls, Buttons,
+  StdCtrls, IniPropStorage, BASS;
 
 resourcestring
   VersionError = 'BASS versiyasi notoʼgʼri';
@@ -252,17 +252,13 @@ end;
 procedure TFormDetails.FormActivate(Sender: TObject);
 var
   f: PChar;
-  s, v: string;
 begin
   if (HIWORD(BASS_GetVersion) <> BASSVERSION) then
     begin
      if (i <> false) then
-       begin
-        v:=VersionError + #13#10 + NoSound;
-        MessageBox(Handle,PChar(v),nil,MB_ICONERROR);
-       end;
-      ButtonPlay.Enabled:=false;
-      i:=false;
+      ShowMessage(VersionError + sLineBreak + NoSound);
+     ButtonPlay.Enabled:=false;
+     i:=false;
     end
   else
   {$IFDEF MSWINDOWS}
@@ -273,12 +269,9 @@ begin
   then
     begin
      if (j <> false) then
-       begin
-        s:=SoundError + #13#10 + ErrorCode + IntToStr(BASS_ErrorGetCode) + ')' + #13#10 + NoSound;
-        MessageBox(Handle, PChar(s), nil,MB_ICONERROR);
-       end;
-      ButtonPlay.Enabled:=false;
-      j:=false;
+      ShowMessage(SoundError + sLineBreak + ErrorCode + IntToStr(BASS_ErrorGetCode) + ')' + sLineBreak + NoSound);
+     ButtonPlay.Enabled:=false;
+     j:=false;
     end
   else
     case PageControlMain.ActivePageIndex of
