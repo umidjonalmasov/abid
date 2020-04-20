@@ -41,6 +41,10 @@ msgstr "Скрыть изображения"
 msgid "Tasvirlarni koʼrsatish"
 msgstr "Показать изображения"
 
+#: settings.notranslate
+msgid "Ushbu tilga tarjima mavjud emas."
+msgstr "Перевод на данный язык отсутствует."
+
 #: tformabout.buttonpanel.closebutton.caption
 msgid "Yopish"
 msgstr "Закрыть"

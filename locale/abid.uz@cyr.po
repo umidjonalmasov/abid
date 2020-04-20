@@ -41,6 +41,10 @@ msgstr "Тасвирларни яшириш"
 msgid "Tasvirlarni koʼrsatish"
 msgstr "Тасвирларни кўрсатиш"
 
+#: settings.notranslate
+msgid "Ushbu tilga tarjima mavjud emas."
+msgstr "Ушбу тилга таржима мавжуд эмас."
+
 #: tformabout.buttonpanel.closebutton.caption
 msgid "Yopish"
 msgstr "Ёпиш"
