@@ -5,6 +5,7 @@
 {"hash":249398936,"name":"tformsettings.radiobuttonstart.caption","sourcebytes":[98,111,115,104,103,97,32,111,202,188,116,105,115,104],"value":"boshga o\u02BCtish"},
 {"hash":29499352,"name":"tformsettings.radiobuttoncontinue.caption","sourcebytes":[113,111,108,103,97,110,32,103,111,121,100,97,110,32,100,97,118,111,109,32,101,116,105,115,104],"value":"qolgan goydan davom etish"},
 {"hash":23292,"name":"tformsettings.groupboxlanguage.caption","sourcebytes":[84,105,108],"value":"Til"},
+{"hash":188632905,"name":"tformsettings.comboboxlanguage.text","sourcebytes":[79,202,188,122,98,101,107,32,40,108,111,116,105,110,41],"value":"O\u02BCzbek (lotin)"},
 {"hash":207448344,"name":"tformsettings.buttonfont.caption","sourcebytes":[83,104,114,105,102,116,32,111,202,188,122,103,97,114,116,105,114,105,115,104],"value":"Shrift o\u02BCzgartirish"},
 {"hash":1339,"name":"tformsettings.buttonpanel.okbutton.caption","sourcebytes":[79,75],"value":"OK"},
 {"hash":176467252,"name":"tformsettings.buttonpanel.helpbutton.caption","sourcebytes":[83,116,97,110,100,97,114,116],"value":"Standart"},
