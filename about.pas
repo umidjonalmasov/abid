@@ -73,8 +73,6 @@ type
     procedure LabelLazarusWebClick(Sender: TObject);
     procedure LabelBassWebClick(Sender: TObject);
     procedure LabelWebClick(Sender: TObject);
-    procedure PanelAzanKzClick(Sender: TObject);
-    procedure PanelIslomUzClick(Sender: TObject);
   private
 
   public
@@ -123,16 +121,6 @@ end;
 procedure TFormAbout.LabelBassWebClick(Sender: TObject);
 begin
   OpenURL('http://www.un4seen.com/');
-end;
-
-procedure TFormAbout.PanelAzanKzClick(Sender: TObject);
-begin
-  OpenURL('https://azan.kz/');
-end;
-
-procedure TFormAbout.PanelIslomUzClick(Sender: TObject);
-begin
-  OpenURL('https://islom.uz/');
 end;
 
 end.
