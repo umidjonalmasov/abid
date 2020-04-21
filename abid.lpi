@@ -16,7 +16,7 @@
     <i18n>
       <EnableI18N Value="True"/>
       <OutDir Value="locale"/>
-      <ExcludedIdentifiers Count="305">
+      <ExcludedIdentifiers Count="306">
         <Item1 Value="tformabout.labelweb.caption"/>
         <Item2 Value="tformabout.labelislomuz.caption"/>
         <Item3 Value="tformabout.labelislomuzweb.caption"/>
@@ -322,6 +322,7 @@
         <Item303 Value="tformmain.tabsheetsalomv3v.caption"/>
         <Item304 Value="tformmain.tabsheetsalomx2s.caption"/>
         <Item305 Value="tformmain.tabsheetsalomx4f.caption"/>
+        <Item306 Value="tformsettings.comboboxlanguage.text"/>
       </ExcludedIdentifiers>
     </i18n>
     <VersionInfo>
