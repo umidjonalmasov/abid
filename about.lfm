@@ -16,7 +16,7 @@ object FormAbout: TFormAbout
   LCLVersion = '2.0.8.0'
   object PageControl: TPageControl
     Left = 6
-    Height = 386
+    Height = 382
     Top = 6
     Width = 513
     ActivePage = TabSheetAbid
@@ -27,12 +27,12 @@ object FormAbout: TFormAbout
     object TabSheetAbid: TTabSheet
       Caption = 'Abid'
       ClientHeight = 352
-      ClientWidth = 507
+      ClientWidth = 503
       object LabelBasmala: TLabel
         Left = 10
         Height = 16
         Top = 10
-        Width = 487
+        Width = 483
         Align = alTop
         Alignment = taCenter
         BorderSpacing.Around = 10
@@ -253,7 +253,7 @@ object FormAbout: TFormAbout
         Height = 37
         Top = 168
         Width = 118
-        Caption = 'Abid 4.1'
+        Caption = 'Abid 4.2'
         Font.Height = -32
         ParentColor = False
         ParentFont = False
@@ -262,7 +262,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 16
         Top = 326
-        Width = 487
+        Width = 483
         Align = alBottom
         Alignment = taCenter
         BorderSpacing.Around = 10
@@ -284,7 +284,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 48
         Top = 36
-        Width = 487
+        Width = 483
         Align = alTop
         BorderSpacing.Around = 10
         Caption = 'Alloh taolo shunday marhamat etadi:'#10'«Namozni toʼkis ado qiling, zakotni bering va rukuʼ qiluvchilar bilan rukuʼ qiling»'#10'(Baqara surasi, 43-oyat).'
@@ -297,7 +297,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 48
         Top = 94
-        Width = 487
+        Width = 483
         Align = alTop
         BorderSpacing.Around = 10
         Caption = 'Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb soʼrashganida: «Vaqtida oʼqilgan namoz», deb javob berganlar'#10'(Imom Buxoriy va Muslim rivoyat qilishgan).'
@@ -320,7 +320,7 @@ object FormAbout: TFormAbout
     object TabSheetAcknowledgements: TTabSheet
       Caption = 'Minnatdorlik'
       ClientHeight = 352
-      ClientWidth = 507
+      ClientWidth = 503
       object PanelIslomUz: TPanel
         Left = 6
         Height = 50
@@ -1101,7 +1101,7 @@ object FormAbout: TFormAbout
     object TabSheetLicense: TTabSheet
       Caption = 'Litsenziyalar'
       ClientHeight = 352
-      ClientWidth = 507
+      ClientWidth = 503
       object MemoLicense: TMemo
         Left = 0
         Height = 386
@@ -1855,8 +1855,8 @@ object FormAbout: TFormAbout
   end
   object ButtonPanel: TButtonPanel
     Left = 6
-    Height = 26
-    Top = 398
+    Height = 30
+    Top = 394
     Width = 513
     OKButton.Name = 'OKButton'
     OKButton.DefaultCaption = True
@@ -1874,7 +1874,7 @@ object FormAbout: TFormAbout
     object LabelWeb: TLabel
       Cursor = crHandPoint
       Left = 0
-      Height = 26
+      Height = 30
       Top = 0
       Width = 513
       Align = alClient
