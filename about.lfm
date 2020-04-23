@@ -10,6 +10,7 @@ object FormAbout: TFormAbout
   ClientWidth = 525
   Constraints.MinHeight = 430
   Constraints.MinWidth = 525
+  OnActivate = FormActivate
   OnClose = FormClose
   Position = poMainFormCenter
   ShowInTaskBar = stNever
@@ -252,8 +253,8 @@ object FormAbout: TFormAbout
         Left = 256
         Height = 37
         Top = 168
-        Width = 118
-        Caption = 'Abid 4.2'
+        Width = 67
+        Caption = 'Abid'
         Font.Height = -32
         ParentColor = False
         ParentFont = False
