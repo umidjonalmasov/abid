@@ -90,8 +90,9 @@ msgstr ""
 "(Имом Бухорий ва Муслим ривоят қилишган).\n"
 
 #: tformabout.labelname.caption
-msgid "Abid 4.2"
-msgstr "Абид 4.2"
+msgctxt "tformabout.labelname.caption"
+msgid "Abid"
+msgstr "Абид"
 
 #: tformabout.labelquron.caption
 msgid ""
