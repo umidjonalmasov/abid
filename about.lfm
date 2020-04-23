@@ -20,10 +20,10 @@ object FormAbout: TFormAbout
     Height = 382
     Top = 6
     Width = 513
-    ActivePage = TabSheetAbid
+    ActivePage = TabSheetAcknowledgements
     Align = alClient
     BorderSpacing.Around = 6
-    TabIndex = 0
+    TabIndex = 1
     TabOrder = 0
     object TabSheetAbid: TTabSheet
       Caption = 'Abid'
@@ -326,13 +326,13 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 52
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
-        Color = 16773346
+        ClientWidth = 491
+        Color = clHighlight
         ParentColor = False
         TabOrder = 0
         object ImageIslomUz: TImage
@@ -530,12 +530,12 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 108
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
+        ClientWidth = 491
         TabOrder = 1
         object ImageAzanKz: TImage
           Left = 0
@@ -693,13 +693,13 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 164
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
-        Color = 16773346
+        ClientWidth = 491
+        Color = clHighlight
         ParentColor = False
         TabOrder = 2
         object ImageLazarus: TImage
@@ -853,12 +853,12 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 220
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
+        ClientWidth = 491
         TabOrder = 3
         object ImageBass: TImage
           Left = 0
@@ -941,13 +941,13 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 276
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
-        Color = 16773346
+        ClientWidth = 491
+        Color = clHighlight
         ParentColor = False
         TabOrder = 4
         object Image5: TImage
@@ -1090,7 +1090,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 32
         Top = 10
-        Width = 487
+        Width = 483
         Align = alTop
         Alignment = taCenter
         BorderSpacing.Around = 10
