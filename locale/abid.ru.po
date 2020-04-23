@@ -91,8 +91,8 @@ msgstr ""
 
 #: tformabout.labelname.caption
 msgctxt "tformabout.labelname.caption"
-msgid "Abid"
-msgstr "Абид"
+msgid "Abid 4.2"
+msgstr "Абид 4.2"
 
 #: tformabout.labelquron.caption
 msgid ""
