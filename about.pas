@@ -23,7 +23,7 @@ unit About;
 interface
 
 uses
-  Forms, ComCtrls, StdCtrls, ExtCtrls, LCLIntf, ButtonPanel, Classes;
+  Forms, ComCtrls, StdCtrls, ExtCtrls, LCLIntf, ButtonPanel;
 
 const
   AppVersion = '4.2';
