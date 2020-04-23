@@ -90,8 +90,8 @@ msgstr ""
 "(Передали имам Бухари и Муслим).\n"
 
 #: tformabout.labelname.caption
-msgid "Abid 4.1"
-msgstr "Абид 4.1"
+msgid "Abid 4.2"
+msgstr "Абид 4.2"
 
 #: tformabout.labelquron.caption
 msgid ""
