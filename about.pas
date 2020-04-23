@@ -25,9 +25,6 @@ interface
 uses
   Forms, ComCtrls, StdCtrls, ExtCtrls, LCLIntf, ButtonPanel;
 
-const
-  AppVersion = '4.2';
-
 type
 
   { TFormAbout }
@@ -69,7 +66,6 @@ type
     TabSheetAbid: TTabSheet;
     TabSheetAcknowledgements: TTabSheet;
     TabSheetLicense: TTabSheet;
-    procedure FormActivate(Sender: TObject);
     procedure FormClose(Sender: TObject);
     procedure LabelMintWebClick(Sender: TObject);
     procedure LabelIslomUzWebClick(Sender: TObject);
@@ -100,11 +96,6 @@ end;
 procedure TFormAbout.FormClose(Sender: TObject);
 begin
   PageControl.ActivePage:=TabSheetAbid;
-end;
-
-procedure TFormAbout.FormActivate(Sender: TObject);
-begin
-  LabelName.Caption:=LabelName.Caption + chr(32) + AppVersion;
 end;
 
 procedure TFormAbout.LabelMintWebClick(Sender: TObject);
