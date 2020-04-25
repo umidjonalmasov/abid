@@ -19,16 +19,16 @@ object FormAbout: TFormAbout
     Height = 382
     Top = 6
     Width = 513
-    ActivePage = TabSheetAbid
+    ActivePage = tsAbid
     Align = alClient
     BorderSpacing.Around = 6
     TabIndex = 0
     TabOrder = 0
-    object TabSheetAbid: TTabSheet
+    object tsAbid: TTabSheet
       Caption = 'Abid'
       ClientHeight = 352
       ClientWidth = 503
-      object LabelBasmala: TLabel
+      object lBasmala: TLabel
         Left = 10
         Height = 16
         Top = 10
@@ -41,7 +41,7 @@ object FormAbout: TFormAbout
         ParentColor = False
         ParentFont = False
       end
-      object ImageLogo: TImage
+      object iLogo: TImage
         Left = 16
         Height = 128
         Top = 176
@@ -248,7 +248,7 @@ object FormAbout: TFormAbout
           4E44AE426082
         }
       end
-      object LabelName: TLabel
+      object lName: TLabel
         Left = 256
         Height = 37
         Top = 168
@@ -258,7 +258,7 @@ object FormAbout: TFormAbout
         ParentColor = False
         ParentFont = False
       end
-      object LabelCopyright: TLabel
+      object lCopyright: TLabel
         Left = 10
         Height = 16
         Top = 326
@@ -269,7 +269,7 @@ object FormAbout: TFormAbout
         Caption = 'Mualliflik huquqi © 2015-2020 Umidjon Almasov'
         ParentColor = False
       end
-      object LabelDescription: TLabel
+      object lDescription: TLabel
         Left = 160
         Height = 17
         Top = 224
@@ -280,7 +280,7 @@ object FormAbout: TFormAbout
         ParentColor = False
         ParentFont = False
       end
-      object LabelQuron: TLabel
+      object lQuron: TLabel
         Left = 10
         Height = 48
         Top = 36
@@ -293,7 +293,7 @@ object FormAbout: TFormAbout
         ParentFont = False
         WordWrap = True
       end
-      object LabelHadis: TLabel
+      object lHadis: TLabel
         Left = 10
         Height = 48
         Top = 94
@@ -306,7 +306,7 @@ object FormAbout: TFormAbout
         ParentFont = False
         WordWrap = True
       end
-      object LabelDedication: TLabel
+      object lDedication: TLabel
         Left = 312
         Height = 42
         Top = 256
@@ -317,24 +317,23 @@ object FormAbout: TFormAbout
         ParentFont = False
       end
     end
-    object TabSheetAcknowledgements: TTabSheet
+    object tsAcknowledgements: TTabSheet
       Caption = 'Minnatdorlik'
       ClientHeight = 352
       ClientWidth = 503
-      object PanelIslomUz: TPanel
+      object pIslomUz: TPanel
         Left = 6
         Height = 50
         Top = 52
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
-        Color = clHighlight
+        ClientWidth = 491
         ParentColor = False
         TabOrder = 0
-        object ImageIslomUz: TImage
+        object iIslomUz: TImage
           Left = 0
           Height = 50
           Top = 0
@@ -502,7 +501,7 @@ object FormAbout: TFormAbout
             6D0000000049454E44AE426082
           }
         end
-        object LabelIslomUz: TLabel
+        object lIslomUz: TLabel
           Left = 60
           Height = 16
           Top = 16
@@ -512,7 +511,7 @@ object FormAbout: TFormAbout
           ParentColor = False
           ParentFont = False
         end
-        object LabelIslomUzWeb: TLabel
+        object lIslomUzWeb: TLabel
           Cursor = crHandPoint
           Left = 133
           Height = 16
@@ -522,21 +521,21 @@ object FormAbout: TFormAbout
           Font.Color = 16740608
           ParentColor = False
           ParentFont = False
-          OnClick = LabelIslomUzWebClick
+          OnClick = lIslomUzWebClick
         end
       end
-      object PanelAzanKz: TPanel
+      object pAzanKz: TPanel
         Left = 6
         Height = 50
         Top = 108
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
+        ClientWidth = 491
         TabOrder = 1
-        object ImageAzanKz: TImage
+        object iAzanKz: TImage
           Left = 0
           Height = 50
           Top = 0
@@ -665,7 +664,7 @@ object FormAbout: TFormAbout
             AE426082
           }
         end
-        object LabelAzanKz: TLabel
+        object lAzanKz: TLabel
           Left = 73
           Height = 16
           Top = 16
@@ -675,7 +674,7 @@ object FormAbout: TFormAbout
           ParentColor = False
           ParentFont = False
         end
-        object LabelAzanKzWeb: TLabel
+        object lAzanKzWeb: TLabel
           Cursor = crHandPoint
           Left = 141
           Height = 16
@@ -685,23 +684,22 @@ object FormAbout: TFormAbout
           Font.Color = 16740608
           ParentColor = False
           ParentFont = False
-          OnClick = LabelAzanKzWebClick
+          OnClick = lAzanKzWebClick
         end
       end
-      object PanelLazarus: TPanel
+      object pLazarus: TPanel
         Left = 6
         Height = 50
         Top = 164
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
-        Color = clHighlight
+        ClientWidth = 491
         ParentColor = False
         TabOrder = 2
-        object ImageLazarus: TImage
+        object iLazarus: TImage
           Left = 0
           Height = 50
           Top = 0
@@ -825,7 +823,7 @@ object FormAbout: TFormAbout
             0000000049454E44AE426082
           }
         end
-        object LabelLazarus: TLabel
+        object lLazarus: TLabel
           Left = 60
           Height = 16
           Top = 16
@@ -835,7 +833,7 @@ object FormAbout: TFormAbout
           ParentColor = False
           ParentFont = False
         end
-        object LabelLazarusWeb: TLabel
+        object lLazarusWeb: TLabel
           Cursor = crHandPoint
           Left = 119
           Height = 16
@@ -845,21 +843,21 @@ object FormAbout: TFormAbout
           Font.Color = 16740608
           ParentColor = False
           ParentFont = False
-          OnClick = LabelLazarusWebClick
+          OnClick = lLazarusWebClick
         end
       end
-      object PanelBass: TPanel
+      object pBass: TPanel
         Left = 6
         Height = 50
         Top = 220
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
+        ClientWidth = 491
         TabOrder = 3
-        object ImageBass: TImage
+        object iBass: TImage
           Left = 0
           Height = 50
           Top = 0
@@ -913,7 +911,7 @@ object FormAbout: TFormAbout
             0049454E44AE426082
           }
         end
-        object LabelBass: TLabel
+        object lBass: TLabel
           Left = 114
           Height = 16
           Top = 16
@@ -923,7 +921,7 @@ object FormAbout: TFormAbout
           ParentColor = False
           ParentFont = False
         end
-        object LabelBassWeb: TLabel
+        object lBassWeb: TLabel
           Cursor = crHandPoint
           Left = 242
           Height = 16
@@ -933,23 +931,22 @@ object FormAbout: TFormAbout
           Font.Color = 16740608
           ParentColor = False
           ParentFont = False
-          OnClick = LabelBassWebClick
+          OnClick = lBassWebClick
         end
       end
-      object PanelMint: TPanel
+      object pMint: TPanel
         Left = 6
         Height = 50
         Top = 276
-        Width = 495
+        Width = 491
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 495
-        Color = clHighlight
+        ClientWidth = 491
         ParentColor = False
         TabOrder = 4
-        object Image5: TImage
+        object iMint: TImage
           Left = 0
           Height = 50
           Top = 0
@@ -1062,7 +1059,7 @@ object FormAbout: TFormAbout
             271E48110000000049454E44AE426082
           }
         end
-        object LabelMint: TLabel
+        object lMint: TLabel
           Left = 65
           Height = 16
           Top = 16
@@ -1072,7 +1069,7 @@ object FormAbout: TFormAbout
           ParentColor = False
           ParentFont = False
         end
-        object LabelMintWeb: TLabel
+        object lMintWeb: TLabel
           Cursor = crHandPoint
           Left = 143
           Height = 16
@@ -1082,14 +1079,14 @@ object FormAbout: TFormAbout
           Font.Color = 16740608
           ParentColor = False
           ParentFont = False
-          OnClick = LabelMintWebClick
+          OnClick = lMintWebClick
         end
       end
-      object LabelAcknowledgements: TLabel
+      object lAcknowledgements: TLabel
         Left = 10
         Height = 32
         Top = 10
-        Width = 487
+        Width = 483
         Align = alTop
         Alignment = taCenter
         BorderSpacing.Around = 10
@@ -1098,11 +1095,11 @@ object FormAbout: TFormAbout
         WordWrap = True
       end
     end
-    object TabSheetLicense: TTabSheet
+    object tsLicense: TTabSheet
       Caption = 'Litsenziyalar'
       ClientHeight = 352
       ClientWidth = 503
-      object MemoLicense: TMemo
+      object mLicense: TMemo
         Left = 0
         Height = 386
         Top = 0
@@ -1871,7 +1868,7 @@ object FormAbout: TFormAbout
     DefaultButton = pbClose
     ShowButtons = [pbClose]
     ShowBevel = False
-    object LabelWeb: TLabel
+    object lWeb: TLabel
       Cursor = crHandPoint
       Left = 0
       Height = 30
@@ -1885,7 +1882,7 @@ object FormAbout: TFormAbout
       ParentColor = False
       ParentFont = False
       Transparent = False
-      OnClick = LabelWebClick
+      OnClick = lWebClick
     end
   end
 end

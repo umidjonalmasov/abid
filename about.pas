@@ -31,48 +31,48 @@ type
 
   TFormAbout = class(TForm)
     ButtonPanel: TButtonPanel;
-    ImageIslomUz: TImage;
-    ImageAzanKz: TImage;
-    ImageLazarus: TImage;
-    ImageBass: TImage;
-    Image5: TImage;
-    ImageLogo: TImage;
-    LabelIslomUz: TLabel;
-    LabelMintWeb: TLabel;
-    LabelAcknowledgements: TLabel;
-    LabelIslomUzWeb: TLabel;
-    LabelAzanKz: TLabel;
-    LabelAzanKzWeb: TLabel;
-    LabelLazarus: TLabel;
-    LabelLazarusWeb: TLabel;
-    LabelBass: TLabel;
-    LabelBassWeb: TLabel;
-    LabelMint: TLabel;
-    LabelDedication: TLabel;
-    LabelHadis: TLabel;
-    LabelQuron: TLabel;
-    LabelDescription: TLabel;
-    LabelWeb: TLabel;
-    LabelCopyright: TLabel;
-    LabelName: TLabel;
-    LabelBasmala: TLabel;
-    MemoLicense: TMemo;
+    iIslomUz: TImage;
+    iAzanKz: TImage;
+    iLazarus: TImage;
+    iBass: TImage;
+    iMint: TImage;
+    iLogo: TImage;
+    lIslomUz: TLabel;
+    lMintWeb: TLabel;
+    lAcknowledgements: TLabel;
+    lIslomUzWeb: TLabel;
+    lAzanKz: TLabel;
+    lAzanKzWeb: TLabel;
+    lLazarus: TLabel;
+    lLazarusWeb: TLabel;
+    lBass: TLabel;
+    lBassWeb: TLabel;
+    lMint: TLabel;
+    lDedication: TLabel;
+    lHadis: TLabel;
+    lQuron: TLabel;
+    lDescription: TLabel;
+    lWeb: TLabel;
+    lCopyright: TLabel;
+    lName: TLabel;
+    lBasmala: TLabel;
+    mLicense: TMemo;
     PageControl: TPageControl;
-    PanelIslomUz: TPanel;
-    PanelAzanKz: TPanel;
-    PanelLazarus: TPanel;
-    PanelBass: TPanel;
-    PanelMint: TPanel;
-    TabSheetAbid: TTabSheet;
-    TabSheetAcknowledgements: TTabSheet;
-    TabSheetLicense: TTabSheet;
+    pIslomUz: TPanel;
+    pAzanKz: TPanel;
+    pLazarus: TPanel;
+    pBass: TPanel;
+    pMint: TPanel;
+    tsAbid: TTabSheet;
+    tsAcknowledgements: TTabSheet;
+    tsLicense: TTabSheet;
     procedure FormClose(Sender: TObject);
-    procedure LabelMintWebClick(Sender: TObject);
-    procedure LabelIslomUzWebClick(Sender: TObject);
-    procedure LabelAzanKzWebClick(Sender: TObject);
-    procedure LabelLazarusWebClick(Sender: TObject);
-    procedure LabelBassWebClick(Sender: TObject);
-    procedure LabelWebClick(Sender: TObject);
+    procedure lMintWebClick(Sender: TObject);
+    procedure lIslomUzWebClick(Sender: TObject);
+    procedure lAzanKzWebClick(Sender: TObject);
+    procedure lLazarusWebClick(Sender: TObject);
+    procedure lBassWebClick(Sender: TObject);
+    procedure lWebClick(Sender: TObject);
   private
 
   public
@@ -88,37 +88,37 @@ implementation
 
 { TFormAbout }
 
-procedure TFormAbout.LabelWebClick(Sender: TObject);
+procedure TFormAbout.lWebClick(Sender: TObject);
 begin
   OpenURL('https://github.com/umidjonalmasov/abid');
 end;
 
 procedure TFormAbout.FormClose(Sender: TObject);
 begin
-  PageControl.ActivePage:=TabSheetAbid;
+  PageControl.ActivePage:=tsAbid;
 end;
 
-procedure TFormAbout.LabelMintWebClick(Sender: TObject);
+procedure TFormAbout.lMintWebClick(Sender: TObject);
 begin
   OpenURL('https://linuxmint.com/');
 end;
 
-procedure TFormAbout.LabelIslomUzWebClick(Sender: TObject);
+procedure TFormAbout.lIslomUzWebClick(Sender: TObject);
 begin
   OpenURL('https://islom.uz/');
 end;
 
-procedure TFormAbout.LabelAzanKzWebClick(Sender: TObject);
+procedure TFormAbout.lAzanKzWebClick(Sender: TObject);
 begin
   OpenURL('https://azan.kz/');
 end;
 
-procedure TFormAbout.LabelLazarusWebClick(Sender: TObject);
+procedure TFormAbout.lLazarusWebClick(Sender: TObject);
 begin
   OpenURL('https://www.lazarus-ide.org/');
 end;
 
-procedure TFormAbout.LabelBassWebClick(Sender: TObject);
+procedure TFormAbout.lBassWebClick(Sender: TObject);
 begin
   OpenURL('http://www.un4seen.com/');
 end;
