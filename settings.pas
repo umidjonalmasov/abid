@@ -96,15 +96,15 @@ begin
        cbLanguage.Items.Add('Oʼzbek (kirill)');
        cbLanguage.Items.Add('Rus');
        cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[0];
-       if FormMain.PanelImage.Visible=true then
+       if FormMain.pImage.Visible=true then
           begin
-            FormMain.MenuItemImage.Caption:=ImageHide;
-            FormMain.ButtonImage.Caption:=ImageHide;
+            FormMain.miImage.Caption:=ImageHide;
+            FormMain.bImage.Caption:=ImageHide;
           end
        else
           begin
-            FormMain.MenuItemImage.Caption:=ImageShow;
-            FormMain.ButtonImage.Caption:=ImageShow;
+            FormMain.miImage.Caption:=ImageShow;
+            FormMain.bImage.Caption:=ImageShow;
           end;
      end;
    1:
@@ -117,15 +117,15 @@ begin
          cbLanguage.Items.Add('Ўзбек (кирилл)');
          cbLanguage.Items.Add('Рус');
          cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[1];
-         if FormMain.PanelImage.Visible=true then
+         if FormMain.pImage.Visible=true then
             begin
-              FormMain.MenuItemImage.Caption:=ImageHide;
-              FormMain.ButtonImage.Caption:=ImageHide;
+              FormMain.miImage.Caption:=ImageHide;
+              FormMain.bImage.Caption:=ImageHide;
             end
          else
             begin
-              FormMain.MenuItemImage.Caption:=ImageShow;
-              FormMain.ButtonImage.Caption:=ImageShow;
+              FormMain.miImage.Caption:=ImageShow;
+              FormMain.bImage.Caption:=ImageShow;
             end;
        end
        else
@@ -144,15 +144,15 @@ begin
        cbLanguage.Items.Add('Узбекский (кириллица)');
        cbLanguage.Items.Add('Русский');
        cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[2];
-       if FormMain.PanelImage.Visible=true then
+       if FormMain.pImage.Visible=true then
           begin
-            FormMain.MenuItemImage.Caption:=ImageHide;
-            FormMain.ButtonImage.Caption:=ImageHide;
+            FormMain.miImage.Caption:=ImageHide;
+            FormMain.bImage.Caption:=ImageHide;
           end
        else
           begin
-            FormMain.MenuItemImage.Caption:=ImageShow;
-            FormMain.ButtonImage.Caption:=ImageShow;
+            FormMain.miImage.Caption:=ImageShow;
+            FormMain.bImage.Caption:=ImageShow;
           end;
      end
        else
