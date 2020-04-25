@@ -38,130 +38,130 @@ type
 
   TFormDetails = class(TForm)
     IniPropStorage: TIniPropStorage;
-    LabelAllohuAkbarAr: TLabel;
-    LabelAllohuAkbarPr: TLabel;
-    LabelAllohuAkbarTr: TLabel;
-    LabelDuoAr: TLabel;
-    LabelDuoPr: TLabel;
-    LabelDuoTr: TLabel;
-    LabelKursiAr: TLabel;
-    LabelKursiPr: TLabel;
-    LabelKursiTr: TLabel;
-    LabelTavhidAr: TLabel;
-    LabelSubhanallohAr: TLabel;
-    LabelRobbanaAr: TLabel;
-    LabelDuoFAr: TLabel;
-    LabelDuoFPr: TLabel;
-    LabelDuoFTr: TLabel;
-    LabelSalomAr: TLabel;
-    LabelRobbanaPr: TLabel;
-    LabelSalomPr: TLabel;
-    LabelRobbanaTr: TLabel;
-    LabelAziymAr: TLabel;
-    LabelAlaAr: TLabel;
-    LabelAlaPr: TLabel;
-    LabelAlaTr: TLabel;
-    LabelSalomTr: TLabel;
-    LabelAlhamdulillahAr: TLabel;
-    LabelSubhanallohPr: TLabel;
-    LabelAlhamdulillahPr: TLabel;
-    LabelSubhanallohTr: TLabel;
-    LabelAlhamdulillahTr: TLabel;
-    LabelTashahhudAr: TLabel;
-    LabelSalavotAr: TLabel;
-    LabelQunutAr: TLabel;
-    LabelTashahhudPr: TLabel;
-    LabelSalavotPr: TLabel;
-    LabelQunutPr: TLabel;
-    LabelTashahhudTr: TLabel;
-    LabelTasmeAr: TLabel;
-    LabelAziymPr: TLabel;
-    LabelHamdAr: TLabel;
-    LabelTasmePr: TLabel;
-    LabelAziymTr: TLabel;
-    LabelHamdPr: TLabel;
-    LabelTasmeTr: TLabel;
-    LabelFalaqAr: TLabel;
-    LabelNasAr: TLabel;
-    LabelFalaqPr: TLabel;
-    LabelNasPr: TLabel;
-    LabelFalaqTr: TLabel;
-    LabelNasTr: TLabel;
-    LabelKavsarAr: TLabel;
-    LabelIxlosAr: TLabel;
-    LabelKavsarPr: TLabel;
-    LabelIxlosPr: TLabel;
-    LabelKavsarTr: TLabel;
-    LabelIqomatAr: TLabel;
-    LabelFotihaAr: TLabel;
-    LabelIqomatDesc: TLabel;
-    LabelFotihaPr: TLabel;
-    LabelFotihaTr: TLabel;
-    LabelIxlosTr: TLabel;
-    LabelHamdTr: TLabel;
-    LabelSanoAr: TLabel;
-    LabelSanoPr: TLabel;
-    LabelSanoTr: TLabel;
-    LabelBasmalaAr: TLabel;
-    LabelBasmalaPr: TLabel;
-    LabelBasmalaTr: TLabel;
-    LabelTakbirAr: TLabel;
-    LabelAzonDuoPr: TLabel;
-    LabelAzonDuoAr: TLabel;
-    LabelAzonAr: TLabel;
-    LabelAzonDesc: TLabel;
-    LabelAzonBomdodPr: TLabel;
-    LabelTaavvuzAr: TLabel;
-    LabelTakbirPr: TLabel;
-    LabelAzonDuoTr: TLabel;
-    LabelTaavvuzPr: TLabel;
-    LabelTakbirTr: TLabel;
-    LabelAzonPr: TLabel;
-    LabelAzonBomdodTr: TLabel;
-    LabelAzonBomdodAr: TLabel;
-    LabelAzonBomdodDesc: TLabel;
-    LabelIqomatPr: TLabel;
-    LabelAzonTr: TLabel;
-    LabelIqomatTr: TLabel;
-    LabelTaavvuzTr: TLabel;
-    LabelSalavotTr: TLabel;
-    LabelQunutTr: TLabel;
-    LabelTavhidPr: TLabel;
-    LabelTavhidTr: TLabel;
+    lAllohuAkbarAr: TLabel;
+    lAllohuAkbarPr: TLabel;
+    lAllohuAkbarTr: TLabel;
+    lDuoAr: TLabel;
+    lDuoPr: TLabel;
+    lDuoTr: TLabel;
+    lKursiAr: TLabel;
+    lKursiPr: TLabel;
+    lKursiTr: TLabel;
+    lTavhidAr: TLabel;
+    lSubhanallohAr: TLabel;
+    lRobbanaAr: TLabel;
+    lDuoFAr: TLabel;
+    lDuoFPr: TLabel;
+    lDuoFTr: TLabel;
+    lSalomAr: TLabel;
+    lRobbanaPr: TLabel;
+    lSalomPr: TLabel;
+    lRobbanaTr: TLabel;
+    lAziymAr: TLabel;
+    lAlaAr: TLabel;
+    lAlaPr: TLabel;
+    lAlaTr: TLabel;
+    lSalomTr: TLabel;
+    lAlhamdulillahAr: TLabel;
+    lSubhanallohPr: TLabel;
+    lAlhamdulillahPr: TLabel;
+    lSubhanallohTr: TLabel;
+    lAlhamdulillahTr: TLabel;
+    lTashahhudAr: TLabel;
+    lSalavotAr: TLabel;
+    lQunutAr: TLabel;
+    lTashahhudPr: TLabel;
+    lSalavotPr: TLabel;
+    lQunutPr: TLabel;
+    lTashahhudTr: TLabel;
+    lTasmeAr: TLabel;
+    lAziymPr: TLabel;
+    lHamdAr: TLabel;
+    lTasmePr: TLabel;
+    lAziymTr: TLabel;
+    lHamdPr: TLabel;
+    lTasmeTr: TLabel;
+    lFalaqAr: TLabel;
+    lNasAr: TLabel;
+    lFalaqPr: TLabel;
+    lNasPr: TLabel;
+    lFalaqTr: TLabel;
+    lNasTr: TLabel;
+    lKavsarAr: TLabel;
+    lIxlosAr: TLabel;
+    lKavsarPr: TLabel;
+    lIxlosPr: TLabel;
+    lKavsarTr: TLabel;
+    lIqomatAr: TLabel;
+    lFotihaAr: TLabel;
+    lIqomatDesc: TLabel;
+    lFotihaPr: TLabel;
+    lFotihaTr: TLabel;
+    lIxlosTr: TLabel;
+    lHamdTr: TLabel;
+    lSanoAr: TLabel;
+    lSanoPr: TLabel;
+    lSanoTr: TLabel;
+    lBasmalaAr: TLabel;
+    lBasmalaPr: TLabel;
+    lBasmalaTr: TLabel;
+    lTakbirAr: TLabel;
+    lAzonDuoPr: TLabel;
+    lAzonDuoAr: TLabel;
+    lAzonAr: TLabel;
+    lAzonDesc: TLabel;
+    lAzonBomdodPr: TLabel;
+    lTaavvuzAr: TLabel;
+    lTakbirPr: TLabel;
+    lAzonDuoTr: TLabel;
+    lTaavvuzPr: TLabel;
+    lTakbirTr: TLabel;
+    lAzonPr: TLabel;
+    lAzonBomdodTr: TLabel;
+    lAzonBomdodAr: TLabel;
+    lAzonBomdodDesc: TLabel;
+    lIqomatPr: TLabel;
+    lAzonTr: TLabel;
+    lIqomatTr: TLabel;
+    lTaavvuzTr: TLabel;
+    lSalavotTr: TLabel;
+    lQunutTr: TLabel;
+    lTavhidPr: TLabel;
+    lTavhidTr: TLabel;
     pcMain: TPageControl;
-    PanelAllohuAkbar: TPanel;
-    PanelSubhanalloh: TPanel;
-    PanelBottom: TPanel;
-    ButtonPlay: TSpeedButton;
-    ButtonPause: TSpeedButton;
-    ButtonStop: TSpeedButton;
-    PanelAlhamdulillah: TPanel;
-    ScrollBoxDuo: TScrollBox;
-    ScrollBoxKursi: TScrollBox;
-    ScrollBoxTasbehot: TScrollBox;
-    ScrollBoxRobbana: TScrollBox;
-    ScrollBoxAziym: TScrollBox;
-    ScrollBoxAla: TScrollBox;
-    ScrollBoxDuoF: TScrollBox;
-    ScrollBoxSalom: TScrollBox;
-    ScrollBoxTashahhud: TScrollBox;
-    ScrollBoxTasme: TScrollBox;
-    ScrollBoxNas: TScrollBox;
-    ScrollBoxFotiha: TScrollBox;
-    ScrollBoxFalaq: TScrollBox;
-    ScrollBoxKavsar: TScrollBox;
-    ScrollBoxIxlos: TScrollBox;
-    ScrollBoxHamd: TScrollBox;
-    ScrollBoxSano: TScrollBox;
-    ScrollBoxBasmala: TScrollBox;
-    ScrollBoxTakbir: TScrollBox;
-    ScrollBoxIqomat: TScrollBox;
-    ScrollBoxAzonDuo: TScrollBox;
-    ScrollBoxAzonBomdod: TScrollBox;
-    ScrollBoxAzon: TScrollBox;
-    ScrollBoxTaavvuz: TScrollBox;
-    ScrollBoxSalavot: TScrollBox;
-    ScrollBoxQunut: TScrollBox;
+    pAllohuAkbar: TPanel;
+    pSubhanalloh: TPanel;
+    pBottom: TPanel;
+    bPlay: TSpeedButton;
+    bPause: TSpeedButton;
+    bStop: TSpeedButton;
+    pAlhamdulillah: TPanel;
+    sbDuo: TScrollBox;
+    sbKursi: TScrollBox;
+    sbTasbehot: TScrollBox;
+    sbRobbana: TScrollBox;
+    sbAziym: TScrollBox;
+    sbAla: TScrollBox;
+    sbDuoF: TScrollBox;
+    sbSalom: TScrollBox;
+    sbTashahhud: TScrollBox;
+    sbTasme: TScrollBox;
+    sbNas: TScrollBox;
+    sbFotiha: TScrollBox;
+    sbFalaq: TScrollBox;
+    sbKavsar: TScrollBox;
+    sbIxlos: TScrollBox;
+    sbHamd: TScrollBox;
+    sbSano: TScrollBox;
+    sbBasmala: TScrollBox;
+    sbTakbir: TScrollBox;
+    sbIqomat: TScrollBox;
+    sbAzonDuo: TScrollBox;
+    sbAzonBomdod: TScrollBox;
+    sbAzon: TScrollBox;
+    sbTaavvuz: TScrollBox;
+    sbSalavot: TScrollBox;
+    sbQunut: TScrollBox;
     tsDuo: TTabSheet;
     tsKursi: TTabSheet;
     tsTasbehot: TTabSheet;
@@ -189,9 +189,9 @@ type
     tsAzon: TTabSheet;
     tsAzonBomdod: TTabSheet;
     Timer: TTimer;
-    procedure ButtonPauseClick(Sender: TObject);
-    procedure ButtonPlayClick(Sender: TObject);
-    procedure ButtonStopClick(Sender: TObject);
+    procedure bPauseClick(Sender: TObject);
+    procedure bPlayClick(Sender: TObject);
+    procedure bStopClick(Sender: TObject);
     procedure FormActivate(Sender: TObject);
     procedure ChannelPos;
     procedure FormClose(Sender: TObject);
@@ -215,24 +215,24 @@ implementation
 
 { TFormDetails }
 
-procedure TFormDetails.ButtonPlayClick(Sender: TObject);
+procedure TFormDetails.bPlayClick(Sender: TObject);
 begin
   BASS_ChannelPlay(str, true);
   ChannelPos;
-  ButtonPlay.Enabled:=false;
-  ButtonPause.Enabled:=true;
-  ButtonStop.Enabled:=true;
+  bPlay.Enabled:=false;
+  bPause.Enabled:=true;
+  bStop.Enabled:=true;
 end;
 
-procedure TFormDetails.ButtonStopClick(Sender: TObject);
+procedure TFormDetails.bStopClick(Sender: TObject);
 begin
   BASS_ChannelStop(str);
-  ButtonPlay.Enabled:=true;
-  ButtonPause.Enabled:=false;
-  ButtonStop.Enabled:=false;
+  bPlay.Enabled:=true;
+  bPause.Enabled:=false;
+  bStop.Enabled:=false;
 end;
 
-procedure TFormDetails.ButtonPauseClick(Sender: TObject);
+procedure TFormDetails.bPauseClick(Sender: TObject);
 begin
   if BASS_ChannelIsActive(str) = BASS_ACTIVE_PLAYING then
     begin
@@ -244,9 +244,9 @@ begin
       BASS_ChannelPlay(str, false);
       ChannelPos;
     end;
-  ButtonPlay.Enabled:=false;
-  ButtonPause.Enabled:=true;
-  ButtonStop.Enabled:=true;
+  bPlay.Enabled:=false;
+  bPause.Enabled:=true;
+  bStop.Enabled:=true;
 end;
 
 procedure TFormDetails.FormActivate(Sender: TObject);
@@ -257,7 +257,7 @@ begin
     begin
      if (i <> false) then
       ShowMessage(VersionError + sLineBreak + NoSound);
-     ButtonPlay.Enabled:=false;
+     bPlay.Enabled:=false;
      i:=false;
     end
   else
@@ -270,7 +270,7 @@ begin
     begin
      if (j <> false) then
       ShowMessage(SoundError + sLineBreak + ErrorCode + IntToStr(BASS_ErrorGetCode) + ')' + sLineBreak + NoSound);
-     ButtonPlay.Enabled:=false;
+     bPlay.Enabled:=false;
      j:=false;
     end
   else
@@ -278,185 +278,185 @@ begin
     0: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg') then
          begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     1: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azon.ogg') then
          begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azon.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     2: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonduo.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonduo.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     3: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/iqomat.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/iqomat.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     4: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/takbir.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/takbir.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     5: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/sano.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/sano.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     6: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/taavvuz.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/taavvuz.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     7:  if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/basmala.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/basmala.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     8: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/fotiha.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/fotiha.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     9: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kavsar.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kavsar.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     10: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ixlos.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ixlos.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     11: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/falaq.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/falaq.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     12: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/nas.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/nas.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     13: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/aziym.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/aziym.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     14: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasme.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasme.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     15: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/hamd.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/hamd.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     16: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ala.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/ala.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     17: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tashahhud.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tashahhud.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     18: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salavot.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salavot.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     19: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/robbana.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/robbana.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     20: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salom.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/salom.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     21: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/qunut.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/qunut.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     22: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duof.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duof.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     23: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasbehot.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/tasbehot.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     24: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kursi.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/kursi.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     25: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duo.ogg') then
           begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/duo.ogg');
-           ButtonPlay.Enabled:=true;
+           bPlay.Enabled:=true;
          end
         else
-          ButtonPlay.Enabled:=false;
+          bPlay.Enabled:=false;
     end;
   str := BASS_StreamCreateFile(False, f, 0, 0, 0);
 end;
@@ -471,8 +471,8 @@ end;
 procedure TFormDetails.FormClose(Sender: TObject);
 begin
   BASS_Free();
-  ButtonPause.Enabled:=false;
-  ButtonStop.Enabled:=false;
+  bPause.Enabled:=false;
+  bStop.Enabled:=false;
   Timer.Enabled:=false;
 end;
 
@@ -483,9 +483,9 @@ end;
 
 procedure TFormDetails.TimerTimer(Sender: TObject);
 begin
-  ButtonPlay.Enabled:=true;
-  ButtonPause.Enabled:=false;
-  ButtonStop.Enabled:=false;
+  bPlay.Enabled:=true;
+  bPause.Enabled:=false;
+  bStop.Enabled:=false;
 end;
 
 end.
