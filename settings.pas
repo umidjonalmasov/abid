@@ -75,7 +75,7 @@ begin
   if FontDialog.Execute then
      begin
        FormMain.pcMain.Font.Assign(FontDialog.Font);
-       FormDetails.pcMain.Font.Assign(FontDialog.Font);
+       FormDetails.PageControl.Font.Assign(FontDialog.Font);
      end;
   OKButtonClick(self);
 end;
@@ -187,7 +187,7 @@ begin
   cbLanguage.ItemIndex:=0;
   cbLanguageChange(self);
   FormMain.pcMain.Font.SetDefault;
-  FormDetails.pcMain.Font.SetDefault;
+  FormDetails.PageControl.Font.SetDefault;
 end;
 
 procedure TFormSettings.OKButtonClick(Sender: TObject);

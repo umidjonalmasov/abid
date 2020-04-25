@@ -2274,49 +2274,49 @@ end;
 
 procedure TFormMain.ProcRobbana(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsRobbana;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsRobbana;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcSalavot(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsSalavot;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsSalavot;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcSalom(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsSalom;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsSalom;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTasme(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsTasme;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsTasme;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcSano(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsSano;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsSano;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTaavvuz(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsTaavvuz;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsTaavvuz;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTakbir(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsTakbir;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsTakbir;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTashahhud(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsTashahhud;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsTashahhud;
   FormDetails.ShowModal;
 end;
 
@@ -2879,7 +2879,7 @@ end;
 
 procedure TFormMain.ProcDuo(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsDuo;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsDuo;
   FormDetails.ShowModal;
 end;
 
@@ -2895,103 +2895,103 @@ end;
 
 procedure TFormMain.ProcDuoF(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsDuoF;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsDuoF;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcQunut(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsQunut;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsQunut;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAzon(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsAzon;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsAzon;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcKursi(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsKursi;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsKursi;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTasbehot(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsTasbehot;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsTasbehot;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcNas(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsNas;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsNas;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcFalaq(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsFalaq;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsFalaq;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcIqomat(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsIqomat;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsIqomat;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAla(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsAla;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsAla;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAziym(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsAziym;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsAziym;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAzonBomdod(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsAzonBomdod;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsAzonBomdod;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAzonDuo(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsAzonDuo;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsAzonDuo;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcBasmala(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsBasmala;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsBasmala;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcFotiha(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsFotiha;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsFotiha;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcHamd(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsHamd;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsHamd;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcIxlos(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsIxlos;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsIxlos;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcKavsar(Sender: TObject);
 begin
-  FormDetails.pcMain.ActivePage:=FormDetails.tsKavsar;
+  FormDetails.PageControl.ActivePage:=FormDetails.tsKavsar;
   FormDetails.ShowModal;
 end;
 
