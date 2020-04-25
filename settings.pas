@@ -75,8 +75,8 @@ procedure TFormSettings.ButtonFontClick(Sender: TObject);
 begin
   if FontDialog.Execute then
      begin
-       FormMain.PageControlMain.Font.Assign(FontDialog.Font);
-       FormDetails.PageControlMain.Font.Assign(FontDialog.Font);
+       FormMain.pcMain.Font.Assign(FontDialog.Font);
+       FormDetails.pcMain.Font.Assign(FontDialog.Font);
      end;
   OKButtonClick(self);
 end;
@@ -187,8 +187,8 @@ begin
   RadioButtonStart.Checked:=true;
   ComboBoxLanguage.ItemIndex:=0;
   ComboBoxLanguageChange(self);
-  FormMain.PageControlMain.Font.SetDefault;
-  FormDetails.PageControlMain.Font.SetDefault;
+  FormMain.pcMain.Font.SetDefault;
+  FormDetails.pcMain.Font.SetDefault;
 end;
 
 procedure TFormSettings.OKButtonClick(Sender: TObject);

@@ -10,7 +10,7 @@ object FormDetails: TFormDetails
   OnClose = FormClose
   OnCreate = FormCreate
   Position = poMainFormCenter
-  SessionProperties = 'PageControlMain.Font'
+  SessionProperties = 'pcMain.Font'
   ShowInTaskBar = stNever
   LCLVersion = '2.0.8.0'
   object PanelBottom: TPanel
@@ -451,7 +451,7 @@ object FormDetails: TFormDetails
       OnClick = ButtonStopClick
     end
   end
-  object PageControlMain: TPageControl
+  object pcMain: TPageControl
     Left = 0
     Height = 501
     Top = 0

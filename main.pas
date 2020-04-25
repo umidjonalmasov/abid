@@ -719,7 +719,7 @@ type
     lFotiha2P2S: TLabel;
     lFotiha2A4F: TLabel;
     lFotiha3A4F: TLabel;
-    LabelQunut: TLabel;
+    lQunut: TLabel;
     lTakbirQunut: TLabel;
     lNasV3V: TLabel;
     lFotiha3X4F: TLabel;
@@ -1133,23 +1133,23 @@ type
     MenuItemFile: TMenuItem;
     MenuItemEdit: TMenuItem;
     MenuItemHelp: TMenuItem;
-    PageControlX4F: TPageControl;
-    PageControlV3V: TPageControl;
-    PageControlX2S: TPageControl;
-    PageControlSh2S: TPageControl;
-    PageControlSh3F: TPageControl;
-    PageControlB2S: TPageControl;
-    PageControlB2F: TPageControl;
-    PageControlP2S: TPageControl;
-    PageControlA4F: TPageControl;
-    PageControlP4S: TPageControl;
-    PageControlBomdod: TPageControl;
-    PageControlP4F: TPageControl;
-    PageControlPeshin: TPageControl;
-    PageControlAsr: TPageControl;
-    PageControlShom: TPageControl;
-    PageControlXufton: TPageControl;
-    PageControlMain: TPageControl;
+    pcX4F: TPageControl;
+    pcV3V: TPageControl;
+    pcX2S: TPageControl;
+    pcSh2S: TPageControl;
+    pcSh3F: TPageControl;
+    pcB2S: TPageControl;
+    pcB2F: TPageControl;
+    pcP2S: TPageControl;
+    pcA4F: TPageControl;
+    pcP4S: TPageControl;
+    pcBomdod: TPageControl;
+    pcP4F: TPageControl;
+    pcPeshin: TPageControl;
+    pcAsr: TPageControl;
+    pcShom: TPageControl;
+    pcXufton: TPageControl;
+    pcMain: TPageControl;
     PanelAla1_1X4F: TPanel;
     PanelAla1_1V3V: TPanel;
     PanelAla1_1X2S: TPanel;
@@ -2274,49 +2274,49 @@ end;
 
 procedure TFormMain.ProcRobbana(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetRobbana;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetRobbana;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcSalavot(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetSalavot;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetSalavot;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcSalom(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetSalom;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetSalom;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTasme(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetTasme;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetTasme;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcSano(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetSano;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetSano;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTaavvuz(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetTaavvuz;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetTaavvuz;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTakbir(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetTakbir;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetTakbir;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTashahhud(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetTashahhud;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetTashahhud;
   FormDetails.ShowModal;
 end;
 
@@ -2349,263 +2349,263 @@ end;
 
 procedure TFormMain.MenuItemNextClick(Sender: TObject);
 begin
-  case PageControlMain.ActivePageIndex of
-  0: case PageControlBomdod.ActivePageIndex of
-     0: case PageControlB2S.ActivePageIndex of
-        0: PageControlB2S.ActivePageIndex:=1;
-        1: PageControlB2S.ActivePageIndex:=2;
-        2: PageControlB2S.ActivePageIndex:=3;
-        3: PageControlB2S.ActivePageIndex:=4;
-        4: PageControlB2S.ActivePageIndex:=5;
-        5: PageControlB2S.ActivePageIndex:=6;
-        6: PageControlB2S.ActivePageIndex:=7;
-        7: PageControlB2S.ActivePageIndex:=8;
-        8: PageControlB2S.ActivePageIndex:=9;
-        9: PageControlB2S.ActivePageIndex:=10;
-        10: PageControlB2S.ActivePageIndex:=11;
-        11: PageControlB2S.ActivePageIndex:=12;
-        12: PageControlB2S.ActivePageIndex:=13;
-        13: PageControlB2S.ActivePageIndex:=14;
+  case pcMain.ActivePageIndex of
+  0: case pcBomdod.ActivePageIndex of
+     0: case pcB2S.ActivePageIndex of
+        0: pcB2S.ActivePageIndex:=1;
+        1: pcB2S.ActivePageIndex:=2;
+        2: pcB2S.ActivePageIndex:=3;
+        3: pcB2S.ActivePageIndex:=4;
+        4: pcB2S.ActivePageIndex:=5;
+        5: pcB2S.ActivePageIndex:=6;
+        6: pcB2S.ActivePageIndex:=7;
+        7: pcB2S.ActivePageIndex:=8;
+        8: pcB2S.ActivePageIndex:=9;
+        9: pcB2S.ActivePageIndex:=10;
+        10: pcB2S.ActivePageIndex:=11;
+        11: pcB2S.ActivePageIndex:=12;
+        12: pcB2S.ActivePageIndex:=13;
+        13: pcB2S.ActivePageIndex:=14;
         end;
-     1: case PageControlB2F.ActivePageIndex of
-        0: PageControlB2F.ActivePageIndex:=1;
-        1: PageControlB2F.ActivePageIndex:=2;
-        2: PageControlB2F.ActivePageIndex:=3;
-        3: PageControlB2F.ActivePageIndex:=4;
-        4: PageControlB2F.ActivePageIndex:=5;
-        5: PageControlB2F.ActivePageIndex:=6;
-        6: PageControlB2F.ActivePageIndex:=7;
-        7: PageControlB2F.ActivePageIndex:=8;
-        8: PageControlB2F.ActivePageIndex:=9;
-        9: PageControlB2F.ActivePageIndex:=10;
-        10: PageControlB2F.ActivePageIndex:=11;
-        11: PageControlB2F.ActivePageIndex:=12;
-        12: PageControlB2F.ActivePageIndex:=13;
-        13: PageControlB2F.ActivePageIndex:=14;
-        14: PageControlB2F.ActivePageIndex:=15;
-        end;
-     end;
-  1: case PageControlPeshin.ActivePageIndex of
-     0: case PageControlP4S.ActivePageIndex of
-        0: PageControlP4S.ActivePageIndex:=1;
-        1: PageControlP4S.ActivePageIndex:=2;
-        2: PageControlP4S.ActivePageIndex:=3;
-        3: PageControlP4S.ActivePageIndex:=4;
-        4: PageControlP4S.ActivePageIndex:=5;
-        5: PageControlP4S.ActivePageIndex:=6;
-        6: PageControlP4S.ActivePageIndex:=7;
-        7: PageControlP4S.ActivePageIndex:=8;
-        8: PageControlP4S.ActivePageIndex:=9;
-        9: PageControlP4S.ActivePageIndex:=10;
-        10: PageControlP4S.ActivePageIndex:=11;
-        11: PageControlP4S.ActivePageIndex:=12;
-        12: PageControlP4S.ActivePageIndex:=13;
-        13: PageControlP4S.ActivePageIndex:=14;
-        14: PageControlP4S.ActivePageIndex:=15;
-        15: PageControlP4S.ActivePageIndex:=16;
-        16: PageControlP4S.ActivePageIndex:=17;
-        17: PageControlP4S.ActivePageIndex:=18;
-        18: PageControlP4S.ActivePageIndex:=19;
-        19: PageControlP4S.ActivePageIndex:=20;
-        20: PageControlP4S.ActivePageIndex:=21;
-        21: PageControlP4S.ActivePageIndex:=22;
-        22: PageControlP4S.ActivePageIndex:=23;
-        23: PageControlP4S.ActivePageIndex:=24;
-        24: PageControlP4S.ActivePageIndex:=25;
-        25: PageControlP4S.ActivePageIndex:=26;
-        26: PageControlP4S.ActivePageIndex:=27;
-        end;
-     1: case PageControlP4F.ActivePageIndex of
-        0: PageControlP4F.ActivePageIndex:=1;
-        1: PageControlP4F.ActivePageIndex:=2;
-        2: PageControlP4F.ActivePageIndex:=3;
-        3: PageControlP4F.ActivePageIndex:=4;
-        4: PageControlP4F.ActivePageIndex:=5;
-        5: PageControlP4F.ActivePageIndex:=6;
-        6: PageControlP4F.ActivePageIndex:=7;
-        7: PageControlP4F.ActivePageIndex:=8;
-        8: PageControlP4F.ActivePageIndex:=9;
-        9: PageControlP4F.ActivePageIndex:=10;
-        10: PageControlP4F.ActivePageIndex:=11;
-        11: PageControlP4F.ActivePageIndex:=12;
-        12: PageControlP4F.ActivePageIndex:=13;
-        13: PageControlP4F.ActivePageIndex:=14;
-        14: PageControlP4F.ActivePageIndex:=15;
-        15: PageControlP4F.ActivePageIndex:=16;
-        16: PageControlP4F.ActivePageIndex:=17;
-        17: PageControlP4F.ActivePageIndex:=18;
-        18: PageControlP4F.ActivePageIndex:=19;
-        19: PageControlP4F.ActivePageIndex:=20;
-        20: PageControlP4F.ActivePageIndex:=21;
-        21: PageControlP4F.ActivePageIndex:=22;
-        22: PageControlP4F.ActivePageIndex:=23;
-        23: PageControlP4F.ActivePageIndex:=24;
-        24: PageControlP4F.ActivePageIndex:=25;
-        25: PageControlP4F.ActivePageIndex:=26;
-        26: PageControlP4F.ActivePageIndex:=27;
-        27: PageControlP4F.ActivePageIndex:=28;
-        end;
-     2: case PageControlP2S.ActivePageIndex of
-        0: PageControlP2S.ActivePageIndex:=1;
-        1: PageControlP2S.ActivePageIndex:=2;
-        2: PageControlP2S.ActivePageIndex:=3;
-        3: PageControlP2S.ActivePageIndex:=4;
-        4: PageControlP2S.ActivePageIndex:=5;
-        5: PageControlP2S.ActivePageIndex:=6;
-        6: PageControlP2S.ActivePageIndex:=7;
-        7: PageControlP2S.ActivePageIndex:=8;
-        8: PageControlP2S.ActivePageIndex:=9;
-        9: PageControlP2S.ActivePageIndex:=10;
-        10: PageControlP2S.ActivePageIndex:=11;
-        11: PageControlP2S.ActivePageIndex:=12;
-        12: PageControlP2S.ActivePageIndex:=13;
-        13: PageControlP2S.ActivePageIndex:=14;
-        14: PageControlP2S.ActivePageIndex:=15;
+     1: case pcB2F.ActivePageIndex of
+        0: pcB2F.ActivePageIndex:=1;
+        1: pcB2F.ActivePageIndex:=2;
+        2: pcB2F.ActivePageIndex:=3;
+        3: pcB2F.ActivePageIndex:=4;
+        4: pcB2F.ActivePageIndex:=5;
+        5: pcB2F.ActivePageIndex:=6;
+        6: pcB2F.ActivePageIndex:=7;
+        7: pcB2F.ActivePageIndex:=8;
+        8: pcB2F.ActivePageIndex:=9;
+        9: pcB2F.ActivePageIndex:=10;
+        10: pcB2F.ActivePageIndex:=11;
+        11: pcB2F.ActivePageIndex:=12;
+        12: pcB2F.ActivePageIndex:=13;
+        13: pcB2F.ActivePageIndex:=14;
+        14: pcB2F.ActivePageIndex:=15;
         end;
      end;
-  2: case PageControlA4F.ActivePageIndex of
-        0: PageControlA4F.ActivePageIndex:=1;
-        1: PageControlA4F.ActivePageIndex:=2;
-        2: PageControlA4F.ActivePageIndex:=3;
-        3: PageControlA4F.ActivePageIndex:=4;
-        4: PageControlA4F.ActivePageIndex:=5;
-        5: PageControlA4F.ActivePageIndex:=6;
-        6: PageControlA4F.ActivePageIndex:=7;
-        7: PageControlA4F.ActivePageIndex:=8;
-        8: PageControlA4F.ActivePageIndex:=9;
-        9: PageControlA4F.ActivePageIndex:=10;
-        10: PageControlA4F.ActivePageIndex:=11;
-        11: PageControlA4F.ActivePageIndex:=12;
-        12: PageControlA4F.ActivePageIndex:=13;
-        13: PageControlA4F.ActivePageIndex:=14;
-        14: PageControlA4F.ActivePageIndex:=15;
-        15: PageControlA4F.ActivePageIndex:=16;
-        16: PageControlA4F.ActivePageIndex:=17;
-        17: PageControlA4F.ActivePageIndex:=18;
-        18: PageControlA4F.ActivePageIndex:=19;
-        19: PageControlA4F.ActivePageIndex:=20;
-        20: PageControlA4F.ActivePageIndex:=21;
-        21: PageControlA4F.ActivePageIndex:=22;
-        22: PageControlA4F.ActivePageIndex:=23;
-        23: PageControlA4F.ActivePageIndex:=24;
-        24: PageControlA4F.ActivePageIndex:=25;
-        25: PageControlA4F.ActivePageIndex:=26;
-        26: PageControlA4F.ActivePageIndex:=27;
-        27: PageControlA4F.ActivePageIndex:=28;
+  1: case pcPeshin.ActivePageIndex of
+     0: case pcP4S.ActivePageIndex of
+        0: pcP4S.ActivePageIndex:=1;
+        1: pcP4S.ActivePageIndex:=2;
+        2: pcP4S.ActivePageIndex:=3;
+        3: pcP4S.ActivePageIndex:=4;
+        4: pcP4S.ActivePageIndex:=5;
+        5: pcP4S.ActivePageIndex:=6;
+        6: pcP4S.ActivePageIndex:=7;
+        7: pcP4S.ActivePageIndex:=8;
+        8: pcP4S.ActivePageIndex:=9;
+        9: pcP4S.ActivePageIndex:=10;
+        10: pcP4S.ActivePageIndex:=11;
+        11: pcP4S.ActivePageIndex:=12;
+        12: pcP4S.ActivePageIndex:=13;
+        13: pcP4S.ActivePageIndex:=14;
+        14: pcP4S.ActivePageIndex:=15;
+        15: pcP4S.ActivePageIndex:=16;
+        16: pcP4S.ActivePageIndex:=17;
+        17: pcP4S.ActivePageIndex:=18;
+        18: pcP4S.ActivePageIndex:=19;
+        19: pcP4S.ActivePageIndex:=20;
+        20: pcP4S.ActivePageIndex:=21;
+        21: pcP4S.ActivePageIndex:=22;
+        22: pcP4S.ActivePageIndex:=23;
+        23: pcP4S.ActivePageIndex:=24;
+        24: pcP4S.ActivePageIndex:=25;
+        25: pcP4S.ActivePageIndex:=26;
+        26: pcP4S.ActivePageIndex:=27;
         end;
-  3: case PageControlShom.ActivePageIndex of
-     0: case PageControlSh3F.ActivePageIndex of
-        0: PageControlSh3F.ActivePageIndex:=1;
-        1: PageControlSh3F.ActivePageIndex:=2;
-        2: PageControlSh3F.ActivePageIndex:=3;
-        3: PageControlSh3F.ActivePageIndex:=4;
-        4: PageControlSh3F.ActivePageIndex:=5;
-        5: PageControlSh3F.ActivePageIndex:=6;
-        6: PageControlSh3F.ActivePageIndex:=7;
-        7: PageControlSh3F.ActivePageIndex:=8;
-        8: PageControlSh3F.ActivePageIndex:=9;
-        9: PageControlSh3F.ActivePageIndex:=10;
-        10: PageControlSh3F.ActivePageIndex:=11;
-        11: PageControlSh3F.ActivePageIndex:=12;
-        12: PageControlSh3F.ActivePageIndex:=13;
-        13: PageControlSh3F.ActivePageIndex:=14;
-        14: PageControlSh3F.ActivePageIndex:=15;
-        15: PageControlSh3F.ActivePageIndex:=16;
-        16: PageControlSh3F.ActivePageIndex:=17;
-        17: PageControlSh3F.ActivePageIndex:=18;
-        18: PageControlSh3F.ActivePageIndex:=19;
-        19: PageControlSh3F.ActivePageIndex:=20;
-        20: PageControlSh3F.ActivePageIndex:=21;
-        21: PageControlSh3F.ActivePageIndex:=22;
+     1: case pcP4F.ActivePageIndex of
+        0: pcP4F.ActivePageIndex:=1;
+        1: pcP4F.ActivePageIndex:=2;
+        2: pcP4F.ActivePageIndex:=3;
+        3: pcP4F.ActivePageIndex:=4;
+        4: pcP4F.ActivePageIndex:=5;
+        5: pcP4F.ActivePageIndex:=6;
+        6: pcP4F.ActivePageIndex:=7;
+        7: pcP4F.ActivePageIndex:=8;
+        8: pcP4F.ActivePageIndex:=9;
+        9: pcP4F.ActivePageIndex:=10;
+        10: pcP4F.ActivePageIndex:=11;
+        11: pcP4F.ActivePageIndex:=12;
+        12: pcP4F.ActivePageIndex:=13;
+        13: pcP4F.ActivePageIndex:=14;
+        14: pcP4F.ActivePageIndex:=15;
+        15: pcP4F.ActivePageIndex:=16;
+        16: pcP4F.ActivePageIndex:=17;
+        17: pcP4F.ActivePageIndex:=18;
+        18: pcP4F.ActivePageIndex:=19;
+        19: pcP4F.ActivePageIndex:=20;
+        20: pcP4F.ActivePageIndex:=21;
+        21: pcP4F.ActivePageIndex:=22;
+        22: pcP4F.ActivePageIndex:=23;
+        23: pcP4F.ActivePageIndex:=24;
+        24: pcP4F.ActivePageIndex:=25;
+        25: pcP4F.ActivePageIndex:=26;
+        26: pcP4F.ActivePageIndex:=27;
+        27: pcP4F.ActivePageIndex:=28;
         end;
-     1: case PageControlSh2S.ActivePageIndex of
-        0: PageControlSh2S.ActivePageIndex:=1;
-        1: PageControlSh2S.ActivePageIndex:=2;
-        2: PageControlSh2S.ActivePageIndex:=3;
-        3: PageControlSh2S.ActivePageIndex:=4;
-        4: PageControlSh2S.ActivePageIndex:=5;
-        5: PageControlSh2S.ActivePageIndex:=6;
-        6: PageControlSh2S.ActivePageIndex:=7;
-        7: PageControlSh2S.ActivePageIndex:=8;
-        8: PageControlSh2S.ActivePageIndex:=9;
-        9: PageControlSh2S.ActivePageIndex:=10;
-        10: PageControlSh2S.ActivePageIndex:=11;
-        11: PageControlSh2S.ActivePageIndex:=12;
-        12: PageControlSh2S.ActivePageIndex:=13;
-        13: PageControlSh2S.ActivePageIndex:=14;
-        14: PageControlSh2S.ActivePageIndex:=15;
+     2: case pcP2S.ActivePageIndex of
+        0: pcP2S.ActivePageIndex:=1;
+        1: pcP2S.ActivePageIndex:=2;
+        2: pcP2S.ActivePageIndex:=3;
+        3: pcP2S.ActivePageIndex:=4;
+        4: pcP2S.ActivePageIndex:=5;
+        5: pcP2S.ActivePageIndex:=6;
+        6: pcP2S.ActivePageIndex:=7;
+        7: pcP2S.ActivePageIndex:=8;
+        8: pcP2S.ActivePageIndex:=9;
+        9: pcP2S.ActivePageIndex:=10;
+        10: pcP2S.ActivePageIndex:=11;
+        11: pcP2S.ActivePageIndex:=12;
+        12: pcP2S.ActivePageIndex:=13;
+        13: pcP2S.ActivePageIndex:=14;
+        14: pcP2S.ActivePageIndex:=15;
         end;
      end;
-  4: case PageControlXufton.ActivePageIndex of
-     0: case PageControlX4F.ActivePageIndex of
-        0: PageControlX4F.ActivePageIndex:=1;
-        1: PageControlX4F.ActivePageIndex:=2;
-        2: PageControlX4F.ActivePageIndex:=3;
-        3: PageControlX4F.ActivePageIndex:=4;
-        4: PageControlX4F.ActivePageIndex:=5;
-        5: PageControlX4F.ActivePageIndex:=6;
-        6: PageControlX4F.ActivePageIndex:=7;
-        7: PageControlX4F.ActivePageIndex:=8;
-        8: PageControlX4F.ActivePageIndex:=9;
-        9: PageControlX4F.ActivePageIndex:=10;
-        10: PageControlX4F.ActivePageIndex:=11;
-        11: PageControlX4F.ActivePageIndex:=12;
-        12: PageControlX4F.ActivePageIndex:=13;
-        13: PageControlX4F.ActivePageIndex:=14;
-        14: PageControlX4F.ActivePageIndex:=15;
-        15: PageControlX4F.ActivePageIndex:=16;
-        16: PageControlX4F.ActivePageIndex:=17;
-        17: PageControlX4F.ActivePageIndex:=18;
-        18: PageControlX4F.ActivePageIndex:=19;
-        19: PageControlX4F.ActivePageIndex:=20;
-        20: PageControlX4F.ActivePageIndex:=21;
-        21: PageControlX4F.ActivePageIndex:=22;
-        22: PageControlX4F.ActivePageIndex:=23;
-        23: PageControlX4F.ActivePageIndex:=24;
-        24: PageControlX4F.ActivePageIndex:=25;
-        25: PageControlX4F.ActivePageIndex:=26;
-        26: PageControlX4F.ActivePageIndex:=27;
-        27: PageControlX4F.ActivePageIndex:=28;
+  2: case pcA4F.ActivePageIndex of
+        0: pcA4F.ActivePageIndex:=1;
+        1: pcA4F.ActivePageIndex:=2;
+        2: pcA4F.ActivePageIndex:=3;
+        3: pcA4F.ActivePageIndex:=4;
+        4: pcA4F.ActivePageIndex:=5;
+        5: pcA4F.ActivePageIndex:=6;
+        6: pcA4F.ActivePageIndex:=7;
+        7: pcA4F.ActivePageIndex:=8;
+        8: pcA4F.ActivePageIndex:=9;
+        9: pcA4F.ActivePageIndex:=10;
+        10: pcA4F.ActivePageIndex:=11;
+        11: pcA4F.ActivePageIndex:=12;
+        12: pcA4F.ActivePageIndex:=13;
+        13: pcA4F.ActivePageIndex:=14;
+        14: pcA4F.ActivePageIndex:=15;
+        15: pcA4F.ActivePageIndex:=16;
+        16: pcA4F.ActivePageIndex:=17;
+        17: pcA4F.ActivePageIndex:=18;
+        18: pcA4F.ActivePageIndex:=19;
+        19: pcA4F.ActivePageIndex:=20;
+        20: pcA4F.ActivePageIndex:=21;
+        21: pcA4F.ActivePageIndex:=22;
+        22: pcA4F.ActivePageIndex:=23;
+        23: pcA4F.ActivePageIndex:=24;
+        24: pcA4F.ActivePageIndex:=25;
+        25: pcA4F.ActivePageIndex:=26;
+        26: pcA4F.ActivePageIndex:=27;
+        27: pcA4F.ActivePageIndex:=28;
         end;
-     1: case PageControlX2S.ActivePageIndex of
-        0: PageControlX2S.ActivePageIndex:=1;
-        1: PageControlX2S.ActivePageIndex:=2;
-        2: PageControlX2S.ActivePageIndex:=3;
-        3: PageControlX2S.ActivePageIndex:=4;
-        4: PageControlX2S.ActivePageIndex:=5;
-        5: PageControlX2S.ActivePageIndex:=6;
-        6: PageControlX2S.ActivePageIndex:=7;
-        7: PageControlX2S.ActivePageIndex:=8;
-        8: PageControlX2S.ActivePageIndex:=9;
-        9: PageControlX2S.ActivePageIndex:=10;
-        10: PageControlX2S.ActivePageIndex:=11;
-        11: PageControlX2S.ActivePageIndex:=12;
-        12: PageControlX2S.ActivePageIndex:=13;
-        13: PageControlX2S.ActivePageIndex:=14;
+  3: case pcShom.ActivePageIndex of
+     0: case pcSh3F.ActivePageIndex of
+        0: pcSh3F.ActivePageIndex:=1;
+        1: pcSh3F.ActivePageIndex:=2;
+        2: pcSh3F.ActivePageIndex:=3;
+        3: pcSh3F.ActivePageIndex:=4;
+        4: pcSh3F.ActivePageIndex:=5;
+        5: pcSh3F.ActivePageIndex:=6;
+        6: pcSh3F.ActivePageIndex:=7;
+        7: pcSh3F.ActivePageIndex:=8;
+        8: pcSh3F.ActivePageIndex:=9;
+        9: pcSh3F.ActivePageIndex:=10;
+        10: pcSh3F.ActivePageIndex:=11;
+        11: pcSh3F.ActivePageIndex:=12;
+        12: pcSh3F.ActivePageIndex:=13;
+        13: pcSh3F.ActivePageIndex:=14;
+        14: pcSh3F.ActivePageIndex:=15;
+        15: pcSh3F.ActivePageIndex:=16;
+        16: pcSh3F.ActivePageIndex:=17;
+        17: pcSh3F.ActivePageIndex:=18;
+        18: pcSh3F.ActivePageIndex:=19;
+        19: pcSh3F.ActivePageIndex:=20;
+        20: pcSh3F.ActivePageIndex:=21;
+        21: pcSh3F.ActivePageIndex:=22;
         end;
-     2: case PageControlV3V.ActivePageIndex of
-        0: PageControlV3V.ActivePageIndex:=1;
-        1: PageControlV3V.ActivePageIndex:=2;
-        2: PageControlV3V.ActivePageIndex:=3;
-        3: PageControlV3V.ActivePageIndex:=4;
-        4: PageControlV3V.ActivePageIndex:=5;
-        5: PageControlV3V.ActivePageIndex:=6;
-        6: PageControlV3V.ActivePageIndex:=7;
-        7: PageControlV3V.ActivePageIndex:=8;
-        8: PageControlV3V.ActivePageIndex:=9;
-        9: PageControlV3V.ActivePageIndex:=10;
-        10: PageControlV3V.ActivePageIndex:=11;
-        11: PageControlV3V.ActivePageIndex:=12;
-        12: PageControlV3V.ActivePageIndex:=13;
-        13: PageControlV3V.ActivePageIndex:=14;
-        14: PageControlV3V.ActivePageIndex:=15;
-        15: PageControlV3V.ActivePageIndex:=16;
-        16: PageControlV3V.ActivePageIndex:=17;
-        17: PageControlV3V.ActivePageIndex:=18;
-        18: PageControlV3V.ActivePageIndex:=19;
-        19: PageControlV3V.ActivePageIndex:=20;
-        20: PageControlV3V.ActivePageIndex:=21;
-        21: PageControlV3V.ActivePageIndex:=22;
+     1: case pcSh2S.ActivePageIndex of
+        0: pcSh2S.ActivePageIndex:=1;
+        1: pcSh2S.ActivePageIndex:=2;
+        2: pcSh2S.ActivePageIndex:=3;
+        3: pcSh2S.ActivePageIndex:=4;
+        4: pcSh2S.ActivePageIndex:=5;
+        5: pcSh2S.ActivePageIndex:=6;
+        6: pcSh2S.ActivePageIndex:=7;
+        7: pcSh2S.ActivePageIndex:=8;
+        8: pcSh2S.ActivePageIndex:=9;
+        9: pcSh2S.ActivePageIndex:=10;
+        10: pcSh2S.ActivePageIndex:=11;
+        11: pcSh2S.ActivePageIndex:=12;
+        12: pcSh2S.ActivePageIndex:=13;
+        13: pcSh2S.ActivePageIndex:=14;
+        14: pcSh2S.ActivePageIndex:=15;
+        end;
+     end;
+  4: case pcXufton.ActivePageIndex of
+     0: case pcX4F.ActivePageIndex of
+        0: pcX4F.ActivePageIndex:=1;
+        1: pcX4F.ActivePageIndex:=2;
+        2: pcX4F.ActivePageIndex:=3;
+        3: pcX4F.ActivePageIndex:=4;
+        4: pcX4F.ActivePageIndex:=5;
+        5: pcX4F.ActivePageIndex:=6;
+        6: pcX4F.ActivePageIndex:=7;
+        7: pcX4F.ActivePageIndex:=8;
+        8: pcX4F.ActivePageIndex:=9;
+        9: pcX4F.ActivePageIndex:=10;
+        10: pcX4F.ActivePageIndex:=11;
+        11: pcX4F.ActivePageIndex:=12;
+        12: pcX4F.ActivePageIndex:=13;
+        13: pcX4F.ActivePageIndex:=14;
+        14: pcX4F.ActivePageIndex:=15;
+        15: pcX4F.ActivePageIndex:=16;
+        16: pcX4F.ActivePageIndex:=17;
+        17: pcX4F.ActivePageIndex:=18;
+        18: pcX4F.ActivePageIndex:=19;
+        19: pcX4F.ActivePageIndex:=20;
+        20: pcX4F.ActivePageIndex:=21;
+        21: pcX4F.ActivePageIndex:=22;
+        22: pcX4F.ActivePageIndex:=23;
+        23: pcX4F.ActivePageIndex:=24;
+        24: pcX4F.ActivePageIndex:=25;
+        25: pcX4F.ActivePageIndex:=26;
+        26: pcX4F.ActivePageIndex:=27;
+        27: pcX4F.ActivePageIndex:=28;
+        end;
+     1: case pcX2S.ActivePageIndex of
+        0: pcX2S.ActivePageIndex:=1;
+        1: pcX2S.ActivePageIndex:=2;
+        2: pcX2S.ActivePageIndex:=3;
+        3: pcX2S.ActivePageIndex:=4;
+        4: pcX2S.ActivePageIndex:=5;
+        5: pcX2S.ActivePageIndex:=6;
+        6: pcX2S.ActivePageIndex:=7;
+        7: pcX2S.ActivePageIndex:=8;
+        8: pcX2S.ActivePageIndex:=9;
+        9: pcX2S.ActivePageIndex:=10;
+        10: pcX2S.ActivePageIndex:=11;
+        11: pcX2S.ActivePageIndex:=12;
+        12: pcX2S.ActivePageIndex:=13;
+        13: pcX2S.ActivePageIndex:=14;
+        end;
+     2: case pcV3V.ActivePageIndex of
+        0: pcV3V.ActivePageIndex:=1;
+        1: pcV3V.ActivePageIndex:=2;
+        2: pcV3V.ActivePageIndex:=3;
+        3: pcV3V.ActivePageIndex:=4;
+        4: pcV3V.ActivePageIndex:=5;
+        5: pcV3V.ActivePageIndex:=6;
+        6: pcV3V.ActivePageIndex:=7;
+        7: pcV3V.ActivePageIndex:=8;
+        8: pcV3V.ActivePageIndex:=9;
+        9: pcV3V.ActivePageIndex:=10;
+        10: pcV3V.ActivePageIndex:=11;
+        11: pcV3V.ActivePageIndex:=12;
+        12: pcV3V.ActivePageIndex:=13;
+        13: pcV3V.ActivePageIndex:=14;
+        14: pcV3V.ActivePageIndex:=15;
+        15: pcV3V.ActivePageIndex:=16;
+        16: pcV3V.ActivePageIndex:=17;
+        17: pcV3V.ActivePageIndex:=18;
+        18: pcV3V.ActivePageIndex:=19;
+        19: pcV3V.ActivePageIndex:=20;
+        20: pcV3V.ActivePageIndex:=21;
+        21: pcV3V.ActivePageIndex:=22;
         end;
      end;
   end;
@@ -2614,263 +2614,263 @@ end;
 
 procedure TFormMain.MenuItemPreviousClick(Sender: TObject);
 begin
-   case PageControlMain.ActivePageIndex of
-  0: case PageControlBomdod.ActivePageIndex of
-     0: case PageControlB2S.ActivePageIndex of
-        1: PageControlB2S.ActivePageIndex:=0;
-        2: PageControlB2S.ActivePageIndex:=1;
-        3: PageControlB2S.ActivePageIndex:=2;
-        4: PageControlB2S.ActivePageIndex:=3;
-        5: PageControlB2S.ActivePageIndex:=4;
-        6: PageControlB2S.ActivePageIndex:=5;
-        7: PageControlB2S.ActivePageIndex:=6;
-        8: PageControlB2S.ActivePageIndex:=7;
-        9: PageControlB2S.ActivePageIndex:=8;
-        10: PageControlB2S.ActivePageIndex:=9;
-        11: PageControlB2S.ActivePageIndex:=10;
-        12: PageControlB2S.ActivePageIndex:=11;
-        13: PageControlB2S.ActivePageIndex:=12;
-        14: PageControlB2S.ActivePageIndex:=13;
+   case pcMain.ActivePageIndex of
+  0: case pcBomdod.ActivePageIndex of
+     0: case pcB2S.ActivePageIndex of
+        1: pcB2S.ActivePageIndex:=0;
+        2: pcB2S.ActivePageIndex:=1;
+        3: pcB2S.ActivePageIndex:=2;
+        4: pcB2S.ActivePageIndex:=3;
+        5: pcB2S.ActivePageIndex:=4;
+        6: pcB2S.ActivePageIndex:=5;
+        7: pcB2S.ActivePageIndex:=6;
+        8: pcB2S.ActivePageIndex:=7;
+        9: pcB2S.ActivePageIndex:=8;
+        10: pcB2S.ActivePageIndex:=9;
+        11: pcB2S.ActivePageIndex:=10;
+        12: pcB2S.ActivePageIndex:=11;
+        13: pcB2S.ActivePageIndex:=12;
+        14: pcB2S.ActivePageIndex:=13;
         end;
-     1: case PageControlB2F.ActivePageIndex of
-        1: PageControlB2F.ActivePageIndex:=0;
-        2: PageControlB2F.ActivePageIndex:=1;
-        3: PageControlB2F.ActivePageIndex:=2;
-        4: PageControlB2F.ActivePageIndex:=3;
-        5: PageControlB2F.ActivePageIndex:=4;
-        6: PageControlB2F.ActivePageIndex:=5;
-        7: PageControlB2F.ActivePageIndex:=6;
-        8: PageControlB2F.ActivePageIndex:=7;
-        9: PageControlB2F.ActivePageIndex:=8;
-        10: PageControlB2F.ActivePageIndex:=9;
-        11: PageControlB2F.ActivePageIndex:=10;
-        12: PageControlB2F.ActivePageIndex:=11;
-        13: PageControlB2F.ActivePageIndex:=12;
-        14: PageControlB2F.ActivePageIndex:=13;
-        15: PageControlB2F.ActivePageIndex:=14;
-        end;
-     end;
-  1: case PageControlPeshin.ActivePageIndex of
-     0: case PageControlP4S.ActivePageIndex of
-        1: PageControlP4S.ActivePageIndex:=0;
-        2: PageControlP4S.ActivePageIndex:=1;
-        3: PageControlP4S.ActivePageIndex:=2;
-        4: PageControlP4S.ActivePageIndex:=3;
-        5: PageControlP4S.ActivePageIndex:=4;
-        6: PageControlP4S.ActivePageIndex:=5;
-        7: PageControlP4S.ActivePageIndex:=6;
-        8: PageControlP4S.ActivePageIndex:=7;
-        9: PageControlP4S.ActivePageIndex:=8;
-        10: PageControlP4S.ActivePageIndex:=9;
-        11: PageControlP4S.ActivePageIndex:=10;
-        12: PageControlP4S.ActivePageIndex:=11;
-        13: PageControlP4S.ActivePageIndex:=12;
-        14: PageControlP4S.ActivePageIndex:=13;
-        15: PageControlP4S.ActivePageIndex:=14;
-        16: PageControlP4S.ActivePageIndex:=15;
-        17: PageControlP4S.ActivePageIndex:=16;
-        18: PageControlP4S.ActivePageIndex:=17;
-        19: PageControlP4S.ActivePageIndex:=18;
-        20: PageControlP4S.ActivePageIndex:=19;
-        21: PageControlP4S.ActivePageIndex:=20;
-        22: PageControlP4S.ActivePageIndex:=21;
-        23: PageControlP4S.ActivePageIndex:=22;
-        24: PageControlP4S.ActivePageIndex:=23;
-        25: PageControlP4S.ActivePageIndex:=24;
-        26: PageControlP4S.ActivePageIndex:=25;
-        27: PageControlP4S.ActivePageIndex:=26;
-        end;
-     1: case PageControlP4F.ActivePageIndex of
-        1: PageControlP4F.ActivePageIndex:=0;
-        2: PageControlP4F.ActivePageIndex:=1;
-        3: PageControlP4F.ActivePageIndex:=2;
-        4: PageControlP4F.ActivePageIndex:=3;
-        5: PageControlP4F.ActivePageIndex:=4;
-        6: PageControlP4F.ActivePageIndex:=5;
-        7: PageControlP4F.ActivePageIndex:=6;
-        8: PageControlP4F.ActivePageIndex:=7;
-        9: PageControlP4F.ActivePageIndex:=8;
-        10: PageControlP4F.ActivePageIndex:=9;
-        11: PageControlP4F.ActivePageIndex:=10;
-        12: PageControlP4F.ActivePageIndex:=11;
-        13: PageControlP4F.ActivePageIndex:=12;
-        14: PageControlP4F.ActivePageIndex:=13;
-        15: PageControlP4F.ActivePageIndex:=14;
-        16: PageControlP4F.ActivePageIndex:=15;
-        17: PageControlP4F.ActivePageIndex:=16;
-        18: PageControlP4F.ActivePageIndex:=17;
-        19: PageControlP4F.ActivePageIndex:=18;
-        20: PageControlP4F.ActivePageIndex:=19;
-        21: PageControlP4F.ActivePageIndex:=20;
-        22: PageControlP4F.ActivePageIndex:=21;
-        23: PageControlP4F.ActivePageIndex:=22;
-        24: PageControlP4F.ActivePageIndex:=23;
-        25: PageControlP4F.ActivePageIndex:=24;
-        26: PageControlP4F.ActivePageIndex:=25;
-        27: PageControlP4F.ActivePageIndex:=26;
-        28: PageControlP4F.ActivePageIndex:=27;
-        end;
-     2: case PageControlP2S.ActivePageIndex of
-        1: PageControlP2S.ActivePageIndex:=0;
-        2: PageControlP2S.ActivePageIndex:=1;
-        3: PageControlP2S.ActivePageIndex:=2;
-        4: PageControlP2S.ActivePageIndex:=3;
-        5: PageControlP2S.ActivePageIndex:=4;
-        6: PageControlP2S.ActivePageIndex:=5;
-        7: PageControlP2S.ActivePageIndex:=6;
-        8: PageControlP2S.ActivePageIndex:=7;
-        9: PageControlP2S.ActivePageIndex:=8;
-        10: PageControlP2S.ActivePageIndex:=9;
-        11: PageControlP2S.ActivePageIndex:=10;
-        12: PageControlP2S.ActivePageIndex:=11;
-        13: PageControlP2S.ActivePageIndex:=12;
-        14: PageControlP2S.ActivePageIndex:=13;
-        15: PageControlP2S.ActivePageIndex:=14;
+     1: case pcB2F.ActivePageIndex of
+        1: pcB2F.ActivePageIndex:=0;
+        2: pcB2F.ActivePageIndex:=1;
+        3: pcB2F.ActivePageIndex:=2;
+        4: pcB2F.ActivePageIndex:=3;
+        5: pcB2F.ActivePageIndex:=4;
+        6: pcB2F.ActivePageIndex:=5;
+        7: pcB2F.ActivePageIndex:=6;
+        8: pcB2F.ActivePageIndex:=7;
+        9: pcB2F.ActivePageIndex:=8;
+        10: pcB2F.ActivePageIndex:=9;
+        11: pcB2F.ActivePageIndex:=10;
+        12: pcB2F.ActivePageIndex:=11;
+        13: pcB2F.ActivePageIndex:=12;
+        14: pcB2F.ActivePageIndex:=13;
+        15: pcB2F.ActivePageIndex:=14;
         end;
      end;
-  2: case PageControlA4F.ActivePageIndex of
-        1: PageControlA4F.ActivePageIndex:=0;
-        2: PageControlA4F.ActivePageIndex:=1;
-        3: PageControlA4F.ActivePageIndex:=2;
-        4: PageControlA4F.ActivePageIndex:=3;
-        5: PageControlA4F.ActivePageIndex:=4;
-        6: PageControlA4F.ActivePageIndex:=5;
-        7: PageControlA4F.ActivePageIndex:=6;
-        8: PageControlA4F.ActivePageIndex:=7;
-        9: PageControlA4F.ActivePageIndex:=8;
-        10: PageControlA4F.ActivePageIndex:=9;
-        11: PageControlA4F.ActivePageIndex:=10;
-        12: PageControlA4F.ActivePageIndex:=11;
-        13: PageControlA4F.ActivePageIndex:=12;
-        14: PageControlA4F.ActivePageIndex:=13;
-        15: PageControlA4F.ActivePageIndex:=14;
-        16: PageControlA4F.ActivePageIndex:=15;
-        17: PageControlA4F.ActivePageIndex:=16;
-        18: PageControlA4F.ActivePageIndex:=17;
-        19: PageControlA4F.ActivePageIndex:=18;
-        20: PageControlA4F.ActivePageIndex:=19;
-        21: PageControlA4F.ActivePageIndex:=20;
-        22: PageControlA4F.ActivePageIndex:=21;
-        23: PageControlA4F.ActivePageIndex:=22;
-        24: PageControlA4F.ActivePageIndex:=23;
-        25: PageControlA4F.ActivePageIndex:=24;
-        26: PageControlA4F.ActivePageIndex:=25;
-        27: PageControlA4F.ActivePageIndex:=26;
-        28: PageControlA4F.ActivePageIndex:=27;
+  1: case pcPeshin.ActivePageIndex of
+     0: case pcP4S.ActivePageIndex of
+        1: pcP4S.ActivePageIndex:=0;
+        2: pcP4S.ActivePageIndex:=1;
+        3: pcP4S.ActivePageIndex:=2;
+        4: pcP4S.ActivePageIndex:=3;
+        5: pcP4S.ActivePageIndex:=4;
+        6: pcP4S.ActivePageIndex:=5;
+        7: pcP4S.ActivePageIndex:=6;
+        8: pcP4S.ActivePageIndex:=7;
+        9: pcP4S.ActivePageIndex:=8;
+        10: pcP4S.ActivePageIndex:=9;
+        11: pcP4S.ActivePageIndex:=10;
+        12: pcP4S.ActivePageIndex:=11;
+        13: pcP4S.ActivePageIndex:=12;
+        14: pcP4S.ActivePageIndex:=13;
+        15: pcP4S.ActivePageIndex:=14;
+        16: pcP4S.ActivePageIndex:=15;
+        17: pcP4S.ActivePageIndex:=16;
+        18: pcP4S.ActivePageIndex:=17;
+        19: pcP4S.ActivePageIndex:=18;
+        20: pcP4S.ActivePageIndex:=19;
+        21: pcP4S.ActivePageIndex:=20;
+        22: pcP4S.ActivePageIndex:=21;
+        23: pcP4S.ActivePageIndex:=22;
+        24: pcP4S.ActivePageIndex:=23;
+        25: pcP4S.ActivePageIndex:=24;
+        26: pcP4S.ActivePageIndex:=25;
+        27: pcP4S.ActivePageIndex:=26;
         end;
-  3: case PageControlShom.ActivePageIndex of
-     0: case PageControlSh3F.ActivePageIndex of
-        1: PageControlSh3F.ActivePageIndex:=0;
-        2: PageControlSh3F.ActivePageIndex:=1;
-        3: PageControlSh3F.ActivePageIndex:=2;
-        4: PageControlSh3F.ActivePageIndex:=3;
-        5: PageControlSh3F.ActivePageIndex:=4;
-        6: PageControlSh3F.ActivePageIndex:=5;
-        7: PageControlSh3F.ActivePageIndex:=6;
-        8: PageControlSh3F.ActivePageIndex:=7;
-        9: PageControlSh3F.ActivePageIndex:=8;
-        10: PageControlSh3F.ActivePageIndex:=9;
-        11: PageControlSh3F.ActivePageIndex:=10;
-        12: PageControlSh3F.ActivePageIndex:=11;
-        13: PageControlSh3F.ActivePageIndex:=12;
-        14: PageControlSh3F.ActivePageIndex:=13;
-        15: PageControlSh3F.ActivePageIndex:=14;
-        16: PageControlSh3F.ActivePageIndex:=15;
-        17: PageControlSh3F.ActivePageIndex:=16;
-        18: PageControlSh3F.ActivePageIndex:=17;
-        19: PageControlSh3F.ActivePageIndex:=18;
-        20: PageControlSh3F.ActivePageIndex:=19;
-        21: PageControlSh3F.ActivePageIndex:=20;
-        22: PageControlSh3F.ActivePageIndex:=21;
+     1: case pcP4F.ActivePageIndex of
+        1: pcP4F.ActivePageIndex:=0;
+        2: pcP4F.ActivePageIndex:=1;
+        3: pcP4F.ActivePageIndex:=2;
+        4: pcP4F.ActivePageIndex:=3;
+        5: pcP4F.ActivePageIndex:=4;
+        6: pcP4F.ActivePageIndex:=5;
+        7: pcP4F.ActivePageIndex:=6;
+        8: pcP4F.ActivePageIndex:=7;
+        9: pcP4F.ActivePageIndex:=8;
+        10: pcP4F.ActivePageIndex:=9;
+        11: pcP4F.ActivePageIndex:=10;
+        12: pcP4F.ActivePageIndex:=11;
+        13: pcP4F.ActivePageIndex:=12;
+        14: pcP4F.ActivePageIndex:=13;
+        15: pcP4F.ActivePageIndex:=14;
+        16: pcP4F.ActivePageIndex:=15;
+        17: pcP4F.ActivePageIndex:=16;
+        18: pcP4F.ActivePageIndex:=17;
+        19: pcP4F.ActivePageIndex:=18;
+        20: pcP4F.ActivePageIndex:=19;
+        21: pcP4F.ActivePageIndex:=20;
+        22: pcP4F.ActivePageIndex:=21;
+        23: pcP4F.ActivePageIndex:=22;
+        24: pcP4F.ActivePageIndex:=23;
+        25: pcP4F.ActivePageIndex:=24;
+        26: pcP4F.ActivePageIndex:=25;
+        27: pcP4F.ActivePageIndex:=26;
+        28: pcP4F.ActivePageIndex:=27;
         end;
-     1: case PageControlSh2S.ActivePageIndex of
-        1: PageControlSh2S.ActivePageIndex:=0;
-        2: PageControlSh2S.ActivePageIndex:=1;
-        3: PageControlSh2S.ActivePageIndex:=2;
-        4: PageControlSh2S.ActivePageIndex:=3;
-        5: PageControlSh2S.ActivePageIndex:=4;
-        6: PageControlSh2S.ActivePageIndex:=5;
-        7: PageControlSh2S.ActivePageIndex:=6;
-        8: PageControlSh2S.ActivePageIndex:=7;
-        9: PageControlSh2S.ActivePageIndex:=8;
-        10: PageControlSh2S.ActivePageIndex:=9;
-        11: PageControlSh2S.ActivePageIndex:=10;
-        12: PageControlSh2S.ActivePageIndex:=11;
-        13: PageControlSh2S.ActivePageIndex:=12;
-        14: PageControlSh2S.ActivePageIndex:=13;
-        15: PageControlSh2S.ActivePageIndex:=14;
+     2: case pcP2S.ActivePageIndex of
+        1: pcP2S.ActivePageIndex:=0;
+        2: pcP2S.ActivePageIndex:=1;
+        3: pcP2S.ActivePageIndex:=2;
+        4: pcP2S.ActivePageIndex:=3;
+        5: pcP2S.ActivePageIndex:=4;
+        6: pcP2S.ActivePageIndex:=5;
+        7: pcP2S.ActivePageIndex:=6;
+        8: pcP2S.ActivePageIndex:=7;
+        9: pcP2S.ActivePageIndex:=8;
+        10: pcP2S.ActivePageIndex:=9;
+        11: pcP2S.ActivePageIndex:=10;
+        12: pcP2S.ActivePageIndex:=11;
+        13: pcP2S.ActivePageIndex:=12;
+        14: pcP2S.ActivePageIndex:=13;
+        15: pcP2S.ActivePageIndex:=14;
         end;
      end;
-  4: case PageControlXufton.ActivePageIndex of
-     0: case PageControlX4F.ActivePageIndex of
-        1: PageControlX4F.ActivePageIndex:=0;
-        2: PageControlX4F.ActivePageIndex:=1;
-        3: PageControlX4F.ActivePageIndex:=2;
-        4: PageControlX4F.ActivePageIndex:=3;
-        5: PageControlX4F.ActivePageIndex:=4;
-        6: PageControlX4F.ActivePageIndex:=5;
-        7: PageControlX4F.ActivePageIndex:=6;
-        8: PageControlX4F.ActivePageIndex:=7;
-        9: PageControlX4F.ActivePageIndex:=8;
-        10: PageControlX4F.ActivePageIndex:=9;
-        11: PageControlX4F.ActivePageIndex:=10;
-        12: PageControlX4F.ActivePageIndex:=11;
-        13: PageControlX4F.ActivePageIndex:=12;
-        14: PageControlX4F.ActivePageIndex:=13;
-        15: PageControlX4F.ActivePageIndex:=14;
-        16: PageControlX4F.ActivePageIndex:=15;
-        17: PageControlX4F.ActivePageIndex:=16;
-        18: PageControlX4F.ActivePageIndex:=17;
-        19: PageControlX4F.ActivePageIndex:=18;
-        20: PageControlX4F.ActivePageIndex:=19;
-        21: PageControlX4F.ActivePageIndex:=20;
-        22: PageControlX4F.ActivePageIndex:=21;
-        23: PageControlX4F.ActivePageIndex:=22;
-        24: PageControlX4F.ActivePageIndex:=23;
-        25: PageControlX4F.ActivePageIndex:=24;
-        26: PageControlX4F.ActivePageIndex:=25;
-        27: PageControlX4F.ActivePageIndex:=26;
-        28: PageControlX4F.ActivePageIndex:=27;
+  2: case pcA4F.ActivePageIndex of
+        1: pcA4F.ActivePageIndex:=0;
+        2: pcA4F.ActivePageIndex:=1;
+        3: pcA4F.ActivePageIndex:=2;
+        4: pcA4F.ActivePageIndex:=3;
+        5: pcA4F.ActivePageIndex:=4;
+        6: pcA4F.ActivePageIndex:=5;
+        7: pcA4F.ActivePageIndex:=6;
+        8: pcA4F.ActivePageIndex:=7;
+        9: pcA4F.ActivePageIndex:=8;
+        10: pcA4F.ActivePageIndex:=9;
+        11: pcA4F.ActivePageIndex:=10;
+        12: pcA4F.ActivePageIndex:=11;
+        13: pcA4F.ActivePageIndex:=12;
+        14: pcA4F.ActivePageIndex:=13;
+        15: pcA4F.ActivePageIndex:=14;
+        16: pcA4F.ActivePageIndex:=15;
+        17: pcA4F.ActivePageIndex:=16;
+        18: pcA4F.ActivePageIndex:=17;
+        19: pcA4F.ActivePageIndex:=18;
+        20: pcA4F.ActivePageIndex:=19;
+        21: pcA4F.ActivePageIndex:=20;
+        22: pcA4F.ActivePageIndex:=21;
+        23: pcA4F.ActivePageIndex:=22;
+        24: pcA4F.ActivePageIndex:=23;
+        25: pcA4F.ActivePageIndex:=24;
+        26: pcA4F.ActivePageIndex:=25;
+        27: pcA4F.ActivePageIndex:=26;
+        28: pcA4F.ActivePageIndex:=27;
         end;
-     1: case PageControlX2S.ActivePageIndex of
-        1: PageControlX2S.ActivePageIndex:=0;
-        2: PageControlX2S.ActivePageIndex:=1;
-        3: PageControlX2S.ActivePageIndex:=2;
-        4: PageControlX2S.ActivePageIndex:=3;
-        5: PageControlX2S.ActivePageIndex:=4;
-        6: PageControlX2S.ActivePageIndex:=5;
-        7: PageControlX2S.ActivePageIndex:=6;
-        8: PageControlX2S.ActivePageIndex:=7;
-        9: PageControlX2S.ActivePageIndex:=8;
-        10: PageControlX2S.ActivePageIndex:=9;
-        11: PageControlX2S.ActivePageIndex:=10;
-        12: PageControlX2S.ActivePageIndex:=11;
-        13: PageControlX2S.ActivePageIndex:=12;
-        14: PageControlX2S.ActivePageIndex:=13;
+  3: case pcShom.ActivePageIndex of
+     0: case pcSh3F.ActivePageIndex of
+        1: pcSh3F.ActivePageIndex:=0;
+        2: pcSh3F.ActivePageIndex:=1;
+        3: pcSh3F.ActivePageIndex:=2;
+        4: pcSh3F.ActivePageIndex:=3;
+        5: pcSh3F.ActivePageIndex:=4;
+        6: pcSh3F.ActivePageIndex:=5;
+        7: pcSh3F.ActivePageIndex:=6;
+        8: pcSh3F.ActivePageIndex:=7;
+        9: pcSh3F.ActivePageIndex:=8;
+        10: pcSh3F.ActivePageIndex:=9;
+        11: pcSh3F.ActivePageIndex:=10;
+        12: pcSh3F.ActivePageIndex:=11;
+        13: pcSh3F.ActivePageIndex:=12;
+        14: pcSh3F.ActivePageIndex:=13;
+        15: pcSh3F.ActivePageIndex:=14;
+        16: pcSh3F.ActivePageIndex:=15;
+        17: pcSh3F.ActivePageIndex:=16;
+        18: pcSh3F.ActivePageIndex:=17;
+        19: pcSh3F.ActivePageIndex:=18;
+        20: pcSh3F.ActivePageIndex:=19;
+        21: pcSh3F.ActivePageIndex:=20;
+        22: pcSh3F.ActivePageIndex:=21;
         end;
-     2: case PageControlV3V.ActivePageIndex of
-        1: PageControlV3V.ActivePageIndex:=0;
-        2: PageControlV3V.ActivePageIndex:=1;
-        3: PageControlV3V.ActivePageIndex:=2;
-        4: PageControlV3V.ActivePageIndex:=3;
-        5: PageControlV3V.ActivePageIndex:=4;
-        6: PageControlV3V.ActivePageIndex:=5;
-        7: PageControlV3V.ActivePageIndex:=6;
-        8: PageControlV3V.ActivePageIndex:=7;
-        9: PageControlV3V.ActivePageIndex:=8;
-        10: PageControlV3V.ActivePageIndex:=9;
-        11: PageControlV3V.ActivePageIndex:=10;
-        12: PageControlV3V.ActivePageIndex:=11;
-        13: PageControlV3V.ActivePageIndex:=12;
-        14: PageControlV3V.ActivePageIndex:=13;
-        15: PageControlV3V.ActivePageIndex:=14;
-        16: PageControlV3V.ActivePageIndex:=15;
-        17: PageControlV3V.ActivePageIndex:=16;
-        18: PageControlV3V.ActivePageIndex:=17;
-        19: PageControlV3V.ActivePageIndex:=18;
-        20: PageControlV3V.ActivePageIndex:=19;
-        21: PageControlV3V.ActivePageIndex:=20;
-        22: PageControlV3V.ActivePageIndex:=21;
+     1: case pcSh2S.ActivePageIndex of
+        1: pcSh2S.ActivePageIndex:=0;
+        2: pcSh2S.ActivePageIndex:=1;
+        3: pcSh2S.ActivePageIndex:=2;
+        4: pcSh2S.ActivePageIndex:=3;
+        5: pcSh2S.ActivePageIndex:=4;
+        6: pcSh2S.ActivePageIndex:=5;
+        7: pcSh2S.ActivePageIndex:=6;
+        8: pcSh2S.ActivePageIndex:=7;
+        9: pcSh2S.ActivePageIndex:=8;
+        10: pcSh2S.ActivePageIndex:=9;
+        11: pcSh2S.ActivePageIndex:=10;
+        12: pcSh2S.ActivePageIndex:=11;
+        13: pcSh2S.ActivePageIndex:=12;
+        14: pcSh2S.ActivePageIndex:=13;
+        15: pcSh2S.ActivePageIndex:=14;
+        end;
+     end;
+  4: case pcXufton.ActivePageIndex of
+     0: case pcX4F.ActivePageIndex of
+        1: pcX4F.ActivePageIndex:=0;
+        2: pcX4F.ActivePageIndex:=1;
+        3: pcX4F.ActivePageIndex:=2;
+        4: pcX4F.ActivePageIndex:=3;
+        5: pcX4F.ActivePageIndex:=4;
+        6: pcX4F.ActivePageIndex:=5;
+        7: pcX4F.ActivePageIndex:=6;
+        8: pcX4F.ActivePageIndex:=7;
+        9: pcX4F.ActivePageIndex:=8;
+        10: pcX4F.ActivePageIndex:=9;
+        11: pcX4F.ActivePageIndex:=10;
+        12: pcX4F.ActivePageIndex:=11;
+        13: pcX4F.ActivePageIndex:=12;
+        14: pcX4F.ActivePageIndex:=13;
+        15: pcX4F.ActivePageIndex:=14;
+        16: pcX4F.ActivePageIndex:=15;
+        17: pcX4F.ActivePageIndex:=16;
+        18: pcX4F.ActivePageIndex:=17;
+        19: pcX4F.ActivePageIndex:=18;
+        20: pcX4F.ActivePageIndex:=19;
+        21: pcX4F.ActivePageIndex:=20;
+        22: pcX4F.ActivePageIndex:=21;
+        23: pcX4F.ActivePageIndex:=22;
+        24: pcX4F.ActivePageIndex:=23;
+        25: pcX4F.ActivePageIndex:=24;
+        26: pcX4F.ActivePageIndex:=25;
+        27: pcX4F.ActivePageIndex:=26;
+        28: pcX4F.ActivePageIndex:=27;
+        end;
+     1: case pcX2S.ActivePageIndex of
+        1: pcX2S.ActivePageIndex:=0;
+        2: pcX2S.ActivePageIndex:=1;
+        3: pcX2S.ActivePageIndex:=2;
+        4: pcX2S.ActivePageIndex:=3;
+        5: pcX2S.ActivePageIndex:=4;
+        6: pcX2S.ActivePageIndex:=5;
+        7: pcX2S.ActivePageIndex:=6;
+        8: pcX2S.ActivePageIndex:=7;
+        9: pcX2S.ActivePageIndex:=8;
+        10: pcX2S.ActivePageIndex:=9;
+        11: pcX2S.ActivePageIndex:=10;
+        12: pcX2S.ActivePageIndex:=11;
+        13: pcX2S.ActivePageIndex:=12;
+        14: pcX2S.ActivePageIndex:=13;
+        end;
+     2: case pcV3V.ActivePageIndex of
+        1: pcV3V.ActivePageIndex:=0;
+        2: pcV3V.ActivePageIndex:=1;
+        3: pcV3V.ActivePageIndex:=2;
+        4: pcV3V.ActivePageIndex:=3;
+        5: pcV3V.ActivePageIndex:=4;
+        6: pcV3V.ActivePageIndex:=5;
+        7: pcV3V.ActivePageIndex:=6;
+        8: pcV3V.ActivePageIndex:=7;
+        9: pcV3V.ActivePageIndex:=8;
+        10: pcV3V.ActivePageIndex:=9;
+        11: pcV3V.ActivePageIndex:=10;
+        12: pcV3V.ActivePageIndex:=11;
+        13: pcV3V.ActivePageIndex:=12;
+        14: pcV3V.ActivePageIndex:=13;
+        15: pcV3V.ActivePageIndex:=14;
+        16: pcV3V.ActivePageIndex:=15;
+        17: pcV3V.ActivePageIndex:=16;
+        18: pcV3V.ActivePageIndex:=17;
+        19: pcV3V.ActivePageIndex:=18;
+        20: pcV3V.ActivePageIndex:=19;
+        21: pcV3V.ActivePageIndex:=20;
+        22: pcV3V.ActivePageIndex:=21;
         end;
      end;
   end;
@@ -2879,7 +2879,7 @@ end;
 
 procedure TFormMain.ProcDuo(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetDuo;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetDuo;
   FormDetails.ShowModal;
 end;
 
@@ -2895,111 +2895,111 @@ end;
 
 procedure TFormMain.ProcDuoF(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetDuoF;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetDuoF;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcQunut(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetQunut;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetQunut;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAzon(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzon;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetAzon;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcKursi(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetKursi;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetKursi;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcTasbehot(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetTasbehot;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetTasbehot;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcNas(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetNas;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetNas;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcFalaq(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetFalaq;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetFalaq;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcIqomat(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetIqomat;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetIqomat;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAla(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAla;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetAla;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAziym(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAziym;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetAziym;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAzonBomdod(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzonBomdod;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetAzonBomdod;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcAzonDuo(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetAzonDuo;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetAzonDuo;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcBasmala(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetBasmala;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetBasmala;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcFotiha(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetFotiha;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetFotiha;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcHamd(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetHamd;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetHamd;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcIxlos(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetIxlos;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetIxlos;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcKavsar(Sender: TObject);
 begin
-  FormDetails.PageControlMain.ActivePage:=FormDetails.TabSheetKavsar;
+  FormDetails.pcMain.ActivePage:=FormDetails.TabSheetKavsar;
   FormDetails.ShowModal;
 end;
 
 procedure TFormMain.ProcImagesLoad(Sender: TObject);
 begin
-  case PageControlMain.ActivePageIndex of
-  0: case PageControlBomdod.ActivePageIndex of
-     0: case PageControlB2S.ActivePage.Caption of
+  case pcMain.ActivePageIndex of
+  0: case pcBomdod.ActivePageIndex of
+     0: case pcB2S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3057,7 +3057,7 @@ begin
             ButtonPrevious.Enabled:=true;
           end;
         end;
-     1: case PageControlB2F.ActivePage.Caption of
+     1: case pcB2F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3117,8 +3117,8 @@ begin
           end;
         end;
      end;
-  1: case PageControlPeshin.ActivePageIndex of
-     0: case PageControlP4S.ActivePage.Caption of
+  1: case pcPeshin.ActivePageIndex of
+     0: case pcP4S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3176,7 +3176,7 @@ begin
             ButtonPrevious.Enabled:=true;
           end;
         end;
-     1: case PageControlP4F.ActivePage.Caption of
+     1: case pcP4F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3242,7 +3242,7 @@ begin
             ButtonPrevious.Enabled:=true;
           end;
         end;
-     2: case PageControlP2S.ActivePage.Caption of
+     2: case pcP2S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3309,7 +3309,7 @@ begin
           end;
         end;
      end;
-  2: case PageControlA4F.ActivePage.Caption of
+  2: case pcA4F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3375,8 +3375,8 @@ begin
             ButtonPrevious.Enabled:=true;
           end;
         end;
-  3: case PageControlShom.ActivePageIndex of
-     0: case PageControlSh3F.ActivePage.Caption of
+  3: case pcShom.ActivePageIndex of
+     0: case pcSh3F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3442,7 +3442,7 @@ begin
             ButtonPrevious.Enabled:=true;
           end;
         end;
-     1: case PageControlSh2S.ActivePage.Caption of
+     1: case pcSh2S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3509,8 +3509,8 @@ begin
           end;
         end;
      end;
-  4: case PageControlXufton.ActivePageIndex of
-     0: case PageControlX4F.ActivePage.Caption of
+  4: case pcXufton.ActivePageIndex of
+     0: case pcX4F.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3576,7 +3576,7 @@ begin
             ButtonPrevious.Enabled:=true;
           end;
         end;
-     1: case PageControlX2S.ActivePage.Caption of
+     1: case pcX2S.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3634,7 +3634,7 @@ begin
             ButtonPrevious.Enabled:=true;
           end;
         end;
-     2: case PageControlV3V.ActivePage.Caption of
+     2: case pcV3V.ActivePage.Caption of
         'Kirish':
           begin
             ProcImageKirish;
@@ -3788,23 +3788,23 @@ procedure TFormMain.FormClose(Sender: TObject);
 begin
   if FormSettings.RadioButtonStart.Checked = true then
     begin
-      PageControlA4F.TabIndex:=0;
-      PageControlAsr.TabIndex:=0;
-      PageControlB2F.TabIndex:=0;
-      PageControlB2S.TabIndex:=0;
-      PageControlBomdod.TabIndex:=0;
-      PageControlMain.TabIndex:=0;
-      PageControlP2S.TabIndex:=0;
-      PageControlP4F.TabIndex:=0;
-      PageControlP4S.TabIndex:=0;
-      PageControlPeshin.TabIndex:=0;
-      PageControlSh2S.TabIndex:=0;
-      PageControlSh3F.TabIndex:=0;
-      PageControlShom.TabIndex:=0;
-      PageControlV3V.TabIndex:=0;
-      PageControlX2S.TabIndex:=0;
-      PageControlX4F.TabIndex:=0;
-      PageControlXufton.TabIndex:=0;
+      pcA4F.TabIndex:=0;
+      pcAsr.TabIndex:=0;
+      pcB2F.TabIndex:=0;
+      pcB2S.TabIndex:=0;
+      pcBomdod.TabIndex:=0;
+      pcMain.TabIndex:=0;
+      pcP2S.TabIndex:=0;
+      pcP4F.TabIndex:=0;
+      pcP4S.TabIndex:=0;
+      pcPeshin.TabIndex:=0;
+      pcSh2S.TabIndex:=0;
+      pcSh3F.TabIndex:=0;
+      pcShom.TabIndex:=0;
+      pcV3V.TabIndex:=0;
+      pcX2S.TabIndex:=0;
+      pcX4F.TabIndex:=0;
+      pcXufton.TabIndex:=0;
     end;
 end;
 

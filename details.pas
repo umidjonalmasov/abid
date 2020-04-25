@@ -128,7 +128,7 @@ type
     LabelQunutTr: TLabel;
     LabelTavhidPr: TLabel;
     LabelTavhidTr: TLabel;
-    PageControlMain: TPageControl;
+    pcMain: TPageControl;
     PanelAllohuAkbar: TPanel;
     PanelSubhanalloh: TPanel;
     PanelBottom: TPanel;
@@ -274,7 +274,7 @@ begin
      j:=false;
     end
   else
-    case PageControlMain.ActivePageIndex of
+    case pcMain.ActivePageIndex of
     0: if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg') then
          begin
            f := PChar({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'sound/azonbomdod.ogg');
