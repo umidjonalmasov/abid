@@ -2323,7 +2323,7 @@ end;
 procedure TFormMain.FormActivate(Sender: TObject);
 begin
   FormMain.ProcImagesLoad(self);
-  FormSettings.ComboBoxLanguageChange(self);
+  FormSettings.cbLanguageChange(self);
 end;
 
 procedure TFormMain.MenuItemExitClick(Sender: TObject);
@@ -3786,7 +3786,7 @@ end;
 
 procedure TFormMain.FormClose(Sender: TObject);
 begin
-  if FormSettings.RadioButtonStart.Checked = true then
+  if FormSettings.rbStart.Checked = true then
     begin
       pcA4F.TabIndex:=0;
       pcAsr.TabIndex:=0;

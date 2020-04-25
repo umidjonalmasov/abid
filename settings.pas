@@ -35,23 +35,22 @@ type
 
   TFormSettings = class(TForm)
     ButtonPanel: TButtonPanel;
-    ComboBoxLanguage: TComboBox;
-    DefaultButton: TPanelBitBtn;
+    cbLanguage: TComboBox;
     FontDialog: TFontDialog;
-    GroupBoxLanguage: TGroupBox;
-    GroupBoxRun: TGroupBox;
-    GroupBoxInterface: TGroupBox;
+    gbLanguage: TGroupBox;
+    gbRun: TGroupBox;
+    gbInterface: TGroupBox;
     IniPropStorage: TIniPropStorage;
-    RadioButtonStart: TRadioButton;
-    RadioButtonContinue: TRadioButton;
-    ButtonFont: TSpeedButton;
-    procedure ButtonFontClick(Sender: TObject);
+    rbStart: TRadioButton;
+    rbContinue: TRadioButton;
+    sbFont: TSpeedButton;
+    procedure sbFontClick(Sender: TObject);
     procedure CancelButtonClick(Sender: TObject);
-    procedure ComboBoxLanguageChange(Sender: TObject);
+    procedure cbLanguageChange(Sender: TObject);
     procedure FormActivate(Sender: TObject);
     procedure FormClose(Sender: TObject);
     procedure FormCreate(Sender: TObject);
-    procedure DefaultButtonClick(Sender: TObject);
+    procedure HelpButtonClick(Sender: TObject);
     procedure OKButtonClick(Sender: TObject);
   private
 
@@ -71,7 +70,7 @@ uses
 
 { TFormSettings }
 
-procedure TFormSettings.ButtonFontClick(Sender: TObject);
+procedure TFormSettings.sbFontClick(Sender: TObject);
 begin
   if FontDialog.Execute then
      begin
@@ -86,17 +85,17 @@ begin
   IniPropStorage.Restore;
 end;
 
-procedure TFormSettings.ComboBoxLanguageChange(Sender: TObject);
+procedure TFormSettings.cbLanguageChange(Sender: TObject);
 begin
-  case ComboBoxLanguage.ItemIndex of
+  case cbLanguage.ItemIndex of
    0:
      begin
        SetDefaultLang('uz@lat');
-       ComboBoxLanguage.Items.Clear;
-       ComboBoxLanguage.Items.Add('Oʼzbek (lotin)');
-       ComboBoxLanguage.Items.Add('Oʼzbek (kirill)');
-       ComboBoxLanguage.Items.Add('Rus');
-       ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[0];
+       cbLanguage.Items.Clear;
+       cbLanguage.Items.Add('Oʼzbek (lotin)');
+       cbLanguage.Items.Add('Oʼzbek (kirill)');
+       cbLanguage.Items.Add('Rus');
+       cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[0];
        if FormMain.PanelImage.Visible=true then
           begin
             FormMain.MenuItemImage.Caption:=ImageHide;
@@ -113,11 +112,11 @@ begin
        if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.uz@cyr.po') then
        begin
          SetDefaultLang('uz@cyr');
-         ComboBoxLanguage.Items.Clear;
-         ComboBoxLanguage.Items.Add('Ўзбек (лотин)');
-         ComboBoxLanguage.Items.Add('Ўзбек (кирилл)');
-         ComboBoxLanguage.Items.Add('Рус');
-         ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[1];
+         cbLanguage.Items.Clear;
+         cbLanguage.Items.Add('Ўзбек (лотин)');
+         cbLanguage.Items.Add('Ўзбек (кирилл)');
+         cbLanguage.Items.Add('Рус');
+         cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[1];
          if FormMain.PanelImage.Visible=true then
             begin
               FormMain.MenuItemImage.Caption:=ImageHide;
@@ -140,11 +139,11 @@ begin
        if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.ru.po') then
        begin
        SetDefaultLang('ru');
-       ComboBoxLanguage.Items.Clear;
-       ComboBoxLanguage.Items.Add('Узбекский (латиница)');
-       ComboBoxLanguage.Items.Add('Узбекский (кириллица)');
-       ComboBoxLanguage.Items.Add('Русский');
-       ComboBoxLanguage.Text:=ComboBoxLanguage.Items.ValueFromIndex[2];
+       cbLanguage.Items.Clear;
+       cbLanguage.Items.Add('Узбекский (латиница)');
+       cbLanguage.Items.Add('Узбекский (кириллица)');
+       cbLanguage.Items.Add('Русский');
+       cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[2];
        if FormMain.PanelImage.Visible=true then
           begin
             FormMain.MenuItemImage.Caption:=ImageHide;
@@ -169,7 +168,7 @@ end;
 procedure TFormSettings.FormActivate(Sender: TObject);
 begin
   OKButtonClick(self);
-  ComboBoxLanguageChange(self);
+  cbLanguageChange(self);
 end;
 
 procedure TFormSettings.FormClose(Sender: TObject);
@@ -182,11 +181,11 @@ begin
   IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
 end;
 
-procedure TFormSettings.DefaultButtonClick(Sender: TObject);
+procedure TFormSettings.HelpButtonClick(Sender: TObject);
 begin
-  RadioButtonStart.Checked:=true;
-  ComboBoxLanguage.ItemIndex:=0;
-  ComboBoxLanguageChange(self);
+  rbStart.Checked:=true;
+  cbLanguage.ItemIndex:=0;
+  cbLanguageChange(self);
   FormMain.pcMain.Font.SetDefault;
   FormDetails.pcMain.Font.SetDefault;
 end;

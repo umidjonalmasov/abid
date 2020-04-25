@@ -14,10 +14,10 @@ object FormSettings: TFormSettings
   OnClose = FormClose
   OnCreate = FormCreate
   Position = poMainFormCenter
-  SessionProperties = 'RadioButtonContinue.Checked;RadioButtonStart.Checked;ComboBoxLanguage.ItemIndex'
+  SessionProperties = 'rbContinue.Checked;rbStart.Checked;cbLanguage.ItemIndex'
   ShowInTaskBar = stNever
   LCLVersion = '2.0.8.0'
-  object GroupBoxInterface: TGroupBox
+  object gbInterface: TGroupBox
     Left = 10
     Height = 234
     Top = 10
@@ -29,7 +29,7 @@ object FormSettings: TFormSettings
     ClientHeight = 217
     ClientWidth = 283
     TabOrder = 0
-    object GroupBoxRun: TGroupBox
+    object gbRun: TGroupBox
       Left = 10
       Height = 83
       Top = 10
@@ -41,7 +41,7 @@ object FormSettings: TFormSettings
       ClientHeight = 66
       ClientWidth = 261
       TabOrder = 0
-      object RadioButtonStart: TRadioButton
+      object rbStart: TRadioButton
         Left = 10
         Height = 23
         Top = 10
@@ -55,7 +55,7 @@ object FormSettings: TFormSettings
         TabOrder = 0
         TabStop = True
       end
-      object RadioButtonContinue: TRadioButton
+      object rbContinue: TRadioButton
         Left = 10
         Height = 23
         Top = 33
@@ -68,7 +68,7 @@ object FormSettings: TFormSettings
         TabOrder = 1
       end
     end
-    object GroupBoxLanguage: TGroupBox
+    object gbLanguage: TGroupBox
       Left = 10
       Height = 63
       Top = 103
@@ -80,7 +80,7 @@ object FormSettings: TFormSettings
       ClientHeight = 46
       ClientWidth = 261
       TabOrder = 1
-      object ComboBoxLanguage: TComboBox
+      object cbLanguage: TComboBox
         Left = 10
         Height = 26
         Top = 10
@@ -94,13 +94,13 @@ object FormSettings: TFormSettings
           'Oʼzbek (kirill)'
           'Rus'
         )
-        OnChange = ComboBoxLanguageChange
+        OnChange = cbLanguageChange
         Style = csDropDownList
         TabOrder = 0
         Text = 'Oʼzbek (lotin)'
       end
     end
-    object ButtonFont: TSpeedButton
+    object sbFont: TSpeedButton
       Left = 10
       Height = 22
       Top = 176
@@ -108,7 +108,7 @@ object FormSettings: TFormSettings
       Align = alTop
       BorderSpacing.Around = 10
       Caption = 'Shrift oʼzgartirish'
-      OnClick = ButtonFontClick
+      OnClick = sbFontClick
     end
   end
   object ButtonPanel: TButtonPanel
@@ -120,10 +120,10 @@ object FormSettings: TFormSettings
     OKButton.Caption = 'OK'
     OKButton.DefaultCaption = False
     OKButton.OnClick = OKButtonClick
-    HelpButton.Name = 'DefaultButton'
+    HelpButton.Name = 'HelpButton'
     HelpButton.Caption = 'Standart'
     HelpButton.DefaultCaption = False
-    HelpButton.OnClick = DefaultButtonClick
+    HelpButton.OnClick = HelpButtonClick
     CloseButton.Name = 'CloseButton'
     CloseButton.DefaultCaption = True
     CancelButton.Name = 'CancelButton'
