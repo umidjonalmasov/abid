@@ -834,19 +834,16 @@ msgstr ""
 "Нет никого и ничего достойного поклонения, кроме Единственного Аллаха, нет у Него сотоварища! Ему принадлежит вся власть и хвала, и Он над всякой вещью мощен.\n"
 
 #: tformmain.bimage.caption
-#, fuzzy
 msgctxt "tformmain.bimage.caption"
 msgid "Tasvirlarni yashirish"
 msgstr "Скрыть изображения"
 
 #: tformmain.bnext.hint
-#, fuzzy
 msgctxt "tformmain.bnext.hint"
 msgid "Keyingi"
 msgstr "Следующий"
 
 #: tformmain.bprevious.hint
-#, fuzzy
 msgctxt "tformmain.bprevious.hint"
 msgid "Oldingi"
 msgstr "Предыдущий"
@@ -857,449 +854,321 @@ msgid "Abid"
 msgstr "Абид"
 
 #: tformmain.lala1_1a4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1b2f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1b2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1p2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1p4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1p4s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1sh2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1sh3f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1v3v.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1x2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_1x4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2a4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2b2f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2b2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2p2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2p4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2p4s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2sh2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2sh3f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2v3v.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2x2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala1_2x4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala1_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1a4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1b2f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1b2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1p2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1p4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1p4s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1sh2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1sh3f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1v3v.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1x2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_1x4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2a4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2b2f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2b2f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2b2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2b2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2p2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2p2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2p4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2p4s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2sh2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2sh2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2sh3f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2v3v.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2x2s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2x2s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala2_2x4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala2_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_1a4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_1p4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_1p4s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_1sh3f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_1sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_1v3v.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_1v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_1x4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_2a4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_2p4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_2p4s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_2sh3f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_2sh3f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_2v3v.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_2v3v.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala3_2x4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala3_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala4_1a4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala4_1a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala4_1p4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala4_1p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala4_1p4s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala4_1p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala4_1x4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala4_1x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala4_2a4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala4_2a4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala4_2p4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala4_2p4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala4_2p4s.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala4_2p4s.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lala4_2x4f.caption
-#, fuzzy
-#| msgid "Sajdada uch marta «Subhana Robbiyal 'ala» deyiladi."
 msgctxt "tformmain.lala4_2x4f.caption"
 msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
@@ -1309,519 +1178,371 @@ msgid "Asr namozining vaqti – har bir narsaning soyasi quyosh tikkaga kelgan p
 msgstr "Аср – послеобеденный намаз. Время его совершения начинается сразу после окончания времени намаза зухр и продолжается до захода солнца за горизонт. Лучше всего этот намаз выполнять не сразу, а чуть попозже, но и не следует откладывать до того момента, пока солнце станет красноватого или рыжего цвета и глаза смогут безболезненно смотреть на него. Совершение намаза аср после этого момента (обычно солнце становится таким за 20-30 минут до заката) будет грехом, однако намаз совершить нужно все равно."
 
 #: tformmain.laziym1a4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1a4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1b2f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1b2f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1b2s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1b2s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1p2s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1p2s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1p4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1p4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1p4s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1p4s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1sh2s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1sh2s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1sh3f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1v3v.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1v3v.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1x2s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1x2s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym1x4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym1x4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2a4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2a4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2b2f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2b2f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2b2s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2b2s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2p2s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2p2s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2p4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2p4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2p4s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2p4s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2sh2s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2sh2s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2sh3f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2v3v.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2v3v.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2x2s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2x2s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym2x4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym2x4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym3a4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym3a4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym3p4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym3p4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym3p4s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym3p4s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym3sh3f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym3sh3f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym3v3v.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym3v3v.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym3x4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym3x4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym4a4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym4a4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym4p4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym4p4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym4p4s.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym4p4s.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.laziym4x4f.caption
-#, fuzzy
-#| msgid "Uch marta «Subhana Robbiyal 'aziym» deyiladi."
 msgctxt "tformmain.laziym4x4f.caption"
 msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
 msgstr "Три раза произносится «Субхана Роббияль 'азым»."
 
 #: tformmain.lazona4f.caption
-#, fuzzy
-#| msgid "Avval Azon o'qiladi."
 msgctxt "tformmain.lazona4f.caption"
 msgid "Avval Azon oʼqiladi."
 msgstr "Сначала оглашается азан."
 
 #: tformmain.lazonb2s.caption
-#, fuzzy
-#| msgid "Avval Azon o'qiladi."
 msgctxt "tformmain.lazonb2s.caption"
 msgid "Avval Azon oʼqiladi."
 msgstr "Сначала оглашается азан."
 
 #: tformmain.lazonduoa4f.caption
-#, fuzzy
-#| msgid "So'ng Azon duosi o'qiladi."
 msgctxt "tformmain.lazonduoa4f.caption"
 msgid "Soʼng Azon duosi oʼqiladi."
 msgstr "Затем читается дуа."
 
 #: tformmain.lazonduob2s.caption
-#, fuzzy
-#| msgid "So'ng Azon duosi o'qiladi."
 msgctxt "tformmain.lazonduob2s.caption"
 msgid "Soʼng Azon duosi oʼqiladi."
 msgstr "Затем читается дуа."
 
 #: tformmain.lazonduop4s.caption
-#, fuzzy
-#| msgid "So'ng Azon duosi o'qiladi."
 msgctxt "tformmain.lazonduop4s.caption"
 msgid "Soʼng Azon duosi oʼqiladi."
 msgstr "Затем читается дуа."
 
 #: tformmain.lazonduosh3f.caption
-#, fuzzy
-#| msgid "So'ng Azon duosi o'qiladi."
 msgctxt "tformmain.lazonduosh3f.caption"
 msgid "Soʼng Azon duosi oʼqiladi."
 msgstr "Затем читается дуа."
 
 #: tformmain.lazonduox4f.caption
-#, fuzzy
-#| msgid "So'ng Azon duosi o'qiladi."
 msgctxt "tformmain.lazonduox4f.caption"
 msgid "Soʼng Azon duosi oʼqiladi."
 msgstr "Затем читается дуа."
 
 #: tformmain.lazonp4s.caption
-#, fuzzy
-#| msgid "Avval Azon o'qiladi."
 msgctxt "tformmain.lazonp4s.caption"
 msgid "Avval Azon oʼqiladi."
 msgstr "Сначала оглашается азан."
 
 #: tformmain.lazonsh3f.caption
-#, fuzzy
-#| msgid "Avval Azon o'qiladi."
 msgctxt "tformmain.lazonsh3f.caption"
 msgid "Avval Azon oʼqiladi."
 msgstr "Сначала оглашается азан."
 
 #: tformmain.lazonx4f.caption
-#, fuzzy
-#| msgid "Avval Azon o'qiladi."
 msgctxt "tformmain.lazonx4f.caption"
 msgid "Avval Azon oʼqiladi."
 msgstr "Сначала оглашается азан."
 
 #: tformmain.lbasmala1a4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1a4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1b2f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1b2f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1b2s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1b2s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1p2s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1p2s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1p4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1p4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1p4s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1p4s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1sh2s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1sh2s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1sh3f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1sh3f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1v3v.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1v3v.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1x2s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1x2s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala1x4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala1x4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2a4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2a4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2b2f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2b2f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2b2s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2b2s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2p2s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2p2s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2p4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2p4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2p4s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2p4s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2sh2s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2sh2s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2sh3f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2sh3f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2v3v.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2v3v.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2x2s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2x2s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala2x4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala2x4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala3a4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala3a4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala3p4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala3p4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala3p4s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala3p4s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala3sh3f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala3sh3f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala3v3v.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala3v3v.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala3x4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala3x4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala4a4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala4a4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala4p4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala4p4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala4p4s.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala4p4s.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbasmala4x4f.caption
-#, fuzzy
-#| msgid "Basmala («Bismillah...») o'qiladi."
 msgctxt "tformmain.lbasmala4x4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
@@ -1831,71 +1552,51 @@ msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqq
 msgstr "Фаджр – утренний намаз. Время его совершения начинается с наступлением рассвета (при первых признаках белизны, появившейся вдоль горизонта) и заканчивается за несколько мгновений до восхода солнца. Наилучшее время совершения утреннего намаза: ближе к концу его времени, когда становятся видны контуры предметов. Смысл выбора такого времени в том, чтобы собрать как можно больше людей для совершения коллективного намаза в мечети. Однако не следует чрезмерно его откладывать, чтобы не выйти за пределы установленного временного промежутка."
 
 #: tformmain.lduoa4f.caption
-#, fuzzy
-#| msgid "Namoz tugagach, ushbu duo o'qiladi."
 msgctxt "tformmain.lduoa4f.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
 msgstr "По завершении намаза читается дуа."
 
 #: tformmain.lduob2f.caption
-#, fuzzy
-#| msgid "Namoz tugagach, ushbu duo o'qiladi."
 msgctxt "tformmain.lduob2f.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
 msgstr "По завершении намаза читается дуа."
 
 #: tformmain.lduofa4f.caption
-#, fuzzy
-#| msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
 msgctxt "tformmain.lduofa4f.caption"
 msgid "Farz namozlaridan keyin duoni oʼqish sunnatdir."
 msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.lduofb2f.caption
-#, fuzzy
-#| msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
 msgctxt "tformmain.lduofb2f.caption"
 msgid "Farz namozlaridan keyin duoni oʼqish sunnatdir."
 msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.lduofp4f.caption
-#, fuzzy
-#| msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
 msgctxt "tformmain.lduofp4f.caption"
 msgid "Farz namozlaridan keyin duoni oʼqish sunnatdir."
 msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.lduofsh3f.caption
-#, fuzzy
-#| msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
 msgctxt "tformmain.lduofsh3f.caption"
 msgid "Farz namozlaridan keyin duoni oʼqish sunnatdir."
 msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.lduofx4f.caption
-#, fuzzy
-#| msgid "Farz namozlaridan keyin duoni o'qish sunnatdir."
 msgctxt "tformmain.lduofx4f.caption"
 msgid "Farz namozlaridan keyin duoni oʼqish sunnatdir."
 msgstr "После фард-намазов является сунной читать дуа."
 
 #: tformmain.lduop2s.caption
-#, fuzzy
-#| msgid "Namoz tugagach, ushbu duo o'qiladi."
 msgctxt "tformmain.lduop2s.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
 msgstr "По завершении намаза читается дуа."
 
 #: tformmain.lduosh2s.caption
-#, fuzzy
-#| msgid "Namoz tugagach, ushbu duo o'qiladi."
 msgctxt "tformmain.lduosh2s.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
 msgstr "По завершении намаза читается дуа."
 
 #: tformmain.lduov3v.caption
-#, fuzzy
-#| msgid "Namoz tugagach, ushbu duo o'qiladi."
 msgctxt "tformmain.lduov3v.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
 msgstr "По завершении намаза читается дуа."
@@ -2091,260 +1792,186 @@ msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichim
 msgstr "Читается сура Аль-Фатиха. По окончании суры Аль-Фатиха тихо произносится «Амин»."
 
 #: tformmain.lhamd1a4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1a4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1b2f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1b2f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1b2s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1b2s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1p2s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1p2s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1p4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1p4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1p4s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1p4s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1sh2s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1sh2s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1sh3f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1sh3f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1v3v.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1v3v.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1x2s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1x2s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd1x4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd1x4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2a4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2a4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2b2f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2b2f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2b2s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2b2s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2p2s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2p2s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2p4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2p4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2p4s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2p4s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2sh2s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2sh2s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2sh3f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2sh3f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2v3v.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2v3v.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2x2s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2x2s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd2x4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd2x4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd3a4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd3a4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd3p4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd3p4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd3p4s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd3p4s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd3sh3f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd3sh3f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd3v3v.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd3v3v.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd3x4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd3x4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd4a4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd4a4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd4p4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd4p4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd4p4s.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd4p4s.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.lhamd4x4f.caption
-#, fuzzy
-#| msgid "To'la tiklanib bo'lgach «Robbana lakal hamd» deyiladi."
 msgctxt "tformmain.lhamd4x4f.caption"
 msgid "Toʼla tiklanib boʼlgach «Robbana lakal hamd» deyiladi."
 msgstr "Выпрямившись окончательно произносится «Роббана лякаль хамд»."
 
 #: tformmain.liqomata4f.caption
-#, fuzzy
-#| msgid "Iqomat o'qiladi."
 msgctxt "tformmain.liqomata4f.caption"
 msgid "Iqomat oʼqiladi."
 msgstr "Читается икамат."
 
 #: tformmain.liqomatb2f.caption
-#, fuzzy
-#| msgid "Iqomat o'qiladi."
 msgctxt "tformmain.liqomatb2f.caption"
 msgid "Iqomat oʼqiladi."
 msgstr "Читается икамат."
 
 #: tformmain.liqomatp4f.caption
-#, fuzzy
-#| msgid "Iqomat o'qiladi."
 msgctxt "tformmain.liqomatp4f.caption"
 msgid "Iqomat oʼqiladi."
 msgstr "Читается икамат."
 
 #: tformmain.liqomatsh3f.caption
-#, fuzzy
-#| msgid "Iqomat o'qiladi."
 msgctxt "tformmain.liqomatsh3f.caption"
 msgid "Iqomat oʼqiladi."
 msgstr "Читается икамат."
 
 #: tformmain.liqomatx4f.caption
-#, fuzzy
-#| msgid "Iqomat o'qiladi."
 msgctxt "tformmain.liqomatx4f.caption"
 msgid "Iqomat oʼqiladi."
 msgstr "Читается икамат."
@@ -2415,36 +2042,26 @@ msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki
 msgstr "Читается дополнительная сура."
 
 #: tformmain.lkursia4f.caption
-#, fuzzy
-#| msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
 msgctxt "tformmain.lkursia4f.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) oʼqish ham savobli."
 msgstr "Чтение после намаза Аят-уль-Курси также воздается."
 
 #: tformmain.lkursib2f.caption
-#, fuzzy
-#| msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
 msgctxt "tformmain.lkursib2f.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) oʼqish ham savobli."
 msgstr "Чтение после намаза Аят-уль-Курси также воздается."
 
 #: tformmain.lkursip2s.caption
-#, fuzzy
-#| msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
 msgctxt "tformmain.lkursip2s.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) oʼqish ham savobli."
 msgstr "Чтение после намаза Аят-уль-Курси также воздается."
 
 #: tformmain.lkursish2s.caption
-#, fuzzy
-#| msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
 msgctxt "tformmain.lkursish2s.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) oʼqish ham savobli."
 msgstr "Чтение после намаза Аят-уль-Курси также воздается."
 
 #: tformmain.lkursiv3v.caption
-#, fuzzy
-#| msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) o'qish ham savobli."
 msgctxt "tformmain.lkursiv3v.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) oʼqish ham savobli."
 msgstr "Чтение после намаза Аят-уль-Курси также воздается."
@@ -2480,8 +2097,6 @@ msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki
 msgstr "Читается дополнительная сура."
 
 #: tformmain.lniyata4f.caption
-#, fuzzy
-#| msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun asr namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgctxt "tformmain.lniyata4f.caption"
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun asr namozining toʼrt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза аср искренне ради Аллаха»."
@@ -2500,14 +2115,10 @@ msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, 
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза зухр искренне ради Аллаха»."
 
 #: tformmain.lniyatp4f.caption
-#, fuzzy
-#| msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun peshin namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun peshin namozining toʼrt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза зухр искренне ради Аллаха»."
 
 #: tformmain.lniyatp4s.caption
-#, fuzzy
-#| msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun peshin namozining to'rt rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun peshin namozining toʼrt rakʼat sunnatini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата сунна-намаза зухр искренне ради Аллаха»."
 
@@ -2528,8 +2139,6 @@ msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, 
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить два ракаата сунна-намаза иша искренне ради Аллаха»."
 
 #: tformmain.lniyatx4f.caption
-#, fuzzy
-#| msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun xufton namozining to'rt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun xufton namozining toʼrt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза иша искренне ради Аллаха»."
 
@@ -2538,315 +2147,225 @@ msgid "Peshin namozining vaqti – quyosh zavolga (ogʼishga) ketganidan soʼng 
 msgstr "Зухр – обеденный намаз. Время его выполнения начинается при отклонении солнца от зенита и заканчивается тогда, когда тень какого-либо предмета становится в два раза больше его длины (помимо длины тени, который предмет отбрасывает во время зенита). С этого времени наступает период совершения намаза аср. Оптимальное время совершения намаза зухр зависит от времени года. Зимой (а также весной и осенью) лучше всего совершать его ближе к началу его времени. Летом же желательно отложить его совершение на более позднее время: в самом начале его времени обычно дневная жара достигает своего пика. Мусульманам будет легче собраться в мечети для совершения намаза зухр коллективно, когда жара начнет немного спадать."
 
 #: tformmain.lqunut.caption
-#, fuzzy
-#| msgid "Qunut duosi o'qiladi."
 msgid "Qunut duosi oʼqiladi."
 msgstr "Читается дуа кунут."
 
 #: tformmain.lrobbanaa4f.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanaa4f.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanab2f.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanab2f.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanab2s.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanab2s.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanap2s.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanap2s.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanap4f.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanap4f.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanap4s.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanap4s.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanash2s.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanash2s.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanash3f.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanash3f.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanav3v.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanav3v.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanax2s.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanax2s.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lrobbanax4f.caption
-#, fuzzy
-#| msgid "Duo («Robbana...») o'qiladi."
 msgctxt "tformmain.lrobbanax4f.caption"
 msgid "Duo («Robbana...») oʼqiladi."
 msgstr "Читается дуа («Роббана...»)."
 
 #: tformmain.lsalavota4f.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavota4f.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotb2f.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotb2f.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotb2s.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotb2s.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotp2s.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotp2s.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotp4f.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotp4f.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotp4s.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotp4s.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotsh2s.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotsh2s.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotsh3f.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotsh3f.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotv3v.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotv3v.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotx2s.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotx2s.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsalavotx4f.caption
-#, fuzzy
-#| msgid "Ikki salavot («Allohumma! Solli 'ala...» va «Allohumma! Barik 'ala...») o'qiladi."
 msgctxt "tformmain.lsalavotx4f.caption"
 msgid "Ikki salavot («Allohumma! Solli ʼala...» va «Allohumma! Barik ʼala...») oʼqiladi."
 msgstr "Читается два салавата («Аллахумма солли 'аля...» и «Аллахумма барик 'аля...»)."
 
 #: tformmain.lsaloma4f.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsaloma4f.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomb2f.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomb2f.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomb2s.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomb2s.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomp2s.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomp2s.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomp4f.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomp4f.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomp4s.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomp4s.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomsh2s.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomsh2s.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomsh3f.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomsh3f.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomv3v.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomv3v.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomx2s.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomx2s.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsalomx4f.caption
-#, fuzzy
-#| msgid "Avval o'ng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgctxt "tformmain.lsalomx4f.caption"
 msgid "Avval oʼng elkaga, keyin chap elkaga «Assalomu alaykum va rahmatulloh» deb salom beradi. Shu bilan namoz yakunlanadi."
 msgstr "Проговаривается салям «Ассаляму алейкум уа рахматуллах» повернувшись сначала к правому плечу, затем к левому плечу."
 
 #: tformmain.lsanoa4f.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanoa4f.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanob2f.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanob2f.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanob2s.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanob2s.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanop2s.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanop2s.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanop4f.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanop4f.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanop4s.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanop4s.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanosh2s.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanosh2s.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanosh3f.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanosh3f.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanov3v.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanov3v.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanox2s.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanox2s.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lsanox4f.caption
-#, fuzzy
-#| msgid "Qo'llarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») o'qiladi. Ayollar qo'llarini bog'lab ko'kraklari ustida ushlab turadilar."
 msgctxt "tformmain.lsanox4f.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
@@ -2856,952 +2375,680 @@ msgid "Shom namozining vaqti – kun botgan paytdan boshlab kunbotar tomonda sha
 msgstr "Магриб – вечерний намаз. Время его совершения начинается сразу после заката и заканчивается после исчезновения вечерней зари (красного зарева на горизонте). Оптимальное время выполнения вечернего намаза – сразу, как только возникнет уверенность в наступлении его периода (то есть как только не останется сомнений, что солнце зашло за горизонт). Желательно читать вечерний намаз сразу после азана, не совершая между азаном и икаматом никаких дополнительных намазов. Совершать магриб ближе к концу его периода – нежелательно (макрух танзихан)."
 
 #: tformmain.ltaavvuza4f.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuza4f.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzb2f.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzb2f.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzb2s.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzb2s.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzp2s.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzp2s.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzp4f.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzp4f.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzp4s.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzp4s.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzsh2s.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzsh2s.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzsh3f.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzsh3f.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzv3v.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzv3v.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzx2s.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzx2s.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltaavvuzx4f.caption
-#, fuzzy
-#| msgid "Ta'avvuz («A'uzu billahi...») o'qiladi."
 msgctxt "tformmain.ltaavvuzx4f.caption"
 msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
 msgstr "Читается та'аввуз («А'узу билляхи...»)."
 
 #: tformmain.ltakbirjalsa1a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1b2f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1b2f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1b2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1b2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1p2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1p2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1sh2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1sh2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1x2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1x2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa1x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa1x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2b2f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2b2f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2b2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2b2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2p2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2p2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2sh2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2sh2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2x2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2x2s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa2x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa2x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa3a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa3a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa3p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa3p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa3p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa3p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa3sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa3sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa3v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa3v3v.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa3x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa3x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa4a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa4a4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa4p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa4p4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa4p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa4p4s.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirjalsa4x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan bosh ko'tariladi va chap oyoqni to'shab, o'ng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qo'lning kafti uchi tizza barobariga qo'yilgan holda o'tiriladi."
 msgctxt "tformmain.ltakbirjalsa4x4f.caption"
 msgid "«Allohu akbar» deb sajdadan bosh koʼtariladi va chap oyoqni toʼshab, oʼng oyoq kiftini tik qilib, barmoqlar qiblaga yuzlantirilgan, ikki qoʼlning kafti uchi tizza barobariga qoʼyilgan holda oʼtiriladi."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально, так, чтобы пальцы были обращены в сторону киблы, ладони положите на бедра, так чтобы кончики пальцев совпали с краем колена, не выступая за него."
 
 #: tformmain.ltakbirkirisha4f.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirisha4f.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishb2f.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishb2f.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishb2s.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishb2s.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishp2s.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishp2s.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishp4f.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishp4f.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishp4s.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishp4s.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishsh2s.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishsh2s.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishsh3f.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishsh3f.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishv3v.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishv3v.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishx2s.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishx2s.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirkirishx4f.caption
-#, fuzzy
-#| msgid "Ikki qo'l kaftini qiblaga qarata ko'tarib, bosh barmoq quloq yumshog'iga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qo'llarini elkalari baravarigacha ko'taradilar."
 msgctxt "tformmain.ltakbirkirishx4f.caption"
 msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
 msgstr "Подняв ладони обеих рук в направлении киблы, коснувшись большими пальцами мочек ушей и произнеся такбир «Аллаху акбар» начинается намаз. Женщины поднимают руки до уровня плеч."
 
 #: tformmain.ltakbirqada1a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada1a4f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada1p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada1p4f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada1p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada1p4s.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada1sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada1sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada1v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada1v3v.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada1x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada1x4f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada2a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada2a4f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada2p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada2p4f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada2p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada2p4s.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada2sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada2sh3f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada2v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada2v3v.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqada2x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqada2x4f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqadab2f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqadab2f.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqadab2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqadab2s.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqadap2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqadap2s.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqadash2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqadash2s.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqadax2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb sajdadan so'ng o'ng oyog'ini tiklab, chap oyog'i ustiga o'tiriladi. Ayollar ikki oyoqlarini o'ng tarafga qaratib, chap dumbalari ustiga o'tiradilar."
 msgctxt "tformmain.ltakbirqadax2s.caption"
 msgid "«Allohu akbar» deb sajdadan soʼng oʼng oyogʼini tiklab, chap oyogʼi ustiga oʼtiriladi. Ayollar ikki oyoqlarini oʼng tarafga qaratib, chap dumbalari ustiga oʼtiradilar."
 msgstr "Произнеся «Аллаху акбар» подложите левую ногу под себя, а правую поставьте вертикально. Женщины сидят сложив обе ноги справа от туловища."
 
 #: tformmain.ltakbirqiyom2a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2b2f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2b2f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2b2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2b2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2p2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2p2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2sh2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2sh2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2sh3f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2v3v.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2x2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2x2s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom2x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom2x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay ikkinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения второго ракаата."
 
 #: tformmain.ltakbirqiyom3a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom3a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.ltakbirqiyom3p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom3p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.ltakbirqiyom3p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom3p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.ltakbirqiyom3sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom3sh3f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.ltakbirqiyom3v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom3v3v.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.ltakbirqiyom3x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom3x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay uchinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения третьего ракаата."
 
 #: tformmain.ltakbirqiyom4a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom4a4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay toʼrtinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения четвертого ракаата."
 
 #: tformmain.ltakbirqiyom4p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom4p4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay toʼrtinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения четвертого ракаата."
 
 #: tformmain.ltakbirqiyom4p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom4p4s.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay toʼrtinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения четвертого ракаата."
 
 #: tformmain.ltakbirqiyom4x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb hech narsaga suyanmay to'rtinchi rak'atni o'qish uchun o'rindan turiladi."
 msgctxt "tformmain.ltakbirqiyom4x4f.caption"
 msgid "«Allohu akbar» deb hech narsaga suyanmay toʼrtinchi rakʼatni oʼqish uchun oʼrindan turiladi."
 msgstr "Произнеся «Аллаху акбар» не опираясь поднимается для чтения четвертого ракаата."
 
 #: tformmain.ltakbirqunut.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb, qo'llar quloqlar to'g'risigacha ko'tarilib, yana kindik ostiga qo'yiladi."
 msgid "«Allohu akbar» deb, qoʼllar quloqlar toʼgʼrisigacha koʼtarilib, yana kindik ostiga qoʼyiladi."
 msgstr "Произнеся «Аллаху Акбар»поднять руки как при вступительном такбире, а затем снова сложить их под пупком."
 
 #: tformmain.ltakbirruku1a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1a4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1b2f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1b2f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1b2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1b2s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1p2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1p2s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1p4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1p4s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1sh2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1sh2s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1sh3f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1v3v.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1x2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1x2s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku1x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi. Ruku'da erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda bo'ladilar, ayollar esa barmoqlari orasini ochmasdan tizza to'pig'ini ushlab turadilar."
 msgctxt "tformmain.ltakbirruku1x4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку). В поясном поклоне мужчины стоят не сгибая ноги в коленях, женщины немного сгибают ноги в коленях. Мужчины руками упираясь в колени не прижимают пальцы друг к другу, женщины держат пальцы на коленях прижатыми друг к другу."
 
 #: tformmain.ltakbirruku2a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2a4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2b2f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2b2f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2b2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2b2s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2p2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2p2s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2p4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2p4s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2sh2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2sh2s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2sh3f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2v3v.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2x2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2x2s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku2x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku2x4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku3a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku3a4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku3p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku3p4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku3p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku3p4s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku3sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku3sh3f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku3v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku3v3v.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku3x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku3x4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku4a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku4a4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku4p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku4p4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku4p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku4p4s.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirruku4x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb egilib ruku'ga boriladi."
 msgctxt "tformmain.ltakbirruku4x4f.caption"
 msgid "«Allohu akbar» deb egilib rukuʼga boriladi."
 msgstr "Произнеся «Аллаху акбар» совершается поясной поклон (руку)."
 
 #: tformmain.ltakbirsajda1_1a4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1a4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1b2f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1b2f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1b2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1b2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1p2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1p2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1p4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1p4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1p4s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1p4s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1sh2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1sh2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1sh3f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1sh3f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1v3v.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1v3v.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1x2s.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1x2s.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
 
 #: tformmain.ltakbirsajda1_1x4f.caption
-#, fuzzy
-#| msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, so'ng burun va peshona qo'yilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha a'zolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yig'inlinqirab sajda qiladilar."
 msgctxt "tformmain.ltakbirsajda1_1x4f.caption"
 msgid "«Allohu akbar» deb erga avval tizzalar, keyin kaftlar, soʼng burun va peshona qoʼyilib, sajda qilinadi. Bunda tirsaklar erga va biqinlarga tekkizilmaydi, barcha aʼzolar, xususan, oyoq barmoqlari iloji boricha qiblaga yuzlantiriladi. Ayollar aksincha tirsaklarini erga va biqinlariga tekkizib, qorinlarini sonlariga yopishtirib, yigʼinlinqirab sajda qiladilar."
 msgstr "Произнеся «Аллаху акбар» на пол ставятся сначала колени, затем ладони, потом нос и лоб, совершая земной поклон. При этом локти не касаются пола и боков, все органы, в частности, пальцы ног по возможности направляются в сторону киблы. Женщины, наоборот, совершают земной поклон, касаясь локтями пола и боков, прижимая живот к бедрам."
@@ -4097,344 +3344,246 @@ msgid "Har vaqt namozni tugatgandan soʼng tasbehot qilinsa savobi ulugʼ boʼla
 msgstr "При совершении тасбихата каждый раз по завершении намаза получают великое воздаяние."
 
 #: tformmain.ltashahhud1a4f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud1a4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud1p4f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud1p4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud1p4s.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud1p4s.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud1sh3f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud1sh3f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud1v3v.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud1v3v.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud1x4f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud1x4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud2a4f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud2a4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud2p4f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud2p4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud2p4s.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud2p4s.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud2sh3f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud2sh3f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud2v3v.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud2v3v.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhud2x4f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhud2x4f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhudb2f.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhudb2f.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhudb2s.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhudb2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhudp2s.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhudp2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhudsh2s.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhudsh2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltashahhudx2s.caption
-#, fuzzy
-#| msgid "«Tashahhud» («Attahiyyat...») o'qiladi."
 msgctxt "tformmain.ltashahhudx2s.caption"
 msgid "«Tashahhud» («Attahiyyat...») oʼqiladi."
 msgstr "Читается «ташаххуд» («Ат-тахийят...»)."
 
 #: tformmain.ltasme1a4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1a4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1b2f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1b2f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1b2s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1b2s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1p2s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1p2s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1p4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1p4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1p4s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1p4s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1sh2s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1sh2s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1sh3f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1sh3f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1v3v.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1v3v.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1x2s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1x2s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme1x4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme1x4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2a4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2a4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2b2f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2b2f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2b2s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2b2s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2p2s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2p2s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2p4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2p4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2p4s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2p4s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2sh2s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2sh2s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2sh3f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2sh3f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2v3v.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2v3v.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2x2s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2x2s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme2x4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme2x4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme3a4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme3a4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme3p4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme3p4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme3p4s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme3p4s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme3sh3f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme3sh3f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme3v3v.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme3v3v.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme3x4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme3x4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme4a4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme4a4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme4p4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme4p4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme4p4s.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme4p4s.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.ltasme4x4f.caption
-#, fuzzy
-#| msgid "Belni tiklayotib «Sami'allohu liman hamidah» deyiladi."
 msgctxt "tformmain.ltasme4x4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
@@ -4485,8 +3634,6 @@ msgid "Sozlamalar"
 msgstr "Настройки"
 
 #: tformmain.tsa4f.caption
-#, fuzzy
-#| msgid "4 rak'at farz"
 msgctxt "tformmain.tsa4f.caption"
 msgid "4 rakʼat farz"
 msgstr "4 ракаата фарда"
@@ -4497,14 +3644,10 @@ msgid "Asr"
 msgstr "Аср"
 
 #: tformmain.tsb2f.caption
-#, fuzzy
-#| msgid "2 rak'at farz"
 msgid "2 rakʼat farz"
 msgstr "2 ракаата фарда"
 
 #: tformmain.tsb2s.caption
-#, fuzzy
-#| msgid "2 rak'at sunnat"
 msgctxt "tformmain.tsb2s.caption"
 msgid "2 rakʼat sunnat"
 msgstr "2 ракаата сунны"
@@ -4515,22 +3658,16 @@ msgid "Bomdod"
 msgstr "Фаджр"
 
 #: tformmain.tsp2s.caption
-#, fuzzy
-#| msgid "2 rak'at sunnat"
 msgctxt "tformmain.tsp2s.caption"
 msgid "2 rakʼat sunnat"
 msgstr "2 ракаата сунны"
 
 #: tformmain.tsp4f.caption
-#, fuzzy
-#| msgid "4 rak'at farz"
 msgctxt "tformmain.tsp4f.caption"
 msgid "4 rakʼat farz"
 msgstr "4 ракаата фарда"
 
 #: tformmain.tsp4s.caption
-#, fuzzy
-#| msgid "4 rak'at sunnat"
 msgid "4 rakʼat sunnat"
 msgstr "4 ракаата сунны"
 
@@ -4540,15 +3677,11 @@ msgid "Peshin"
 msgstr "Зухр"
 
 #: tformmain.tssh2s.caption
-#, fuzzy
-#| msgid "2 rak'at sunnat"
 msgctxt "tformmain.tssh2s.caption"
 msgid "2 rakʼat sunnat"
 msgstr "2 ракаата сунны"
 
 #: tformmain.tssh3f.caption
-#, fuzzy
-#| msgid "3 rak'at farz"
 msgid "3 rakʼat farz"
 msgstr "3 ракаата фарда"
 
@@ -4558,22 +3691,16 @@ msgid "Shom"
 msgstr "Магриб"
 
 #: tformmain.tsv3v.caption
-#, fuzzy
-#| msgid "3 rak'at vitr vojib"
 msgctxt "tformmain.tsv3v.caption"
 msgid "3 rakʼat vitr vojib"
 msgstr "3 ракаата витр ваджиба"
 
 #: tformmain.tsx2s.caption
-#, fuzzy
-#| msgid "2 rak'at sunnat"
 msgctxt "tformmain.tsx2s.caption"
 msgid "2 rakʼat sunnat"
 msgstr "2 ракаата сунны"
 
 #: tformmain.tsx4f.caption
-#, fuzzy
-#| msgid "4 rak'at farz"
 msgctxt "tformmain.tsx4f.caption"
 msgid "4 rakʼat farz"
 msgstr "4 ракаата фарда"
@@ -4627,7 +3754,6 @@ msgid "boshga oʼtish"
 msgstr "перейти в начало"
 
 #: tformsettings.sbfont.caption
-#, fuzzy
 msgctxt "tformsettings.sbfont.caption"
 msgid "Shrift oʼzgartirish"
 msgstr "Изменить шрифт"
