@@ -37,14 +37,13 @@ type
     ButtonPanel: TButtonPanel;
     cbLanguage: TComboBox;
     FontDialog: TFontDialog;
+    gbInterface: TGroupBox;
     gbLanguage: TGroupBox;
     gbRun: TGroupBox;
-    gbInterface: TGroupBox;
     IniPropStorage: TIniPropStorage;
-    rbStart: TRadioButton;
     rbContinue: TRadioButton;
+    rbStart: TRadioButton;
     sbFont: TSpeedButton;
-    procedure sbFontClick(Sender: TObject);
     procedure CancelButtonClick(Sender: TObject);
     procedure cbLanguageChange(Sender: TObject);
     procedure FormActivate(Sender: TObject);
@@ -52,6 +51,8 @@ type
     procedure FormCreate(Sender: TObject);
     procedure HelpButtonClick(Sender: TObject);
     procedure OKButtonClick(Sender: TObject);
+    procedure sbFontClick(Sender: TObject);
+
   private
 
   public
