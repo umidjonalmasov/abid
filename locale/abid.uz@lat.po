@@ -56,7 +56,7 @@ msgstr ""
 
 #: tformabout.lacknowledgements.caption
 msgctxt "tformabout.lacknowledgements.caption"
-msgid "Dastur tuzishda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman."
+msgid "Dastur tuzishda maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan quyidagi loyihalarga minnatdorchilik bildiraman."
 msgstr ""
 
 #: tformabout.lbasmala.caption
@@ -91,7 +91,7 @@ msgstr ""
 
 #: tformabout.lname.caption
 msgctxt "tformabout.lname.caption"
-msgid "Abid 4.2"
+msgid "Abid 4.3"
 msgstr ""
 
 #: tformabout.lquron.caption

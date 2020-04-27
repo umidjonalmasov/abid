@@ -56,8 +56,8 @@ msgstr "О программе"
 
 #: tformabout.lacknowledgements.caption
 msgctxt "tformabout.lacknowledgements.caption"
-msgid "Dastur tuzishda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman."
-msgstr "При разработке приложения использованы материалы и программное обеспечение следующих проектов. Выражаю благодарность данным проектам."
+msgid "Dastur tuzishda maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan quyidagi loyihalarga minnatdorchilik bildiraman."
+msgstr "Выражаю благодарность следующим проектам, чьи материалы и программное обеспечение были использованы при разработке приложения."
 
 #: tformabout.lbasmala.caption
 msgid "Bismillahir rohmanir rohiym"
@@ -91,8 +91,8 @@ msgstr ""
 
 #: tformabout.lname.caption
 msgctxt "tformabout.lname.caption"
-msgid "Abid 4.2"
-msgstr "Абид 4.2"
+msgid "Abid 4.3"
+msgstr "Абид 4.3"
 
 #: tformabout.lquron.caption
 msgid ""
