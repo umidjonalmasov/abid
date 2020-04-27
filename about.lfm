@@ -253,7 +253,7 @@ object FormAbout: TFormAbout
         Height = 37
         Top = 168
         Width = 118
-        Caption = 'Abid 4.2'
+        Caption = 'Abid 4.3'
         Font.Height = -32
         ParentColor = False
         ParentFont = False
@@ -1090,7 +1090,7 @@ object FormAbout: TFormAbout
         Align = alTop
         Alignment = taCenter
         BorderSpacing.Around = 10
-        Caption = 'Dastur tuzishda quyidagi loyihalarning maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan. Ushbu loyihalarga minnatdorchilik bildiraman.'
+        Caption = 'Dastur tuzishda maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan quyidagi loyihalarga minnatdorchilik bildiraman.'
         ParentColor = False
         WordWrap = True
       end
