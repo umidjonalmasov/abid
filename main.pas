@@ -157,6 +157,7 @@ type
     bBasmala3Sh3F: TSpeedButton;
     bBasmala4A4F: TSpeedButton;
     bBasmala4X4F: TSpeedButton;
+    bDuoP4F: TScrollBox;
     bDuoV3V: TSpeedButton;
     bDuoSh2S: TSpeedButton;
     bDuoFA4F: TSpeedButton;
@@ -1124,6 +1125,7 @@ type
     lTashahhudSh2S: TLabel;
     lXufton: TLabel;
     MainMenu: TMainMenu;
+    N1: TMenuItem;
     miPrevious: TMenuItem;
     miNext: TMenuItem;
     miImage: TMenuItem;
@@ -1914,6 +1916,11 @@ type
     sbSajda4_1P4S: TScrollBox;
     sbSajda3_2P4S: TScrollBox;
     sbSajda4_2P4F: TScrollBox;
+    sbSalomA4F: TScrollBox;
+    sbSalomB2F: TScrollBox;
+    sbSalomP2S: TScrollBox;
+    sbSalomP4F: TScrollBox;
+    sbSalomP4S: TScrollBox;
     sbSalomX4F: TScrollBox;
     sbSalomV3V: TScrollBox;
     sbSalomX2S: TScrollBox;
