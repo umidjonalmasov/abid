@@ -157,7 +157,6 @@ type
     bBasmala3Sh3F: TSpeedButton;
     bBasmala4A4F: TSpeedButton;
     bBasmala4X4F: TSpeedButton;
-    bDuoP4F: TScrollBox;
     bDuoV3V: TSpeedButton;
     bDuoSh2S: TSpeedButton;
     bDuoFA4F: TSpeedButton;
