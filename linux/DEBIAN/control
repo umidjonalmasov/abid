@@ -1,0 +1,10 @@
+Package: abid
+Version: 4.3
+Provides: abid
+Maintainer: Umidjon Almasov <umidjonalmasov@gmail.com>
+Architecture: amd64
+Section: misc
+Description: Namoz o'qishni o'rgatuvchi multimedia dasturi.
+Installed-Size: 14438.4
+Priority: optional
+
