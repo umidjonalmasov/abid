@@ -2,12 +2,12 @@ object FormAbout: TFormAbout
   Left = 347
   Height = 430
   Top = 178
-  Width = 525
+  Width = 526
   AutoSize = True
   BorderIcons = []
   Caption = 'Dastur haqida'
   ClientHeight = 430
-  ClientWidth = 525
+  ClientWidth = 526
   Constraints.MinHeight = 430
   Constraints.MinWidth = 525
   OnClose = FormClose
@@ -18,7 +18,7 @@ object FormAbout: TFormAbout
     Left = 6
     Height = 382
     Top = 6
-    Width = 513
+    Width = 514
     ActivePage = tsAbid
     Align = alClient
     BorderSpacing.Around = 6
@@ -27,12 +27,12 @@ object FormAbout: TFormAbout
     object tsAbid: TTabSheet
       Caption = 'Abid'
       ClientHeight = 352
-      ClientWidth = 503
+      ClientWidth = 504
       object lBasmala: TLabel
         Left = 10
         Height = 16
         Top = 10
-        Width = 483
+        Width = 484
         Align = alTop
         Alignment = taCenter
         BorderSpacing.Around = 10
@@ -262,7 +262,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 16
         Top = 326
-        Width = 483
+        Width = 484
         Align = alBottom
         Alignment = taCenter
         BorderSpacing.Around = 10
@@ -284,7 +284,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 48
         Top = 36
-        Width = 483
+        Width = 484
         Align = alTop
         BorderSpacing.Around = 10
         Caption = 'Alloh taolo shunday marhamat etadi:'#10'«Namozni toʼkis ado qiling, zakotni bering va rukuʼ qiluvchilar bilan rukuʼ qiling»'#10'(Baqara surasi, 43-oyat).'
@@ -297,7 +297,7 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 48
         Top = 94
-        Width = 483
+        Width = 484
         Align = alTop
         BorderSpacing.Around = 10
         Caption = 'Rasuli Akramdan: «Qaysi amal afzal (Allohga sevimliroq)?», deb soʼrashganida: «Vaqtida oʼqilgan namoz», deb javob berganlar'#10'(Imom Buxoriy va Muslim rivoyat qilishgan).'
@@ -307,11 +307,11 @@ object FormAbout: TFormAbout
         WordWrap = True
       end
       object lDedication: TLabel
-        Left = 312
+        Left = 288
         Height = 42
         Top = 256
-        Width = 171
-        Caption = 'Ushbu dasturni va u uchun savobni'#10'marhum otam Almasov Jaʼfarga'#10'(1942-2017) bagʼishlayman'
+        Width = 193
+        Caption = 'Ushbu dasturni va u uchun savobni'#10'marhum otam Almasov Jaʼfarga'#10'(07.04.1942-02.09.2017) bagʼishlayman'
         Font.Height = -11
         ParentColor = False
         ParentFont = False
@@ -320,7 +320,7 @@ object FormAbout: TFormAbout
     object tsAcknowledgements: TTabSheet
       Caption = 'Minnatdorlik'
       ClientHeight = 352
-      ClientWidth = 503
+      ClientWidth = 504
       object pIslomUz: TPanel
         Left = 6
         Height = 50
@@ -1098,7 +1098,7 @@ object FormAbout: TFormAbout
     object tsLicense: TTabSheet
       Caption = 'Litsenziyalar'
       ClientHeight = 352
-      ClientWidth = 503
+      ClientWidth = 504
       object mLicense: TMemo
         Left = 0
         Height = 386
@@ -1854,7 +1854,7 @@ object FormAbout: TFormAbout
     Left = 6
     Height = 30
     Top = 394
-    Width = 513
+    Width = 514
     OKButton.Name = 'OKButton'
     OKButton.DefaultCaption = True
     HelpButton.Name = 'HelpButton'
@@ -1873,7 +1873,7 @@ object FormAbout: TFormAbout
       Left = 0
       Height = 30
       Top = 0
-      Width = 513
+      Width = 514
       Align = alClient
       Alignment = taCenter
       Caption = 'github.com/umidjonalmasov/abid'
