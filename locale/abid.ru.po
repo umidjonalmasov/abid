@@ -71,11 +71,11 @@ msgstr "Авторское право © 2015-2020 Умиджон Алмасов
 msgid ""
 "Ushbu dasturni va u uchun savobni\n"
 "marhum otam Almasov Jaʼfarga\n"
-"(1942-2017) bagʼishlayman\n"
+"(07.04.1942-02.09.2017) bagʼishlayman\n"
 msgstr ""
 "Посвящаю данную программу\n"
-"и воздаяние за нее моему покойному\n"
-"отцу Алмасову Джафару (1942-2017)\n"
+"и воздаяние за нее моему покойному отцу\n"
+"Алмасову Джафару (07.04.1942-02.09.2017)\n"
 
 #: tformabout.ldescription.caption
 msgid "Namoz oʼqishni oʼrgatuvchi multimedia dasturi"
