@@ -135,6 +135,7 @@ type
     pAlhamdulillah: TPanel;
     pAllohuAkbar: TPanel;
     pBottom: TPanel;
+    ProgressBar: TProgressBar;
     pSubhanalloh: TPanel;
     sbAla: TScrollBox;
     sbAziym: TScrollBox;
@@ -162,7 +163,8 @@ type
     sbTasbehot: TScrollBox;
     sbTashahhud: TScrollBox;
     sbTasme: TScrollBox;
-    Timer: TTimer;
+    tProgress: TTimer;
+    tPosition: TTimer;
     tsAla: TTabSheet;
     tsAziym: TTabSheet;
     tsAzon: TTabSheet;
@@ -196,7 +198,8 @@ type
     procedure FormActivate(Sender: TObject);
     procedure FormClose(Sender: TObject);
     procedure FormCreate(Sender: TObject);
-    procedure TimerTimer(Sender: TObject);
+    procedure tPositionTimer(Sender: TObject);
+    procedure tProgressTimer(Sender: TObject);
   private
     str: HSTREAM;
 
@@ -215,38 +218,9 @@ implementation
 
 { TFormDetails }
 
-procedure TFormDetails.bPlayClick(Sender: TObject);
+procedure TFormDetails.FormCreate(Sender: TObject);
 begin
-  BASS_ChannelPlay(str, true);
-  ChannelPos;
-  bPlay.Enabled:=false;
-  bPause.Enabled:=true;
-  bStop.Enabled:=true;
-end;
-
-procedure TFormDetails.bStopClick(Sender: TObject);
-begin
-  BASS_ChannelStop(str);
-  bPlay.Enabled:=true;
-  bPause.Enabled:=false;
-  bStop.Enabled:=false;
-end;
-
-procedure TFormDetails.bPauseClick(Sender: TObject);
-begin
-  if BASS_ChannelIsActive(str) = BASS_ACTIVE_PLAYING then
-    begin
-     BASS_ChannelPause(str);
-     Timer.Enabled:=false;
-    end
-  else
-    begin
-      BASS_ChannelPlay(str, false);
-      ChannelPos;
-    end;
-  bPlay.Enabled:=false;
-  bPause.Enabled:=true;
-  bStop.Enabled:=true;
+  IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
 end;
 
 procedure TFormDetails.FormActivate(Sender: TObject);
@@ -461,29 +435,66 @@ begin
   str := BASS_StreamCreateFile(False, f, 0, 0, 0);
 end;
 
+procedure TFormDetails.bPlayClick(Sender: TObject);
+begin
+  BASS_ChannelPlay(str, true);
+  ChannelPos;
+  ProgressBar.Max:=Trunc(BASS_ChannelGetLength(str, 0));
+  tProgress.Enabled:=true;
+  bPlay.Enabled:=false;
+  bPause.Enabled:=true;
+  bStop.Enabled:=true;
+end;
+
+procedure TFormDetails.bStopClick(Sender: TObject);
+begin
+  BASS_ChannelStop(str);
+  tPosition.Interval:=0;
+  bPlay.Enabled:=true;
+  bPause.Enabled:=false;
+  bStop.Enabled:=false;
+end;
+
+procedure TFormDetails.bPauseClick(Sender: TObject);
+begin
+  if BASS_ChannelIsActive(str) = BASS_ACTIVE_PLAYING then
+    begin
+     BASS_ChannelPause(str);
+     tPosition.Enabled:=false;
+    end
+  else
+    begin
+      BASS_ChannelPlay(str, false);
+      ChannelPos;
+    end;
+  bPlay.Enabled:=false;
+  bPause.Enabled:=true;
+  bStop.Enabled:=true;
+end;
+
 procedure TFormDetails.ChannelPos;
 begin
-  Timer.Interval:=Trunc(BASS_ChannelBytes2Seconds(str,(BASS_ChannelGetLength(
+  tPosition.Interval:=Trunc(BASS_ChannelBytes2Seconds(str,(BASS_ChannelGetLength(
                              str, 0)) - BASS_ChannelGetPosition(str, 0)))*1000;
-  Timer.Enabled:=true;
+  tPosition.Enabled:=true;
+end;
+
+procedure TFormDetails.tPositionTimer(Sender: TObject);
+begin
+  tPosition.Interval:=0;
+  bPlay.Enabled:=true;
+  bPause.Enabled:=false;
+  bStop.Enabled:=false;
+end;
+
+procedure TFormDetails.tProgressTimer(Sender: TObject);
+begin
+  ProgressBar.Position:=Trunc(BASS_ChannelGetPosition(str, 0));
 end;
 
 procedure TFormDetails.FormClose(Sender: TObject);
 begin
   BASS_Free();
-  bPause.Enabled:=false;
-  bStop.Enabled:=false;
-  Timer.Enabled:=false;
-end;
-
-procedure TFormDetails.FormCreate(Sender: TObject);
-begin
-  IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
-end;
-
-procedure TFormDetails.TimerTimer(Sender: TObject);
-begin
-  bPlay.Enabled:=true;
   bPause.Enabled:=false;
   bStop.Enabled:=false;
 end;
