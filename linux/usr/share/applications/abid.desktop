@@ -2,10 +2,12 @@
 Name=Abid
 Name[ru]=Абид
 Name[uz]=Абид
+Name[uz_Latn]=Abid
 Comment=A multimedia program teaching prayer
 Comment[ru]=Мультимедийная программа обучающая чтению намаза
 Comment[uz]=Намоз ўқишни ўргатувчи мультимедиа дастури
-Keywords=islam;prayer;ислам;намаз;ислом;намоз;
+Comment[uz_Latn]=Namoz o'qishni o'rgatuvchi multimedia dasturi
+Keywords=islam;prayer;ислам;намаз;ислом;намоз;islom;namoz;
 Icon=abid
 Type=Application
 Categories=Education;
