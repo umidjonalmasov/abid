@@ -2032,6 +2032,7 @@ object FormDetails: TFormDetails
   end
   object tProgress: TTimer
     Enabled = False
+    Interval = 1
     OnTimer = tProgressTimer
     left = 625
     top = 415
