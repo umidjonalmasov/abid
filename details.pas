@@ -474,7 +474,7 @@ end;
 
 procedure TFormDetails.ChannelPos;
 begin
-  tPosition.Interval:=Trunc(BASS_ChannelBytes2Seconds(str,(BASS_ChannelGetLength(
+  tPosition.Interval:=Round(BASS_ChannelBytes2Seconds(str,(BASS_ChannelGetLength(
                              str, 0)) - BASS_ChannelGetPosition(str, 0)))*1000;
   tPosition.Enabled:=true;
 end;
