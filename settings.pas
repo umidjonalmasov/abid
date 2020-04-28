@@ -91,7 +91,9 @@ begin
   case cbLanguage.ItemIndex of
    0:
      begin
-       SetDefaultLang('uz@lat');
+       if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.uz_Latn.po') then
+       begin
+       SetDefaultLang('uz_Latn');
        cbLanguage.Items.Clear;
        cbLanguage.Items.Add('Oʼzbek (lotin)');
        cbLanguage.Items.Add('Oʼzbek (kirill)');
@@ -107,33 +109,39 @@ begin
             FormMain.miImage.Caption:=ImageShow;
             FormMain.bImage.Caption:=ImageShow;
           end;
+        end
+      else
+      begin
+       ShowMessage(NoTranslate);
+       IniPropStorage.Restore;
+      end;
      end;
    1:
      begin
-       if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.uz@cyr.po') then
+       if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.uz.po') then
        begin
-         SetDefaultLang('uz@cyr');
-         cbLanguage.Items.Clear;
-         cbLanguage.Items.Add('Ўзбек (лотин)');
-         cbLanguage.Items.Add('Ўзбек (кирилл)');
-         cbLanguage.Items.Add('Рус');
-         cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[1];
-         if FormMain.pImage.Visible=true then
-            begin
-              FormMain.miImage.Caption:=ImageHide;
-              FormMain.bImage.Caption:=ImageHide;
-            end
-         else
-            begin
-              FormMain.miImage.Caption:=ImageShow;
-              FormMain.bImage.Caption:=ImageShow;
-            end;
-       end
-       else
-        begin
-         ShowMessage(NoTranslate);
-         IniPropStorage.Restore;
-        end;
+           SetDefaultLang('uz');
+           cbLanguage.Items.Clear;
+           cbLanguage.Items.Add('Ўзбек (лотин)');
+           cbLanguage.Items.Add('Ўзбек (кирилл)');
+           cbLanguage.Items.Add('Рус');
+           cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[1];
+           if FormMain.pImage.Visible=true then
+              begin
+                FormMain.miImage.Caption:=ImageHide;
+                FormMain.bImage.Caption:=ImageHide;
+              end
+           else
+              begin
+                FormMain.miImage.Caption:=ImageShow;
+                FormMain.bImage.Caption:=ImageShow;
+              end;
+          end
+        else
+          begin
+           ShowMessage(NoTranslate);
+           IniPropStorage.Restore;
+          end;
      end;
    2:
      begin
