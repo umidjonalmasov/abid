@@ -79,7 +79,7 @@ msgstr ""
 "Алмасову Джафару (07.04.1942-02.09.2017)\n"
 
 #: tformabout.ldescription.caption
-msgid "A multimedia program teaching prayer"
+msgid "A multimedia program teaching namaz"
 msgstr "Мультимедийная программа обучающая чтению намаза"
 
 #: tformabout.lhadis.caption
@@ -3636,7 +3636,7 @@ msgstr "Настройки"
 
 #: tformmain.tsa4f.caption
 msgctxt "tformmain.tsa4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr "4 ракаата фарда"
 
 #: tformmain.tsasr.caption
@@ -3645,70 +3645,70 @@ msgid "Asr"
 msgstr "Аср"
 
 #: tformmain.tsb2f.caption
-msgid "2 rakʼat farz"
+msgid "2 rakʼah fardh"
 msgstr "2 ракаата фарда"
 
 #: tformmain.tsb2s.caption
 msgctxt "tformmain.tsb2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr "2 ракаата сунны"
 
 #: tformmain.tsbomdod.caption
 msgctxt "tformmain.tsbomdod.caption"
-msgid "Bomdod"
+msgid "Fajr"
 msgstr "Фаджр"
 
 #: tformmain.tsp2s.caption
 msgctxt "tformmain.tsp2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr "2 ракаата сунны"
 
 #: tformmain.tsp4f.caption
 msgctxt "tformmain.tsp4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr "4 ракаата фарда"
 
 #: tformmain.tsp4s.caption
-msgid "4 rakʼat sunnat"
+msgid "4 rakʼah sunnah"
 msgstr "4 ракаата сунны"
 
 #: tformmain.tspeshin.caption
 msgctxt "tformmain.tspeshin.caption"
-msgid "Peshin"
+msgid "Zuhr"
 msgstr "Зухр"
 
 #: tformmain.tssh2s.caption
 msgctxt "tformmain.tssh2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr "2 ракаата сунны"
 
 #: tformmain.tssh3f.caption
-msgid "3 rakʼat farz"
+msgid "3 rakʼah fardh"
 msgstr "3 ракаата фарда"
 
 #: tformmain.tsshom.caption
 msgctxt "tformmain.tsshom.caption"
-msgid "Shom"
+msgid "Maghrib"
 msgstr "Магриб"
 
 #: tformmain.tsv3v.caption
 msgctxt "tformmain.tsv3v.caption"
-msgid "3 rakʼat vitr vojib"
+msgid "3 rakʼat witr wajib"
 msgstr "3 ракаата витр ваджиба"
 
 #: tformmain.tsx2s.caption
 msgctxt "tformmain.tsx2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr "2 ракаата сунны"
 
 #: tformmain.tsx4f.caption
 msgctxt "tformmain.tsx4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr "4 ракаата фарда"
 
 #: tformmain.tsxufton.caption
 msgctxt "tformmain.tsxufton.caption"
-msgid "Xufton"
+msgid "Isha"
 msgstr "Иша"
 
 #: tformsettings.buttonpanel.cancelbutton.caption

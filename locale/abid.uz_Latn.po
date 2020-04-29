@@ -83,7 +83,7 @@ msgstr ""
 
 #: tformabout.ldescription.caption
 msgctxt "tformabout.ldescription.caption"
-msgid "A multimedia program teaching prayer"
+msgid "A multimedia program teaching namaz"
 msgstr "Namoz oʼqishni oʼrgatuvchi multimedia dasturi"
 
 #: tformabout.lhadis.caption
@@ -3696,7 +3696,7 @@ msgstr "Sozlamalar"
 
 #: tformmain.tsa4f.caption
 msgctxt "tformmain.tsa4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr "4 rakʼat farz"
 
 #: tformmain.tsasr.caption
@@ -3705,69 +3705,69 @@ msgid "Asr"
 msgstr "Asr"
 
 #: tformmain.tsb2f.caption
-msgid "2 rakʼat farz"
+msgid "2 rakʼah fardh"
 msgstr "2 rakʼat farz"
 
 #: tformmain.tsb2s.caption
 msgctxt "tformmain.tsb2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr "2 rakʼat sunnat"
 
 #: tformmain.tsbomdod.caption
 msgctxt "tformmain.tsbomdod.caption"
-msgid "Bomdod"
+msgid "Fajr"
 msgstr "Bomdod"
 
 #: tformmain.tsp2s.caption
 msgctxt "tformmain.tsp2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr "2 rakʼat sunnat"
 
 #: tformmain.tsp4f.caption
 msgctxt "tformmain.tsp4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr "4 rakʼat farz"
 
 #: tformmain.tsp4s.caption
-msgid "4 rakʼat sunnat"
+msgid "4 rakʼah sunnah"
 msgstr "4 rakʼat sunnat"
 
 #: tformmain.tspeshin.caption
 msgctxt "tformmain.tspeshin.caption"
-msgid "Peshin"
+msgid "Zuhr"
 msgstr "Peshin"
 
 #: tformmain.tssh2s.caption
 msgctxt "tformmain.tssh2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr "2 rakʼat sunnat"
 
 #: tformmain.tssh3f.caption
-msgid "3 rakʼat farz"
+msgid "3 rakʼah fardh"
 msgstr "3 rakʼat farz"
 
 #: tformmain.tsshom.caption
 msgctxt "tformmain.tsshom.caption"
-msgid "Shom"
+msgid "Maghrib"
 msgstr "Shom"
 
 #: tformmain.tsv3v.caption
-msgid "3 rakʼat vitr vojib"
+msgid "3 rakʼat witr wajib"
 msgstr "3 rakʼat vitr vojib"
 
 #: tformmain.tsx2s.caption
 msgctxt "tformmain.tsx2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr "2 rakʼat sunnat"
 
 #: tformmain.tsx4f.caption
 msgctxt "tformmain.tsx4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr "4 rakʼat farz"
 
 #: tformmain.tsxufton.caption
 msgctxt "tformmain.tsxufton.caption"
-msgid "Xufton"
+msgid "Isha"
 msgstr "Xufton"
 
 #: tformsettings.buttonpanel.cancelbutton.caption

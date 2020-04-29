@@ -70,7 +70,7 @@ msgstr ""
 
 #: tformabout.ldescription.caption
 msgctxt "tformabout.ldescription.caption"
-msgid "A multimedia program teaching prayer"
+msgid "A multimedia program teaching namaz"
 msgstr ""
 
 #: tformabout.lhadis.caption
@@ -3453,7 +3453,7 @@ msgstr ""
 
 #: tformmain.tsa4f.caption
 msgctxt "tformmain.tsa4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr ""
 
 #: tformmain.tsasr.caption
@@ -3462,69 +3462,69 @@ msgid "Asr"
 msgstr ""
 
 #: tformmain.tsb2f.caption
-msgid "2 rakʼat farz"
+msgid "2 rakʼah fardh"
 msgstr ""
 
 #: tformmain.tsb2s.caption
 msgctxt "tformmain.tsb2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr ""
 
 #: tformmain.tsbomdod.caption
 msgctxt "tformmain.tsbomdod.caption"
-msgid "Bomdod"
+msgid "Fajr"
 msgstr ""
 
 #: tformmain.tsp2s.caption
 msgctxt "tformmain.tsp2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr ""
 
 #: tformmain.tsp4f.caption
 msgctxt "tformmain.tsp4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr ""
 
 #: tformmain.tsp4s.caption
-msgid "4 rakʼat sunnat"
+msgid "4 rakʼah sunnah"
 msgstr ""
 
 #: tformmain.tspeshin.caption
 msgctxt "tformmain.tspeshin.caption"
-msgid "Peshin"
+msgid "Zuhr"
 msgstr ""
 
 #: tformmain.tssh2s.caption
 msgctxt "tformmain.tssh2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr ""
 
 #: tformmain.tssh3f.caption
-msgid "3 rakʼat farz"
+msgid "3 rakʼah fardh"
 msgstr ""
 
 #: tformmain.tsshom.caption
 msgctxt "tformmain.tsshom.caption"
-msgid "Shom"
+msgid "Maghrib"
 msgstr ""
 
 #: tformmain.tsv3v.caption
-msgid "3 rakʼat vitr vojib"
+msgid "3 rakʼat witr wajib"
 msgstr ""
 
 #: tformmain.tsx2s.caption
 msgctxt "tformmain.tsx2s.caption"
-msgid "2 rakʼat sunnat"
+msgid "2 rakʼah sunnah"
 msgstr ""
 
 #: tformmain.tsx4f.caption
 msgctxt "tformmain.tsx4f.caption"
-msgid "4 rakʼat farz"
+msgid "4 rakʼah fardh"
 msgstr ""
 
 #: tformmain.tsxufton.caption
 msgctxt "tformmain.tsxufton.caption"
-msgid "Xufton"
+msgid "Isha"
 msgstr ""
 
 #: tformsettings.buttonpanel.cancelbutton.caption
