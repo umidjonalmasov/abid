@@ -46,10 +46,6 @@ msgctxt "settings.notranslation"
 msgid "There is no translation into this language."
 msgstr "Перевод на данный язык отсутствует."
 
-#: settings.selectfont
-msgid "Select a font"
-msgstr "Выберите шрифт"
-
 #: tformabout.buttonpanel.closebutton.caption
 msgid "Close"
 msgstr "Закрыть"
@@ -3733,6 +3729,11 @@ msgstr "ОК"
 msgctxt "tformsettings.caption"
 msgid "Settings"
 msgstr "Настройки"
+
+#: tformsettings.fontdialog.title
+msgctxt "tformsettings.fontdialog.title"
+msgid "Select a font"
+msgstr "Выберите шрифт"
 
 #: tformsettings.gbinterface.caption
 msgid "Interface"
