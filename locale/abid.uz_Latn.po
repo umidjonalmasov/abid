@@ -46,17 +46,17 @@ msgid "Ushbu tilga tarjimasi mavjud emas."
 msgstr "Ushbu tilga tarjimasi mavjud emas."
 
 #: tformabout.buttonpanel.closebutton.caption
-msgid "Yopish"
+msgid "Close"
 msgstr "Yopish"
 
 #: tformabout.caption
 msgctxt "tformabout.caption"
-msgid "Dastur haqida"
+msgid "About"
 msgstr "Dastur haqida"
 
 #: tformabout.lacknowledgements.caption
 msgctxt "tformabout.lacknowledgements.caption"
-msgid "Dastur tuzishda maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan quyidagi loyihalarga minnatdorchilik bildiraman."
+msgid "I express gratitude to the following projects, whose materials and software were used in the development of the application."
 msgstr "Dastur tuzishda maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan quyidagi loyihalarga minnatdorchilik bildiraman."
 
 #: tformabout.lbasmala.caption
@@ -66,15 +66,15 @@ msgstr "Bismillahir rohmanir rohiym"
 
 #: tformabout.lcopyright.caption
 msgctxt "tformabout.lcopyright.caption"
-msgid "Mualliflik huquqi © 2015-2020 Umidjon Almasov"
+msgid "Copyright © 2015-2020 Umidjon Almasov"
 msgstr "Mualliflik huquqi © 2015-2020 Umidjon Almasov"
 
 #: tformabout.ldedication.caption
 msgctxt "tformabout.ldedication.caption"
 msgid ""
-"Ushbu dasturni va u uchun savobni\n"
-"marhum otam Almasov Jaʼfarga\n"
-"(07.04.1942-02.09.2017) bagʼishlayman\n"
+"I dedicate this program \n"
+"and retribution for it to my late father \n"
+"Almasov Jafar (04.07.1942-02.09.2017)\n"
 msgstr ""
 "Ushbu dasturni va u uchun savobni\n"
 "marhum otam Almasov Jaʼfarga\n"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: tformabout.ldescription.caption
 msgctxt "tformabout.ldescription.caption"
-msgid "Namoz oʼqishni oʼrgatuvchi multimedia dasturi"
+msgid "A multimedia program teaching prayer"
 msgstr "Namoz oʼqishni oʼrgatuvchi multimedia dasturi"
 
 #: tformabout.lhadis.caption
@@ -117,12 +117,12 @@ msgstr "Abid"
 
 #: tformabout.tsacknowledgements.caption
 msgctxt "tformabout.tsacknowledgements.caption"
-msgid "Minnatdorlik"
+msgid "Acknowledgements"
 msgstr "Minnatdorlik"
 
 #: tformabout.tslicense.caption
 msgctxt "tformabout.tslicense.caption"
-msgid "Litsenziyalar"
+msgid "Licenses"
 msgstr "Litsenziyalar"
 
 #: tformdetails.lalapr.caption
