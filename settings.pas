@@ -91,7 +91,7 @@ begin
   case cbLanguage.ItemIndex of
    0:
      begin
-       if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.en.po') then
+       if FileExists ({$IFDEF UNIX}ExtractFilePath(Paramstr(0))+{$ENDIF}'locale/abid.po') then
        begin
        SetDefaultLang('en');
        cbLanguage.Items.Clear;
