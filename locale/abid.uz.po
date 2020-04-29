@@ -41,8 +41,9 @@ msgstr "Тасвирларни яшириш"
 msgid "Tasvirlarni koʼrsatish"
 msgstr "Тасвирларни кўрсатиш"
 
-#: settings.notranslate
-msgid "Ushbu tilga tarjimasi mavjud emas."
+#: settings.notranslation
+msgctxt "settings.notranslation"
+msgid "There is no translation into this language."
 msgstr "Ушбу тилга таржимаси мавжуд эмас."
 
 #: tformabout.buttonpanel.closebutton.caption
@@ -3705,11 +3706,11 @@ msgstr "Хуфтон"
 
 #: tformsettings.buttonpanel.cancelbutton.caption
 msgctxt "tformsettings.buttonpanel.cancelbutton.caption"
-msgid "Bekor qilish"
+msgid "Cancel"
 msgstr "Бекор қилиш"
 
 #: tformsettings.buttonpanel.helpbutton.caption
-msgid "Standart"
+msgid "Default"
 msgstr "Стандарт"
 
 #: tformsettings.buttonpanel.okbutton.caption
@@ -3719,7 +3720,7 @@ msgstr "ОК"
 
 #: tformsettings.caption
 msgctxt "tformsettings.caption"
-msgid "Sozlamalar"
+msgid "Settings"
 msgstr "Созламалар"
 
 #: tformsettings.fontdialog.title
@@ -3727,26 +3728,26 @@ msgid "Shrift tanlash"
 msgstr "Шрифт танлаш"
 
 #: tformsettings.gbinterface.caption
-msgid "Interfeys"
+msgid "Interface"
 msgstr "Интерфейс"
 
 #: tformsettings.gblanguage.caption
-msgid "Til"
+msgid "Language"
 msgstr "Тил"
 
 #: tformsettings.gbrun.caption
-msgid "Dastur ishga tushirilganda"
+msgid "When starting the program"
 msgstr "Дастур ишга туширилганда"
 
 #: tformsettings.rbcontinue.caption
-msgid "qolgan goydan davom etish"
+msgid "continue from last place"
 msgstr "қолган жойдан давом этиш"
 
 #: tformsettings.rbstart.caption
-msgid "boshga oʼtish"
+msgid "go to the beginning"
 msgstr "бошга ўтиш"
 
 #: tformsettings.sbfont.caption
 msgctxt "tformsettings.sbfont.caption"
-msgid "Shrift oʼzgartirish"
+msgid "Change font"
 msgstr "Шрифт ўзгартириш"

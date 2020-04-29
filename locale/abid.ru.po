@@ -41,8 +41,9 @@ msgstr "Скрыть изображения"
 msgid "Tasvirlarni koʼrsatish"
 msgstr "Показать изображения"
 
-#: settings.notranslate
-msgid "Ushbu tilga tarjimasi mavjud emas."
+#: settings.notranslation
+msgctxt "settings.notranslation"
+msgid "There is no translation into this language."
 msgstr "Перевод на данный язык отсутствует."
 
 #: tformabout.buttonpanel.closebutton.caption
@@ -3712,11 +3713,11 @@ msgstr "Иша"
 
 #: tformsettings.buttonpanel.cancelbutton.caption
 msgctxt "tformsettings.buttonpanel.cancelbutton.caption"
-msgid "Bekor qilish"
+msgid "Cancel"
 msgstr "Отмена"
 
 #: tformsettings.buttonpanel.helpbutton.caption
-msgid "Standart"
+msgid "Default"
 msgstr "По умолчанию"
 
 #: tformsettings.buttonpanel.okbutton.caption
@@ -3726,7 +3727,7 @@ msgstr "ОК"
 
 #: tformsettings.caption
 msgctxt "tformsettings.caption"
-msgid "Sozlamalar"
+msgid "Settings"
 msgstr "Настройки"
 
 #: tformsettings.fontdialog.title
@@ -3734,26 +3735,26 @@ msgid "Shrift tanlash"
 msgstr "Выбор шрифта"
 
 #: tformsettings.gbinterface.caption
-msgid "Interfeys"
+msgid "Interface"
 msgstr "Интерфейс"
 
 #: tformsettings.gblanguage.caption
-msgid "Til"
+msgid "Language"
 msgstr "Язык"
 
 #: tformsettings.gbrun.caption
-msgid "Dastur ishga tushirilganda"
+msgid "When starting the program"
 msgstr "При запуске программы"
 
 #: tformsettings.rbcontinue.caption
-msgid "qolgan goydan davom etish"
+msgid "continue from last place"
 msgstr "продолжить с прошлого места"
 
 #: tformsettings.rbstart.caption
-msgid "boshga oʼtish"
+msgid "go to the beginning"
 msgstr "перейти в начало"
 
 #: tformsettings.sbfont.caption
 msgctxt "tformsettings.sbfont.caption"
-msgid "Shrift oʼzgartirish"
+msgid "Change font"
 msgstr "Изменить шрифт"
