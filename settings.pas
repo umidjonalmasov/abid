@@ -101,13 +101,13 @@ begin
        cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[0];
        if FormMain.pImage.Visible=true then
           begin
-            FormMain.miImage.Caption:=ImageHide;
-            FormMain.bImage.Caption:=ImageHide;
+            FormMain.miImage.Caption:=HideImage;
+            FormMain.bImage.Caption:=HideImage;
           end
        else
           begin
-            FormMain.miImage.Caption:=ImageShow;
-            FormMain.bImage.Caption:=ImageShow;
+            FormMain.miImage.Caption:=ShowImage;
+            FormMain.bImage.Caption:=ShowImage;
           end;
         end
       else
@@ -128,13 +128,13 @@ begin
            cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[1];
            if FormMain.pImage.Visible=true then
               begin
-                FormMain.miImage.Caption:=ImageHide;
-                FormMain.bImage.Caption:=ImageHide;
+                FormMain.miImage.Caption:=HideImage;
+                FormMain.bImage.Caption:=HideImage;
               end
            else
               begin
-                FormMain.miImage.Caption:=ImageShow;
-                FormMain.bImage.Caption:=ImageShow;
+                FormMain.miImage.Caption:=ShowImage;
+                FormMain.bImage.Caption:=ShowImage;
               end;
           end
         else
@@ -155,13 +155,13 @@ begin
        cbLanguage.Text:=cbLanguage.Items.ValueFromIndex[2];
        if FormMain.pImage.Visible=true then
           begin
-            FormMain.miImage.Caption:=ImageHide;
-            FormMain.bImage.Caption:=ImageHide;
+            FormMain.miImage.Caption:=HideImage;
+            FormMain.bImage.Caption:=HideImage;
           end
        else
           begin
-            FormMain.miImage.Caption:=ImageShow;
-            FormMain.bImage.Caption:=ImageShow;
+            FormMain.miImage.Caption:=ShowImage;
+            FormMain.bImage.Caption:=ShowImage;
           end;
      end
        else

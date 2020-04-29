@@ -27,8 +27,8 @@ uses
   Details, Settings, About;
 
 resourcestring
-  ImageShow = 'Tasvirlarni koʼrsatish';
-  ImageHide = 'Tasvirlarni yashirish';
+  ShowImage = 'Show images';
+  HideImage = 'Hide images';
 
 type
 
@@ -1136,7 +1136,7 @@ type
     MainMenu: TMainMenu;
     miAbout: TMenuItem;
     miEdit: TMenuItem;
-    miExit: TMenuItem;
+    miQuit: TMenuItem;
     miFile: TMenuItem;
     miHelp: TMenuItem;
     miImage: TMenuItem;
@@ -2218,7 +2218,7 @@ type
     procedure FormClose(Sender: TObject);
     procedure FormCreate(Sender: TObject);
     procedure miAboutClick(Sender: TObject);
-    procedure miExitClick(Sender: TObject);
+    procedure miQuitClick(Sender: TObject);
     procedure miImageClick(Sender: TObject);
     procedure miNextClick(Sender: TObject);
     procedure miPreviousClick(Sender: TObject);
@@ -2333,7 +2333,7 @@ begin
   FormSettings.cbLanguageChange(self);
 end;
 
-procedure TFormMain.miExitClick(Sender: TObject);
+procedure TFormMain.miQuitClick(Sender: TObject);
 begin
   Close;
 end;
@@ -2343,14 +2343,14 @@ begin
    if pImage.Visible=true then
     begin
       pImage.Hide;
-      miImage.Caption:=ImageShow;
-      bImage.Caption:=ImageShow;
+      miImage.Caption:=ShowImage;
+      bImage.Caption:=ShowImage;
     end
   else
     begin
       pImage.Show;
-      miImage.Caption:=ImageHide;
-      bImage.Caption:=ImageHide;
+      miImage.Caption:=HideImage;
+      bImage.Caption:=HideImage;
     end
 end;
 
