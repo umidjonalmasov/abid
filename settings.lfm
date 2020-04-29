@@ -1,7 +1,7 @@
 object FormSettings: TFormSettings
-  Left = 540
+  Left = 805
   Height = 290
-  Top = 215
+  Top = 222
   Width = 305
   AutoSize = True
   BorderIcons = []
@@ -135,7 +135,6 @@ object FormSettings: TFormSettings
     ShowBevel = False
   end
   object FontDialog: TFontDialog
-    Title = 'Shrift tanlash'
     MinFontSize = 0
     MaxFontSize = 0
     left = 24
