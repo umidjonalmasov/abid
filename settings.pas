@@ -27,7 +27,7 @@ uses
   LCLTranslator, Details;
 
 resourcestring
-  NoTranslate = 'Ushbu tilga tarjimasi mavjud emas.';
+  NoTranslation = 'There is no translation into this language.';
 
 type
 
@@ -112,7 +112,7 @@ begin
         end
       else
       begin
-       ShowMessage(NoTranslate);
+       ShowMessage(NoTranslation);
        IniPropStorage.Restore;
       end;
      end;
@@ -139,7 +139,7 @@ begin
           end
         else
           begin
-           ShowMessage(NoTranslate);
+           ShowMessage(NoTranslation);
            IniPropStorage.Restore;
           end;
      end;
@@ -166,7 +166,7 @@ begin
      end
        else
        begin
-         ShowMessage(NoTranslate);
+         ShowMessage(NoTranslation);
          IniPropStorage.Restore;
         end;
      end;

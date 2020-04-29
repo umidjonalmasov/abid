@@ -5,7 +5,7 @@ object FormSettings: TFormSettings
   Width = 305
   AutoSize = True
   BorderIcons = []
-  Caption = 'Sozlamalar'
+  Caption = 'Settings'
   ClientHeight = 290
   ClientWidth = 305
   Constraints.MinHeight = 270
@@ -25,7 +25,7 @@ object FormSettings: TFormSettings
     Align = alClient
     AutoSize = True
     BorderSpacing.Around = 10
-    Caption = 'Interfeys'
+    Caption = 'Interface'
     ClientHeight = 217
     ClientWidth = 283
     TabOrder = 0
@@ -37,7 +37,7 @@ object FormSettings: TFormSettings
       Align = alTop
       AutoSize = True
       BorderSpacing.Around = 10
-      Caption = 'Dastur ishga tushirilganda'
+      Caption = 'When starting the program'
       ClientHeight = 66
       ClientWidth = 261
       TabOrder = 0
@@ -50,7 +50,7 @@ object FormSettings: TFormSettings
         BorderSpacing.Left = 10
         BorderSpacing.Top = 10
         BorderSpacing.Right = 10
-        Caption = 'boshga oʼtish'
+        Caption = 'go to the beginning'
         Checked = True
         TabOrder = 0
         TabStop = True
@@ -64,7 +64,7 @@ object FormSettings: TFormSettings
         BorderSpacing.Left = 10
         BorderSpacing.Right = 10
         BorderSpacing.Bottom = 10
-        Caption = 'qolgan goydan davom etish'
+        Caption = 'continue from last place'
         TabOrder = 1
       end
     end
@@ -76,7 +76,7 @@ object FormSettings: TFormSettings
       Align = alTop
       AutoSize = True
       BorderSpacing.Around = 10
-      Caption = 'Til'
+      Caption = 'Language'
       ClientHeight = 46
       ClientWidth = 261
       TabOrder = 1
@@ -107,7 +107,7 @@ object FormSettings: TFormSettings
       Width = 263
       Align = alTop
       BorderSpacing.Around = 10
-      Caption = 'Shrift oʼzgartirish'
+      Caption = 'Change font'
       OnClick = sbFontClick
     end
   end
@@ -121,13 +121,13 @@ object FormSettings: TFormSettings
     OKButton.DefaultCaption = False
     OKButton.OnClick = OKButtonClick
     HelpButton.Name = 'HelpButton'
-    HelpButton.Caption = 'Standart'
+    HelpButton.Caption = 'Default'
     HelpButton.DefaultCaption = False
     HelpButton.OnClick = HelpButtonClick
     CloseButton.Name = 'CloseButton'
     CloseButton.DefaultCaption = True
     CancelButton.Name = 'CancelButton'
-    CancelButton.Caption = 'Bekor qilish'
+    CancelButton.Caption = 'Cancel'
     CancelButton.DefaultCaption = False
     CancelButton.OnClick = CancelButtonClick
     TabOrder = 1
