@@ -1,11 +1,11 @@
 object FormAbout: TFormAbout
-  Left = 347
+  Left = 549
   Height = 430
-  Top = 178
+  Top = 173
   Width = 526
   AutoSize = True
   BorderIcons = []
-  Caption = 'Dastur haqida'
+  Caption = 'About'
   ClientHeight = 430
   ClientWidth = 526
   Constraints.MinHeight = 430
@@ -266,16 +266,16 @@ object FormAbout: TFormAbout
         Align = alBottom
         Alignment = taCenter
         BorderSpacing.Around = 10
-        Caption = 'Mualliflik huquqi © 2015-2020 Umidjon Almasov'
+        Caption = 'Copyright © 2015-2020 Umidjon Almasov'
         ParentColor = False
       end
       object lDescription: TLabel
         Left = 160
         Height = 17
         Top = 224
-        Width = 325
+        Width = 264
         BorderSpacing.Around = 10
-        Caption = 'Namoz oʼqishni oʼrgatuvchi multimedia dasturi'
+        Caption = 'A multimedia program teaching prayer'
         Font.Height = -15
         ParentColor = False
         ParentFont = False
@@ -311,26 +311,26 @@ object FormAbout: TFormAbout
         Height = 42
         Top = 256
         Width = 193
-        Caption = 'Ushbu dasturni va u uchun savobni'#10'marhum otam Almasov Jaʼfarga'#10'(07.04.1942-02.09.2017) bagʼishlayman'
+        Caption = 'I dedicate this program '#10'and retribution for it to my late father '#10'Almasov Jafar (04.07.1942-02.09.2017)'
         Font.Height = -11
         ParentColor = False
         ParentFont = False
       end
     end
     object tsAcknowledgements: TTabSheet
-      Caption = 'Minnatdorlik'
+      Caption = 'Acknowledgements'
       ClientHeight = 352
       ClientWidth = 504
       object pIslomUz: TPanel
         Left = 6
         Height = 50
         Top = 52
-        Width = 491
+        Width = 492
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 491
+        ClientWidth = 492
         ParentColor = False
         TabOrder = 0
         object iIslomUz: TImage
@@ -528,12 +528,12 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 108
-        Width = 491
+        Width = 492
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 491
+        ClientWidth = 492
         TabOrder = 1
         object iAzanKz: TImage
           Left = 0
@@ -691,12 +691,12 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 164
-        Width = 491
+        Width = 492
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 491
+        ClientWidth = 492
         ParentColor = False
         TabOrder = 2
         object iLazarus: TImage
@@ -850,12 +850,12 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 220
-        Width = 491
+        Width = 492
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 491
+        ClientWidth = 492
         TabOrder = 3
         object iBass: TImage
           Left = 0
@@ -938,12 +938,12 @@ object FormAbout: TFormAbout
         Left = 6
         Height = 50
         Top = 276
-        Width = 491
+        Width = 492
         Align = alTop
         BorderSpacing.Around = 6
         BevelOuter = bvNone
         ClientHeight = 50
-        ClientWidth = 491
+        ClientWidth = 492
         ParentColor = False
         TabOrder = 4
         object iMint: TImage
@@ -1086,24 +1086,24 @@ object FormAbout: TFormAbout
         Left = 10
         Height = 32
         Top = 10
-        Width = 483
+        Width = 484
         Align = alTop
         Alignment = taCenter
         BorderSpacing.Around = 10
-        Caption = 'Dastur tuzishda maʼlumotlari hamda dasturiy taʼminotlaridan foydalanilgan quyidagi loyihalarga minnatdorchilik bildiraman.'
+        Caption = 'I express gratitude to the following projects, whose materials and software were used in the development of the application.'
         ParentColor = False
         WordWrap = True
       end
     end
     object tsLicense: TTabSheet
-      Caption = 'Litsenziyalar'
+      Caption = 'Licenses'
       ClientHeight = 352
       ClientWidth = 504
       object mLicense: TMemo
         Left = 0
-        Height = 386
+        Height = 352
         Top = 0
-        Width = 494
+        Width = 504
         Align = alClient
         Lines.Strings = (
           '                    GNU GENERAL PUBLIC LICENSE'
@@ -1860,7 +1860,7 @@ object FormAbout: TFormAbout
     HelpButton.Name = 'HelpButton'
     HelpButton.DefaultCaption = True
     CloseButton.Name = 'CloseButton'
-    CloseButton.Caption = 'Yopish'
+    CloseButton.Caption = 'Close'
     CloseButton.DefaultCaption = False
     CancelButton.Name = 'CancelButton'
     CancelButton.DefaultCaption = True
