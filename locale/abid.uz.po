@@ -46,6 +46,10 @@ msgctxt "settings.notranslation"
 msgid "There is no translation into this language."
 msgstr "Ушбу тилга таржимаси мавжуд эмас."
 
+#: settings.selectfont
+msgid "Select a font"
+msgstr "Шрифтни танланг"
+
 #: tformabout.buttonpanel.closebutton.caption
 msgid "Close"
 msgstr "Ёпиш"
@@ -3723,10 +3727,6 @@ msgctxt "tformsettings.caption"
 msgid "Settings"
 msgstr "Созламалар"
 
-#: tformsettings.fontdialog.title
-msgid "Shrift tanlash"
-msgstr "Шрифт танлаш"
-
 #: tformsettings.gbinterface.caption
 msgid "Interface"
 msgstr "Интерфейс"
@@ -3750,4 +3750,4 @@ msgstr "бошга ўтиш"
 #: tformsettings.sbfont.caption
 msgctxt "tformsettings.sbfont.caption"
 msgid "Change font"
-msgstr "Шрифт ўзгартириш"
+msgstr "Шрифтни ўзгартириш"

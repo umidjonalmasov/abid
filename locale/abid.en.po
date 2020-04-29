@@ -36,6 +36,10 @@ msgctxt "settings.notranslation"
 msgid "There is no translation into this language."
 msgstr ""
 
+#: settings.selectfont
+msgid "Select a font"
+msgstr ""
+
 #: tformabout.buttonpanel.closebutton.caption
 msgid "Close"
 msgstr ""
@@ -3544,10 +3548,6 @@ msgstr ""
 #: tformsettings.caption
 msgctxt "tformsettings.caption"
 msgid "Settings"
-msgstr ""
-
-#: tformsettings.fontdialog.title
-msgid "Shrift tanlash"
 msgstr ""
 
 #: tformsettings.gbinterface.caption
