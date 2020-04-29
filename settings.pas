@@ -28,7 +28,6 @@ uses
 
 resourcestring
   NoTranslation = 'There is no translation into this language.';
-  SelectFont = 'Select a font';
 
 type
 
@@ -74,7 +73,6 @@ uses
 
 procedure TFormSettings.sbFontClick(Sender: TObject);
 begin
-  FontDialog.Title:=SelectFont;
   if FontDialog.Execute then
      begin
        FormMain.pcMain.Font.Assign(FontDialog.Font);

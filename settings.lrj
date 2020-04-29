@@ -9,5 +9,6 @@
 {"hash":222248468,"name":"tformsettings.sbfont.caption","sourcebytes":[67,104,97,110,103,101,32,102,111,110,116],"value":"Change font"},
 {"hash":1339,"name":"tformsettings.buttonpanel.okbutton.caption","sourcebytes":[79,75],"value":"OK"},
 {"hash":180128884,"name":"tformsettings.buttonpanel.helpbutton.caption","sourcebytes":[68,101,102,97,117,108,116],"value":"Default"},
-{"hash":77089212,"name":"tformsettings.buttonpanel.cancelbutton.caption","sourcebytes":[67,97,110,99,101,108],"value":"Cancel"}
+{"hash":77089212,"name":"tformsettings.buttonpanel.cancelbutton.caption","sourcebytes":[67,97,110,99,101,108],"value":"Cancel"},
+{"hash":267685988,"name":"tformsettings.fontdialog.title","sourcebytes":[83,101,108,101,99,116,32,97,32,102,111,110,116],"value":"Select a font"}
 ]}

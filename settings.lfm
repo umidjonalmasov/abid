@@ -135,6 +135,7 @@ object FormSettings: TFormSettings
     ShowBevel = False
   end
   object FontDialog: TFontDialog
+    Title = 'Select a font'
     MinFontSize = 0
     MaxFontSize = 0
     left = 24
