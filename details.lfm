@@ -466,10 +466,10 @@ object FormDetails: TFormDetails
     Height = 497
     Top = 0
     Width = 796
-    ActivePage = tsAzonBomdod
+    ActivePage = tsIqomat
     Align = alClient
     ShowTabs = False
-    TabIndex = 0
+    TabIndex = 3
     TabOrder = 1
     object tsAzonBomdod: TTabSheet
       Caption = 'AzonBomdod'
@@ -511,13 +511,13 @@ object FormDetails: TFormDetails
           WordWrap = True
         end
         object lAzonBomdodTr: TLabel
-          Left = 427
+          Left = 429
           Height = 301
           Top = 180
-          Width = 356
+          Width = 296
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Meaning:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz uyqudan afzal'#10'Namoz uyqudan afzal'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼqʼ'
+          Caption = 'Meaning:'#10'Allah is the greatest Allah is the greatest'#10'Allah is the greatest Allah is the greatest'#10'I testify that there is no god but Allah'#10'I testify that there is no god but Allah'#10'I testify that Muhammad is the Messenger of God'#10'I testify that Muhammad is the Messenger of God'#10'Come to prayer'#10'Come to prayer'#10'Come to success'#10'Come to success'#10'Prayer is better than sleep'#10'Prayer is better than sleep'#10'Allah is the greatest Allah is the greatest'#10'There is none worthy of worship except God'
           ParentColor = False
           WordWrap = True
         end
@@ -525,10 +525,10 @@ object FormDetails: TFormDetails
           Left = 170
           Height = 301
           Top = 180
-          Width = 247
+          Width = 249
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ʼlas-solaah'#10'Hayya ʼlas-solaah'#10'Hayya ʼalal-falaah'#10'Hayya ʼalal-falaah'#10'As-solatu xoyrum minan-navm'#10'As-solatu xoyrum minan-navm'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
+          Caption = #10'Allahu Akbar Allahu Akbar'#10'Allahu Akbar Allahu Akbar'#10'Ashhadu ala ilaha illallah'#10'Ashhadu ala ilaha illallah'#10'Ash hadu anna Muhammadar rasoolullah'#10'Ash hadu anna Muhammadar rasoolullah'#10'Hayya ''alasalah'#10'Hayya ''alasalah'#10'Hayya ''alal falah'#10'Hayya ''alal falah'#10'Assalatu khayru min an-naum'#10'Assalatu khayru min an-naum'#10'Allahu Akbar Allahu Akbar'#10'La ilaha illallah'
           ParentColor = False
           WordWrap = True
         end
@@ -540,21 +540,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbAzon: TScrollBox
         Left = 0
-        Height = 457
+        Height = 493
         Top = 0
-        Width = 956
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 366
+        VertScrollBar.Page = 398
         Align = alClient
-        ClientHeight = 453
-        ClientWidth = 952
+        ClientHeight = 491
+        ClientWidth = 784
         TabOrder = 0
         object lAzonDesc: TLabel
           Left = 10
-          Height = 128
+          Height = 160
           Top = 10
-          Width = 934
+          Width = 764
           Align = alTop
           BorderSpacing.Around = 10
           Caption = 'Azon namoz vaqti kirganidan ogohlantiruvchi, namozga chorlovchi chaqiriqdir. Kundalik besh vaqt namoz va juma namozlari uchun azon aytish taʼkidlangan sunnatdir. Azon namoz vaqti kirgach, tahorat bilan qiblaga yuzlanib, tik turgan holda ikki qoʼlning koʼrsatkich barmoqlarini quloq ichiga qoʼyib, baland ovozda, dona-dona qilib aytiladi. Muazzin «Hayya ʼlas-solah» kalimasida boshini oʼng tarafga, «Hayya ʼalal-falah» kalimasida chap tarafga buradi. Azonni eshitgan kishi ishdan, masjiddan boshqa tomonga yurishdan, soʼzlashdan toʼxtaydi. Muazzinning ortidan azon kalimalarini aytib turadi. Muazzin «Hayya ʼalas-solah», deganida «Laa havla va laa quvvata illaa billahil ʼaliyyil-aʼziym», deydi, «Hayya ʼalal falah», deganida esa «Maa sha Allohu kaana vama alam yashaʼ lam yakun», deydi. Safarda va jomeʼ masjidlarida azonni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub, aqldan ozgan, fosiq, mast, tahoratsiz kishilar, aqlsiz bolalar va ayollarning azon aytishlari makruhdir. Qazo namozlari uchun azon aytiladi. Hayit namozlari hamda janoza namoziga azon aytilmaydi.'
@@ -563,8 +563,8 @@ object FormDetails: TFormDetails
         end
         object lAzonAr: TLabel
           Left = 10
-          Height = 297
-          Top = 148
+          Height = 301
+          Top = 180
           Width = 150
           Align = alLeft
           Alignment = taRightJustify
@@ -574,24 +574,24 @@ object FormDetails: TFormDetails
           WordWrap = True
         end
         object lAzonTr: TLabel
-          Left = 427
-          Height = 297
-          Top = 148
-          Width = 354
+          Left = 429
+          Height = 301
+          Top = 180
+          Width = 296
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Meaning:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼq'
+          Caption = 'Meaning:'#10'Allah is the greatest Allah is the greatest'#10'Allah is the greatest Allah is the greatest'#10'I testify that there is no god but Allah'#10'I testify that there is no god but Allah'#10'I testify that Muhammad is the Messenger of God'#10'I testify that Muhammad is the Messenger of God'#10'Come to prayer'#10'Come to prayer'#10'Come to success'#10'Come to success'#10'Allah is the greatest Allah is the greatest'#10'There is none worthy of worship except God'
           ParentColor = False
           WordWrap = True
         end
         object lAzonPr: TLabel
           Left = 170
-          Height = 297
-          Top = 148
-          Width = 247
+          Height = 301
+          Top = 180
+          Width = 249
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ʼlas-solaah'#10'Hayya ʼlas-solaah'#10'Hayya ʼalal-falaah'#10'Hayya ʼalal-falaah'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
+          Caption = #10'Allahu Akbar Allahu Akbar'#10'Allahu Akbar Allahu Akbar'#10'Ashhadu ala ilaha illallah'#10'Ashhadu ala ilaha illallah'#10'Ash hadu anna Muhammadar rasoolullah'#10'Ash hadu anna Muhammadar rasoolullah'#10'Hayya ''alasalah'#10'Hayya ''alasalah'#10'Hayya ''alal falah'#10'Hayya ''alal falah'#10'Allahu Akbar Allahu Akbar'#10'La ilaha illallah'
           ParentColor = False
           WordWrap = True
         end
@@ -655,21 +655,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbIqomat: TScrollBox
         Left = 0
-        Height = 457
+        Height = 493
         Top = 0
-        Width = 956
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 302
+        VertScrollBar.Page = 318
         Align = alClient
-        ClientHeight = 453
-        ClientWidth = 952
+        ClientHeight = 491
+        ClientWidth = 784
         TabOrder = 0
         object lIqomatDesc: TLabel
           Left = 10
-          Height = 48
+          Height = 64
           Top = 10
-          Width = 934
+          Width = 764
           Align = alTop
           BorderSpacing.Around = 10
           Caption = 'Kundalik besh vaqt namoz va juma namozlari uchun iqomat aytish taʼkidlangan sunnatdir. Safarda va jomeʼ masjidlarida iqomatni tark qilish makruh, biroq shahar ichidagi xonadonlarda uni tark etish makruh emas. Junub kishining iqomat aytishi makruhdir. Iqomat farz namozlari oldidan aytiladi. Qazo namozlari uchun iqomat aytiladi. Hayit namozlari hamda janoza namoziga iqomat aytilmaydi.'
@@ -678,8 +678,8 @@ object FormDetails: TFormDetails
         end
         object lIqomatAr: TLabel
           Left = 10
-          Height = 377
-          Top = 68
+          Height = 397
+          Top = 84
           Width = 176
           Align = alLeft
           Alignment = taRightJustify
@@ -689,24 +689,24 @@ object FormDetails: TFormDetails
           WordWrap = True
         end
         object lIqomatTr: TLabel
-          Left = 453
-          Height = 377
-          Top = 68
-          Width = 354
+          Left = 455
+          Height = 397
+          Top = 84
+          Width = 296
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Meaning:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz boshlanib qoldi Namoz boshlanib qoldi'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼq'
+          Caption = 'Meaning:'#10'Allah is the greatest Allah is the greatest'#10'Allah is the greatest Allah is the greatest'#10'I testify that there is no god but Allah'#10'I testify that there is no god but Allah'#10'I testify that Muhammad is the Messenger of God'#10'I testify that Muhammad is the Messenger of God'#10'Come to prayer'#10'Come to prayer'#10'Come to success'#10'Come to success'#10'Prayer is to begin Prayer is to begin'#10'Allah is the greatest Allah is the greatest'#10'There is none worthy of worship except God'
           ParentColor = False
           WordWrap = True
         end
         object lIqomatPr: TLabel
           Left = 196
-          Height = 377
-          Top = 68
-          Width = 247
+          Height = 397
+          Top = 84
+          Width = 249
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = #10'Allohu akbar Allohu akbar'#10'Allohu akbar Allohu akbar'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu allaa ilaaha illalloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Ashhadu anna Muhammadar rasuululloh'#10'Hayya ʼlas-solaah'#10'Hayya ʼlas-solaah'#10'Hayya ʼalal-falaah'#10'Hayya ʼalal-falaah'#10'Qod qomatis-solah Qod qomatis-solah'#10'Allohu akbar Allohu akbar'#10'Laa ilaaha illalloh'
+          Caption = #10'Allahu Akbar Allahu Akbar'#10'Allahu Akbar Allahu Akbar'#10'Ashhadu ala ilaha illallah'#10'Ashhadu ala ilaha illallah'#10'Ash hadu anna Muhammadar rasoolullah'#10'Ash hadu anna Muhammadar rasoolullah'#10'Hayya ''alasalah'#10'Hayya ''alasalah'#10'Hayya ''alal falah'#10'Hayya ''alal falah'#10'Qad qaamati Salaah Qad qaamati Salaah'#10'Allahu Akbar Allahu Akbar'#10'La ilaha illallah'
           ParentColor = False
           WordWrap = True
         end
@@ -725,8 +725,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lTakbirAr: TLabel
           Left = 10
@@ -1575,8 +1575,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lSalomAr: TLabel
           Left = 10
@@ -1735,8 +1735,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 270
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object pSubhanalloh: TPanel
           Left = 0
@@ -1745,8 +1745,8 @@ object FormDetails: TFormDetails
           Width = 784
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 784
+          ClientHeight = 46
+          ClientWidth = 780
           ParentColor = False
           TabOrder = 0
           object lSubhanallohAr: TLabel
@@ -1790,8 +1790,8 @@ object FormDetails: TFormDetails
           Width = 784
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 784
+          ClientHeight = 46
+          ClientWidth = 780
           ParentColor = False
           TabOrder = 1
           object lAlhamdulillahAr: TLabel
@@ -1835,8 +1835,8 @@ object FormDetails: TFormDetails
           Width = 784
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 784
+          ClientHeight = 46
+          ClientWidth = 780
           ParentColor = False
           TabOrder = 2
           object lAllohuAkbarAr: TLabel
@@ -2023,12 +2023,12 @@ object FormDetails: TFormDetails
     Interval = 0
     OnTimer = tPositionTimer
     left = 728
-    top = 344
+    top = 424
   end
   object IniPropStorage: TIniPropStorage
     StoredValues = <>
-    left = 648
-    top = 336
+    left = 384
+    top = 415
   end
   object tProgress: TTimer
     Enabled = False
