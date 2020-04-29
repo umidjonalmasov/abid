@@ -1,7 +1,7 @@
 object FormDetails: TFormDetails
-  Left = 424
+  Left = 427
   Height = 537
-  Top = 113
+  Top = 126
   Width = 796
   AutoSize = True
   ClientHeight = 537
@@ -517,7 +517,7 @@ object FormDetails: TFormDetails
           Width = 356
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz uyqudan afzal'#10'Namoz uyqudan afzal'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼqʼ'
+          Caption = 'Meaning:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz uyqudan afzal'#10'Namoz uyqudan afzal'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼqʼ'
           ParentColor = False
           WordWrap = True
         end
@@ -580,7 +580,7 @@ object FormDetails: TFormDetails
           Width = 354
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼq'
+          Caption = 'Meaning:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼq'
           ParentColor = False
           WordWrap = True
         end
@@ -643,7 +643,7 @@ object FormDetails: TFormDetails
           Width = 934
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Ey ushbu mukammal duo va hamda abadiy salavot Parvardigori. Muhammad alayhissalomning martabalarini ulugʼ qilib, neʼmatlaringni unga bisyor qilgaysan, ul zotga Oʼzing vaʼda qilgan makomi mahmudni (jannatdagi oʼrinni) ato etgaysan. Qiyomatda bizga uning shafoatini nasib etgaysan. Sen zinhor vaʼdaga xilof qilmaysan.'
+          Caption = 'Meaning:'#10'Ey ushbu mukammal duo va hamda abadiy salavot Parvardigori. Muhammad alayhissalomning martabalarini ulugʼ qilib, neʼmatlaringni unga bisyor qilgaysan, ul zotga Oʼzing vaʼda qilgan makomi mahmudni (jannatdagi oʼrinni) ato etgaysan. Qiyomatda bizga uning shafoatini nasib etgaysan. Sen zinhor vaʼdaga xilof qilmaysan.'
           ParentColor = False
           WordWrap = True
         end
@@ -695,7 +695,7 @@ object FormDetails: TFormDetails
           Width = 354
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz boshlanib qoldi Namoz boshlanib qoldi'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼq'
+          Caption = 'Meaning:'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Allohdan boshqa iloh yoʼq'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Guvohlik beramanki, Muhammad Allohning paygʼambaridir'#10'Namozga kelingiz'#10'Namozga kelingiz'#10'Najotga kelingiz'#10'Najotga kelingiz'#10'Namoz boshlanib qoldi Namoz boshlanib qoldi'#10'Alloh ulugʼdir Alloh ulugʼdir'#10'Allohdan oʼzga iloh yoʼq'
           ParentColor = False
           WordWrap = True
         end
@@ -718,21 +718,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbTakbir: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 960
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
-        ClientWidth = 956
+        ClientWidth = 784
         TabOrder = 0
         object lTakbirAr: TLabel
           Left = 10
           Height = 16
           Top = 10
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
@@ -744,11 +744,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 16
           Top = 36
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Allohu akbar.'
+          Caption = 'Allāhu akbar.'
           ParentColor = False
           WordWrap = True
         end
@@ -756,11 +756,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 32
           Top = 62
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Alloh buyukdir.'
+          Caption = 'Meaning:'#10'Allah is the greatest.'
           ParentColor = False
           WordWrap = True
         end
@@ -814,7 +814,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.'
+          Caption = 'Meaning:'#10'Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -868,7 +868,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Quvilgan shayton yomonligidan Allohning panohini soʼrayman.'
+          Caption = 'Meaning:'#10'Quvilgan shayton yomonligidan Allohning panohini soʼrayman.'
           ParentColor = False
           WordWrap = True
         end
@@ -922,7 +922,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Mehribon va rahmli Alloh nomi bilan (boshlayman).'
+          Caption = 'Meaning:'#10'Mehribon va rahmli Alloh nomi bilan (boshlayman).'
           ParentColor = False
           WordWrap = True
         end
@@ -963,7 +963,7 @@ object FormDetails: TFormDetails
           Width = 425
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Hamd olamlarning Robbi – Allohgadir.'#10'U Rohman va Rohiymdir.'#10'Jazo-mukofot kunining egasidir.'#10'Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.'#10'Bizni toʼgʼri yoʼlga hidoyat qilgin.'#10'Oʼzing neʼmat berganlarning yoʼliga'#10'Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.'
+          Caption = 'Meaning:'#10'Hamd olamlarning Robbi – Allohgadir.'#10'U Rohman va Rohiymdir.'#10'Jazo-mukofot kunining egasidir.'#10'Faqat Sengagina ibodat qilamiz va faqat Sendangina yordam soʼraymiz.'#10'Bizni toʼgʼri yoʼlga hidoyat qilgin.'#10'Oʼzing neʼmat berganlarning yoʼliga'#10'Gʼazabga qolganlarnikiga ham emas, adashganlarnikiga ham emas.'
           ParentColor = False
           WordWrap = True
         end
@@ -1015,7 +1015,7 @@ object FormDetails: TFormDetails
           Width = 375
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Albatta, Biz senga Kavsarni berdik.'#10'Bas, Robbingga namoz oʼqi va jonliq soʼy.'#10'Albatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.'
+          Caption = 'Meaning:'#10'Albatta, Biz senga Kavsarni berdik.'#10'Bas, Robbingga namoz oʼqi va jonliq soʼy.'#10'Albatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.'
           ParentColor = False
           WordWrap = True
         end
@@ -1067,7 +1067,7 @@ object FormDetails: TFormDetails
           Width = 217
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Ayt: «U Alloh yagonadir.'#10'Alloh – somaddir.'#10'U tugʼmagan va tugʼilmagan'#10'Va Unga hech kim teng boʼlmagan».'
+          Caption = 'Meaning:'#10'Ayt: «U Alloh yagonadir.'#10'Alloh – somaddir.'#10'U tugʼmagan va tugʼilmagan'#10'Va Unga hech kim teng boʼlmagan».'
           ParentColor = False
           WordWrap = True
         end
@@ -1119,7 +1119,7 @@ object FormDetails: TFormDetails
           Width = 326
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'«Tong Robbisidan panoh soʼrayman.'#10'U yaratgan narsalar yomonligidan.'#10'Va kirib kelgan qorongʼu kechaning yomonligidan.'#10'Va tugunlarga dam soluvchilar yomonligidan.'#10'Va hasad qilgan hasadchining yomonligidan», deb ayt.'
+          Caption = 'Meaning:'#10'«Tong Robbisidan panoh soʼrayman.'#10'U yaratgan narsalar yomonligidan.'#10'Va kirib kelgan qorongʼu kechaning yomonligidan.'#10'Va tugunlarga dam soluvchilar yomonligidan.'#10'Va hasad qilgan hasadchining yomonligidan», deb ayt.'
           ParentColor = False
           WordWrap = True
         end
@@ -1171,7 +1171,7 @@ object FormDetails: TFormDetails
           Width = 418
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Ayt: «Odamlar Robbisidan panoh soʼrayman.'#10'Odamlar Podshohidan.'#10'Odamlar Ilohidan.'#10'Berkinib, koʼrinib turuvchi vasvasachining.'#10'Odamlarning koʼkslariga vasvasa soladiganning.'#10'Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».'
+          Caption = 'Meaning:'#10'Ayt: «Odamlar Robbisidan panoh soʼrayman.'#10'Odamlar Podshohidan.'#10'Odamlar Ilohidan.'#10'Berkinib, koʼrinib turuvchi vasvasachining.'#10'Odamlarning koʼkslariga vasvasa soladiganning.'#10'Jinlar va odamlardan boʼlganning yomonligidan (panoh soʼrayman)».'
           ParentColor = False
           WordWrap = True
         end
@@ -1194,21 +1194,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbAziym: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 960
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 956
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lAziymAr: TLabel
           Left = 10
           Height = 16
           Top = 10
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
@@ -1220,11 +1220,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 16
           Top = 36
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Subhaana Robbiyal aziym.'
+          Caption = 'Subhanna Rabbiyal Adheem.'
           ParentColor = False
           WordWrap = True
         end
@@ -1232,11 +1232,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 32
           Top = 62
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Ulugʼ Robbim nuqsonlardan pokdir.'
+          Caption = 'Meaning:'#10'Glorious is my Lord the most great.'
           ParentColor = False
           WordWrap = True
         end
@@ -1248,21 +1248,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbTasme: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 960
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 956
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lTasmeAr: TLabel
           Left = 10
           Height = 16
           Top = 10
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
@@ -1274,11 +1274,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 16
           Top = 36
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Samiʼallohu liman hamidah.'
+          Caption = 'Samiallah Huliman Hamidah.'
           ParentColor = False
           WordWrap = True
         end
@@ -1286,11 +1286,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 32
           Top = 62
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Kim hamd aytsa, Alloh uni eshitadi.'
+          Caption = 'Meaning:'#10'Allah hears those who praise Him.'
           ParentColor = False
           WordWrap = True
         end
@@ -1302,21 +1302,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbHamd: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 960
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 956
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lHamdAr: TLabel
           Left = 10
           Height = 16
           Top = 10
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
@@ -1328,11 +1328,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 16
           Top = 36
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Robbanaa, lakal hamd.'
+          Caption = 'Rabana Walakal Hamd.'
           ParentColor = False
           WordWrap = True
         end
@@ -1340,11 +1340,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 32
           Top = 62
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Robbimiz, Senga hamd boʼlsin.'
+          Caption = 'Meaning:'#10'Our Lord, all praise is for you.'
           ParentColor = False
           WordWrap = True
         end
@@ -1356,21 +1356,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbAla: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 960
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 956
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lAlaAr: TLabel
           Left = 10
           Height = 16
           Top = 10
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
@@ -1382,11 +1382,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 16
           Top = 36
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Subhaana robbiyal aʼla.'
+          Caption = 'Subhanna Rabbiyal A''laa.'
           ParentColor = False
           WordWrap = True
         end
@@ -1394,11 +1394,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 32
           Top = 62
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Oliy Robbim nuqsonlardan pokdir.'
+          Caption = 'Meaning:'#10'Glorious is my Lord, the most High.'
           ParentColor = False
           WordWrap = True
         end
@@ -1410,21 +1410,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbTashahhud: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 960
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 152
+        VertScrollBar.Page = 184
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 956
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lTashahhudAr: TLabel
           Left = 10
           Height = 32
           Top = 10
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taRightJustify
           BorderSpacing.Around = 10
@@ -1434,23 +1434,23 @@ object FormDetails: TFormDetails
         end
         object lTashahhudPr: TLabel
           Left = 10
-          Height = 32
+          Height = 48
           Top = 52
-          Width = 938
+          Width = 764
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Attahiyyatu lillahi vassolavatu vat­toy­yibat. Assalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Assalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Ashhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh.'
+          Caption = 'At-tahiyyaatu Lillaahi was-salaawaatu wat-tayyibaat. As-salaamu ‘alayka ayyuhan-Nabiyyu wa rahmatullaahi wa barakaatuhu. As-salaamu ‘alayna wa ‘ala ‘ibaad-illaah-his-saaliheen. Ash-hadu al-aa ilaaha ill-Allaah wa ash-hadu anna Muhammadan ‘abduhu wa rasooluhu.'
           ParentColor = False
           WordWrap = True
         end
         object lTashahhudTr: TLabel
           Left = 10
-          Height = 48
-          Top = 94
-          Width = 938
+          Height = 64
+          Top = 110
+          Width = 764
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi boʼlsin. Bizlarga va Allohning solih bandalariga salom boʼlsin. Allohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Allohning Rasuli deb guvohlik beraman.'
+          Caption = 'Meaning:'#10'All compliments, prayers and pure words are due to Allaah. Peace be upon you, O Prophet, and the mercy of Allaah and His blessings. Peace be upon us and upon the righteous slaves of Allaah. I bear witness that there is no god except Allaah and I bear witness that Muhammad is His slave and Messenger.'
           ParentColor = False
           WordWrap = True
         end
@@ -1462,21 +1462,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbSalavot: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 960
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 168
+        VertScrollBar.Page = 184
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 956
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lSalavotAr: TLabel
           Left = 10
           Height = 32
           Top = 10
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taRightJustify
           BorderSpacing.Around = 10
@@ -1486,23 +1486,23 @@ object FormDetails: TFormDetails
         end
         object lSalavotPr: TLabel
           Left = 10
-          Height = 32
+          Height = 48
           Top = 52
-          Width = 938
+          Width = 764
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Allohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Allohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid.'
+          Caption = 'Allaahumma salli ‘ala Muhammad, wa ‘ala aali Muhammad, kama sallayta ‘ala Ibraaheem, wa ‘ala aali Ibraaheem, fil aalameen innak hameedun majeed, wa baarik ‘ala Muhammad, wa ‘ala aali Muhammad, kama baarakta ‘ala Ibraaheem, wa ‘ala aali Ibraaheem, fil aalameen innak hameedun majeed.'
           ParentColor = False
           WordWrap = True
         end
         object lSalavotTr: TLabel
           Left = 10
           Height = 64
-          Top = 94
-          Width = 938
+          Top = 110
+          Width = 764
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan!'
+          Caption = 'Meaning:'#10'O Allaah, send prayers upon Muhammad and upon the family of Muhammad, as You sent prayers upon Ibraaheem and the family of Ibraaheem, You are indeed Worthy of Praise, Full of Glory. O Allaah, bless Muhammad and the family of Muhammad as You blessed Ibraaheem and the family of Ibraaheem, You are indeed Worthy of Praise, Full of Glory.'
           ParentColor = False
           WordWrap = True
         end
@@ -1556,7 +1556,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Robbimiz! Bizlarga dunyoda ham, oxiratda ham yaxshilik ber va doʼzax azobidan asra.'
+          Caption = 'Meaning:'#10'Robbimiz! Bizlarga dunyoda ham, oxiratda ham yaxshilik ber va doʼzax azobidan asra.'
           ParentColor = False
           WordWrap = True
         end
@@ -1568,21 +1568,21 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbSalom: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 960
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 491
-        ClientWidth = 956
+        ClientWidth = 784
         TabOrder = 0
         object lSalomAr: TLabel
           Left = 10
           Height = 16
           Top = 10
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
@@ -1594,11 +1594,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 16
           Top = 36
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Assalamu ʼalaykum va rohmatulloh.'
+          Caption = 'As-salamu alaykum wa Rahmatullah.'
           ParentColor = False
           WordWrap = True
         end
@@ -1606,11 +1606,11 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 32
           Top = 62
-          Width = 938
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Sizga tinchlik-omonlik, Allohning rahmati boʼlsin.'
+          Caption = 'Meaning:'#10'Sizga tinchlik-omonlik, Allohning rahmati boʼlsin.'
           ParentColor = False
           WordWrap = True
         end
@@ -1662,7 +1662,7 @@ object FormDetails: TFormDetails
           Width = 1008
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Allohim! Albatta, Sendan yordam soʼraymiz, Sendan hidoyat soʼraymiz,'#10'Senga istigʼfor aytamiz va Senga tavba qilamiz.'#10'Senga iymon keltiramiz va Senga tavakkal qilamiz.'#10'Senga shukr qilamiz, kufr keltirmaymiz.'#10'Va kim Senga fojirlik qilsa, uni ajratamiz va tark qilamiz.'#10'Allohim! Sengagina ibodat qilamiz, Sengagina namoz oʼqiymiz va sajda qilamiz,'#10'Sengagina intilamiz va shoshilamiz.'#10'Va Sening rahmatingni umid qilamiz va azobingdan qoʼrqamiz.'#10'Albatta, azobing kofirlarga etguvchidir.'
+          Caption = 'Meaning:'#10'Allohim! Albatta, Sendan yordam soʼraymiz, Sendan hidoyat soʼraymiz,'#10'Senga istigʼfor aytamiz va Senga tavba qilamiz.'#10'Senga iymon keltiramiz va Senga tavakkal qilamiz.'#10'Senga shukr qilamiz, kufr keltirmaymiz.'#10'Va kim Senga fojirlik qilsa, uni ajratamiz va tark qilamiz.'#10'Allohim! Sengagina ibodat qilamiz, Sengagina namoz oʼqiymiz va sajda qilamiz,'#10'Sengagina intilamiz va shoshilamiz.'#10'Va Sening rahmatingni umid qilamiz va azobingdan qoʼrqamiz.'#10'Albatta, azobing kofirlarga etguvchidir.'
           ParentColor = False
           WordWrap = True
         end
@@ -1716,7 +1716,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Allohim! Sen Salomsan, salomatlik Sendandir. Sen Tabarruksan, ey jalol va ikrom egasi.'
+          Caption = 'Meaning:'#10'Allohim! Sen Salomsan, salomatlik Sendandir. Sen Tabarruksan, ey jalol va ikrom egasi.'
           ParentColor = False
           WordWrap = True
         end
@@ -1728,25 +1728,25 @@ object FormDetails: TFormDetails
       ClientWidth = 786
       object sbTasbehot: TScrollBox
         Left = 0
-        Height = 495
+        Height = 493
         Top = 0
-        Width = 1030
+        Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 254
+        VertScrollBar.Page = 270
         Align = alClient
         ClientHeight = 491
-        ClientWidth = 1026
+        ClientWidth = 784
         TabOrder = 0
         object pSubhanalloh: TPanel
           Left = 0
           Height = 50
           Top = 0
-          Width = 1028
+          Width = 784
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 46
-          ClientWidth = 1024
+          ClientHeight = 50
+          ClientWidth = 784
           ParentColor = False
           TabOrder = 0
           object lSubhanallohAr: TLabel
@@ -1779,7 +1779,7 @@ object FormDetails: TFormDetails
             Align = alLeft
             BorderSpacing.Left = 10
             BorderSpacing.Right = 10
-            Caption = 'Maʼnosi:'#10'Allohni poklab zikr etaman.'
+            Caption = 'Meaning:'#10'Allohni poklab zikr etaman.'
             ParentColor = False
           end
         end
@@ -1787,11 +1787,11 @@ object FormDetails: TFormDetails
           Left = 0
           Height = 50
           Top = 50
-          Width = 1028
+          Width = 784
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 46
-          ClientWidth = 1024
+          ClientHeight = 50
+          ClientWidth = 784
           ParentColor = False
           TabOrder = 1
           object lAlhamdulillahAr: TLabel
@@ -1824,7 +1824,7 @@ object FormDetails: TFormDetails
             Align = alLeft
             BorderSpacing.Left = 10
             BorderSpacing.Right = 10
-            Caption = 'Maʼnosi:'#10'Maqtovlar Allohga xosdir.'
+            Caption = 'Meaning:'#10'Maqtovlar Allohga xosdir.'
             ParentColor = False
           end
         end
@@ -1832,11 +1832,11 @@ object FormDetails: TFormDetails
           Left = 0
           Height = 50
           Top = 100
-          Width = 1028
+          Width = 784
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 46
-          ClientWidth = 1024
+          ClientHeight = 50
+          ClientWidth = 784
           ParentColor = False
           TabOrder = 2
           object lAllohuAkbarAr: TLabel
@@ -1854,22 +1854,22 @@ object FormDetails: TFormDetails
             Left = 64
             Height = 50
             Top = 0
-            Width = 146
+            Width = 147
             Align = alLeft
             BorderSpacing.Left = 10
             BorderSpacing.Right = 10
-            Caption = #10'Allohu akbar (33 marta).'
+            Caption = #10'Allāhu akbar. (33 marta).'
             ParentColor = False
           end
           object lAllohuAkbarTr: TLabel
-            Left = 220
+            Left = 221
             Height = 50
             Top = 0
-            Width = 85
+            Width = 123
             Align = alLeft
             BorderSpacing.Left = 10
             BorderSpacing.Right = 10
-            Caption = 'Maʼnosi:'#10'Alloh ulugʼdir.'
+            Caption = 'Meaning:'#10'Allah is the greatest.'
             ParentColor = False
           end
         end
@@ -1877,7 +1877,7 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 16
           Top = 160
-          Width = 1008
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
@@ -1889,7 +1889,7 @@ object FormDetails: TFormDetails
           Left = 10
           Height = 16
           Top = 186
-          Width = 1008
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
@@ -1899,13 +1899,13 @@ object FormDetails: TFormDetails
         end
         object lTavhidTr: TLabel
           Left = 10
-          Height = 32
+          Height = 48
           Top = 212
-          Width = 1008
+          Width = 764
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Allohdan oʼzga iloh yoʼq. U yagonadir, sherigi yoʼq, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.'
+          Caption = 'Meaning:'#10'Allohdan oʼzga iloh yoʼq. U yagonadir, sherigi yoʼq, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -1946,7 +1946,7 @@ object FormDetails: TFormDetails
           Width = 437
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Alloh – Undan oʼzga iloh yoʼq. U Hayy va Qayyumdir.'#10'Uni mudroq ham, uyqu ham olmas.'#10'Osmonlaru erdagi narsalar Unikidir.'#10'Uning huzurida Oʼzining iznisiz hech kim shafoat qila olmas.'#10'Ularning oldilaridagi narsani ham, ortlaridagi narsani ham bilur.'#10'Uning ilmidan Oʼzi xohlaganidan boshqa hech narsani ihota qila olmaslar.'#10'Uning Kursisi osmonlaru erni qamragan.'#10'Ularni muhofaza qilish unga ogʼir kelmas.'#10'Va U Aliy va Aziymdir.'
+          Caption = 'Meaning:'#10'Alloh – Undan oʼzga iloh yoʼq. U Hayy va Qayyumdir.'#10'Uni mudroq ham, uyqu ham olmas.'#10'Osmonlaru erdagi narsalar Unikidir.'#10'Uning huzurida Oʼzining iznisiz hech kim shafoat qila olmas.'#10'Ularning oldilaridagi narsani ham, ortlaridagi narsani ham bilur.'#10'Uning ilmidan Oʼzi xohlaganidan boshqa hech narsani ihota qila olmaslar.'#10'Uning Kursisi osmonlaru erni qamragan.'#10'Ularni muhofaza qilish unga ogʼir kelmas.'#10'Va U Aliy va Aziymdir.'
           ParentColor = False
           WordWrap = True
         end
@@ -2011,7 +2011,7 @@ object FormDetails: TFormDetails
           Align = alTop
           Alignment = taCenter
           BorderSpacing.Around = 10
-          Caption = 'Maʼnosi:'#10'Allohni poklab zikr etaman, maqtovlar Allohga xosdir. Allohdan oʼzga iloh yoʼqdir. Kuch-qudrat faqat ulugʼlik va azamat sohibi Allohga xosdir.'
+          Caption = 'Meaning:'#10'Allohni poklab zikr etaman, maqtovlar Allohga xosdir. Allohdan oʼzga iloh yoʼqdir. Kuch-qudrat faqat ulugʼlik va azamat sohibi Allohga xosdir.'
           ParentColor = False
           WordWrap = True
         end
