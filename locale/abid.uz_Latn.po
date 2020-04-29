@@ -32,13 +32,13 @@ msgstr "Ovoz initsializatsiya xatosi!"
 msgid "BASS versiyasi notoʼgʼri"
 msgstr "BASS versiyasi notoʼgʼri"
 
-#: main.imagehide
-msgctxt "main.imagehide"
-msgid "Tasvirlarni yashirish"
+#: main.hideimage
+msgctxt "main.hideimage"
+msgid "Hide images"
 msgstr "Tasvirlarni yashirish"
 
-#: main.imageshow
-msgid "Tasvirlarni koʼrsatish"
+#: main.showimage
+msgid "Show images"
 msgstr "Tasvirlarni koʼrsatish"
 
 #: settings.notranslation
@@ -883,17 +883,17 @@ msgstr ""
 
 #: tformmain.bimage.caption
 msgctxt "tformmain.bimage.caption"
-msgid "Tasvirlarni yashirish"
+msgid "Hide images"
 msgstr "Tasvirlarni yashirish"
 
 #: tformmain.bnext.hint
 msgctxt "tformmain.bnext.hint"
-msgid "Keyingi"
+msgid "Next"
 msgstr "Keyingi"
 
 #: tformmain.bprevious.hint
 msgctxt "tformmain.bprevious.hint"
-msgid "Oldingi"
+msgid "Previous"
 msgstr "Oldingi"
 
 #: tformmain.caption
@@ -3652,47 +3652,46 @@ msgstr "Xufton namozining vaqti – shafaq batamom yoʼqolgandan keyin kiradi. V
 
 #: tformmain.miabout.caption
 msgctxt "tformmain.miabout.caption"
-msgid "Dastur haqida"
+msgid "About"
 msgstr "Dastur haqida"
 
 #: tformmain.miedit.caption
 msgctxt "tformmain.miedit.caption"
-msgid "Tahrirlash"
+msgid "Edit"
 msgstr "Tahrirlash"
-
-#: tformmain.miexit.caption
-msgctxt "tformmain.miexit.caption"
-msgid "Chiqish"
-msgstr "Chiqish"
 
 #: tformmain.mifile.caption
 msgctxt "tformmain.mifile.caption"
-msgid "Fayl"
+msgid "File"
 msgstr "Fayl"
 
 #: tformmain.mihelp.caption
 msgctxt "tformmain.mihelp.caption"
-msgid "Yordam"
+msgid "Help"
 msgstr "Yordam"
 
 #: tformmain.miimage.caption
 msgctxt "tformmain.miimage.caption"
-msgid "Tasvirlarni yashirish"
+msgid "Hide images"
 msgstr "Tasvirlarni yashirish"
 
 #: tformmain.minext.caption
 msgctxt "tformmain.minext.caption"
-msgid "Keyingi"
+msgid "Next"
 msgstr "Keyingi"
 
 #: tformmain.miprevious.caption
 msgctxt "tformmain.miprevious.caption"
-msgid "Oldingi"
+msgid "Previous"
 msgstr "Oldingi"
+
+#: tformmain.miquit.caption
+msgid "Quit"
+msgstr "Chiqish"
 
 #: tformmain.misettings.caption
 msgctxt "tformmain.misettings.caption"
-msgid "Sozlamalar"
+msgid "Settings"
 msgstr "Sozlamalar"
 
 #: tformmain.tsa4f.caption

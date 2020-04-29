@@ -32,13 +32,13 @@ msgstr "Ошибка инициализации звука!"
 msgid "BASS versiyasi notoʼgʼri"
 msgstr "Неверная версия BASS"
 
-#: main.imagehide
-msgctxt "main.imagehide"
-msgid "Tasvirlarni yashirish"
+#: main.hideimage
+msgctxt "main.hideimage"
+msgid "Hide images"
 msgstr "Скрыть изображения"
 
-#: main.imageshow
-msgid "Tasvirlarni koʼrsatish"
+#: main.showimage
+msgid "Show images"
 msgstr "Показать изображения"
 
 #: settings.notranslation
@@ -836,17 +836,17 @@ msgstr ""
 
 #: tformmain.bimage.caption
 msgctxt "tformmain.bimage.caption"
-msgid "Tasvirlarni yashirish"
+msgid "Hide images"
 msgstr "Скрыть изображения"
 
 #: tformmain.bnext.hint
 msgctxt "tformmain.bnext.hint"
-msgid "Keyingi"
+msgid "Next"
 msgstr "Следующий"
 
 #: tformmain.bprevious.hint
 msgctxt "tformmain.bprevious.hint"
-msgid "Oldingi"
+msgid "Previous"
 msgstr "Предыдущий"
 
 #: tformmain.caption
@@ -3595,43 +3595,43 @@ msgstr "Иша – ночной намаз. Время его совершени
 
 #: tformmain.miabout.caption
 msgctxt "tformmain.miabout.caption"
-msgid "Dastur haqida"
+msgid "About"
 msgstr "О программе"
 
 #: tformmain.miedit.caption
-msgid "Tahrirlash"
+msgid "Edit"
 msgstr "Правка"
 
-#: tformmain.miexit.caption
-msgid "Chiqish"
-msgstr "Выход"
-
 #: tformmain.mifile.caption
-msgid "Fayl"
+msgid "File"
 msgstr "Файл"
 
 #: tformmain.mihelp.caption
-msgid "Yordam"
+msgid "Help"
 msgstr "Справка"
 
 #: tformmain.miimage.caption
 msgctxt "tformmain.miimage.caption"
-msgid "Tasvirlarni yashirish"
+msgid "Hide images"
 msgstr "Скрыть изображения"
 
 #: tformmain.minext.caption
 msgctxt "tformmain.minext.caption"
-msgid "Keyingi"
+msgid "Next"
 msgstr "Следующий"
 
 #: tformmain.miprevious.caption
 msgctxt "tformmain.miprevious.caption"
-msgid "Oldingi"
+msgid "Previous"
 msgstr "Предыдущий"
+
+#: tformmain.miquit.caption
+msgid "Quit"
+msgstr "Выход"
 
 #: tformmain.misettings.caption
 msgctxt "tformmain.misettings.caption"
-msgid "Sozlamalar"
+msgid "Settings"
 msgstr "Настройки"
 
 #: tformmain.tsa4f.caption

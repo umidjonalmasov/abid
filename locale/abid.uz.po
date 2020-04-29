@@ -32,13 +32,13 @@ msgstr "Овоз инициализация хатоси!"
 msgid "BASS versiyasi notoʼgʼri"
 msgstr "BASS версияси нотўғри"
 
-#: main.imagehide
-msgctxt "main.imagehide"
-msgid "Tasvirlarni yashirish"
+#: main.hideimage
+msgctxt "main.hideimage"
+msgid "Hide images"
 msgstr "Тасвирларни яшириш"
 
-#: main.imageshow
-msgid "Tasvirlarni koʼrsatish"
+#: main.showimage
+msgid "Show images"
 msgstr "Тасвирларни кўрсатиш"
 
 #: settings.notranslation
@@ -829,17 +829,17 @@ msgstr ""
 
 #: tformmain.bimage.caption
 msgctxt "tformmain.bimage.caption"
-msgid "Tasvirlarni yashirish"
+msgid "Hide images"
 msgstr "Тасвирларни яшириш"
 
 #: tformmain.bnext.hint
 msgctxt "tformmain.bnext.hint"
-msgid "Keyingi"
+msgid "Next"
 msgstr "Кейинги"
 
 #: tformmain.bprevious.hint
 msgctxt "tformmain.bprevious.hint"
-msgid "Oldingi"
+msgid "Previous"
 msgstr "Олдинги"
 
 #: tformmain.caption
@@ -3588,43 +3588,43 @@ msgstr "Хуфтон намозининг вақти – шафақ батамо
 
 #: tformmain.miabout.caption
 msgctxt "tformmain.miabout.caption"
-msgid "Dastur haqida"
+msgid "About"
 msgstr "Дастур ҳақида"
 
 #: tformmain.miedit.caption
-msgid "Tahrirlash"
+msgid "Edit"
 msgstr "Таҳрирлаш"
 
-#: tformmain.miexit.caption
-msgid "Chiqish"
-msgstr "Чиқиш"
-
 #: tformmain.mifile.caption
-msgid "Fayl"
+msgid "File"
 msgstr "Файл"
 
 #: tformmain.mihelp.caption
-msgid "Yordam"
+msgid "Help"
 msgstr "Ёрдам"
 
 #: tformmain.miimage.caption
 msgctxt "tformmain.miimage.caption"
-msgid "Tasvirlarni yashirish"
+msgid "Hide images"
 msgstr "Тасвирларни яшириш"
 
 #: tformmain.minext.caption
 msgctxt "tformmain.minext.caption"
-msgid "Keyingi"
+msgid "Next"
 msgstr "Кейинги"
 
 #: tformmain.miprevious.caption
 msgctxt "tformmain.miprevious.caption"
-msgid "Oldingi"
+msgid "Previous"
 msgstr "Олдинги"
+
+#: tformmain.miquit.caption
+msgid "Quit"
+msgstr "Чиқиш"
 
 #: tformmain.misettings.caption
 msgctxt "tformmain.misettings.caption"
-msgid "Sozlamalar"
+msgid "Settings"
 msgstr "Созламалар"
 
 #: tformmain.tsa4f.caption

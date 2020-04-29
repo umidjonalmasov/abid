@@ -22,13 +22,13 @@ msgstr ""
 msgid "BASS versiyasi notoʼgʼri"
 msgstr ""
 
-#: main.imagehide
-msgctxt "main.imagehide"
-msgid "Tasvirlarni yashirish"
+#: main.hideimage
+msgctxt "main.hideimage"
+msgid "Hide images"
 msgstr ""
 
-#: main.imageshow
-msgid "Tasvirlarni koʼrsatish"
+#: main.showimage
+msgid "Show images"
 msgstr ""
 
 #: settings.notranslation
@@ -640,17 +640,17 @@ msgstr ""
 
 #: tformmain.bimage.caption
 msgctxt "tformmain.bimage.caption"
-msgid "Tasvirlarni yashirish"
+msgid "Hide images"
 msgstr ""
 
 #: tformmain.bnext.hint
 msgctxt "tformmain.bnext.hint"
-msgid "Keyingi"
+msgid "Next"
 msgstr ""
 
 #: tformmain.bprevious.hint
 msgctxt "tformmain.bprevious.hint"
-msgid "Oldingi"
+msgid "Previous"
 msgstr ""
 
 #: tformmain.caption
@@ -3409,47 +3409,46 @@ msgstr ""
 
 #: tformmain.miabout.caption
 msgctxt "tformmain.miabout.caption"
-msgid "Dastur haqida"
+msgid "About"
 msgstr ""
 
 #: tformmain.miedit.caption
 msgctxt "tformmain.miedit.caption"
-msgid "Tahrirlash"
-msgstr ""
-
-#: tformmain.miexit.caption
-msgctxt "tformmain.miexit.caption"
-msgid "Chiqish"
+msgid "Edit"
 msgstr ""
 
 #: tformmain.mifile.caption
 msgctxt "tformmain.mifile.caption"
-msgid "Fayl"
+msgid "File"
 msgstr ""
 
 #: tformmain.mihelp.caption
 msgctxt "tformmain.mihelp.caption"
-msgid "Yordam"
+msgid "Help"
 msgstr ""
 
 #: tformmain.miimage.caption
 msgctxt "tformmain.miimage.caption"
-msgid "Tasvirlarni yashirish"
+msgid "Hide images"
 msgstr ""
 
 #: tformmain.minext.caption
 msgctxt "tformmain.minext.caption"
-msgid "Keyingi"
+msgid "Next"
 msgstr ""
 
 #: tformmain.miprevious.caption
 msgctxt "tformmain.miprevious.caption"
-msgid "Oldingi"
+msgid "Previous"
+msgstr ""
+
+#: tformmain.miquit.caption
+msgid "Quit"
 msgstr ""
 
 #: tformmain.misettings.caption
 msgctxt "tformmain.misettings.caption"
-msgid "Sozlamalar"
+msgid "Settings"
 msgstr ""
 
 #: tformmain.tsa4f.caption
