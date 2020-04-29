@@ -273,9 +273,9 @@ object FormAbout: TFormAbout
         Left = 160
         Height = 17
         Top = 224
-        Width = 264
+        Width = 265
         BorderSpacing.Around = 10
-        Caption = 'A multimedia program teaching prayer'
+        Caption = 'A multimedia program teaching namaz'
         Font.Height = -15
         ParentColor = False
         ParentFont = False
