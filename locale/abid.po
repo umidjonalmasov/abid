@@ -110,14 +110,14 @@ msgstr ""
 
 #: tformdetails.lalapr.caption
 msgctxt "tformdetails.lalapr.caption"
-msgid "Subhaana robbiyal aʼla."
+msgid "Subhanna Rabbiyal A'laa."
 msgstr ""
 
 #: tformdetails.lalatr.caption
 msgctxt "tformdetails.lalatr.caption"
 msgid ""
-"Maʼnosi:\n"
-"Oliy Robbim nuqsonlardan pokdir.\n"
+"Meaning:\n"
+"Glorious is my Lord, the most High.\n"
 msgstr ""
 
 #: tformdetails.lalhamdulillahpr.caption
@@ -130,7 +130,7 @@ msgstr ""
 #: tformdetails.lalhamdulillahtr.caption
 msgctxt "tformdetails.lalhamdulillahtr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Maqtovlar Allohga xosdir.\n"
 msgstr ""
 
@@ -138,26 +138,26 @@ msgstr ""
 msgctxt "tformdetails.lallohuakbarpr.caption"
 msgid ""
 "\n"
-"Allohu akbar (33 marta).\n"
+"Allāhu akbar. (33 marta).\n"
 msgstr ""
 
 #: tformdetails.lallohuakbartr.caption
 msgctxt "tformdetails.lallohuakbartr.caption"
 msgid ""
-"Maʼnosi:\n"
-"Alloh ulugʼdir.\n"
+"Meaning:\n"
+"Allah is the greatest.\n"
 msgstr ""
 
 #: tformdetails.laziympr.caption
 msgctxt "tformdetails.laziympr.caption"
-msgid "Subhaana Robbiyal aziym."
+msgid "Subhanna Rabbiyal Adheem."
 msgstr ""
 
 #: tformdetails.laziymtr.caption
 msgctxt "tformdetails.laziymtr.caption"
 msgid ""
-"Maʼnosi:\n"
-"Ulugʼ Robbim nuqsonlardan pokdir.\n"
+"Meaning:\n"
+"Glorious is my Lord the most great.\n"
 msgstr ""
 
 #: tformdetails.lazonbomdoddesc.caption
@@ -188,7 +188,7 @@ msgstr ""
 #: tformdetails.lazonbomdodtr.caption
 msgctxt "tformdetails.lazonbomdodtr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Alloh ulugʼdir Alloh ulugʼdir\n"
 "Alloh ulugʼdir Alloh ulugʼdir\n"
 "Guvohlik beramanki, Allohdan boshqa iloh yoʼq\n"
@@ -218,7 +218,7 @@ msgstr ""
 #: tformdetails.lazonduotr.caption
 msgctxt "tformdetails.lazonduotr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Ey ushbu mukammal duo va hamda abadiy salavot Parvardigori. Muhammad alayhissalomning martabalarini ulugʼ qilib, neʼmatlaringni unga bisyor qilgaysan, ul zotga Oʼzing vaʼda qilgan makomi mahmudni (jannatdagi oʼrinni) ato etgaysan. Qiyomatda bizga uning shafoatini nasib etgaysan. Sen zinhor vaʼdaga xilof qilmaysan.\n"
 msgstr ""
 
@@ -243,7 +243,7 @@ msgstr ""
 #: tformdetails.lazontr.caption
 msgctxt "tformdetails.lazontr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Alloh ulugʼdir Alloh ulugʼdir\n"
 "Alloh ulugʼdir Alloh ulugʼdir\n"
 "Guvohlik beramanki, Allohdan boshqa iloh yoʼq\n"
@@ -266,7 +266,7 @@ msgstr ""
 #: tformdetails.lbasmalatr.caption
 msgctxt "tformdetails.lbasmalatr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Mehribon va rahmli Alloh nomi bilan (boshlayman).\n"
 msgstr ""
 
@@ -278,7 +278,7 @@ msgstr ""
 #: tformdetails.lduoftr.caption
 msgctxt "tformdetails.lduoftr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Allohim! Sen Salomsan, salomatlik Sendandir. Sen Tabarruksan, ey jalol va ikrom egasi.\n"
 msgstr ""
 
@@ -290,7 +290,7 @@ msgstr ""
 #: tformdetails.lduotr.caption
 msgctxt "tformdetails.lduotr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Allohni poklab zikr etaman, maqtovlar Allohga xosdir. Allohdan oʼzga iloh yoʼqdir. Kuch-qudrat faqat ulugʼlik va azamat sohibi Allohga xosdir.\n"
 msgstr ""
 
@@ -308,7 +308,7 @@ msgstr ""
 #: tformdetails.lfalaqtr.caption
 msgctxt "tformdetails.lfalaqtr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "«Tong Robbisidan panoh soʼrayman.\n"
 "U yaratgan narsalar yomonligidan.\n"
 "Va kirib kelgan qorongʼu kechaning yomonligidan.\n"
@@ -332,7 +332,7 @@ msgstr ""
 #: tformdetails.lfotihatr.caption
 msgctxt "tformdetails.lfotihatr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Hamd olamlarning Robbi – Allohgadir.\n"
 "U Rohman va Rohiymdir.\n"
 "Jazo-mukofot kunining egasidir.\n"
@@ -344,14 +344,14 @@ msgstr ""
 
 #: tformdetails.lhamdpr.caption
 msgctxt "tformdetails.lhamdpr.caption"
-msgid "Robbanaa, lakal hamd."
+msgid "Rabana Walakal Hamd."
 msgstr ""
 
 #: tformdetails.lhamdtr.caption
 msgctxt "tformdetails.lhamdtr.caption"
 msgid ""
-"Maʼnosi:\n"
-"Robbimiz, Senga hamd boʼlsin.\n"
+"Meaning:\n"
+"Our Lord, all praise is for you.\n"
 msgstr ""
 
 #: tformdetails.liqomatdesc.caption
@@ -381,7 +381,7 @@ msgstr ""
 #: tformdetails.liqomattr.caption
 msgctxt "tformdetails.liqomattr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Alloh ulugʼdir Alloh ulugʼdir\n"
 "Alloh ulugʼdir Alloh ulugʼdir\n"
 "Guvohlik beramanki, Allohdan boshqa iloh yoʼq\n"
@@ -410,7 +410,7 @@ msgstr ""
 #: tformdetails.lixlostr.caption
 msgctxt "tformdetails.lixlostr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Ayt: «U Alloh yagonadir.\n"
 "Alloh – somaddir.\n"
 "U tugʼmagan va tugʼilmagan\n"
@@ -429,7 +429,7 @@ msgstr ""
 #: tformdetails.lkavsartr.caption
 msgctxt "tformdetails.lkavsartr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Albatta, Biz senga Kavsarni berdik.\n"
 "Bas, Robbingga namoz oʼqi va jonliq soʼy.\n"
 "Albatta, seni yomon koʼrib ayblovchining oʼzining orqasi kesik.\n"
@@ -453,7 +453,7 @@ msgstr ""
 #: tformdetails.lkursitr.caption
 msgctxt "tformdetails.lkursitr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Alloh – Undan oʼzga iloh yoʼq. U Hayy va Qayyumdir.\n"
 "Uni mudroq ham, uyqu ham olmas.\n"
 "Osmonlaru erdagi narsalar Unikidir.\n"
@@ -480,7 +480,7 @@ msgstr ""
 #: tformdetails.lnastr.caption
 msgctxt "tformdetails.lnastr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Ayt: «Odamlar Robbisidan panoh soʼrayman.\n"
 "Odamlar Podshohidan.\n"
 "Odamlar Ilohidan.\n"
@@ -504,7 +504,7 @@ msgstr ""
 #: tformdetails.lqunuttr.caption
 msgctxt "tformdetails.lqunuttr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Allohim! Albatta, Sendan yordam soʼraymiz, Sendan hidoyat soʼraymiz,\n"
 "Senga istigʼfor aytamiz va Senga tavba qilamiz.\n"
 "Senga iymon keltiramiz va Senga tavakkal qilamiz.\n"
@@ -524,31 +524,31 @@ msgstr ""
 #: tformdetails.lrobbanatr.caption
 msgctxt "tformdetails.lrobbanatr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Robbimiz! Bizlarga dunyoda ham, oxiratda ham yaxshilik ber va doʼzax azobidan asra.\n"
 msgstr ""
 
 #: tformdetails.lsalavotpr.caption
 msgctxt "tformdetails.lsalavotpr.caption"
-msgid "Allohumma solli ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama sollayta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid. Allohumma barik ʼalaa Muhammadiv va ʼalaa ali Muhammad. Kama barokta ʼalaa Ibrohima va ʼalaa ali Ibrohim. Innaka hamidum majid."
+msgid "Allaahumma salli ‘ala Muhammad, wa ‘ala aali Muhammad, kama sallayta ‘ala Ibraaheem, wa ‘ala aali Ibraaheem, fil aalameen innak hameedun majeed, wa baarik ‘ala Muhammad, wa ‘ala aali Muhammad, kama baarakta ‘ala Ibraaheem, wa ‘ala aali Ibraaheem, fil aalameen innak hameedun majeed."
 msgstr ""
 
 #: tformdetails.lsalavottr.caption
 msgctxt "tformdetails.lsalavottr.caption"
 msgid ""
-"Maʼnosi:\n"
-"Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz rahmatingni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼzingning ziyoda rahmatlaringni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan! Allohim! Ibrohimga va Ibrohimning ahli baytlariga Oʼz barakangni nozil qilganingdek, Muhammadga va Muhammadning oila aʼzolariga Oʼz barakangni nozil qilgin! Albatta, Sen maqtalgan, ulugʼlangan Zotsan!\n"
+"Meaning:\n"
+"O Allaah, send prayers upon Muhammad and upon the family of Muhammad, as You sent prayers upon Ibraaheem and the family of Ibraaheem, You are indeed Worthy of Praise, Full of Glory. O Allaah, bless Muhammad and the family of Muhammad as You blessed Ibraaheem and the family of Ibraaheem, You are indeed Worthy of Praise, Full of Glory.\n"
 msgstr ""
 
 #: tformdetails.lsalompr.caption
 msgctxt "tformdetails.lsalompr.caption"
-msgid "Assalamu ʼalaykum va rohmatulloh."
+msgid "As-salamu alaykum wa Rahmatullah."
 msgstr ""
 
 #: tformdetails.lsalomtr.caption
 msgctxt "tformdetails.lsalomtr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Sizga tinchlik-omonlik, Allohning rahmati boʼlsin.\n"
 msgstr ""
 
@@ -560,7 +560,7 @@ msgstr ""
 #: tformdetails.lsanotr.caption
 msgctxt "tformdetails.lsanotr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.\n"
 msgstr ""
 
@@ -574,7 +574,7 @@ msgstr ""
 #: tformdetails.lsubhanallohtr.caption
 msgctxt "tformdetails.lsubhanallohtr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Allohni poklab zikr etaman.\n"
 msgstr ""
 
@@ -586,44 +586,44 @@ msgstr ""
 #: tformdetails.ltaavvuztr.caption
 msgctxt "tformdetails.ltaavvuztr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Quvilgan shayton yomonligidan Allohning panohini soʼrayman.\n"
 msgstr ""
 
 #: tformdetails.ltakbirpr.caption
 msgctxt "tformdetails.ltakbirpr.caption"
-msgid "Allohu akbar."
+msgid "Allāhu akbar."
 msgstr ""
 
 #: tformdetails.ltakbirtr.caption
 msgctxt "tformdetails.ltakbirtr.caption"
 msgid ""
-"Maʼnosi:\n"
-"Alloh buyukdir.\n"
+"Meaning:\n"
+"Allah is the greatest.\n"
 msgstr ""
 
 #: tformdetails.ltashahhudpr.caption
 msgctxt "tformdetails.ltashahhudpr.caption"
-msgid "Attahiyyatu lillahi vassolavatu vat­toy­yibat. Assalamu ʼalayka ayyuhan-nabiyyu va rohmatullohi vabarokatuh. Assalamu ʼalayna va aʼlaa ibaadillaahis solihiyn. Ashhadu allaa ilaaha illallohu va ashhadu anna Muhammadan ʼabduhu va rosuluh."
+msgid "At-tahiyyaatu Lillaahi was-salaawaatu wat-tayyibaat. As-salaamu ‘alayka ayyuhan-Nabiyyu wa rahmatullaahi wa barakaatuhu. As-salaamu ‘alayna wa ‘ala ‘ibaad-illaah-his-saaliheen. Ash-hadu al-aa ilaaha ill-Allaah wa ash-hadu anna Muhammadan ‘abduhu wa rasooluhu."
 msgstr ""
 
 #: tformdetails.ltashahhudtr.caption
 msgctxt "tformdetails.ltashahhudtr.caption"
 msgid ""
-"Maʼnosi:\n"
-"Barokatli tabriklar va pokiza salavotlar Alloh uchundir. Ey Nabiy! Senga salom, Allohning rahmati va barakasi boʼlsin. Bizlarga va Allohning solih bandalariga salom boʼlsin. Allohdan oʼzga iloh yoʼq deb guvohlik beraman va albatta, Muhammad – Allohning Rasuli deb guvohlik beraman.\n"
+"Meaning:\n"
+"All compliments, prayers and pure words are due to Allaah. Peace be upon you, O Prophet, and the mercy of Allaah and His blessings. Peace be upon us and upon the righteous slaves of Allaah. I bear witness that there is no god except Allaah and I bear witness that Muhammad is His slave and Messenger.\n"
 msgstr ""
 
 #: tformdetails.ltasmepr.caption
 msgctxt "tformdetails.ltasmepr.caption"
-msgid "Samiʼallohu liman hamidah."
+msgid "Samiallah Huliman Hamidah."
 msgstr ""
 
 #: tformdetails.ltasmetr.caption
 msgctxt "tformdetails.ltasmetr.caption"
 msgid ""
-"Maʼnosi:\n"
-"Kim hamd aytsa, Alloh uni eshitadi.\n"
+"Meaning:\n"
+"Allah hears those who praise Him.\n"
 msgstr ""
 
 #: tformdetails.ltavhidpr.caption
@@ -634,7 +634,7 @@ msgstr ""
 #: tformdetails.ltavhidtr.caption
 msgctxt "tformdetails.ltavhidtr.caption"
 msgid ""
-"Maʼnosi:\n"
+"Meaning:\n"
 "Allohdan oʼzga iloh yoʼq. U yagonadir, sherigi yoʼq, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.\n"
 msgstr ""
 
