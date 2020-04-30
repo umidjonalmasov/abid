@@ -27,10 +27,10 @@ uses
   StdCtrls, IniPropStorage, BASS;
 
 resourcestring
-  VersionError = 'BASS versiyasi notoʼgʼri';
-  SoundError = 'Ovoz initsializatsiya xatosi!';
-  ErrorCode = '(Xato kodi: ';
-  NoSound = 'Dastur oʼz ishini ovozsiz davom etadi.';
+  VersionInvalid = 'BASS version invalid';
+  SoundError = 'Sound initialization error!';
+  ErrorCode = '(Error code: ';
+  NoSound = 'The program will continue without sound.';
 
 type
 
@@ -230,7 +230,7 @@ begin
   if (HIWORD(BASS_GetVersion) <> BASSVERSION) then
     begin
      if (i <> false) then
-      ShowMessage(VersionError + sLineBreak + NoSound);
+      ShowMessage(VersionInvalid + sLineBreak + NoSound);
      bPlay.Enabled:=false;
      i:=false;
     end

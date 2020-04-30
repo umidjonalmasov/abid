@@ -671,8 +671,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 302
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lIqomatDesc: TLabel
           Left = 10
