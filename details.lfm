@@ -666,22 +666,22 @@ object FormDetails: TFormDetails
         Left = 0
         Height = 493
         Top = 0
-        Width = 786
+        Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 302
         Align = alClient
-        ClientHeight = 489
-        ClientWidth = 782
+        ClientHeight = 491
+        ClientWidth = 903
         TabOrder = 0
         object lIqomatDesc: TLabel
           Left = 10
           Height = 48
           Top = 10
-          Width = 764
+          Width = 883
           Align = alTop
           BorderSpacing.Around = 10
-          Caption = 'The Iqama is the Islamic second call to namaz, which signals that it''s time for the prayer to start. It''s recited by a caller, usually the Mu''adhdhin in a mosque, after the first call to prayer, which is called the also Adhan. If you want to recite the Iqama, it''s best to memorize it so you can say it alone or repeat it after a caller. '
+          Caption = 'The Iqama is the Islamic second call to namaz, which signals that it''s time for the prayer to start. It''s recited by a caller, usually the Mu''adhdhin in a mosque, after the first call to prayer, which is called the also Adhan. If you want to recite the Iqama, it''s best to memorize it so you can say it alone or repeat it after a caller.'
           ParentColor = False
           WordWrap = True
         end
@@ -1744,8 +1744,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 270
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object pSubhanalloh: TPanel
           Left = 0
@@ -1754,8 +1754,8 @@ object FormDetails: TFormDetails
           Width = 903
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 903
+          ClientHeight = 46
+          ClientWidth = 899
           ParentColor = False
           TabOrder = 0
           object lSubhanallohAr: TLabel
@@ -1799,8 +1799,8 @@ object FormDetails: TFormDetails
           Width = 903
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 903
+          ClientHeight = 46
+          ClientWidth = 899
           ParentColor = False
           TabOrder = 1
           object lAlhamdulillahAr: TLabel
@@ -1844,8 +1844,8 @@ object FormDetails: TFormDetails
           Width = 903
           Align = alTop
           BevelOuter = bvNone
-          ClientHeight = 50
-          ClientWidth = 903
+          ClientHeight = 46
+          ClientWidth = 899
           ParentColor = False
           TabOrder = 2
           object lAllohuAkbarAr: TLabel
