@@ -27,7 +27,7 @@ uses
   StdCtrls, IniPropStorage, BASS;
 
 resourcestring
-  VersionInvalid = 'BASS version invalid';
+  VersionInvalid = 'BASS version is invalid';
   SoundError = 'Sound initialization error!';
   ErrorCode = '(Error code: ';
   NoSound = 'The program will continue without sound.';
