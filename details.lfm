@@ -1,7 +1,7 @@
 object FormDetails: TFormDetails
-  Left = 395
+  Left = 447
   Height = 537
-  Top = 136
+  Top = 143
   Width = 915
   AutoSize = True
   ClientHeight = 537
@@ -556,8 +556,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 270
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lAzonDesc: TLabel
           Left = 10
@@ -619,8 +619,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 152
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lAzonDuoAr: TLabel
           Left = 10
@@ -671,8 +671,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 302
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lIqomatDesc: TLabel
           Left = 10
@@ -734,8 +734,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lTakbirAr: TLabel
           Left = 10
@@ -788,8 +788,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lSanoAr: TLabel
           Left = 10
@@ -842,8 +842,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lTaavvuzAr: TLabel
           Left = 10
@@ -896,8 +896,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lBasmalaAr: TLabel
           Left = 10
@@ -950,8 +950,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 148
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lFotihaAr: TLabel
           Left = 10
@@ -1002,8 +1002,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 84
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lKavsarAr: TLabel
           Left = 10
@@ -1054,8 +1054,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 100
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lIxlosAr: TLabel
           Left = 10
@@ -1106,8 +1106,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 116
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 784
+        ClientHeight = 489
+        ClientWidth = 782
         TabOrder = 0
         object lFalaqAr: TLabel
           Left = 10
@@ -1158,8 +1158,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 132
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lNasAr: TLabel
           Left = 10
@@ -1210,8 +1210,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lAziymAr: TLabel
           Left = 10
@@ -1264,8 +1264,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lTasmeAr: TLabel
           Left = 10
@@ -1318,8 +1318,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lHamdAr: TLabel
           Left = 10
@@ -1372,8 +1372,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lAlaAr: TLabel
           Left = 10
@@ -1426,8 +1426,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 168
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lTashahhudAr: TLabel
           Left = 10
@@ -1478,8 +1478,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 184
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lSalavotAr: TLabel
           Left = 10
@@ -1530,8 +1530,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lRobbanaAr: TLabel
           Left = 10
@@ -1584,8 +1584,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lSalomAr: TLabel
           Left = 10
@@ -1638,8 +1638,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 376
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lQunutAr: TLabel
           Left = 10
@@ -1690,8 +1690,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lDuoFAr: TLabel
           Left = 10
@@ -1818,15 +1818,15 @@ object FormDetails: TFormDetails
             Left = 71
             Height = 50
             Top = 0
-            Width = 153
+            Width = 150
             Align = alLeft
             BorderSpacing.Left = 10
             BorderSpacing.Right = 10
-            Caption = #10' Alhamdulillah (33 times).'
+            Caption = #10'Alhamdulillah (33 times).'
             ParentColor = False
           end
           object lAlhamdulillahTr: TLabel
-            Left = 234
+            Left = 231
             Height = 50
             Top = 0
             Width = 148
@@ -1933,8 +1933,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 180
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lKursiAr: TLabel
           Left = 10
@@ -1985,8 +1985,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 104
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lDuoAr: TLabel
           Left = 10
