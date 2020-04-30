@@ -1933,8 +1933,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 180
         Align = alClient
-        ClientHeight = 489
-        ClientWidth = 901
+        ClientHeight = 491
+        ClientWidth = 903
         TabOrder = 0
         object lKursiAr: TLabel
           Left = 10
@@ -1955,7 +1955,7 @@ object FormDetails: TFormDetails
           Width = 471
           Align = alLeft
           BorderSpacing.Around = 10
-          Caption = 'Meaning:'#10'Allah! There is no god but He - the Living, the Self-subsisting, Eternal.'#10'No slumber can seize Him nor Sleep.'#10'His are all things in the heavens and on earth.'#10'Who is there can intercede in His presence except as he permitteth?'#10'He knowes what (appeares to His creatures As) Before or After or Behind them.'#10'Nor shall they compass aught of His knowledge except as He willeth.'#10'His throne doth extend over the heavens and on earth,'#10'and He feeleth no fatigue in guarding and preserving them,'#10'For He is the Most High, the Supreme (in glory).'
+          Caption = 'Meaning:'#10'Allah! There is no god but He - the Living, the Self-subsisting, Eternal.'#10'No slumber can seize Him nor Sleep.'#10'His are all things in the heavens and on earth.'#10'Who is there can intercede in His presence except as he permittes?'#10'He knowes what (appeares to His creatures As) Before or After or Behind them.'#10'Nor shall they compass aught of His knowledge except as He willes.'#10'His throne does extend over the heavens and on earth,'#10'and He feeles no fatigue in guarding and preserving them,'#10'For He is the Most High, the Supreme (in glory).'
           ParentColor = False
           WordWrap = True
         end
