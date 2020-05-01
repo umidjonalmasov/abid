@@ -721,7 +721,7 @@ type
     lBasmala4P4F: TLabel;
     lBasmala4P4S: TLabel;
     lBasmala4X4F: TLabel;
-    lBomdod: TLabel;
+    lFajr: TLabel;
     lDuoA4F: TLabel;
     lDuoB2F: TLabel;
     lDuoFA4F: TLabel;
@@ -842,7 +842,7 @@ type
     lNiyatV3V: TLabel;
     lNiyatX2S: TLabel;
     lNiyatX4F: TLabel;
-    lPeshin: TLabel;
+    lZuhr: TLabel;
     lQunut: TLabel;
     lRobbanaA4F: TLabel;
     lRobbanaB2F: TLabel;
@@ -888,7 +888,7 @@ type
     lSanoV3V: TLabel;
     lSanoX2S: TLabel;
     lSanoX4F: TLabel;
-    lShom: TLabel;
+    lMaghrib: TLabel;
     lTaavvuzA4F: TLabel;
     lTaavvuzB2F: TLabel;
     lTaavvuzB2S: TLabel;
@@ -1132,7 +1132,7 @@ type
     lTasme4P4F: TLabel;
     lTasme4P4S: TLabel;
     lTasme4X4F: TLabel;
-    lXufton: TLabel;
+    lIsha: TLabel;
     MainMenu: TMainMenu;
     miAbout: TMenuItem;
     miEdit: TMenuItem;
@@ -1287,19 +1287,19 @@ type
     pcAsr: TPageControl;
     pcB2F: TPageControl;
     pcB2S: TPageControl;
-    pcBomdod: TPageControl;
+    pcFajr: TPageControl;
     pcMain: TPageControl;
     pcP2S: TPageControl;
     pcP4F: TPageControl;
     pcP4S: TPageControl;
-    pcPeshin: TPageControl;
+    pcZuhr: TPageControl;
     pcSh2S: TPageControl;
     pcSh3F: TPageControl;
-    pcShom: TPageControl;
+    pcMaghrib: TPageControl;
     pcV3V: TPageControl;
     pcX2S: TPageControl;
     pcX4F: TPageControl;
-    pcXufton: TPageControl;
+    pcIsha: TPageControl;
     pDuoA4F: TPanel;
     pDuoB2F: TPanel;
     pDuoFA4F: TPanel;
@@ -1712,7 +1712,7 @@ type
     pTasme4X4F: TPanel;
     sAsr: TSplitter;
     sbAsr: TScrollBox;
-    sbBomdod: TScrollBox;
+    sbFajr: TScrollBox;
     sbDuoA4F: TScrollBox;
     sbDuoB2F: TScrollBox;
     sbDuoP2S: TScrollBox;
@@ -1764,8 +1764,8 @@ type
     sbKirishV3V: TScrollBox;
     sbKirishX2S: TScrollBox;
     sbKirishX4F: TScrollBox;
-    sBomdod: TSplitter;
-    sbPeshin: TScrollBox;
+    sFajr: TSplitter;
+    sbZuhr: TScrollBox;
     sbQada1A4F: TScrollBox;
     sbQada1P4F: TScrollBox;
     sbQada1P4S: TScrollBox;
@@ -1954,16 +1954,16 @@ type
     sbSalomV3V: TScrollBox;
     sbSalomX2S: TScrollBox;
     sbSalomX4F: TScrollBox;
-    sbShom: TScrollBox;
-    sbXufton: TScrollBox;
-    sPeshin: TSplitter;
-    sShom: TSplitter;
-    sXufton: TSplitter;
+    sbMaghrib: TScrollBox;
+    sbIsha: TScrollBox;
+    sZuhr: TSplitter;
+    sMaghrib: TSplitter;
+    sIsha: TSplitter;
     tsA4F: TTabSheet;
     tsAsr: TTabSheet;
     tsB2F: TTabSheet;
     tsB2S: TTabSheet;
-    tsBomdod: TTabSheet;
+    tsFajr: TTabSheet;
     tsDuoA4F: TTabSheet;
     tsDuoB2F: TTabSheet;
     tsDuoP2S: TTabSheet;
@@ -2018,7 +2018,7 @@ type
     tsP2S: TTabSheet;
     tsP4F: TTabSheet;
     tsP4S: TTabSheet;
-    tsPeshin: TTabSheet;
+    tsZuhr: TTabSheet;
     tsQada1A4F: TTabSheet;
     tsQada1P4F: TTabSheet;
     tsQada1P4S: TTabSheet;
@@ -2209,11 +2209,11 @@ type
     tsSalomX4F: TTabSheet;
     tsSh2S: TTabSheet;
     tsSh3F: TTabSheet;
-    tsShom: TTabSheet;
+    tsMaghrib: TTabSheet;
     tsV3V: TTabSheet;
     tsX2S: TTabSheet;
     tsX4F: TTabSheet;
-    tsXufton: TTabSheet;
+    tsIsha: TTabSheet;
     procedure FormActivate(Sender: TObject);
     procedure FormClose(Sender: TObject);
     procedure FormCreate(Sender: TObject);
@@ -2357,7 +2357,7 @@ end;
 procedure TFormMain.miNextClick(Sender: TObject);
 begin
   case pcMain.ActivePageIndex of
-  0: case pcBomdod.ActivePageIndex of
+  0: case pcFajr.ActivePageIndex of
      0: case pcB2S.ActivePageIndex of
         0: pcB2S.ActivePageIndex:=1;
         1: pcB2S.ActivePageIndex:=2;
@@ -2392,7 +2392,7 @@ begin
         14: pcB2F.ActivePageIndex:=15;
         end;
      end;
-  1: case pcPeshin.ActivePageIndex of
+  1: case pcZuhr.ActivePageIndex of
      0: case pcP4S.ActivePageIndex of
         0: pcP4S.ActivePageIndex:=1;
         1: pcP4S.ActivePageIndex:=2;
@@ -2500,7 +2500,7 @@ begin
         26: pcA4F.ActivePageIndex:=27;
         27: pcA4F.ActivePageIndex:=28;
         end;
-  3: case pcShom.ActivePageIndex of
+  3: case pcMaghrib.ActivePageIndex of
      0: case pcSh3F.ActivePageIndex of
         0: pcSh3F.ActivePageIndex:=1;
         1: pcSh3F.ActivePageIndex:=2;
@@ -2543,7 +2543,7 @@ begin
         14: pcSh2S.ActivePageIndex:=15;
         end;
      end;
-  4: case pcXufton.ActivePageIndex of
+  4: case pcIsha.ActivePageIndex of
      0: case pcX4F.ActivePageIndex of
         0: pcX4F.ActivePageIndex:=1;
         1: pcX4F.ActivePageIndex:=2;
@@ -2622,7 +2622,7 @@ end;
 procedure TFormMain.miPreviousClick(Sender: TObject);
 begin
    case pcMain.ActivePageIndex of
-  0: case pcBomdod.ActivePageIndex of
+  0: case pcFajr.ActivePageIndex of
      0: case pcB2S.ActivePageIndex of
         1: pcB2S.ActivePageIndex:=0;
         2: pcB2S.ActivePageIndex:=1;
@@ -2657,7 +2657,7 @@ begin
         15: pcB2F.ActivePageIndex:=14;
         end;
      end;
-  1: case pcPeshin.ActivePageIndex of
+  1: case pcZuhr.ActivePageIndex of
      0: case pcP4S.ActivePageIndex of
         1: pcP4S.ActivePageIndex:=0;
         2: pcP4S.ActivePageIndex:=1;
@@ -2765,7 +2765,7 @@ begin
         27: pcA4F.ActivePageIndex:=26;
         28: pcA4F.ActivePageIndex:=27;
         end;
-  3: case pcShom.ActivePageIndex of
+  3: case pcMaghrib.ActivePageIndex of
      0: case pcSh3F.ActivePageIndex of
         1: pcSh3F.ActivePageIndex:=0;
         2: pcSh3F.ActivePageIndex:=1;
@@ -2808,7 +2808,7 @@ begin
         15: pcSh2S.ActivePageIndex:=14;
         end;
      end;
-  4: case pcXufton.ActivePageIndex of
+  4: case pcIsha.ActivePageIndex of
      0: case pcX4F.ActivePageIndex of
         1: pcX4F.ActivePageIndex:=0;
         2: pcX4F.ActivePageIndex:=1;
@@ -3005,7 +3005,7 @@ end;
 procedure TFormMain.ProcImagesLoad(Sender: TObject);
 begin
   case pcMain.ActivePageIndex of
-  0: case pcBomdod.ActivePageIndex of
+  0: case pcFajr.ActivePageIndex of
      0: case pcB2S.ActivePage.Caption of
         'Kirish':
           begin
@@ -3124,7 +3124,7 @@ begin
           end;
         end;
      end;
-  1: case pcPeshin.ActivePageIndex of
+  1: case pcZuhr.ActivePageIndex of
      0: case pcP4S.ActivePage.Caption of
         'Kirish':
           begin
@@ -3382,7 +3382,7 @@ begin
             bPrevious.Enabled:=true;
           end;
         end;
-  3: case pcShom.ActivePageIndex of
+  3: case pcMaghrib.ActivePageIndex of
      0: case pcSh3F.ActivePage.Caption of
         'Kirish':
           begin
@@ -3516,7 +3516,7 @@ begin
           end;
         end;
      end;
-  4: case pcXufton.ActivePageIndex of
+  4: case pcIsha.ActivePageIndex of
      0: case pcX4F.ActivePage.Caption of
         'Kirish':
           begin
@@ -3799,19 +3799,19 @@ begin
       pcAsr.TabIndex:=0;
       pcB2F.TabIndex:=0;
       pcB2S.TabIndex:=0;
-      pcBomdod.TabIndex:=0;
+      pcFajr.TabIndex:=0;
       pcMain.TabIndex:=0;
       pcP2S.TabIndex:=0;
       pcP4F.TabIndex:=0;
       pcP4S.TabIndex:=0;
-      pcPeshin.TabIndex:=0;
+      pcZuhr.TabIndex:=0;
       pcSh2S.TabIndex:=0;
       pcSh3F.TabIndex:=0;
-      pcShom.TabIndex:=0;
+      pcMaghrib.TabIndex:=0;
       pcV3V.TabIndex:=0;
       pcX2S.TabIndex:=0;
       pcX4F.TabIndex:=0;
-      pcXufton.TabIndex:=0;
+      pcIsha.TabIndex:=0;
     end;
 end;
 
