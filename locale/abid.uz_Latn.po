@@ -152,42 +152,6 @@ msgstr ""
 "Maʼnosi:\n"
 "Oliy Robbim nuqsonlardan pokdir.\n"
 
-#: tformdetails.lalhamdulillahpr.caption
-msgctxt "tformdetails.lalhamdulillahpr.caption"
-msgid ""
-"\n"
-"Alhamdulillah (33 times).\n"
-msgstr ""
-"\n"
-"Alhamdulillah (33 marta).\n"
-
-#: tformdetails.lalhamdulillahtr.caption
-msgctxt "tformdetails.lalhamdulillahtr.caption"
-msgid ""
-"Meaning:\n"
-"All praise is due to Allah.\n"
-msgstr ""
-"Maʼnosi:\n"
-"Maqtovlar Allohga xosdir.\n"
-
-#: tformdetails.lallohuakbarpr.caption
-msgctxt "tformdetails.lallohuakbarpr.caption"
-msgid ""
-"\n"
-"Allāhu akbar. (33 times).\n"
-msgstr ""
-"\n"
-"Allohu akbar (33 marta).\n"
-
-#: tformdetails.lallohuakbartr.caption
-msgctxt "tformdetails.lallohuakbartr.caption"
-msgid ""
-"Meaning:\n"
-"Allah is the greatest.\n"
-msgstr ""
-"Maʼnosi:\n"
-"Alloh ulugʼdir.\n"
-
 #: tformdetails.laziympr.caption
 msgctxt "tformdetails.laziympr.caption"
 msgid "Subhanna Rabbiyal Adheem."
@@ -804,24 +768,6 @@ msgstr ""
 "Maʼnosi:\n"
 "Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.\n"
 
-#: tformdetails.lsubhanallohpr.caption
-msgctxt "tformdetails.lsubhanallohpr.caption"
-msgid ""
-"\n"
-"Subhanallah (33 times).\n"
-msgstr ""
-"\n"
-"Subhanalloh (33 marta).\n"
-
-#: tformdetails.lsubhanallohtr.caption
-msgctxt "tformdetails.lsubhanallohtr.caption"
-msgid ""
-"Meaning:\n"
-"Allah is perfect.\n"
-msgstr ""
-"Maʼnosi:\n"
-"Allohni poklab zikr etaman.\n"
-
 #: tformdetails.ltaavvuzpr.caption
 msgctxt "tformdetails.ltaavvuzpr.caption"
 msgid "Aʼuzu billahi minash shaytonir rojiym."
@@ -836,10 +782,51 @@ msgstr ""
 "Maʼnosi:\n"
 "Quvilgan shayton yomonligidan Allohning panohini soʼrayman.\n"
 
+#: tformdetails.ltahlilpr.caption
+msgctxt "tformdetails.ltahlilpr.caption"
+msgid "La ilaha illallahu wahdahu la sharika lahu lahul mulku wa lahul hamdu wa huwa ala kulli shay in qadeer."
+msgstr "Laa ilaaha illallohu vahdahu laa sharika lahu, lahul mulku valahul hamdu va huva ʼalaa kulli shayʼin qodir."
+
+#: tformdetails.ltahliltr.caption
+msgctxt "tformdetails.ltahliltr.caption"
+msgid ""
+"Meaning:\n"
+"There is no god but Allah, the One, having no partner with Him. Sovereignty belongs to Him and all the praise is due to Him, and He is Potent over everything.\n"
+msgstr ""
+"Maʼnosi:\n"
+"Allohdan oʼzga iloh yoʼq. U yagonadir, sherigi yoʼq, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.\n"
+
+#: tformdetails.ltahmidpr.caption
+msgctxt "tformdetails.ltahmidpr.caption"
+msgid ""
+"\n"
+"Alhamdulillah (33 times).\n"
+msgstr ""
+"\n"
+"Alhamdulillah (33 marta).\n"
+
+#: tformdetails.ltahmidtr.caption
+msgctxt "tformdetails.ltahmidtr.caption"
+msgid ""
+"Meaning:\n"
+"All praise is due to Allah.\n"
+msgstr ""
+"Maʼnosi:\n"
+"Maqtovlar Allohga xosdir.\n"
+
 #: tformdetails.ltakbirpr.caption
 msgctxt "tformdetails.ltakbirpr.caption"
 msgid "Allāhu akbar."
 msgstr "Allohu akbar."
+
+#: tformdetails.ltakbirtpr.caption
+msgctxt "tformdetails.ltakbirtpr.caption"
+msgid ""
+"\n"
+"Allāhu akbar. (33 times).\n"
+msgstr ""
+"\n"
+"Allohu akbar (33 marta).\n"
 
 #: tformdetails.ltakbirtr.caption
 msgctxt "tformdetails.ltakbirtr.caption"
@@ -849,6 +836,33 @@ msgid ""
 msgstr ""
 "Maʼnosi:\n"
 "Alloh buyukdir.\n"
+
+#: tformdetails.ltakbirttr.caption
+msgctxt "tformdetails.ltakbirttr.caption"
+msgid ""
+"Meaning:\n"
+"Allah is the greatest.\n"
+msgstr ""
+"Maʼnosi:\n"
+"Alloh ulugʼdir.\n"
+
+#: tformdetails.ltasbehpr.caption
+msgctxt "tformdetails.ltasbehpr.caption"
+msgid ""
+"\n"
+"Subhanallah (33 times).\n"
+msgstr ""
+"\n"
+"Subhanalloh (33 marta).\n"
+
+#: tformdetails.ltasbehtr.caption
+msgctxt "tformdetails.ltasbehtr.caption"
+msgid ""
+"Meaning:\n"
+"Allah is perfect.\n"
+msgstr ""
+"Maʼnosi:\n"
+"Allohni poklab zikr etaman.\n"
 
 #: tformdetails.ltashahhudpr.caption
 msgctxt "tformdetails.ltashahhudpr.caption"
@@ -877,20 +891,6 @@ msgid ""
 msgstr ""
 "Maʼnosi:\n"
 "Kim hamd aytsa, Alloh uni eshitadi.\n"
-
-#: tformdetails.ltavhidpr.caption
-msgctxt "tformdetails.ltavhidpr.caption"
-msgid "La ilaha illallahu wahdahu la sharika lahu lahul mulku wa lahul hamdu wa huwa ala kulli shay in qadeer."
-msgstr "Laa ilaaha illallohu vahdahu laa sharika lahu, lahul mulku valahul hamdu va huva ʼalaa kulli shayʼin qodir."
-
-#: tformdetails.ltavhidtr.caption
-msgctxt "tformdetails.ltavhidtr.caption"
-msgid ""
-"Meaning:\n"
-"There is no god but Allah, the One, having no partner with Him. Sovereignty belongs to Him and all the praise is due to Him, and He is Potent over everything.\n"
-msgstr ""
-"Maʼnosi:\n"
-"Allohdan oʼzga iloh yoʼq. U yagonadir, sherigi yoʼq, butun mulk Unikidir. Hamd-maqtov Unga xosdir. Va U har narsaga qodir zotdir.\n"
 
 #: tformmain.bimage.caption
 msgctxt "tformmain.bimage.caption"

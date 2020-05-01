@@ -142,34 +142,6 @@ msgid ""
 "Glorious is my Lord, the most High.\n"
 msgstr ""
 
-#: tformdetails.lalhamdulillahpr.caption
-msgctxt "tformdetails.lalhamdulillahpr.caption"
-msgid ""
-"\n"
-"Alhamdulillah (33 times).\n"
-msgstr ""
-
-#: tformdetails.lalhamdulillahtr.caption
-msgctxt "tformdetails.lalhamdulillahtr.caption"
-msgid ""
-"Meaning:\n"
-"All praise is due to Allah.\n"
-msgstr ""
-
-#: tformdetails.lallohuakbarpr.caption
-msgctxt "tformdetails.lallohuakbarpr.caption"
-msgid ""
-"\n"
-"Allāhu akbar. (33 times).\n"
-msgstr ""
-
-#: tformdetails.lallohuakbartr.caption
-msgctxt "tformdetails.lallohuakbartr.caption"
-msgid ""
-"Meaning:\n"
-"Allah is the greatest.\n"
-msgstr ""
-
 #: tformdetails.laziympr.caption
 msgctxt "tformdetails.laziympr.caption"
 msgid "Subhanna Rabbiyal Adheem."
@@ -585,20 +557,6 @@ msgid ""
 "Allohim! Seni poklab hamding bilan yod etaman. Sening noming tabarrukdir, kibriyoing ulugʼdir, Sendan oʼzga iloh yoʼqdir.\n"
 msgstr ""
 
-#: tformdetails.lsubhanallohpr.caption
-msgctxt "tformdetails.lsubhanallohpr.caption"
-msgid ""
-"\n"
-"Subhanallah (33 times).\n"
-msgstr ""
-
-#: tformdetails.lsubhanallohtr.caption
-msgctxt "tformdetails.lsubhanallohtr.caption"
-msgid ""
-"Meaning:\n"
-"Allah is perfect.\n"
-msgstr ""
-
 #: tformdetails.ltaavvuzpr.caption
 msgctxt "tformdetails.ltaavvuzpr.caption"
 msgid "Aʼuzu billahi minash shaytonir rojiym."
@@ -611,9 +569,42 @@ msgid ""
 "Quvilgan shayton yomonligidan Allohning panohini soʼrayman.\n"
 msgstr ""
 
+#: tformdetails.ltahlilpr.caption
+msgctxt "tformdetails.ltahlilpr.caption"
+msgid "La ilaha illallahu wahdahu la sharika lahu lahul mulku wa lahul hamdu wa huwa ala kulli shay in qadeer."
+msgstr ""
+
+#: tformdetails.ltahliltr.caption
+msgctxt "tformdetails.ltahliltr.caption"
+msgid ""
+"Meaning:\n"
+"There is no god but Allah, the One, having no partner with Him. Sovereignty belongs to Him and all the praise is due to Him, and He is Potent over everything.\n"
+msgstr ""
+
+#: tformdetails.ltahmidpr.caption
+msgctxt "tformdetails.ltahmidpr.caption"
+msgid ""
+"\n"
+"Alhamdulillah (33 times).\n"
+msgstr ""
+
+#: tformdetails.ltahmidtr.caption
+msgctxt "tformdetails.ltahmidtr.caption"
+msgid ""
+"Meaning:\n"
+"All praise is due to Allah.\n"
+msgstr ""
+
 #: tformdetails.ltakbirpr.caption
 msgctxt "tformdetails.ltakbirpr.caption"
 msgid "Allāhu akbar."
+msgstr ""
+
+#: tformdetails.ltakbirtpr.caption
+msgctxt "tformdetails.ltakbirtpr.caption"
+msgid ""
+"\n"
+"Allāhu akbar. (33 times).\n"
 msgstr ""
 
 #: tformdetails.ltakbirtr.caption
@@ -621,6 +612,27 @@ msgctxt "tformdetails.ltakbirtr.caption"
 msgid ""
 "Meaning:\n"
 "Allah is the greatest.\n"
+msgstr ""
+
+#: tformdetails.ltakbirttr.caption
+msgctxt "tformdetails.ltakbirttr.caption"
+msgid ""
+"Meaning:\n"
+"Allah is the greatest.\n"
+msgstr ""
+
+#: tformdetails.ltasbehpr.caption
+msgctxt "tformdetails.ltasbehpr.caption"
+msgid ""
+"\n"
+"Subhanallah (33 times).\n"
+msgstr ""
+
+#: tformdetails.ltasbehtr.caption
+msgctxt "tformdetails.ltasbehtr.caption"
+msgid ""
+"Meaning:\n"
+"Allah is perfect.\n"
 msgstr ""
 
 #: tformdetails.ltashahhudpr.caption
@@ -645,18 +657,6 @@ msgctxt "tformdetails.ltasmetr.caption"
 msgid ""
 "Meaning:\n"
 "Allah hears those who praise Him.\n"
-msgstr ""
-
-#: tformdetails.ltavhidpr.caption
-msgctxt "tformdetails.ltavhidpr.caption"
-msgid "La ilaha illallahu wahdahu la sharika lahu lahul mulku wa lahul hamdu wa huwa ala kulli shay in qadeer."
-msgstr ""
-
-#: tformdetails.ltavhidtr.caption
-msgctxt "tformdetails.ltavhidtr.caption"
-msgid ""
-"Meaning:\n"
-"There is no god but Allah, the One, having no partner with Him. Sovereignty belongs to Him and all the praise is due to Him, and He is Potent over everything.\n"
 msgstr ""
 
 #: tformmain.bimage.caption

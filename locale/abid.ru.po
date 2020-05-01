@@ -143,39 +143,6 @@ msgstr ""
 "Значение:\n"
 "Мой Всевышний Господь не имеет недостатков.\n"
 
-#: tformdetails.lalhamdulillahpr.caption
-msgid ""
-"\n"
-"Alhamdulillah (33 times).\n"
-msgstr ""
-"\n"
-"Альхамдулиллях (33 раза).\n"
-
-#: tformdetails.lalhamdulillahtr.caption
-msgid ""
-"Meaning:\n"
-"All praise is due to Allah.\n"
-msgstr ""
-"Значение:\n"
-"Хвала Аллаху.\n"
-
-#: tformdetails.lallohuakbarpr.caption
-msgid ""
-"\n"
-"Allāhu akbar. (33 times).\n"
-msgstr ""
-"\n"
-"Аллаху акбар (33 раза).\n"
-
-#: tformdetails.lallohuakbartr.caption
-msgctxt "tformdetails.lallohuakbartr.caption"
-msgid ""
-"Meaning:\n"
-"Allah is the greatest.\n"
-msgstr ""
-"Значение:\n"
-"Аллах велик.\n"
-
 #: tformdetails.laziympr.caption
 msgid "Subhanna Rabbiyal Adheem."
 msgstr "Субхаана Роббияль азым."
@@ -765,22 +732,6 @@ msgstr ""
 "Значение:\n"
 "Слава Тебе, о Аллах, и хвала Тебе, благословенно имя Твое, превыше всего величие Твое, и нет никого достойного поклонения, кроме Тебя.\n"
 
-#: tformdetails.lsubhanallohpr.caption
-msgid ""
-"\n"
-"Subhanallah (33 times).\n"
-msgstr ""
-"\n"
-"Субханаллах (33 раза).\n"
-
-#: tformdetails.lsubhanallohtr.caption
-msgid ""
-"Meaning:\n"
-"Allah is perfect.\n"
-msgstr ""
-"Значение:\n"
-"Пречист Аллах.\n"
-
 #: tformdetails.ltaavvuzpr.caption
 msgid "Aʼuzu billahi minash shaytonir rojiym."
 msgstr "А'узу билляхи минаш-шайтанир-раджим."
@@ -793,9 +744,50 @@ msgstr ""
 "Значение:\n"
 "Прибегаю к защите Аллаха от побиваемого камнями шайтана.\n"
 
+#: tformdetails.ltahlilpr.caption
+msgctxt "tformdetails.ltahlilpr.caption"
+msgid "La ilaha illallahu wahdahu la sharika lahu lahul mulku wa lahul hamdu wa huwa ala kulli shay in qadeer."
+msgstr "Ла илаха иллаллаху вахдаху ла шарика лаху, лаху л-мулку ва Лаху л-хамду ва хува 'ала кули шай'ин кадир."
+
+#: tformdetails.ltahliltr.caption
+msgctxt "tformdetails.ltahliltr.caption"
+msgid ""
+"Meaning:\n"
+"There is no god but Allah, the One, having no partner with Him. Sovereignty belongs to Him and all the praise is due to Him, and He is Potent over everything.\n"
+msgstr ""
+"Значение:\n"
+"Нет никого и ничего достойного поклонения, кроме Единственного Аллаха, нет у Него сотоварища! Ему принадлежит вся власть и хвала, и Он над всякой вещью мощен.\n"
+
+#: tformdetails.ltahmidpr.caption
+msgctxt "tformdetails.ltahmidpr.caption"
+msgid ""
+"\n"
+"Alhamdulillah (33 times).\n"
+msgstr ""
+"\n"
+"Альхамдулиллях (33 раза).\n"
+
+#: tformdetails.ltahmidtr.caption
+msgctxt "tformdetails.ltahmidtr.caption"
+msgid ""
+"Meaning:\n"
+"All praise is due to Allah.\n"
+msgstr ""
+"Значение:\n"
+"Хвала Аллаху.\n"
+
 #: tformdetails.ltakbirpr.caption
 msgid "Allāhu akbar."
 msgstr "Аллаху акбар."
+
+#: tformdetails.ltakbirtpr.caption
+msgctxt "tformdetails.ltakbirtpr.caption"
+msgid ""
+"\n"
+"Allāhu akbar. (33 times).\n"
+msgstr ""
+"\n"
+"Аллаху акбар (33 раза).\n"
 
 #: tformdetails.ltakbirtr.caption
 msgctxt "tformdetails.ltakbirtr.caption"
@@ -805,6 +797,33 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Аллах велик.\n"
+
+#: tformdetails.ltakbirttr.caption
+msgctxt "tformdetails.ltakbirttr.caption"
+msgid ""
+"Meaning:\n"
+"Allah is the greatest.\n"
+msgstr ""
+"Значение:\n"
+"Аллах велик.\n"
+
+#: tformdetails.ltasbehpr.caption
+msgctxt "tformdetails.ltasbehpr.caption"
+msgid ""
+"\n"
+"Subhanallah (33 times).\n"
+msgstr ""
+"\n"
+"Субханаллах (33 раза).\n"
+
+#: tformdetails.ltasbehtr.caption
+msgctxt "tformdetails.ltasbehtr.caption"
+msgid ""
+"Meaning:\n"
+"Allah is perfect.\n"
+msgstr ""
+"Значение:\n"
+"Пречист Аллах.\n"
 
 #: tformdetails.ltashahhudpr.caption
 msgid "At-tahiyyaatu Lillaahi was-salaawaatu wat-tayyibaat. As-salaamu ‘alayka ayyuhan-Nabiyyu wa rahmatullaahi wa barakaatuhu. As-salaamu ‘alayna wa ‘ala ‘ibaad-illaah-his-saaliheen. Ash-hadu al-aa ilaaha ill-Allaah wa ash-hadu anna Muhammadan ‘abduhu wa rasooluhu."
@@ -832,18 +851,6 @@ msgid ""
 msgstr ""
 "Значение:\n"
 "Аллах слышит того, кто Его восхваляет.\n"
-
-#: tformdetails.ltavhidpr.caption
-msgid "La ilaha illallahu wahdahu la sharika lahu lahul mulku wa lahul hamdu wa huwa ala kulli shay in qadeer."
-msgstr "Ла илаха иллаллаху вахдаху ла шарика лаху, лаху л-мулку ва Лаху л-хамду ва хува 'ала кули шай'ин кадир."
-
-#: tformdetails.ltavhidtr.caption
-msgid ""
-"Meaning:\n"
-"There is no god but Allah, the One, having no partner with Him. Sovereignty belongs to Him and all the praise is due to Him, and He is Potent over everything.\n"
-msgstr ""
-"Значение:\n"
-"Нет никого и ничего достойного поклонения, кроме Единственного Аллаха, нет у Него сотоварища! Ему принадлежит вся власть и хвала, и Он над всякой вещью мощен.\n"
 
 #: tformmain.bimage.caption
 msgctxt "tformmain.bimage.caption"
