@@ -249,11 +249,11 @@ object FormAbout: TFormAbout
         }
       end
       object lName: TLabel
-        Left = 256
+        Left = 272
         Height = 37
-        Top = 168
-        Width = 118
-        Caption = 'Abid 4.3'
+        Top = 160
+        Width = 67
+        Caption = 'Abid'
         Font.Height = -32
         ParentColor = False
         ParentFont = False
@@ -272,7 +272,7 @@ object FormAbout: TFormAbout
       object lDescription: TLabel
         Left = 160
         Height = 17
-        Top = 224
+        Top = 232
         Width = 265
         BorderSpacing.Around = 10
         Caption = 'A multimedia program teaching namaz'
@@ -309,10 +309,20 @@ object FormAbout: TFormAbout
       object lDedication: TLabel
         Left = 288
         Height = 42
-        Top = 256
+        Top = 264
         Width = 193
         Caption = 'I dedicate this program '#10'and retribution for it to my late father '#10'Almasov Jafar (04.07.1942-02.09.2017)'
         Font.Height = -11
+        ParentColor = False
+        ParentFont = False
+      end
+      object lVersion: TLabel
+        Left = 288
+        Height = 28
+        Top = 200
+        Width = 34
+        Caption = '4.4'
+        Font.Height = -24
         ParentColor = False
         ParentFont = False
       end

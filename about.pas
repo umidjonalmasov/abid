@@ -37,6 +37,7 @@ type
     iLazarus: TImage;
     iLogo: TImage;
     iMint: TImage;
+    lVersion: TLabel;
     lAcknowledgements: TLabel;
     lAzanKz: TLabel;
     lAzanKzWeb: TLabel;
