@@ -2279,6 +2279,12 @@ begin
   IniPropStorage.IniFileName:=GetAppConfigDir(false)+'abid.ini';
 end;
 
+procedure TFormMain.FormActivate(Sender: TObject);
+begin
+  FormMain.ProcImagesLoad(self);
+  FormSettings.cbLanguageChange(self);
+end;
+
 procedure TFormMain.ProcRobbana(Sender: TObject);
 begin
   FormDetails.PageControl.ActivePage:=FormDetails.tsRobbana;
@@ -2325,12 +2331,6 @@ procedure TFormMain.ProcTashahhud(Sender: TObject);
 begin
   FormDetails.PageControl.ActivePage:=FormDetails.tsTashahhud;
   FormDetails.ShowModal;
-end;
-
-procedure TFormMain.FormActivate(Sender: TObject);
-begin
-  FormMain.ProcImagesLoad(self);
-  FormSettings.cbLanguageChange(self);
 end;
 
 procedure TFormMain.miQuitClick(Sender: TObject);
