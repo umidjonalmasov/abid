@@ -84,7 +84,7 @@ msgstr ""
 #: tformabout.ldescription.caption
 msgctxt "tformabout.ldescription.caption"
 msgid "A multimedia program teaching namaz"
-msgstr "Namoz oʼqishni oʼrgatuvchi multimedia dasturi"
+msgstr "Namozni oʼrgatuvchi multimedia dasturi"
 
 #: tformabout.lhadis.caption
 msgctxt "tformabout.lhadis.caption"
