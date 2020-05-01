@@ -1,7 +1,7 @@
 object FormDetails: TFormDetails
-  Left = 447
+  Left = 451
   Height = 537
-  Top = 143
+  Top = 141
   Width = 915
   AutoSize = True
   ClientHeight = 537
@@ -1747,7 +1747,7 @@ object FormDetails: TFormDetails
         ClientHeight = 489
         ClientWidth = 901
         TabOrder = 0
-        object pSubhanalloh: TPanel
+        object pTasbeh: TPanel
           Left = 0
           Height = 50
           Top = 0
@@ -1758,7 +1758,7 @@ object FormDetails: TFormDetails
           ClientWidth = 899
           ParentColor = False
           TabOrder = 0
-          object lSubhanallohAr: TLabel
+          object lTasbehAr: TLabel
             Left = 10
             Height = 50
             Top = 0
@@ -1769,7 +1769,7 @@ object FormDetails: TFormDetails
             Caption = #10'سُبْحَانَ اللهِ'
             ParentColor = False
           end
-          object lSubhanallohPr: TLabel
+          object lTasbehPr: TLabel
             Left = 81
             Height = 50
             Top = 0
@@ -1780,7 +1780,7 @@ object FormDetails: TFormDetails
             Caption = #10'Subhanallah (33 times).'
             ParentColor = False
           end
-          object lSubhanallohTr: TLabel
+          object lTasbehTr: TLabel
             Left = 232
             Height = 50
             Top = 0
@@ -1792,7 +1792,7 @@ object FormDetails: TFormDetails
             ParentColor = False
           end
         end
-        object pAlhamdulillah: TPanel
+        object pTahmid: TPanel
           Left = 0
           Height = 50
           Top = 50
@@ -1803,7 +1803,7 @@ object FormDetails: TFormDetails
           ClientWidth = 899
           ParentColor = False
           TabOrder = 1
-          object lAlhamdulillahAr: TLabel
+          object lTahmidAr: TLabel
             Left = 10
             Height = 50
             Top = 0
@@ -1814,7 +1814,7 @@ object FormDetails: TFormDetails
             Caption = #10'اَلْحَمْدُ لِلهِ'
             ParentColor = False
           end
-          object lAlhamdulillahPr: TLabel
+          object lTahmidPr: TLabel
             Left = 71
             Height = 50
             Top = 0
@@ -1825,7 +1825,7 @@ object FormDetails: TFormDetails
             Caption = #10'Alhamdulillah (33 times).'
             ParentColor = False
           end
-          object lAlhamdulillahTr: TLabel
+          object lTahmidTr: TLabel
             Left = 231
             Height = 50
             Top = 0
@@ -1837,7 +1837,7 @@ object FormDetails: TFormDetails
             ParentColor = False
           end
         end
-        object pAllohuAkbar: TPanel
+        object pTakbirT: TPanel
           Left = 0
           Height = 50
           Top = 100
@@ -1848,7 +1848,7 @@ object FormDetails: TFormDetails
           ClientWidth = 899
           ParentColor = False
           TabOrder = 2
-          object lAllohuAkbarAr: TLabel
+          object lTakbirTAr: TLabel
             Left = 10
             Height = 50
             Top = 0
@@ -1859,7 +1859,7 @@ object FormDetails: TFormDetails
             Caption = #10'اَللَّهُ اَكْبَرُ'
             ParentColor = False
           end
-          object lAllohuAkbarPr: TLabel
+          object lTakbirTPr: TLabel
             Left = 64
             Height = 50
             Top = 0
@@ -1870,7 +1870,7 @@ object FormDetails: TFormDetails
             Caption = #10'Allāhu akbar. (33 times).'
             ParentColor = False
           end
-          object lAllohuAkbarTr: TLabel
+          object lTakbirTTr: TLabel
             Left = 218
             Height = 50
             Top = 0
@@ -1882,7 +1882,7 @@ object FormDetails: TFormDetails
             ParentColor = False
           end
         end
-        object lTavhidAr: TLabel
+        object lTahlilAr: TLabel
           Left = 10
           Height = 16
           Top = 160
@@ -1894,7 +1894,7 @@ object FormDetails: TFormDetails
           ParentColor = False
           WordWrap = True
         end
-        object lTavhidPr: TLabel
+        object lTahlilPr: TLabel
           Left = 10
           Height = 16
           Top = 186
@@ -1906,7 +1906,7 @@ object FormDetails: TFormDetails
           ParentColor = False
           WordWrap = True
         end
-        object lTavhidTr: TLabel
+        object lTahlilTr: TLabel
           Left = 10
           Height = 48
           Top = 212
@@ -1933,8 +1933,8 @@ object FormDetails: TFormDetails
         HorzScrollBar.Visible = False
         VertScrollBar.Page = 180
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lKursiAr: TLabel
           Left = 10
