@@ -1186,7 +1186,7 @@ msgid "Sajdada uch marta «Subhana Robbiyal ʼala» deyiladi."
 msgstr "В земном поклоне (саджда) три раза произносится «Субхана Роббияль а'ля»."
 
 #: tformmain.lasr.caption
-msgid "Asr namozining vaqti – har bir narsaning soyasi quyosh tikkaga kelgan paytdagi soyasidan tashqari oʼziga nisbatan ikki baravar ortganidan boshlab quyosh botgunchadir. Asr namozini quyosh tigʼini oʼzgartirmay, nursiz holatga kirishidan oldinroq oʼqish mustahabdir."
+msgid "The Asr prayer starts when the shadow of an object is the same length as the object itself (or, according to Hanafi school, twice its length) plus the shadow length at zuhr, and lasts till sunset. Asr can be split into two sections, the preferred time is before the sun starts to turn orange, while the time of necessity is from when the sun turns orange until sunset."
 msgstr "Аср – послеобеденный намаз. Время его совершения начинается сразу после окончания времени намаза зухр и продолжается до захода солнца за горизонт. Лучше всего этот намаз выполнять не сразу, а чуть попозже, но и не следует откладывать до того момента, пока солнце станет красноватого или рыжего цвета и глаза смогут безболезненно смотреть на него. Совершение намаза аср после этого момента (обычно солнце становится таким за 20-30 минут до заката) будет грехом, однако намаз совершить нужно все равно."
 
 #: tformmain.laziym1a4f.caption
@@ -1560,7 +1560,7 @@ msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
 #: tformmain.lbomdod.caption
-msgid "Bomdod namozining vaqti – subhi sodiqdan (chin tong otgandan) kun chiqqunchadir. Bomdod namozini tong yorishganda oʼqish mustahab, aʼloroqdir. Soat boʼyicha hisoblansa, bomdodni kun chiqishidan 40 daqiqacha ilgari oʼqish mustahab vaqtiga muvofiq boʼladi."
+msgid "The Fajr begins at subh saadiq (true dawn or the beginning of twilight), when the morning light appears across the full width of the sky and ends at sunrise."
 msgstr "Фаджр – утренний намаз. Время его совершения начинается с наступлением рассвета (при первых признаках белизны, появившейся вдоль горизонта) и заканчивается за несколько мгновений до восхода солнца. Наилучшее время совершения утреннего намаза: ближе к концу его времени, когда становятся видны контуры предметов. Смысл выбора такого времени в том, чтобы собрать как можно больше людей для совершения коллективного намаза в мечети. Однако не следует чрезмерно его откладывать, чтобы не выйти за пределы установленного временного промежутка."
 
 #: tformmain.lduoa4f.caption
@@ -2155,7 +2155,7 @@ msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, 
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза иша искренне ради Аллаха»."
 
 #: tformmain.lpeshin.caption
-msgid "Peshin namozining vaqti – quyosh zavolga (ogʼishga) ketganidan soʼng to narsalarning soyasi quyosh tikkaga kelgan paytdagi soyasidan tashqari oʼz uzunligiga nisbatan ikki baravar ortguniga qadar. Peshin namozini yoz faslida biroz kechiktirib, qish faslida esa vaqti kirishi bilan oʼqish mustahabdir."
+msgid "The time interval for offering the Zuhr or Dhuhr prayer starts after the sun passes its zenith and lasts until 20 min (approx) before the call for the Asr prayer is to be given. There is thus a long period of time within which this prayer can be offered, but people usually make their prayer within two hours after the Adhan has been announced from Mosque. This prayer needs to be given in the middle of the work-day, and people normally make their prayers during their lunch break."
 msgstr "Зухр – обеденный намаз. Время его выполнения начинается при отклонении солнца от зенита и заканчивается тогда, когда тень какого-либо предмета становится в два раза больше его длины (помимо длины тени, который предмет отбрасывает во время зенита). С этого времени наступает период совершения намаза аср. Оптимальное время совершения намаза зухр зависит от времени года. Зимой (а также весной и осенью) лучше всего совершать его ближе к началу его времени. Летом же желательно отложить его совершение на более позднее время: в самом начале его времени обычно дневная жара достигает своего пика. Мусульманам будет легче собраться в мечети для совершения намаза зухр коллективно, когда жара начнет немного спадать."
 
 #: tformmain.lqunut.caption
@@ -2383,7 +2383,7 @@ msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakall
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
 
 #: tformmain.lshom.caption
-msgid "Shom namozining vaqti – kun botgan paytdan boshlab kunbotar tomonda shafaq (qizgʼish nurlar) gʼoyib boʼlgunchadir. Shom namozini doimo quyosh botishi bilan oʼqish mustahabdir."
+msgid "The Maghrib prayer begins when the sun sets, and lasts until the red light has left the sky in the west. It usually lasts for about 18 to 20 minutes from the start of Maghrib Time."
 msgstr "Магриб – вечерний намаз. Время его совершения начинается сразу после заката и заканчивается после исчезновения вечерней зари (красного зарева на горизонте). Оптимальное время выполнения вечернего намаза – сразу, как только возникнет уверенность в наступлении его периода (то есть как только не останется сомнений, что солнце зашло за горизонт). Желательно читать вечерний намаз сразу после азана, не совершая между азаном и икаматом никаких дополнительных намазов. Совершать магриб ближе к концу его периода – нежелательно (макрух танзихан)."
 
 #: tformmain.ltaavvuza4f.caption
@@ -3601,7 +3601,7 @@ msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
 #: tformmain.lxufton.caption
-msgid "Xufton namozining vaqti – shafaq batamom yoʼqolgandan keyin kiradi. Vitr namozi vaqti esa xufton oʼqilgandan keyingina kiradi. Xufton va vitr namozlarini subhi sodiqqacha oʼqisa boʼladi. Xufton namozini kechaning uchdan birining oxirida oʼqish afzal va nihoyatda aʼlo boʼladi. Vitr namozini esa tun oxirida uygʼonishga qodir boʼlgan kishilar subh oldidan oʼqisalar, mustahab amal qilgan boʼlishadi."
+msgid "The Isha prayer starts when the red light is gone from the western sky, and lasts until the rise of the \"white light\" (fajr sadiq) in the east. The preferred time for Isha is before midnight, meaning halfway between sunset and sunrise."
 msgstr "Иша – ночной намаз. Время его совершения начинается по окончании периода намаза магриб и продолжается до времени наступления утреннего намаза (фаджр). Наилучшее время выполнения ночного намаза – конец первой трети ночи."
 
 #: tformmain.miabout.caption
