@@ -2281,8 +2281,8 @@ end;
 
 procedure TFormMain.FormActivate(Sender: TObject);
 begin
-  FormMain.ProcImagesLoad(self);
-  FormSettings.cbLanguageChange(self);
+  FormMain.ProcImagesLoad(nil);
+  FormSettings.cbLanguageChange(nil);
 end;
 
 procedure TFormMain.ProcRobbana(Sender: TObject);
@@ -2616,7 +2616,7 @@ begin
         end;
      end;
   end;
-  ProcImagesLoad(self);
+  ProcImagesLoad(nil);
 end;
 
 procedure TFormMain.miPreviousClick(Sender: TObject);
@@ -2881,7 +2881,7 @@ begin
         end;
      end;
   end;
-  ProcImagesLoad(self);
+  ProcImagesLoad(nil);
 end;
 
 procedure TFormMain.ProcDuo(Sender: TObject);

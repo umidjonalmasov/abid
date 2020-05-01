@@ -78,7 +78,7 @@ begin
        FormMain.pcMain.Font.Assign(FontDialog.Font);
        FormDetails.PageControl.Font.Assign(FontDialog.Font);
      end;
-  OKButtonClick(self);
+  OKButtonClick(nil);
 end;
 
 procedure TFormSettings.CancelButtonClick(Sender: TObject);
@@ -202,13 +202,13 @@ begin
         end;
      end;
  end;
-  OKButtonClick(self);
+  OKButtonClick(nil);
 end;
 
 procedure TFormSettings.FormActivate(Sender: TObject);
 begin
-  OKButtonClick(self);
-  cbLanguageChange(self);
+  OKButtonClick(nil);
+  cbLanguageChange(nil);
 end;
 
 procedure TFormSettings.FormClose(Sender: TObject);
@@ -225,7 +225,7 @@ procedure TFormSettings.HelpButtonClick(Sender: TObject);
 begin
   rbStart.Checked:=true;
   cbLanguage.ItemIndex:=0;
-  cbLanguageChange(self);
+  cbLanguageChange(nil);
   FormMain.pcMain.Font.SetDefault;
   FormDetails.PageControl.Font.SetDefault;
 end;
