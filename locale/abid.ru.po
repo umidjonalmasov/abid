@@ -92,8 +92,8 @@ msgstr ""
 
 #: tformabout.lname.caption
 msgctxt "tformabout.lname.caption"
-msgid "Abid 4.3"
-msgstr "Абид 4.3"
+msgid "Abid"
+msgstr "Абид"
 
 #: tformabout.lquron.caption
 msgid ""
@@ -3774,4 +3774,3 @@ msgstr "перейти в начало"
 msgctxt "tformsettings.sbfont.caption"
 msgid "Change font"
 msgstr "Изменить шрифт"
-

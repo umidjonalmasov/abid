@@ -92,7 +92,7 @@ msgstr ""
 
 #: tformabout.lname.caption
 msgctxt "tformabout.lname.caption"
-msgid "Abid 4.3"
+msgid "Abid"
 msgstr ""
 
 #: tformabout.lquron.caption

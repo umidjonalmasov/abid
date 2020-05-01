@@ -97,8 +97,8 @@ msgstr ""
 
 #: tformabout.lname.caption
 msgctxt "tformabout.lname.caption"
-msgid "Abid 4.3"
-msgstr "Abid 4.3"
+msgid "Abid"
+msgstr "Abid"
 
 #: tformabout.lquron.caption
 msgctxt "tformabout.lquron.caption"
@@ -3834,4 +3834,3 @@ msgstr "boshga oʼtish"
 msgctxt "tformsettings.sbfont.caption"
 msgid "Change font"
 msgstr "Shriftni oʼzgartirish"
-
