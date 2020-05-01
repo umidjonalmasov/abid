@@ -30,8 +30,8 @@
         <Item11 Value="tformabout.lmint.caption"/>
         <Item12 Value="tformabout.lmintweb.caption"/>
         <Item13 Value="tformdetails.lalaar.caption"/>
-        <Item14 Value="tformdetails.lalhamdulillahar.caption"/>
-        <Item15 Value="tformdetails.lallohuakbarar.caption"/>
+        <Item14 Value="tformdetails.ltahmidar.caption"/>
+        <Item15 Value="tformdetails.ltakbirtar.caption"/>
         <Item16 Value="tformdetails.laziymar.caption"/>
         <Item17 Value="tformdetails.lazonar.caption"/>
         <Item18 Value="tformdetails.lazonbomdodar.caption"/>
@@ -52,12 +52,12 @@
         <Item33 Value="tformdetails.lsalavotar.caption"/>
         <Item34 Value="tformdetails.lsalomar.caption"/>
         <Item35 Value="tformdetails.lsanoar.caption"/>
-        <Item36 Value="tformdetails.lsubhanallohar.caption"/>
+        <Item36 Value="tformdetails.ltasbehar.caption"/>
         <Item37 Value="tformdetails.ltaavvuzar.caption"/>
         <Item38 Value="tformdetails.ltakbirar.caption"/>
         <Item39 Value="tformdetails.ltashahhudar.caption"/>
         <Item40 Value="tformdetails.ltasmear.caption"/>
-        <Item41 Value="tformdetails.ltavhidar.caption"/>
+        <Item41 Value="tformdetails.ltahlilar.caption"/>
         <Item42 Value="tformdetails.tsala.caption"/>
         <Item43 Value="tformdetails.tsaziym.caption"/>
         <Item44 Value="tformdetails.tsazon.caption"/>
