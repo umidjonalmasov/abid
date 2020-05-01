@@ -1559,10 +1559,6 @@ msgctxt "tformmain.lbasmala4x4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Читается басмала («Бисмиллях...»)."
 
-#: tformmain.lbomdod.caption
-msgid "The Fajr begins at subh saadiq (true dawn or the beginning of twilight), when the morning light appears across the full width of the sky and ends at sunrise."
-msgstr "Фаджр – утренний намаз. Время его совершения начинается с наступлением рассвета (при первых признаках белизны, появившейся вдоль горизонта) и заканчивается за несколько мгновений до восхода солнца. Наилучшее время совершения утреннего намаза: ближе к концу его времени, когда становятся видны контуры предметов. Смысл выбора такого времени в том, чтобы собрать как можно больше людей для совершения коллективного намаза в мечети. Однако не следует чрезмерно его откладывать, чтобы не выйти за пределы установленного временного промежутка."
-
 #: tformmain.lduoa4f.caption
 msgctxt "tformmain.lduoa4f.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
@@ -1612,6 +1608,11 @@ msgstr "По завершении намаза читается дуа."
 msgctxt "tformmain.lduov3v.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
 msgstr "По завершении намаза читается дуа."
+
+#: tformmain.lfajr.caption
+msgctxt "tformmain.lfajr.caption"
+msgid "The Fajr begins at subh saadiq (true dawn or the beginning of twilight), when the morning light appears across the full width of the sky and ends at sunrise."
+msgstr "Фаджр – утренний намаз. Время его совершения начинается с наступлением рассвета (при первых признаках белизны, появившейся вдоль горизонта) и заканчивается за несколько мгновений до восхода солнца. Наилучшее время совершения утреннего намаза: ближе к концу его времени, когда становятся видны контуры предметов. Смысл выбора такого времени в том, чтобы собрать как можно больше людей для совершения коллективного намаза в мечети. Однако не следует чрезмерно его откладывать, чтобы не выйти за пределы установленного временного промежутка."
 
 #: tformmain.lfalaqb2f.caption
 msgctxt "tformmain.lfalaqb2f.caption"
@@ -1988,6 +1989,11 @@ msgctxt "tformmain.liqomatx4f.caption"
 msgid "Iqomat oʼqiladi."
 msgstr "Читается икамат."
 
+#: tformmain.lisha.caption
+msgctxt "tformmain.lisha.caption"
+msgid "The Isha prayer starts when the red light is gone from the western sky, and lasts until the rise of the \"white light\" (fajr sadiq) in the east. The preferred time for Isha is before midnight, meaning halfway between sunset and sunrise."
+msgstr "Иша – ночной намаз. Время его совершения начинается по окончании периода намаза магриб и продолжается до времени наступления утреннего намаза (фаджр). Наилучшее время выполнения ночного намаза – конец первой трети ночи."
+
 #: tformmain.lixlosa4f.caption
 msgctxt "tformmain.lixlosa4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
@@ -2078,6 +2084,11 @@ msgctxt "tformmain.lkursiv3v.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) oʼqish ham savobli."
 msgstr "Чтение после намаза Аят-уль-Курси также воздается."
 
+#: tformmain.lmaghrib.caption
+msgctxt "tformmain.lmaghrib.caption"
+msgid "The Maghrib prayer begins when the sun sets, and lasts until the red light has left the sky in the west. It usually lasts for about 18 to 20 minutes from the start of Maghrib Time."
+msgstr "Магриб – вечерний намаз. Время его совершения начинается сразу после заката и заканчивается после исчезновения вечерней зари (красного зарева на горизонте). Оптимальное время выполнения вечернего намаза – сразу, как только возникнет уверенность в наступлении его периода (то есть как только не останется сомнений, что солнце зашло за горизонт). Желательно читать вечерний намаз сразу после азана, не совершая между азаном и икаматом никаких дополнительных намазов. Совершать магриб ближе к концу его периода – нежелательно (макрух танзихан)."
+
 #: tformmain.lnasb2f.caption
 msgctxt "tformmain.lnasb2f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
@@ -2153,10 +2164,6 @@ msgstr "Направляясь лицом в сторону Каабы прои�
 #: tformmain.lniyatx4f.caption
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun xufton namozining toʼrt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Направляясь лицом в сторону Каабы произносится намерение (ният) следующего содержания: «Намереваюсь совершить четыре ракаата фард-намаза иша искренне ради Аллаха»."
-
-#: tformmain.lpeshin.caption
-msgid "The time interval for offering the Zuhr or Dhuhr prayer starts after the sun passes its zenith and lasts until 20 min (approx) before the call for the Asr prayer is to be given. There is thus a long period of time within which this prayer can be offered, but people usually make their prayer within two hours after the Adhan has been announced from Mosque. This prayer needs to be given in the middle of the work-day, and people normally make their prayers during their lunch break."
-msgstr "Зухр – обеденный намаз. Время его выполнения начинается при отклонении солнца от зенита и заканчивается тогда, когда тень какого-либо предмета становится в два раза больше его длины (помимо длины тени, который предмет отбрасывает во время зенита). С этого времени наступает период совершения намаза аср. Оптимальное время совершения намаза зухр зависит от времени года. Зимой (а также весной и осенью) лучше всего совершать его ближе к началу его времени. Летом же желательно отложить его совершение на более позднее время: в самом начале его времени обычно дневная жара достигает своего пика. Мусульманам будет легче собраться в мечети для совершения намаза зухр коллективно, когда жара начнет немного спадать."
 
 #: tformmain.lqunut.caption
 msgid "Qunut duosi oʼqiladi."
@@ -2381,10 +2388,6 @@ msgstr "Сложив руки на уровне пупка читается ду
 msgctxt "tformmain.lsanox4f.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Сложив руки на уровне пупка читается дуа сана («Субханака...»). Женщины складывают руки на уровне груди."
-
-#: tformmain.lshom.caption
-msgid "The Maghrib prayer begins when the sun sets, and lasts until the red light has left the sky in the west. It usually lasts for about 18 to 20 minutes from the start of Maghrib Time."
-msgstr "Магриб – вечерний намаз. Время его совершения начинается сразу после заката и заканчивается после исчезновения вечерней зари (красного зарева на горизонте). Оптимальное время выполнения вечернего намаза – сразу, как только возникнет уверенность в наступлении его периода (то есть как только не останется сомнений, что солнце зашло за горизонт). Желательно читать вечерний намаз сразу после азана, не совершая между азаном и икаматом никаких дополнительных намазов. Совершать магриб ближе к концу его периода – нежелательно (макрух танзихан)."
 
 #: tformmain.ltaavvuza4f.caption
 msgctxt "tformmain.ltaavvuza4f.caption"
@@ -3600,9 +3603,10 @@ msgctxt "tformmain.ltasme4x4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Начиная выпрямляться произносится «Сами'аллаху лиман хамидах»."
 
-#: tformmain.lxufton.caption
-msgid "The Isha prayer starts when the red light is gone from the western sky, and lasts until the rise of the \"white light\" (fajr sadiq) in the east. The preferred time for Isha is before midnight, meaning halfway between sunset and sunrise."
-msgstr "Иша – ночной намаз. Время его совершения начинается по окончании периода намаза магриб и продолжается до времени наступления утреннего намаза (фаджр). Наилучшее время выполнения ночного намаза – конец первой трети ночи."
+#: tformmain.lzuhr.caption
+msgctxt "tformmain.lzuhr.caption"
+msgid "The time interval for offering the Zuhr or Dhuhr prayer starts after the sun passes its zenith and lasts until 20 min (approx) before the call for the Asr prayer is to be given. There is thus a long period of time within which this prayer can be offered, but people usually make their prayer within two hours after the Adhan has been announced from Mosque. This prayer needs to be given in the middle of the work-day, and people normally make their prayers during their lunch break."
+msgstr "Зухр – обеденный намаз. Время его выполнения начинается при отклонении солнца от зенита и заканчивается тогда, когда тень какого-либо предмета становится в два раза больше его длины (помимо длины тени, который предмет отбрасывает во время зенита). С этого времени наступает период совершения намаза аср. Оптимальное время совершения намаза зухр зависит от времени года. Зимой (а также весной и осенью) лучше всего совершать его ближе к началу его времени. Летом же желательно отложить его совершение на более позднее время: в самом начале его времени обычно дневная жара достигает своего пика. Мусульманам будет легче собраться в мечети для совершения намаза зухр коллективно, когда жара начнет немного спадать."
 
 #: tformmain.miabout.caption
 msgctxt "tformmain.miabout.caption"
@@ -3664,10 +3668,20 @@ msgctxt "tformmain.tsb2s.caption"
 msgid "2 rakʼah sunnah"
 msgstr "2 ракаата сунны"
 
-#: tformmain.tsbomdod.caption
-msgctxt "tformmain.tsbomdod.caption"
+#: tformmain.tsfajr.caption
+msgctxt "tformmain.tsfajr.caption"
 msgid "Fajr"
 msgstr "Фаджр"
+
+#: tformmain.tsisha.caption
+msgctxt "tformmain.tsisha.caption"
+msgid "Isha"
+msgstr "Иша"
+
+#: tformmain.tsmaghrib.caption
+msgctxt "tformmain.tsmaghrib.caption"
+msgid "Maghrib"
+msgstr "Магриб"
 
 #: tformmain.tsp2s.caption
 msgctxt "tformmain.tsp2s.caption"
@@ -3683,11 +3697,6 @@ msgstr "4 ракаата фарда"
 msgid "4 rakʼah sunnah"
 msgstr "4 ракаата сунны"
 
-#: tformmain.tspeshin.caption
-msgctxt "tformmain.tspeshin.caption"
-msgid "Zuhr"
-msgstr "Зухр"
-
 #: tformmain.tssh2s.caption
 msgctxt "tformmain.tssh2s.caption"
 msgid "2 rakʼah sunnah"
@@ -3696,11 +3705,6 @@ msgstr "2 ракаата сунны"
 #: tformmain.tssh3f.caption
 msgid "3 rakʼah fardh"
 msgstr "3 ракаата фарда"
-
-#: tformmain.tsshom.caption
-msgctxt "tformmain.tsshom.caption"
-msgid "Maghrib"
-msgstr "Магриб"
 
 #: tformmain.tsv3v.caption
 msgctxt "tformmain.tsv3v.caption"
@@ -3717,10 +3721,10 @@ msgctxt "tformmain.tsx4f.caption"
 msgid "4 rakʼah fardh"
 msgstr "4 ракаата фарда"
 
-#: tformmain.tsxufton.caption
-msgctxt "tformmain.tsxufton.caption"
-msgid "Isha"
-msgstr "Иша"
+#: tformmain.tszuhr.caption
+msgctxt "tformmain.tszuhr.caption"
+msgid "Zuhr"
+msgstr "Зухр"
 
 #: tformsettings.buttonpanel.cancelbutton.caption
 msgctxt "tformsettings.buttonpanel.cancelbutton.caption"

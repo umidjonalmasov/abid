@@ -1374,11 +1374,6 @@ msgctxt "tformmain.lbasmala4x4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr ""
 
-#: tformmain.lbomdod.caption
-msgctxt "tformmain.lbomdod.caption"
-msgid "The Fajr begins at subh saadiq (true dawn or the beginning of twilight), when the morning light appears across the full width of the sky and ends at sunrise."
-msgstr ""
-
 #: tformmain.lduoa4f.caption
 msgctxt "tformmain.lduoa4f.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
@@ -1427,6 +1422,11 @@ msgstr ""
 #: tformmain.lduov3v.caption
 msgctxt "tformmain.lduov3v.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
+msgstr ""
+
+#: tformmain.lfajr.caption
+msgctxt "tformmain.lfajr.caption"
+msgid "The Fajr begins at subh saadiq (true dawn or the beginning of twilight), when the morning light appears across the full width of the sky and ends at sunrise."
 msgstr ""
 
 #: tformmain.lfalaqb2f.caption
@@ -1804,6 +1804,11 @@ msgctxt "tformmain.liqomatx4f.caption"
 msgid "Iqomat oʼqiladi."
 msgstr ""
 
+#: tformmain.lisha.caption
+msgctxt "tformmain.lisha.caption"
+msgid "The Isha prayer starts when the red light is gone from the western sky, and lasts until the rise of the \"white light\" (fajr sadiq) in the east. The preferred time for Isha is before midnight, meaning halfway between sunset and sunrise."
+msgstr ""
+
 #: tformmain.lixlosa4f.caption
 msgctxt "tformmain.lixlosa4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
@@ -1894,6 +1899,11 @@ msgctxt "tformmain.lkursiv3v.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) oʼqish ham savobli."
 msgstr ""
 
+#: tformmain.lmaghrib.caption
+msgctxt "tformmain.lmaghrib.caption"
+msgid "The Maghrib prayer begins when the sun sets, and lasts until the red light has left the sky in the west. It usually lasts for about 18 to 20 minutes from the start of Maghrib Time."
+msgstr ""
+
 #: tformmain.lnasb2f.caption
 msgctxt "tformmain.lnasb2f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
@@ -1973,11 +1983,6 @@ msgstr ""
 
 #: tformmain.lniyatx4f.caption
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun xufton namozining toʼrt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
-msgstr ""
-
-#: tformmain.lpeshin.caption
-msgctxt "tformmain.lpeshin.caption"
-msgid "The time interval for offering the Zuhr or Dhuhr prayer starts after the sun passes its zenith and lasts until 20 min (approx) before the call for the Asr prayer is to be given. There is thus a long period of time within which this prayer can be offered, but people usually make their prayer within two hours after the Adhan has been announced from Mosque. This prayer needs to be given in the middle of the work-day, and people normally make their prayers during their lunch break."
 msgstr ""
 
 #: tformmain.lqunut.caption
@@ -2202,11 +2207,6 @@ msgstr ""
 #: tformmain.lsanox4f.caption
 msgctxt "tformmain.lsanox4f.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
-msgstr ""
-
-#: tformmain.lshom.caption
-msgctxt "tformmain.lshom.caption"
-msgid "The Maghrib prayer begins when the sun sets, and lasts until the red light has left the sky in the west. It usually lasts for about 18 to 20 minutes from the start of Maghrib Time."
 msgstr ""
 
 #: tformmain.ltaavvuza4f.caption
@@ -3423,9 +3423,9 @@ msgctxt "tformmain.ltasme4x4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr ""
 
-#: tformmain.lxufton.caption
-msgctxt "tformmain.lxufton.caption"
-msgid "The Isha prayer starts when the red light is gone from the western sky, and lasts until the rise of the \"white light\" (fajr sadiq) in the east. The preferred time for Isha is before midnight, meaning halfway between sunset and sunrise."
+#: tformmain.lzuhr.caption
+msgctxt "tformmain.lzuhr.caption"
+msgid "The time interval for offering the Zuhr or Dhuhr prayer starts after the sun passes its zenith and lasts until 20 min (approx) before the call for the Asr prayer is to be given. There is thus a long period of time within which this prayer can be offered, but people usually make their prayer within two hours after the Adhan has been announced from Mosque. This prayer needs to be given in the middle of the work-day, and people normally make their prayers during their lunch break."
 msgstr ""
 
 #: tformmain.miabout.caption
@@ -3491,9 +3491,19 @@ msgctxt "tformmain.tsb2s.caption"
 msgid "2 rakʼah sunnah"
 msgstr ""
 
-#: tformmain.tsbomdod.caption
-msgctxt "tformmain.tsbomdod.caption"
+#: tformmain.tsfajr.caption
+msgctxt "tformmain.tsfajr.caption"
 msgid "Fajr"
+msgstr ""
+
+#: tformmain.tsisha.caption
+msgctxt "tformmain.tsisha.caption"
+msgid "Isha"
+msgstr ""
+
+#: tformmain.tsmaghrib.caption
+msgctxt "tformmain.tsmaghrib.caption"
+msgid "Maghrib"
 msgstr ""
 
 #: tformmain.tsp2s.caption
@@ -3510,11 +3520,6 @@ msgstr ""
 msgid "4 rakʼah sunnah"
 msgstr ""
 
-#: tformmain.tspeshin.caption
-msgctxt "tformmain.tspeshin.caption"
-msgid "Zuhr"
-msgstr ""
-
 #: tformmain.tssh2s.caption
 msgctxt "tformmain.tssh2s.caption"
 msgid "2 rakʼah sunnah"
@@ -3522,11 +3527,6 @@ msgstr ""
 
 #: tformmain.tssh3f.caption
 msgid "3 rakʼah fardh"
-msgstr ""
-
-#: tformmain.tsshom.caption
-msgctxt "tformmain.tsshom.caption"
-msgid "Maghrib"
 msgstr ""
 
 #: tformmain.tsv3v.caption
@@ -3543,9 +3543,9 @@ msgctxt "tformmain.tsx4f.caption"
 msgid "4 rakʼah fardh"
 msgstr ""
 
-#: tformmain.tsxufton.caption
-msgctxt "tformmain.tsxufton.caption"
-msgid "Isha"
+#: tformmain.tszuhr.caption
+msgctxt "tformmain.tszuhr.caption"
+msgid "Zuhr"
 msgstr ""
 
 #: tformsettings.buttonpanel.cancelbutton.caption

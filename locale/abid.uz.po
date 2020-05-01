@@ -1552,10 +1552,6 @@ msgctxt "tformmain.lbasmala4x4f.caption"
 msgid "Basmala («Bismillah...») oʼqiladi."
 msgstr "Басмала («Бисмиллаҳ...») ўқилади."
 
-#: tformmain.lbomdod.caption
-msgid "The Fajr begins at subh saadiq (true dawn or the beginning of twilight), when the morning light appears across the full width of the sky and ends at sunrise."
-msgstr "Бомдод намозининг вақти – субҳи содиқдан (чин тонг отгандан) кун чиққунчадир. Бомдод намозини тонг ёришганда ўқиш мустаҳаб, аълороқдир. Соат бўйича ҳисобланса, бомдодни кун чиқишидан 40 дақиқача илгари ўқиш мустаҳаб вақтига мувофиқ бўлади."
-
 #: tformmain.lduoa4f.caption
 msgctxt "tformmain.lduoa4f.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
@@ -1605,6 +1601,11 @@ msgstr "Намоз тугагач, ушбу дуо ўқилади."
 msgctxt "tformmain.lduov3v.caption"
 msgid "Namoz tugagach, ushbu duo oʼqiladi."
 msgstr "Намоз тугагач, ушбу дуо ўқилади."
+
+#: tformmain.lfajr.caption
+msgctxt "tformmain.lfajr.caption"
+msgid "The Fajr begins at subh saadiq (true dawn or the beginning of twilight), when the morning light appears across the full width of the sky and ends at sunrise."
+msgstr "Бомдод намозининг вақти – субҳи содиқдан (чин тонг отгандан) кун чиққунчадир. Бомдод намозини тонг ёришганда ўқиш мустаҳаб, аълороқдир. Соат бўйича ҳисобланса, бомдодни кун чиқишидан 40 дақиқача илгари ўқиш мустаҳаб вақтига мувофиқ бўлади."
 
 #: tformmain.lfalaqb2f.caption
 msgctxt "tformmain.lfalaqb2f.caption"
@@ -1981,6 +1982,11 @@ msgctxt "tformmain.liqomatx4f.caption"
 msgid "Iqomat oʼqiladi."
 msgstr "Иқомат ўқилади."
 
+#: tformmain.lisha.caption
+msgctxt "tformmain.lisha.caption"
+msgid "The Isha prayer starts when the red light is gone from the western sky, and lasts until the rise of the \"white light\" (fajr sadiq) in the east. The preferred time for Isha is before midnight, meaning halfway between sunset and sunrise."
+msgstr "Хуфтон намозининг вақти – шафақ батамом йўқолгандан кейин киради. Витр намози вақти еса хуфтон ўқилгандан кейингина киради. Хуфтон ва витр намозларини субҳи содиққача ўқиса бўлади. Хуфтон намозини кечанинг учдан бирининг охирида ўқиш афзал ва ниҳоятда аъло бўлади. Витр намозини еса тун охирида уйғонишга қодир бўлган кишилар субҳ олдидан ўқисалар, мустаҳаб амал қилган бўлишади."
+
 #: tformmain.lixlosa4f.caption
 msgctxt "tformmain.lixlosa4f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
@@ -2071,6 +2077,11 @@ msgctxt "tformmain.lkursiv3v.caption"
 msgid "Namozdan keyin Kursiy oyatini (Oyatal Kursiy) oʼqish ham savobli."
 msgstr "Намоздан кейин Курсий оятини (Оятал Курсий) ўқиш ҳам савобли."
 
+#: tformmain.lmaghrib.caption
+msgctxt "tformmain.lmaghrib.caption"
+msgid "The Maghrib prayer begins when the sun sets, and lasts until the red light has left the sky in the west. It usually lasts for about 18 to 20 minutes from the start of Maghrib Time."
+msgstr "Шом намозининг вақти – кун ботган пайтдан бошлаб кунботар томонда шафақ (қизғиш нурлар) ғойиб бўлгунчадир. Шом намозини доимо қуёш ботиши билан ўқиш мустаҳабдир."
+
 #: tformmain.lnasb2f.caption
 msgctxt "tformmain.lnasb2f.caption"
 msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
@@ -2146,10 +2157,6 @@ msgstr "Намоз вақти киргач, таҳорат билан, пок к
 #: tformmain.lniyatx4f.caption
 msgid "Namoz vaqti kirgach, tahorat bilan, pok kiyim bilan, pokiza joyda turib, qiblaga yuzlanamiz va niyat qilamiz. Masalan, «Xolis Alloh uchun xufton namozining toʼrt rakʼat farzini oʼqishga niyat qildim» degan mazmunda niyat qilamiz. Imomga iqtido qilgan kishi «shu imomga iqtido qilib» deb ham niyat qilamiz. Niyatni pichirlab, tilda ham aytish mumkin, ichida aytish ham mumkin."
 msgstr "Намоз вақти киргач, таҳорат билан, пок кийим билан, покиза жойда туриб, қиблага юзланамиз ва ният қиламиз. Масалан, «Холис Аллоҳ учун хуфтон намозининг тўрт ракъат фарзини ўқишга ният қилдим» деган мазмунда ният қиламиз. Имомга иқтидо қилган киши «шу имомга иқтидо қилиб» деб ҳам ният қиламиз. Ниятни пичирлаб, тилда ҳам айтиш мумкин, ичида айтиш ҳам мумкин."
-
-#: tformmain.lpeshin.caption
-msgid "The time interval for offering the Zuhr or Dhuhr prayer starts after the sun passes its zenith and lasts until 20 min (approx) before the call for the Asr prayer is to be given. There is thus a long period of time within which this prayer can be offered, but people usually make their prayer within two hours after the Adhan has been announced from Mosque. This prayer needs to be given in the middle of the work-day, and people normally make their prayers during their lunch break."
-msgstr "Пешин намозининг вақти – қуёш заволга (оғишга) кетганидан сўнг то нарсаларнинг сояси қуёш тиккага келган пайтдаги соясидан ташқари ўз узунлигига нисбатан икки баравар ортгунига қадар. Пешин намозини ёз фаслида бироз кечиктириб, қиш фаслида еса вақти кириши билан ўқиш мустаҳабдир."
 
 #: tformmain.lqunut.caption
 msgid "Qunut duosi oʼqiladi."
@@ -2374,10 +2381,6 @@ msgstr "Қўлларни қовуштирган ҳолда киндик ости
 msgctxt "tformmain.lsanox4f.caption"
 msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
 msgstr "Қўлларни қовуштирган ҳолда киндик остида тутиб «Сано» («Субҳанакаллоҳумма...») ўқилади. Аёллар қўлларини боғлаб кўкраклари устида ушлаб турадилар."
-
-#: tformmain.lshom.caption
-msgid "The Maghrib prayer begins when the sun sets, and lasts until the red light has left the sky in the west. It usually lasts for about 18 to 20 minutes from the start of Maghrib Time."
-msgstr "Шом намозининг вақти – кун ботган пайтдан бошлаб кунботар томонда шафақ (қизғиш нурлар) ғойиб бўлгунчадир. Шом намозини доимо қуёш ботиши билан ўқиш мустаҳабдир."
 
 #: tformmain.ltaavvuza4f.caption
 msgctxt "tformmain.ltaavvuza4f.caption"
@@ -3593,9 +3596,10 @@ msgctxt "tformmain.ltasme4x4f.caption"
 msgid "Belni tiklayotib «Samiʼallohu liman hamidah» deyiladi."
 msgstr "Белни тиклаётиб «Самиъаллоҳу лиман ҳамидаҳ» дейилади."
 
-#: tformmain.lxufton.caption
-msgid "The Isha prayer starts when the red light is gone from the western sky, and lasts until the rise of the \"white light\" (fajr sadiq) in the east. The preferred time for Isha is before midnight, meaning halfway between sunset and sunrise."
-msgstr "Хуфтон намозининг вақти – шафақ батамом йўқолгандан кейин киради. Витр намози вақти еса хуфтон ўқилгандан кейингина киради. Хуфтон ва витр намозларини субҳи содиққача ўқиса бўлади. Хуфтон намозини кечанинг учдан бирининг охирида ўқиш афзал ва ниҳоятда аъло бўлади. Витр намозини еса тун охирида уйғонишга қодир бўлган кишилар субҳ олдидан ўқисалар, мустаҳаб амал қилган бўлишади."
+#: tformmain.lzuhr.caption
+msgctxt "tformmain.lzuhr.caption"
+msgid "The time interval for offering the Zuhr or Dhuhr prayer starts after the sun passes its zenith and lasts until 20 min (approx) before the call for the Asr prayer is to be given. There is thus a long period of time within which this prayer can be offered, but people usually make their prayer within two hours after the Adhan has been announced from Mosque. This prayer needs to be given in the middle of the work-day, and people normally make their prayers during their lunch break."
+msgstr "Пешин намозининг вақти – қуёш заволга (оғишга) кетганидан сўнг то нарсаларнинг сояси қуёш тиккага келган пайтдаги соясидан ташқари ўз узунлигига нисбатан икки баравар ортгунига қадар. Пешин намозини ёз фаслида бироз кечиктириб, қиш фаслида еса вақти кириши билан ўқиш мустаҳабдир."
 
 #: tformmain.miabout.caption
 msgctxt "tformmain.miabout.caption"
@@ -3657,10 +3661,20 @@ msgctxt "tformmain.tsb2s.caption"
 msgid "2 rakʼah sunnah"
 msgstr "2 ракъат суннат"
 
-#: tformmain.tsbomdod.caption
-msgctxt "tformmain.tsbomdod.caption"
+#: tformmain.tsfajr.caption
+msgctxt "tformmain.tsfajr.caption"
 msgid "Fajr"
 msgstr "Бомдод"
+
+#: tformmain.tsisha.caption
+msgctxt "tformmain.tsisha.caption"
+msgid "Isha"
+msgstr "Хуфтон"
+
+#: tformmain.tsmaghrib.caption
+msgctxt "tformmain.tsmaghrib.caption"
+msgid "Maghrib"
+msgstr "Шом"
 
 #: tformmain.tsp2s.caption
 msgctxt "tformmain.tsp2s.caption"
@@ -3676,11 +3690,6 @@ msgstr "4 ракъат фарз"
 msgid "4 rakʼah sunnah"
 msgstr "4 ракъат суннат"
 
-#: tformmain.tspeshin.caption
-msgctxt "tformmain.tspeshin.caption"
-msgid "Zuhr"
-msgstr "Пешин"
-
 #: tformmain.tssh2s.caption
 msgctxt "tformmain.tssh2s.caption"
 msgid "2 rakʼah sunnah"
@@ -3689,11 +3698,6 @@ msgstr "2 ракъат суннат"
 #: tformmain.tssh3f.caption
 msgid "3 rakʼah fardh"
 msgstr "3 ракъат фарз"
-
-#: tformmain.tsshom.caption
-msgctxt "tformmain.tsshom.caption"
-msgid "Maghrib"
-msgstr "Шом"
 
 #: tformmain.tsv3v.caption
 msgctxt "tformmain.tsv3v.caption"
@@ -3710,10 +3714,10 @@ msgctxt "tformmain.tsx4f.caption"
 msgid "4 rakʼah fardh"
 msgstr "4 ракъат фарз"
 
-#: tformmain.tsxufton.caption
-msgctxt "tformmain.tsxufton.caption"
-msgid "Isha"
-msgstr "Хуфтон"
+#: tformmain.tszuhr.caption
+msgctxt "tformmain.tszuhr.caption"
+msgid "Zuhr"
+msgstr "Пешин"
 
 #: tformsettings.buttonpanel.cancelbutton.caption
 msgctxt "tformsettings.buttonpanel.cancelbutton.caption"
