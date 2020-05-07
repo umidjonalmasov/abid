@@ -491,26 +491,15 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 302
+        VertScrollBar.Page = 260
         Align = alClient
         ClientHeight = 491
         ClientWidth = 903
         TabOrder = 0
-        object lAzonBomdodDesc: TLabel
-          Left = 10
-          Height = 32
-          Top = 10
-          Width = 883
-          Align = alTop
-          BorderSpacing.Around = 10
-          Caption = 'The adhan is a special Islamic call to salah (prayer). A mu''addhin calls the adhan from the minaret of a mosque to announce every prayer and worship event.'
-          ParentColor = False
-          WordWrap = True
-        end
         object lAzonBomdodAr: TLabel
           Left = 10
-          Height = 429
-          Top = 52
+          Height = 471
+          Top = 10
           Width = 150
           Align = alLeft
           Alignment = taRightJustify
@@ -521,8 +510,8 @@ object FormDetails: TFormDetails
         end
         object lAzonBomdodTr: TLabel
           Left = 429
-          Height = 429
-          Top = 52
+          Height = 471
+          Top = 10
           Width = 296
           Align = alLeft
           BorderSpacing.Around = 10
@@ -532,8 +521,8 @@ object FormDetails: TFormDetails
         end
         object lAzonBomdodPr: TLabel
           Left = 170
-          Height = 429
-          Top = 52
+          Height = 471
+          Top = 10
           Width = 249
           Align = alLeft
           BorderSpacing.Around = 10
@@ -551,29 +540,18 @@ object FormDetails: TFormDetails
         Left = 0
         Height = 493
         Top = 0
-        Width = 786
+        Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 270
+        VertScrollBar.Page = 228
         Align = alClient
-        ClientHeight = 489
-        ClientWidth = 782
+        ClientHeight = 491
+        ClientWidth = 903
         TabOrder = 0
-        object lAzonDesc: TLabel
-          Left = 10
-          Height = 32
-          Top = 10
-          Width = 764
-          Align = alTop
-          BorderSpacing.Around = 10
-          Caption = 'The adhan is a special Islamic call to salah (prayer). A mu''addhin calls the adhan from the minaret of a mosque to announce every prayer and worship event.'
-          ParentColor = False
-          WordWrap = True
-        end
         object lAzonAr: TLabel
           Left = 10
-          Height = 429
-          Top = 52
+          Height = 471
+          Top = 10
           Width = 150
           Align = alLeft
           Alignment = taRightJustify
@@ -584,8 +562,8 @@ object FormDetails: TFormDetails
         end
         object lAzonTr: TLabel
           Left = 429
-          Height = 429
-          Top = 52
+          Height = 471
+          Top = 10
           Width = 296
           Align = alLeft
           BorderSpacing.Around = 10
@@ -595,8 +573,8 @@ object FormDetails: TFormDetails
         end
         object lAzonPr: TLabel
           Left = 170
-          Height = 429
-          Top = 52
+          Height = 471
+          Top = 10
           Width = 249
           Align = alLeft
           BorderSpacing.Around = 10
@@ -614,19 +592,19 @@ object FormDetails: TFormDetails
         Left = 0
         Height = 493
         Top = 0
-        Width = 786
+        Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 152
+        VertScrollBar.Page = 136
         Align = alClient
-        ClientHeight = 489
-        ClientWidth = 782
+        ClientHeight = 491
+        ClientWidth = 903
         TabOrder = 0
         object lAzonDuoAr: TLabel
           Left = 10
-          Height = 32
+          Height = 16
           Top = 10
-          Width = 764
+          Width = 883
           Align = alTop
           Alignment = taRightJustify
           BorderSpacing.Around = 10
@@ -637,8 +615,8 @@ object FormDetails: TFormDetails
         object lAzonDuoPr: TLabel
           Left = 10
           Height = 32
-          Top = 52
-          Width = 764
+          Top = 36
+          Width = 883
           Align = alTop
           BorderSpacing.Around = 10
           Caption = 'Allahumma Rabba Hathihil Da''awatiTaamma WaSalatil-qaa’ima, Aati Sayyedana Muhammada nil-Waseelata Wal-Fadeelata Wal-Darajatal-''aleyata Al Rafî‘a, Wab‘ath-hu Maqaman Mahmudanilathee Wa‘adtahu, Innaka La Tukhliful-Mee''ad.'
@@ -648,8 +626,8 @@ object FormDetails: TFormDetails
         object lAzonDuoTr: TLabel
           Left = 10
           Height = 48
-          Top = 94
-          Width = 764
+          Top = 78
+          Width = 883
           Align = alTop
           BorderSpacing.Around = 10
           Caption = 'Meaning:'#10'O Allah , Lord of this perfect call and established prayer. Grant Muhammad the intercession and favor, and raise him to the honored station You have promised him, verily You do not neglect promises.'
@@ -669,26 +647,15 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 302
+        VertScrollBar.Page = 244
         Align = alClient
-        ClientHeight = 489
-        ClientWidth = 901
+        ClientHeight = 491
+        ClientWidth = 903
         TabOrder = 0
-        object lIqomatDesc: TLabel
-          Left = 10
-          Height = 48
-          Top = 10
-          Width = 883
-          Align = alTop
-          BorderSpacing.Around = 10
-          Caption = 'The Iqama is the Islamic second call to namaz, which signals that it''s time for the prayer to start. It''s recited by a caller, usually the Mu''adhdhin in a mosque, after the first call to prayer, which is called the also Adhan. If you want to recite the Iqama, it''s best to memorize it so you can say it alone or repeat it after a caller.'
-          ParentColor = False
-          WordWrap = True
-        end
         object lIqomatAr: TLabel
           Left = 10
-          Height = 413
-          Top = 68
+          Height = 471
+          Top = 10
           Width = 176
           Align = alLeft
           Alignment = taRightJustify
@@ -699,8 +666,8 @@ object FormDetails: TFormDetails
         end
         object lIqomatTr: TLabel
           Left = 455
-          Height = 413
-          Top = 68
+          Height = 471
+          Top = 10
           Width = 296
           Align = alLeft
           BorderSpacing.Around = 10
@@ -710,8 +677,8 @@ object FormDetails: TFormDetails
         end
         object lIqomatPr: TLabel
           Left = 196
-          Height = 413
-          Top = 68
+          Height = 471
+          Top = 10
           Width = 249
           Align = alLeft
           BorderSpacing.Around = 10

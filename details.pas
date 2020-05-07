@@ -55,10 +55,8 @@ type
     lAziymTr: TLabel;
     lAzonAr: TLabel;
     lAzonBomdodAr: TLabel;
-    lAzonBomdodDesc: TLabel;
     lAzonBomdodPr: TLabel;
     lAzonBomdodTr: TLabel;
-    lAzonDesc: TLabel;
     lAzonDuoAr: TLabel;
     lAzonDuoPr: TLabel;
     lAzonDuoTr: TLabel;
@@ -83,7 +81,6 @@ type
     lHamdPr: TLabel;
     lHamdTr: TLabel;
     lIqomatAr: TLabel;
-    lIqomatDesc: TLabel;
     lIqomatPr: TLabel;
     lIqomatTr: TLabel;
     lIxlosAr: TLabel;
