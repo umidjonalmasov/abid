@@ -154,11 +154,6 @@ msgid ""
 "Glorious is my Lord the most great.\n"
 msgstr ""
 
-#: tformdetails.lazonbomdoddesc.caption
-msgctxt "tformdetails.lazonbomdoddesc.caption"
-msgid "The adhan is a special Islamic call to salah (prayer). A mu'addhin calls the adhan from the minaret of a mosque to announce every prayer and worship event."
-msgstr ""
-
 #: tformdetails.lazonbomdodpr.caption
 msgctxt "tformdetails.lazonbomdodpr.caption"
 msgid ""
@@ -197,11 +192,6 @@ msgid ""
 "Prayer is better than sleep\n"
 "Allah is the greatest Allah is the greatest\n"
 "There is none worthy of worship except God\n"
-msgstr ""
-
-#: tformdetails.lazondesc.caption
-msgctxt "tformdetails.lazondesc.caption"
-msgid "The adhan is a special Islamic call to salah (prayer). A mu'addhin calls the adhan from the minaret of a mosque to announce every prayer and worship event."
 msgstr ""
 
 #: tformdetails.lazonduopr.caption
@@ -346,11 +336,6 @@ msgctxt "tformdetails.lhamdtr.caption"
 msgid ""
 "Meaning:\n"
 "Our Lord, all praise is for you.\n"
-msgstr ""
-
-#: tformdetails.liqomatdesc.caption
-msgctxt "tformdetails.liqomatdesc.caption"
-msgid "The Iqama is the Islamic second call to namaz, which signals that it's time for the prayer to start. It's recited by a caller, usually the Mu'adhdhin in a mosque, after the first call to prayer, which is called the also Adhan. If you want to recite the Iqama, it's best to memorize it so you can say it alone or repeat it after a caller."
 msgstr ""
 
 #: tformdetails.liqomatpr.caption
@@ -1006,372 +991,372 @@ msgstr ""
 
 #: tformmain.laziym1a4f.caption
 msgctxt "tformmain.laziym1a4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1f2f.caption
 msgctxt "tformmain.laziym1f2f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1f2s.caption
 msgctxt "tformmain.laziym1f2s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1i2s.caption
 msgctxt "tformmain.laziym1i2s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1i4f.caption
 msgctxt "tformmain.laziym1i4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1m2s.caption
 msgctxt "tformmain.laziym1m2s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1m3f.caption
 msgctxt "tformmain.laziym1m3f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1w3w.caption
 msgctxt "tformmain.laziym1w3w.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1z2s.caption
 msgctxt "tformmain.laziym1z2s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1z4f.caption
 msgctxt "tformmain.laziym1z4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym1z4s.caption
 msgctxt "tformmain.laziym1z4s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2a4f.caption
 msgctxt "tformmain.laziym2a4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2f2f.caption
 msgctxt "tformmain.laziym2f2f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2f2s.caption
 msgctxt "tformmain.laziym2f2s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2i2s.caption
 msgctxt "tformmain.laziym2i2s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2i4f.caption
 msgctxt "tformmain.laziym2i4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2m2s.caption
 msgctxt "tformmain.laziym2m2s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2m3f.caption
 msgctxt "tformmain.laziym2m3f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2w3w.caption
 msgctxt "tformmain.laziym2w3w.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2z2s.caption
 msgctxt "tformmain.laziym2z2s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2z4f.caption
 msgctxt "tformmain.laziym2z4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym2z4s.caption
 msgctxt "tformmain.laziym2z4s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym3a4f.caption
 msgctxt "tformmain.laziym3a4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym3i4f.caption
 msgctxt "tformmain.laziym3i4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym3m3f.caption
 msgctxt "tformmain.laziym3m3f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym3w3w.caption
 msgctxt "tformmain.laziym3w3w.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym3z4f.caption
 msgctxt "tformmain.laziym3z4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym3z4s.caption
 msgctxt "tformmain.laziym3z4s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym4a4f.caption
 msgctxt "tformmain.laziym4a4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym4i4f.caption
 msgctxt "tformmain.laziym4i4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym4z4f.caption
 msgctxt "tformmain.laziym4z4f.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.laziym4z4s.caption
 msgctxt "tformmain.laziym4z4s.caption"
-msgid "Uch marta «Subhana Robbiyal ʼaziym» deyiladi."
+msgid "It is said three times, \"Subhana Rabbiyal Azim\"."
 msgstr ""
 
 #: tformmain.lazona4f.caption
 msgctxt "tformmain.lazona4f.caption"
-msgid "Avval Azon oʼqiladi."
+msgid "The Adhan is recited first."
 msgstr ""
 
 #: tformmain.lazonduoa4f.caption
 msgctxt "tformmain.lazonduoa4f.caption"
-msgid "Soʼng Azon duosi oʼqiladi."
+msgid "Then the Adhan dua is recited."
 msgstr ""
 
 #: tformmain.lazonduof2s.caption
 msgctxt "tformmain.lazonduof2s.caption"
-msgid "Soʼng Azon duosi oʼqiladi."
+msgid "Then the Adhan dua is recited."
 msgstr ""
 
 #: tformmain.lazonduoi4f.caption
 msgctxt "tformmain.lazonduoi4f.caption"
-msgid "Soʼng Azon duosi oʼqiladi."
+msgid "Then the Adhan dua is recited."
 msgstr ""
 
 #: tformmain.lazonduom3f.caption
 msgctxt "tformmain.lazonduom3f.caption"
-msgid "Soʼng Azon duosi oʼqiladi."
+msgid "Then the Adhan dua is recited."
 msgstr ""
 
 #: tformmain.lazonduoz4s.caption
 msgctxt "tformmain.lazonduoz4s.caption"
-msgid "Soʼng Azon duosi oʼqiladi."
+msgid "Then the Adhan dua is recited."
 msgstr ""
 
 #: tformmain.lazonf2s.caption
 msgctxt "tformmain.lazonf2s.caption"
-msgid "Avval Azon oʼqiladi."
+msgid "The Adhan is recited first."
 msgstr ""
 
 #: tformmain.lazoni4f.caption
 msgctxt "tformmain.lazoni4f.caption"
-msgid "Avval Azon oʼqiladi."
+msgid "The Adhan is recited first."
 msgstr ""
 
 #: tformmain.lazonm3f.caption
 msgctxt "tformmain.lazonm3f.caption"
-msgid "Avval Azon oʼqiladi."
+msgid "The Adhan is recited first."
 msgstr ""
 
 #: tformmain.lazonz4s.caption
 msgctxt "tformmain.lazonz4s.caption"
-msgid "Avval Azon oʼqiladi."
+msgid "The Adhan is recited first."
 msgstr ""
 
 #: tformmain.lbasmala1a4f.caption
 msgctxt "tformmain.lbasmala1a4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1f2f.caption
 msgctxt "tformmain.lbasmala1f2f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1f2s.caption
 msgctxt "tformmain.lbasmala1f2s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1i2s.caption
 msgctxt "tformmain.lbasmala1i2s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1i4f.caption
 msgctxt "tformmain.lbasmala1i4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1m2s.caption
 msgctxt "tformmain.lbasmala1m2s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1m3f.caption
 msgctxt "tformmain.lbasmala1m3f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1w3w.caption
 msgctxt "tformmain.lbasmala1w3w.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1z2s.caption
 msgctxt "tformmain.lbasmala1z2s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1z4f.caption
 msgctxt "tformmain.lbasmala1z4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala1z4s.caption
 msgctxt "tformmain.lbasmala1z4s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2a4f.caption
 msgctxt "tformmain.lbasmala2a4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2f2f.caption
 msgctxt "tformmain.lbasmala2f2f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2f2s.caption
 msgctxt "tformmain.lbasmala2f2s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2i2s.caption
 msgctxt "tformmain.lbasmala2i2s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2i4f.caption
 msgctxt "tformmain.lbasmala2i4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2m2s.caption
 msgctxt "tformmain.lbasmala2m2s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2m3f.caption
 msgctxt "tformmain.lbasmala2m3f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2w3w.caption
 msgctxt "tformmain.lbasmala2w3w.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2z2s.caption
 msgctxt "tformmain.lbasmala2z2s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2z4f.caption
 msgctxt "tformmain.lbasmala2z4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala2z4s.caption
 msgctxt "tformmain.lbasmala2z4s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala3a4f.caption
 msgctxt "tformmain.lbasmala3a4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala3i4f.caption
 msgctxt "tformmain.lbasmala3i4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala3m3f.caption
 msgctxt "tformmain.lbasmala3m3f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala3w3w.caption
 msgctxt "tformmain.lbasmala3w3w.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala3z4f.caption
 msgctxt "tformmain.lbasmala3z4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala3z4s.caption
 msgctxt "tformmain.lbasmala3z4s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala4a4f.caption
 msgctxt "tformmain.lbasmala4a4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala4i4f.caption
 msgctxt "tformmain.lbasmala4i4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala4z4f.caption
 msgctxt "tformmain.lbasmala4z4f.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lbasmala4z4s.caption
 msgctxt "tformmain.lbasmala4z4s.caption"
-msgid "Basmala («Bismillah...») oʼqiladi."
+msgid "Basmala (\"Bismillah ...\") is recited."
 msgstr ""
 
 #: tformmain.lduoa4f.caption
@@ -1431,192 +1416,192 @@ msgstr ""
 
 #: tformmain.lfalaqf2f.caption
 msgctxt "tformmain.lfalaqf2f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lfalaqi2s.caption
 msgctxt "tformmain.lfalaqi2s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lfalaqm2s.caption
 msgctxt "tformmain.lfalaqm2s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lfalaqw3w.caption
 msgctxt "tformmain.lfalaqw3w.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lfalaqz2s.caption
 msgctxt "tformmain.lfalaqz2s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lfalaqz4s.caption
 msgctxt "tformmain.lfalaqz4s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lfotiha1a4f.caption
 msgctxt "tformmain.lfotiha1a4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1f2f.caption
 msgctxt "tformmain.lfotiha1f2f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1f2s.caption
 msgctxt "tformmain.lfotiha1f2s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1i2s.caption
 msgctxt "tformmain.lfotiha1i2s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1i4f.caption
 msgctxt "tformmain.lfotiha1i4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1m2s.caption
 msgctxt "tformmain.lfotiha1m2s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1m3f.caption
 msgctxt "tformmain.lfotiha1m3f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1w3w.caption
 msgctxt "tformmain.lfotiha1w3w.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1z2s.caption
 msgctxt "tformmain.lfotiha1z2s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1z4f.caption
 msgctxt "tformmain.lfotiha1z4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha1z4s.caption
 msgctxt "tformmain.lfotiha1z4s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2a4f.caption
 msgctxt "tformmain.lfotiha2a4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2f2f.caption
 msgctxt "tformmain.lfotiha2f2f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2f2s.caption
 msgctxt "tformmain.lfotiha2f2s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2i2s.caption
 msgctxt "tformmain.lfotiha2i2s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2i4f.caption
 msgctxt "tformmain.lfotiha2i4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2m2s.caption
 msgctxt "tformmain.lfotiha2m2s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2m3f.caption
 msgctxt "tformmain.lfotiha2m3f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2w3w.caption
 msgctxt "tformmain.lfotiha2w3w.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2z2s.caption
 msgctxt "tformmain.lfotiha2z2s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2z4f.caption
 msgctxt "tformmain.lfotiha2z4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha2z4s.caption
 msgctxt "tformmain.lfotiha2z4s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha3a4f.caption
 msgctxt "tformmain.lfotiha3a4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha3i4f.caption
 msgctxt "tformmain.lfotiha3i4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha3m3f.caption
 msgctxt "tformmain.lfotiha3m3f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha3w3w.caption
 msgctxt "tformmain.lfotiha3w3w.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha3z4f.caption
 msgctxt "tformmain.lfotiha3z4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha3z4s.caption
 msgctxt "tformmain.lfotiha3z4s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha4a4f.caption
 msgctxt "tformmain.lfotiha4a4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha4i4f.caption
 msgctxt "tformmain.lfotiha4i4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha4z4f.caption
 msgctxt "tformmain.lfotiha4z4f.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lfotiha4z4s.caption
 msgctxt "tformmain.lfotiha4z4s.caption"
-msgid "Bir oʼzimiz oʼqiyotgan boʼlsak, Fotiha surasini oʼqiymiz. Keyin ichimizda «Omiyn» deymiz."
+msgid "If we are reciting it alone, we are reciting Surat al-Fatiha. Then we say \"Amen\" inside."
 msgstr ""
 
 #: tformmain.lhamd1a4f.caption
@@ -1811,67 +1796,67 @@ msgstr ""
 
 #: tformmain.lixlosa4f.caption
 msgctxt "tformmain.lixlosa4f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lixlosf2s.caption
 msgctxt "tformmain.lixlosf2s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lixlosi4f.caption
 msgctxt "tformmain.lixlosi4f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lixlosm3f.caption
 msgctxt "tformmain.lixlosm3f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lixlosw3w.caption
 msgctxt "tformmain.lixlosw3w.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lixlosz4f.caption
 msgctxt "tformmain.lixlosz4f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lixlosz4s.caption
 msgctxt "tformmain.lixlosz4s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lkavsara4f.caption
 msgctxt "tformmain.lkavsara4f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lkavsarf2s.caption
 msgctxt "tformmain.lkavsarf2s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lkavsari4f.caption
 msgctxt "tformmain.lkavsari4f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lkavsarm3f.caption
 msgctxt "tformmain.lkavsarm3f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lkavsarz4f.caption
 msgctxt "tformmain.lkavsarz4f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lkavsarz4s.caption
 msgctxt "tformmain.lkavsarz4s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lkursia4f.caption
@@ -1906,32 +1891,32 @@ msgstr ""
 
 #: tformmain.lnasf2f.caption
 msgctxt "tformmain.lnasf2f.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lnasi2s.caption
 msgctxt "tformmain.lnasi2s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lnasm2s.caption
 msgctxt "tformmain.lnasm2s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lnasw3w.caption
 msgctxt "tformmain.lnasw3w.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lnasz2s.caption
 msgctxt "tformmain.lnasz2s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lnasz4s.caption
 msgctxt "tformmain.lnasz4s.caption"
-msgid "Fotiha surasidan keyin zam sura, yaʼni biror sura yoki uzunroq oyat yoki kamida uchta qisqa oyat oʼqiladi."
+msgid "After Surat al-Fatihah, a surah or a longer ayat or at least three short ayats, is recited."
 msgstr ""
 
 #: tformmain.lniyata4f.caption
@@ -2156,112 +2141,112 @@ msgstr ""
 
 #: tformmain.lsanoa4f.caption
 msgctxt "tformmain.lsanoa4f.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanof2f.caption
 msgctxt "tformmain.lsanof2f.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanof2s.caption
 msgctxt "tformmain.lsanof2s.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanoi2s.caption
 msgctxt "tformmain.lsanoi2s.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanoi4f.caption
 msgctxt "tformmain.lsanoi4f.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanom2s.caption
 msgctxt "tformmain.lsanom2s.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanom3f.caption
 msgctxt "tformmain.lsanom3f.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanow3w.caption
 msgctxt "tformmain.lsanow3w.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanoz2s.caption
 msgctxt "tformmain.lsanoz2s.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanoz4f.caption
 msgctxt "tformmain.lsanoz4f.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.lsanoz4s.caption
 msgctxt "tformmain.lsanoz4s.caption"
-msgid "Qoʼllarni qovushtirgan holda kindik ostida tutib «Sano» («Subhanakallohumma...») oʼqiladi. Ayollar qoʼllarini bogʼlab koʼkraklari ustida ushlab turadilar."
+msgid "\"Sana\" (\"Subhanakallahumma ...\") is recited with the hands folded under the navel. Women tie their hands and hold them over their breasts."
 msgstr ""
 
 #: tformmain.ltaavvuza4f.caption
 msgctxt "tformmain.ltaavvuza4f.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzf2f.caption
 msgctxt "tformmain.ltaavvuzf2f.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzf2s.caption
 msgctxt "tformmain.ltaavvuzf2s.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzi2s.caption
 msgctxt "tformmain.ltaavvuzi2s.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzi4f.caption
 msgctxt "tformmain.ltaavvuzi4f.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzm2s.caption
 msgctxt "tformmain.ltaavvuzm2s.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzm3f.caption
 msgctxt "tformmain.ltaavvuzm3f.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzw3w.caption
 msgctxt "tformmain.ltaavvuzw3w.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzz2s.caption
 msgctxt "tformmain.ltaavvuzz2s.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzz4f.caption
 msgctxt "tformmain.ltaavvuzz4f.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltaavvuzz4s.caption
 msgctxt "tformmain.ltaavvuzz4s.caption"
-msgid "Taʼavvuz («Aʼuzu billahi...») oʼqiladi."
+msgid "Taawwuz (\"Aʼuzu billahi ...\") is recited."
 msgstr ""
 
 #: tformmain.ltakbirjalsa1a4f.caption
@@ -2426,57 +2411,57 @@ msgstr ""
 
 #: tformmain.ltakbirkirisha4f.caption
 msgctxt "tformmain.ltakbirkirisha4f.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishf2f.caption
 msgctxt "tformmain.ltakbirkirishf2f.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishf2s.caption
 msgctxt "tformmain.ltakbirkirishf2s.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishi2s.caption
 msgctxt "tformmain.ltakbirkirishi2s.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishi4f.caption
 msgctxt "tformmain.ltakbirkirishi4f.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishm2s.caption
 msgctxt "tformmain.ltakbirkirishm2s.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishm3f.caption
 msgctxt "tformmain.ltakbirkirishm3f.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishw3w.caption
 msgctxt "tformmain.ltakbirkirishw3w.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishz2s.caption
 msgctxt "tformmain.ltakbirkirishz2s.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishz4f.caption
 msgctxt "tformmain.ltakbirkirishz4f.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirkirishz4s.caption
 msgctxt "tformmain.ltakbirkirishz4s.caption"
-msgid "Ikki qoʼl kaftini qiblaga qarata koʼtarib, bosh barmoq quloq yumshogʼiga tekkiziladi va «Allohu akbar» deya takbir aytish bilan namoz boshlanadi. Ayollar qoʼllarini elkalari baravarigacha koʼtaradilar."
+msgid "The prayer begins with raising the palms of both hands towards the qibla, touching the thumb to the earlobe, and saying the takbir \"Allahu Akbar\". Women raise their arms to the level of their shoulders."
 msgstr ""
 
 #: tformmain.ltakbirqada1a4f.caption
@@ -2675,57 +2660,57 @@ msgstr ""
 
 #: tformmain.ltakbirruku1a4f.caption
 msgctxt "tformmain.ltakbirruku1a4f.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1f2f.caption
 msgctxt "tformmain.ltakbirruku1f2f.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1f2s.caption
 msgctxt "tformmain.ltakbirruku1f2s.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1i2s.caption
 msgctxt "tformmain.ltakbirruku1i2s.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1i4f.caption
 msgctxt "tformmain.ltakbirruku1i4f.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1m2s.caption
 msgctxt "tformmain.ltakbirruku1m2s.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1m3f.caption
 msgctxt "tformmain.ltakbirruku1m3f.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1w3w.caption
 msgctxt "tformmain.ltakbirruku1w3w.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1z2s.caption
 msgctxt "tformmain.ltakbirruku1z2s.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1z4f.caption
 msgctxt "tformmain.ltakbirruku1z4f.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku1z4s.caption
 msgctxt "tformmain.ltakbirruku1z4s.caption"
-msgid "«Allohu akbar» deb egilib rukuʼga boriladi. Rukuʼda erkaklar tizzalarini bukmasdan tik holatda tursalar, ayollar esa tizzalarini ozroq bukib turadilar. Erkaklar tizzalariga tayanganda barmoqlari orasi biroz ochiq holatda boʼladilar, ayollar esa barmoqlari orasini ochmasdan tizza toʼpigʼini ushlab turadilar."
+msgid "He bowed and said, \"Allahu akbar\". In ruku, men stand upright without bending their knees, while women bend their knees slightly. Men lean on their knees with their toes slightly open, while women hold their ankles without opening their toes."
 msgstr ""
 
 #: tformmain.ltakbirruku2a4f.caption
