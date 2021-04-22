@@ -67,7 +67,7 @@ msgstr ""
 
 #: tformabout.lcopyright.caption
 msgctxt "tformabout.lcopyright.caption"
-msgid "Copyright © 2015-2020 Umidjon Almasov"
+msgid "Copyright © 2015-2021 Umidjon Almasov"
 msgstr ""
 
 #: tformabout.ldedication.caption

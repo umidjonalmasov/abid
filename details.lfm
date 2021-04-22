@@ -1,5 +1,5 @@
 object FormDetails: TFormDetails
-  Left = 451
+  Left = 449
   Height = 537
   Top = 141
   Width = 915
@@ -12,7 +12,7 @@ object FormDetails: TFormDetails
   Position = poMainFormCenter
   SessionProperties = 'pcMain.Font'
   ShowInTaskBar = stNever
-  LCLVersion = '2.0.8.0'
+  LCLVersion = '2.0.12.0'
   object pBottom: TPanel
     Left = 0
     Height = 40
@@ -482,23 +482,23 @@ object FormDetails: TFormDetails
     TabOrder = 1
     object tsAzonBomdod: TTabSheet
       Caption = 'AzonBomdod'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbAzonBomdod: TScrollBox
         Left = 0
-        Height = 493
+        Height = 491
         Top = 0
-        Width = 905
+        Width = 909
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 260
+        VertScrollBar.Page = 230
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 907
         TabOrder = 0
         object lAzonBomdodAr: TLabel
           Left = 10
-          Height = 471
+          Height = 469
           Top = 10
           Width = 150
           Align = alLeft
@@ -510,7 +510,7 @@ object FormDetails: TFormDetails
         end
         object lAzonBomdodTr: TLabel
           Left = 429
-          Height = 471
+          Height = 469
           Top = 10
           Width = 296
           Align = alLeft
@@ -521,7 +521,7 @@ object FormDetails: TFormDetails
         end
         object lAzonBomdodPr: TLabel
           Left = 170
-          Height = 471
+          Height = 469
           Top = 10
           Width = 249
           Align = alLeft
@@ -534,8 +534,8 @@ object FormDetails: TFormDetails
     end
     object tsAzon: TTabSheet
       Caption = 'Azon'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbAzon: TScrollBox
         Left = 0
         Height = 493
@@ -543,10 +543,10 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 228
+        VertScrollBar.Page = 202
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lAzonAr: TLabel
           Left = 10
@@ -586,8 +586,8 @@ object FormDetails: TFormDetails
     end
     object tsAzonDuo: TTabSheet
       Caption = 'AzonDuo'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbAzonDuo: TScrollBox
         Left = 0
         Height = 493
@@ -595,10 +595,10 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 136
+        VertScrollBar.Page = 124
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lAzonDuoAr: TLabel
           Left = 10
@@ -638,8 +638,8 @@ object FormDetails: TFormDetails
     end
     object tsIqomat: TTabSheet
       Caption = 'Iqomat'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbIqomat: TScrollBox
         Left = 0
         Height = 493
@@ -647,10 +647,10 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 244
+        VertScrollBar.Page = 216
         Align = alClient
-        ClientHeight = 491
-        ClientWidth = 903
+        ClientHeight = 489
+        ClientWidth = 901
         TabOrder = 0
         object lIqomatAr: TLabel
           Left = 10
@@ -690,8 +690,8 @@ object FormDetails: TFormDetails
     end
     object tsTakbir: TTabSheet
       Caption = 'Takbir'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbTakbir: TScrollBox
         Left = 0
         Height = 493
@@ -699,7 +699,7 @@ object FormDetails: TFormDetails
         Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 782
@@ -744,8 +744,8 @@ object FormDetails: TFormDetails
     end
     object tsSano: TTabSheet
       Caption = 'Sano'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbSano: TScrollBox
         Left = 0
         Height = 493
@@ -753,7 +753,7 @@ object FormDetails: TFormDetails
         Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 782
@@ -798,8 +798,8 @@ object FormDetails: TFormDetails
     end
     object tsTaavvuz: TTabSheet
       Caption = 'Taavvuz'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbTaavvuz: TScrollBox
         Left = 0
         Height = 493
@@ -807,7 +807,7 @@ object FormDetails: TFormDetails
         Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 782
@@ -852,8 +852,8 @@ object FormDetails: TFormDetails
     end
     object tsBasmala: TTabSheet
       Caption = 'Basmala'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbBasmala: TScrollBox
         Left = 0
         Height = 493
@@ -861,7 +861,7 @@ object FormDetails: TFormDetails
         Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 782
@@ -906,8 +906,8 @@ object FormDetails: TFormDetails
     end
     object tsFotiha: TTabSheet
       Caption = 'Fotiha'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbFotiha: TScrollBox
         Left = 0
         Height = 493
@@ -915,7 +915,7 @@ object FormDetails: TFormDetails
         Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 148
+        VertScrollBar.Page = 132
         Align = alClient
         ClientHeight = 489
         ClientWidth = 782
@@ -958,8 +958,8 @@ object FormDetails: TFormDetails
     end
     object tsKavsar: TTabSheet
       Caption = 'Kavsar'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbKavsar: TScrollBox
         Left = 0
         Height = 493
@@ -967,7 +967,7 @@ object FormDetails: TFormDetails
         Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 84
+        VertScrollBar.Page = 76
         Align = alClient
         ClientHeight = 489
         ClientWidth = 782
@@ -1010,8 +1010,8 @@ object FormDetails: TFormDetails
     end
     object tsIxlos: TTabSheet
       Caption = 'Ixlos'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbIxlos: TScrollBox
         Left = 0
         Height = 493
@@ -1019,7 +1019,7 @@ object FormDetails: TFormDetails
         Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 100
+        VertScrollBar.Page = 90
         Align = alClient
         ClientHeight = 489
         ClientWidth = 782
@@ -1062,8 +1062,8 @@ object FormDetails: TFormDetails
     end
     object tsFalaq: TTabSheet
       Caption = 'Falaq'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbFalaq: TScrollBox
         Left = 0
         Height = 493
@@ -1071,7 +1071,7 @@ object FormDetails: TFormDetails
         Width = 786
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 116
+        VertScrollBar.Page = 104
         Align = alClient
         ClientHeight = 489
         ClientWidth = 782
@@ -1114,8 +1114,8 @@ object FormDetails: TFormDetails
     end
     object tsNas: TTabSheet
       Caption = 'Nas'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbNas: TScrollBox
         Left = 0
         Height = 493
@@ -1123,7 +1123,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 132
+        VertScrollBar.Page = 118
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1166,8 +1166,8 @@ object FormDetails: TFormDetails
     end
     object tsAziym: TTabSheet
       Caption = 'Aziym'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbAziym: TScrollBox
         Left = 0
         Height = 493
@@ -1175,7 +1175,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1220,8 +1220,8 @@ object FormDetails: TFormDetails
     end
     object tsTasme: TTabSheet
       Caption = 'Tasme'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbTasme: TScrollBox
         Left = 0
         Height = 493
@@ -1229,7 +1229,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1274,8 +1274,8 @@ object FormDetails: TFormDetails
     end
     object tsHamd: TTabSheet
       Caption = 'Hamd'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbHamd: TScrollBox
         Left = 0
         Height = 493
@@ -1283,7 +1283,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1328,8 +1328,8 @@ object FormDetails: TFormDetails
     end
     object tsAla: TTabSheet
       Caption = 'Ala'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbAla: TScrollBox
         Left = 0
         Height = 493
@@ -1337,7 +1337,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1382,8 +1382,8 @@ object FormDetails: TFormDetails
     end
     object tsTashahhud: TTabSheet
       Caption = 'Tashahhud'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbTashahhud: TScrollBox
         Left = 0
         Height = 493
@@ -1391,7 +1391,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 168
+        VertScrollBar.Page = 152
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1434,8 +1434,8 @@ object FormDetails: TFormDetails
     end
     object tsSalavot: TTabSheet
       Caption = 'Salavot'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbSalavot: TScrollBox
         Left = 0
         Height = 493
@@ -1443,7 +1443,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 184
+        VertScrollBar.Page = 166
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1486,8 +1486,8 @@ object FormDetails: TFormDetails
     end
     object tsRobbana: TTabSheet
       Caption = 'Robbana'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbRobbana: TScrollBox
         Left = 0
         Height = 493
@@ -1495,7 +1495,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1540,8 +1540,8 @@ object FormDetails: TFormDetails
     end
     object tsSalom: TTabSheet
       Caption = 'Salom'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbSalom: TScrollBox
         Left = 0
         Height = 493
@@ -1549,7 +1549,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1594,8 +1594,8 @@ object FormDetails: TFormDetails
     end
     object tsQunut: TTabSheet
       Caption = 'Qunut'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbQunut: TScrollBox
         Left = 0
         Height = 493
@@ -1603,7 +1603,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 376
+        VertScrollBar.Page = 334
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1646,8 +1646,8 @@ object FormDetails: TFormDetails
     end
     object tsDuoF: TTabSheet
       Caption = 'Duo Farz'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbDuoF: TScrollBox
         Left = 0
         Height = 493
@@ -1655,7 +1655,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1700,8 +1700,8 @@ object FormDetails: TFormDetails
     end
     object tsTasbehot: TTabSheet
       Caption = 'Tasbehot'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbTasbehot: TScrollBox
         Left = 0
         Height = 493
@@ -1709,7 +1709,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 270
+        VertScrollBar.Page = 260
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1889,8 +1889,8 @@ object FormDetails: TFormDetails
     end
     object tsKursi: TTabSheet
       Caption = 'Kursi'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbKursi: TScrollBox
         Left = 0
         Height = 493
@@ -1898,7 +1898,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 180
+        VertScrollBar.Page = 160
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1941,8 +1941,8 @@ object FormDetails: TFormDetails
     end
     object tsDuo: TTabSheet
       Caption = 'Duo'
-      ClientHeight = 493
-      ClientWidth = 905
+      ClientHeight = 491
+      ClientWidth = 909
       object sbDuo: TScrollBox
         Left = 0
         Height = 493
@@ -1950,7 +1950,7 @@ object FormDetails: TFormDetails
         Width = 905
         HorzScrollBar.Page = 1
         HorzScrollBar.Visible = False
-        VertScrollBar.Page = 104
+        VertScrollBar.Page = 96
         Align = alClient
         ClientHeight = 489
         ClientWidth = 901
@@ -1998,19 +1998,19 @@ object FormDetails: TFormDetails
     Enabled = False
     Interval = 0
     OnTimer = tPositionTimer
-    left = 728
-    top = 424
+    Left = 728
+    Top = 424
   end
   object IniPropStorage: TIniPropStorage
     StoredValues = <>
-    left = 384
-    top = 415
+    Left = 384
+    Top = 415
   end
   object tProgress: TTimer
     Enabled = False
     Interval = 1
     OnTimer = tProgressTimer
-    left = 625
-    top = 415
+    Left = 625
+    Top = 415
   end
 end

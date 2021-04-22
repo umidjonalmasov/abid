@@ -16,36 +16,36 @@ object FormSettings: TFormSettings
   Position = poMainFormCenter
   SessionProperties = 'rbContinue.Checked;rbStart.Checked;cbLanguage.ItemIndex'
   ShowInTaskBar = stNever
-  LCLVersion = '2.0.8.0'
+  LCLVersion = '2.0.12.0'
   object gbInterface: TGroupBox
     Left = 10
-    Height = 234
+    Height = 238
     Top = 10
     Width = 285
     Align = alClient
     AutoSize = True
     BorderSpacing.Around = 10
     Caption = 'Interface'
-    ClientHeight = 217
-    ClientWidth = 283
+    ClientHeight = 220
+    ClientWidth = 281
     TabOrder = 0
     object gbRun: TGroupBox
       Left = 10
-      Height = 83
+      Height = 80
       Top = 10
-      Width = 263
+      Width = 261
       Align = alTop
       AutoSize = True
       BorderSpacing.Around = 10
       Caption = 'When starting the program'
-      ClientHeight = 66
-      ClientWidth = 261
+      ClientHeight = 62
+      ClientWidth = 257
       TabOrder = 0
       object rbStart: TRadioButton
         Left = 10
-        Height = 23
+        Height = 21
         Top = 10
-        Width = 241
+        Width = 237
         Align = alTop
         BorderSpacing.Left = 10
         BorderSpacing.Top = 10
@@ -57,9 +57,9 @@ object FormSettings: TFormSettings
       end
       object rbContinue: TRadioButton
         Left = 10
-        Height = 23
-        Top = 33
-        Width = 241
+        Height = 21
+        Top = 31
+        Width = 237
         Align = alTop
         BorderSpacing.Left = 10
         BorderSpacing.Right = 10
@@ -70,21 +70,21 @@ object FormSettings: TFormSettings
     end
     object gbLanguage: TGroupBox
       Left = 10
-      Height = 63
-      Top = 103
-      Width = 263
+      Height = 62
+      Top = 100
+      Width = 261
       Align = alTop
       AutoSize = True
       BorderSpacing.Around = 10
       Caption = 'Language'
-      ClientHeight = 46
-      ClientWidth = 261
+      ClientHeight = 44
+      ClientWidth = 257
       TabOrder = 1
       object cbLanguage: TComboBox
         Left = 10
-        Height = 26
+        Height = 24
         Top = 10
-        Width = 241
+        Width = 237
         Align = alTop
         BorderSpacing.Around = 10
         ItemHeight = 0
@@ -103,8 +103,8 @@ object FormSettings: TFormSettings
     object sbFont: TSpeedButton
       Left = 10
       Height = 22
-      Top = 176
-      Width = 263
+      Top = 172
+      Width = 261
       Align = alTop
       BorderSpacing.Around = 10
       Caption = 'Change font'
@@ -113,22 +113,19 @@ object FormSettings: TFormSettings
   end
   object ButtonPanel: TButtonPanel
     Left = 6
-    Height = 30
-    Top = 254
+    Height = 26
+    Top = 258
     Width = 293
     OKButton.Name = 'OKButton'
     OKButton.Caption = 'OK'
-    OKButton.DefaultCaption = False
     OKButton.OnClick = OKButtonClick
     HelpButton.Name = 'HelpButton'
     HelpButton.Caption = 'Default'
-    HelpButton.DefaultCaption = False
     HelpButton.OnClick = HelpButtonClick
     CloseButton.Name = 'CloseButton'
     CloseButton.DefaultCaption = True
     CancelButton.Name = 'CancelButton'
     CancelButton.Caption = 'Cancel'
-    CancelButton.DefaultCaption = False
     CancelButton.OnClick = CancelButtonClick
     TabOrder = 1
     ShowButtons = [pbOK, pbCancel, pbHelp]
@@ -138,12 +135,12 @@ object FormSettings: TFormSettings
     Title = 'Select a font'
     MinFontSize = 0
     MaxFontSize = 0
-    left = 24
-    top = 192
+    Left = 24
+    Top = 192
   end
   object IniPropStorage: TIniPropStorage
     StoredValues = <>
-    left = 216
-    top = 192
+    Left = 216
+    Top = 192
   end
 end

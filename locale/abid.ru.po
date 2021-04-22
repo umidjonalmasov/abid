@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ru\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.3\n"
 
 #: abid.apptitle
 msgctxt "abid.apptitle"
@@ -65,8 +65,8 @@ msgid "Bismillahir rohmanir rohiym"
 msgstr "Бисмилляхир рахманир рахим"
 
 #: tformabout.lcopyright.caption
-msgid "Copyright © 2015-2020 Umidjon Almasov"
-msgstr "Авторское право © 2015-2020 Умиджон Алмасов"
+msgid "Copyright © 2015-2021 Umidjon Almasov"
+msgstr "Авторское право © 2015-2021 Умиджон Алмасов"
 
 #: tformabout.ldedication.caption
 msgid ""
